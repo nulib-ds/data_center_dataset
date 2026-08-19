@@ -1,0 +1,520 @@
+{
+  "created": "2026-08-19",
+  "description": "Registry of commercial (colocation, wholesale, hyperscale) data centers in California, assembled from OpenStreetMap, PeeringDB, the EPA National Emissions Inventory and California Energy Commission GIS. Power figures are ESTIMATES carrying an explicit evidence tier and confidence interval; none is a metered consumption reading. See LIMITATIONS.md before use.",
+  "licenses": [
+    {
+      "name": "ODbL-1.0",
+      "path": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "title": "Open Database License 1.0"
+    }
+  ],
+  "name": "california-data-center-dataset",
+  "profile": "tabular-data-package",
+  "reconciliation": {
+    "bottom_up_annual_twh": 13.27,
+    "bottom_up_it_load_mw": 1473.3,
+    "calibration_applied": false,
+    "implied_calibration_factor": 1.357,
+    "n_facilities_with_power": 118,
+    "top_down_anchor_twh": 18.0,
+    "top_down_range_twh": [
+      12.0,
+      26.0
+    ],
+    "within_anchor_range": true
+  },
+  "resources": [
+    {
+      "description": "One row per resolved commercial data center site in California.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "facilities",
+      "path": "facilities.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "Stable slug + hash identifier for the resolved site.",
+            "name": "facility_id",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "operator",
+            "type": "string"
+          },
+          {
+            "description": "colocation | wholesale | hyperscale | unknown.",
+            "name": "facility_class",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "lat",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "lon",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "address",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "city",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "postcode",
+            "type": "string"
+          },
+          {
+            "description": "Most specific retail electric utility whose CEC territory contains the site.",
+            "name": "utility",
+            "type": "string"
+          },
+          {
+            "description": "All overlapping CEC territories, including non-retail overlays. Shows attribution ambiguity.",
+            "name": "utility_candidates",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "year_built",
+            "type": "number"
+          },
+          {
+            "description": "Storeys recorded in OSM, uncapped.",
+            "name": "building_levels_reported",
+            "type": "number"
+          },
+          {
+            "description": "Storeys credited by the Tier C model, capped at 3.",
+            "name": "building_levels_used",
+            "type": "number"
+          },
+          {
+            "description": "True where the building exceeds the storey cap, so the facility is one tenant of a larger tower and the footprint overstates its share.",
+            "name": "partial_occupancy",
+            "type": "number"
+          },
+          {
+            "description": "Building footprint from OSM polygon, EPSG:3310. Null if only a point is known.",
+            "name": "footprint_sqft",
+            "type": "number"
+          },
+          {
+            "description": "footprint_sqft x credited storeys (capped at 3). Modelled, not surveyed.",
+            "name": "est_gross_sqft",
+            "type": "number"
+          },
+          {
+            "description": "Modelled raised-floor area. Tier C input, not a measurement.",
+            "name": "est_white_space_sqft",
+            "type": "number"
+          },
+          {
+            "description": "Preferred IT-load estimate in MW, selected by tier precedence. NOT metered consumption.",
+            "name": "best_power_mw",
+            "type": "number"
+          },
+          {
+            "description": "Lower bound of the estimate interval.",
+            "name": "power_ci_low_mw",
+            "type": "number"
+          },
+          {
+            "description": "Upper bound of the estimate interval.",
+            "name": "power_ci_high_mw",
+            "type": "number"
+          },
+          {
+            "description": "Evidence quality: A_attested (cited) > B_generator (permit proxy) > C_area (model).",
+            "name": "power_tier",
+            "type": "string"
+          },
+          {
+            "description": "How many independent methods produced an estimate for this site.",
+            "name": "n_power_methods",
+            "type": "number"
+          },
+          {
+            "description": "Modelled annual electricity use, = IT load x PUE x utilization x 8760.",
+            "name": "est_annual_gwh",
+            "type": "number"
+          },
+          {
+            "description": "Networks present, from PeeringDB. Interconnection density.",
+            "name": "pdb_net_count",
+            "type": "number"
+          },
+          {
+            "description": "Internet exchanges present, from PeeringDB.",
+            "name": "pdb_ix_count",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "pdb_carrier_count",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "clli",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "website",
+            "type": "string"
+          },
+          {
+            "description": "Comma-separated source keys contributing to this record.",
+            "name": "source_list",
+            "type": "string"
+          },
+          {
+            "description": "Number of independent sources contributing to this record.",
+            "name": "n_sources",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "description": "Every power estimate from every method. Not collapsed; join on facility_id.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "power_estimates",
+      "path": "power_estimates.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "Stable slug + hash identifier for the resolved site.",
+            "name": "facility_id",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "method",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "basis",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "it_load_mw",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "ci_low_mw",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "ci_high_mw",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "annual_gwh",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "pue_used",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "n_generator_units",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "generator_nameplate_mw",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "source_url",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "assumptions_json",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "annual_gwh_low",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "annual_gwh_high",
+            "type": "number"
+          },
+          {
+            "description": "Modelled raised-floor area. Tier C input, not a measurement.",
+            "name": "est_white_space_sqft",
+            "type": "number"
+          },
+          {
+            "description": "True where the building exceeds the storey cap, so the facility is one tenant of a larger tower and the footprint overstates its share.",
+            "name": "partial_occupancy",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "description": "Crosswalk from facility_id to contributing source records.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "facility_sources",
+      "path": "facility_sources.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "Stable slug + hash identifier for the resolved site.",
+            "name": "facility_id",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "source",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "source_id",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "source_url",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "source_name",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "description": "Records filtered out of scope, annotated with the rule responsible.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "exclusions",
+      "path": "exclusions.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "name": "source",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "source_id",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "source_url",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "operator_raw",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "lat",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "lon",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "address",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "city",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "state",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "postcode",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "status_raw",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "year_built",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "building_levels",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "footprint_sqm",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "geometry_wkt",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "clli",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "website",
+            "type": "string"
+          },
+          {
+            "description": "Networks present, from PeeringDB. Interconnection density.",
+            "name": "pdb_net_count",
+            "type": "number"
+          },
+          {
+            "description": "Internet exchanges present, from PeeringDB.",
+            "name": "pdb_ix_count",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "pdb_carrier_count",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "campus_raw",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "raw_json",
+            "type": "string"
+          },
+          {
+            "description": "Building footprint from OSM polygon, EPSG:3310. Null if only a point is known.",
+            "name": "footprint_sqft",
+            "type": "string"
+          },
+          {
+            "description": "colocation | wholesale | hyperscale | unknown.",
+            "name": "facility_class",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "exclusion_rule",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "operator",
+            "type": "string"
+          },
+          {
+            "description": "Stable slug + hash identifier for the resolved site.",
+            "name": "facility_id",
+            "type": "string"
+          },
+          {
+            "description": "Comma-separated source keys contributing to this record.",
+            "name": "source_list",
+            "type": "string"
+          },
+          {
+            "description": "Number of independent sources contributing to this record.",
+            "name": "n_sources",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "n_generator_units",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "sources": [
+    {
+      "license": "ODbL-1.0",
+      "path": "https://www.openstreetmap.org/copyright",
+      "role": "Location, building footprint, operator, construction year",
+      "title": "OpenStreetMap (Overpass API)"
+    },
+    {
+      "license": "CC-BY-4.0",
+      "path": "https://www.peeringdb.com/",
+      "role": "Colocation facility registry, interconnection counts",
+      "title": "PeeringDB"
+    },
+    {
+      "license": "US-PD",
+      "path": "https://www.epa.gov/air-emissions-inventories",
+      "role": "Facility recall and backup-generator inventory (Tier B)",
+      "title": "EPA National Emissions Inventory 2020"
+    },
+    {
+      "license": "US-PD",
+      "path": "https://cecgis-caenergy.opendata.arcgis.com/",
+      "role": "Electric utility service territories",
+      "title": "California Energy Commission GIS"
+    },
+    {
+      "license": "US-PD",
+      "path": "https://ceqanet.opr.ca.gov/",
+      "role": "Attested project megawatt figures (opt-in, low recall)",
+      "title": "CEQAnet"
+    }
+  ],
+  "title": "California Data Centers with Tiered Power Estimates"
+}

@@ -1,0 +1,16 @@
+# Curated Tier A (attested) power figures.
+#
+# This file is intentionally empty of values. Rows here are treated as the
+# highest-precedence evidence in the dataset, so each one MUST be backed by a
+# citation that a reader can independently check. Do not add a row unless you
+# have opened the source and copied the figure verbatim.
+#
+# Columns
+#   match_name      Substring matched case-insensitively against facility name.
+#   match_operator  Optional operator constraint (canonical form).
+#   basis           One of: it_load | critical_load | total_facility
+#   value_mw        The figure as stated in the source.
+#   source_url      Direct link to the document or page.
+#   retrieved_at    ISO date on which you read it.
+#   quote           Verbatim sentence containing the figure.
+match_name,match_operator,basis,value_mw,source_url,retrieved_at,quote

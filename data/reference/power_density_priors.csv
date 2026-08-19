@@ -1,0 +1,25 @@
+# Power density priors used by the Tier C (floor-area) estimator.
+#
+# w_per_sqft_* are watts of IT load per square foot of WHITE SPACE (not gross
+# building area). Gross area is converted to white space using
+# config.WHITE_SPACE_FRACTION before these are applied.
+#
+# pue_* are Power Usage Effectiveness ranges: total facility power divided by
+# IT power. California's mild coastal climate and aggressive Title 24 code
+# support lower values than the US average, especially for post-2015 builds.
+#
+# facility_class values are produced by normalize.classify.
+# vintage_min/vintage_max are inclusive construction-year bounds.
+facility_class,vintage_min,vintage_max,w_per_sqft_low,w_per_sqft_mid,w_per_sqft_high,pue_low,pue_mid,pue_high
+colocation,1900,1999,60,100,150,1.60,1.85,2.20
+colocation,2000,2009,90,140,200,1.50,1.70,2.00
+colocation,2010,2015,120,190,270,1.35,1.50,1.75
+colocation,2016,2100,150,240,340,1.20,1.35,1.55
+wholesale,1900,2009,100,150,220,1.50,1.70,2.00
+wholesale,2010,2015,140,210,300,1.32,1.45,1.65
+wholesale,2016,2100,180,270,380,1.18,1.30,1.48
+hyperscale,1900,2015,150,240,340,1.25,1.40,1.60
+hyperscale,2016,2100,220,340,480,1.10,1.22,1.40
+telecom,1900,2100,40,70,110,1.70,2.00,2.40
+unknown,1900,2009,80,130,200,1.50,1.72,2.05
+unknown,2010,2100,120,190,280,1.28,1.45,1.68

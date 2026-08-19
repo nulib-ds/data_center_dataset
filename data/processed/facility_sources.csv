@@ -1,0 +1,294 @@
+facility_id,source,source_id,source_url,source_name
+stack-infrastructure-95e336,osm,node/8238715059,https://www.openstreetmap.org/node/8238715059,STACK Infrastructure
+stack-infrastructure-95e336,osm,node/8238715061,https://www.openstreetmap.org/node/8238715061,STACK Infrastructure
+stack-infrastructure-95e336,osm,way/553223628,https://www.openstreetmap.org/way/553223628,Stack Infrastructure
+stack-infrastructure-95e336,osm,way/553223629,https://www.openstreetmap.org/way/553223629,Stack Infrastructure
+digital-west-data-center-a9b15a,osm,node/8477460442,https://www.openstreetmap.org/node/8477460442,Digital West Data Center
+coresite-san-jose-sv1-16db38,osm,node/8897151054,https://www.openstreetmap.org/node/8897151054,San Jose Colocation Center
+coresite-san-jose-sv1-16db38,peeringdb,20,https://www.peeringdb.com/fac/20,CoreSite - San Jose (SV1)
+coresite-san-jose-sv1-16db38,epa_nei,15968711,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15968711,CORESITE
+ntirety-44a0d9,osm,node/10780794741,https://www.openstreetmap.org/node/10780794741,Ntirety
+e360-06b845,osm,node/10880725408,https://www.openstreetmap.org/node/10880725408,e360
+it-eaba34,osm,node/11924506303,https://www.openstreetmap.org/node/11924506303,IT
+prime-santa-clara-7f7c61,osm,node/12437277166,https://www.openstreetmap.org/node/12437277166,Prime Santa Clara
+forescout-technologies-inc-9088d3,osm,node/12550746951,https://www.openstreetmap.org/node/12550746951,"Forescout Technologies, Inc."
+coresite-los-angeles-la2-cbc8f1,osm,node/13042311881,https://www.openstreetmap.org/node/13042311881,CoreSite - LA2
+coresite-los-angeles-la2-cbc8f1,peeringdb,363,https://www.peeringdb.com/fac/363,CoreSite - Los Angeles (LA2)
+petadata-2ae21a,osm,node/14081154610,https://www.openstreetmap.org/node/14081154610,Petadata
+lightedge-san-diego-1-san1-443e9e,osm,way/31800424,https://www.openstreetmap.org/way/31800424,LightEdge SAN1
+lightedge-san-diego-1-san1-443e9e,peeringdb,799,https://www.peeringdb.com/fac/799,LightEdge San Diego 1 (SAN1)
+edgeconnex-san-diego-edcsdg01-a2b1c3,osm,way/31803515,https://www.openstreetmap.org/way/31803515,EdgeConneX San Diego
+edgeconnex-san-diego-edcsdg01-a2b1c3,peeringdb,1928,https://www.peeringdb.com/fac/1928,EdgeConneX San Diego (EDCSDG01)
+ragingwire-ca2-ntt-cfea56,osm,way/32560290,https://www.openstreetmap.org/way/32560290,RagingWire CA2
+ragingwire-ca2-ntt-cfea56,peeringdb,1111,https://www.peeringdb.com/fac/1111,RagingWire CA2 - NTT
+ragingwire-ca1-ntt-d9aa42,osm,way/32560292,https://www.openstreetmap.org/way/32560292,RagingWire CA1
+ragingwire-ca1-ntt-d9aa42,peeringdb,1110,https://www.peeringdb.com/fac/1110,RagingWire CA1 - NTT
+equinix-sv1-sv5-sv10-silicon-valley-san-jose-645d8a,osm,way/35491576,https://www.openstreetmap.org/way/35491576,Equinix SV1
+equinix-sv1-sv5-sv10-silicon-valley-san-jose-645d8a,peeringdb,6,https://www.peeringdb.com/fac/6,"Equinix SV1/SV5/SV10 - Silicon Valley, San Jose"
+equinix-sv1-sv5-sv10-silicon-valley-san-jose-645d8a,epa_nei,13834011,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=13834011,EQUINIX LLC
+opencolo-462b97,osm,way/37947313,https://www.openstreetmap.org/way/37947313,OpenColo
+opencolo-462b97,peeringdb,10674,https://www.peeringdb.com/fac/10674,OpenColo
+equinix-sv2-silicon-valley-santa-clara-46cae5,osm,way/37947314,https://www.openstreetmap.org/way/37947314,Equinix Santa Clara SV2
+equinix-sv2-silicon-valley-santa-clara-46cae5,peeringdb,437,https://www.peeringdb.com/fac/437,"Equinix SV2 - Silicon Valley, Santa Clara"
+equinix-sv2-silicon-valley-santa-clara-46cae5,epa_nei,9990911,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=9990911,EQUINIX LLC
+layer42-santa-clara-accd81,osm,way/37947315,https://www.openstreetmap.org/way/37947315,Layer42 Santa Clara
+digital-realty-sjc-2820-nw-pkwy-d8d87b,osm,way/38305431,https://www.openstreetmap.org/way/38305431,Digital Realty Silicon Valley SJC34
+digital-realty-sjc-2820-nw-pkwy-d8d87b,peeringdb,469,https://www.peeringdb.com/fac/469,Digital Realty SJC (2820 NW Pkwy)
+centersquare-silicon-valley-sfo1-15b92e,osm,way/38305568,https://www.openstreetmap.org/way/38305568,Csquare SFO1
+centersquare-silicon-valley-sfo1-15b92e,peeringdb,2643,https://www.peeringdb.com/fac/2643,Centersquare Silicon Valley (SFO1)
+vantage-data-centers-santa-clara-38fc1d,osm,way/38305611,https://www.openstreetmap.org/way/38305611,Vantage
+vantage-data-centers-santa-clara-38fc1d,osm,way/460159955,https://www.openstreetmap.org/way/460159955,Vantage
+vantage-data-centers-santa-clara-38fc1d,peeringdb,1102,https://www.peeringdb.com/fac/1102,Vantage Data Centers (Santa Clara)
+vantage-data-centers-santa-clara-38fc1d,epa_nei,16012811,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=16012811,"VANTAGE DATA CENTERS MANAGEMENT CO , LLC"
+cologix-sv1-e30f9a,osm,way/40608200,https://www.openstreetmap.org/way/40608200,Cologix Santa Clara SV1 Data Center
+cologix-sv1-e30f9a,peeringdb,11633,https://www.peeringdb.com/fac/11633,Cologix SV1
+csquare-sfo2-520ea6,osm,way/54119665,https://www.openstreetmap.org/way/54119665,Csquare SFO2
+centersquare-silicon-valley-sfo2-6e3231,osm,way/54119667,https://www.openstreetmap.org/way/54119667,Csquare SFO2
+centersquare-silicon-valley-sfo2-6e3231,peeringdb,2645,https://www.peeringdb.com/fac/2645,Centersquare Silicon Valley (SFO2)
+qts-santa-clara-1-2b7f00,osm,way/54121151,https://www.openstreetmap.org/way/54121151,QTS Santa Clara 1
+qts-santa-clara-1-2b7f00,osm,way/58708529,https://www.openstreetmap.org/way/58708529,QTS Santa Clara 2
+coresite-santa-clara-sv3-ca6c12,osm,way/54173383,https://www.openstreetmap.org/way/54173383,CoreSite SV3
+coresite-santa-clara-sv3-ca6c12,peeringdb,2762,https://www.peeringdb.com/fac/2762,CoreSite - Santa Clara (SV3)
+coresite-santa-clara-sv3-ca6c12,epa_nei,15709911,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15709911,CORESITE REAL ESTATE
+coresite-sv6-583ee0,osm,way/54173753,https://www.openstreetmap.org/way/54173753,CoreSite SV6
+coresite-santa-clara-sv8-a64bb0,osm,way/54173755,https://www.openstreetmap.org/way/54173755,CoreSite SV8
+coresite-santa-clara-sv8-a64bb0,peeringdb,8867,https://www.peeringdb.com/fac/8867,CoreSite - Santa Clara (SV8)
+coresite-sv5-8f88a5,osm,way/54383196,https://www.openstreetmap.org/way/54383196,CoreSite SV5
+coresite-santa-clara-sv9-48fc54,osm,way/54383197,https://www.openstreetmap.org/way/54383197,CoreSite SV9
+coresite-santa-clara-sv9-48fc54,peeringdb,15079,https://www.peeringdb.com/fac/15079,CoreSite - Santa Clara (SV9)
+equinix-sv4-silicon-valley-sunnyvale-2f8bbf,osm,way/99813512,https://www.openstreetmap.org/way/99813512,Equinix SV4
+equinix-sv4-silicon-valley-sunnyvale-2f8bbf,peeringdb,574,https://www.peeringdb.com/fac/574,"Equinix SV4 - Silicon Valley, Sunnyvale"
+equinix-sv4-silicon-valley-sunnyvale-2f8bbf,epa_nei,13771511,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=13771511,EQUINIX LLC
+equinix-sv8-silicon-valley-palo-alto-895455,osm,way/132746406,https://www.openstreetmap.org/way/132746406,Equinix SV8
+equinix-sv8-silicon-valley-palo-alto-895455,peeringdb,5,https://www.peeringdb.com/fac/5,"Equinix SV8 - Silicon Valley, Palo Alto"
+equinix-sv5-c172a1,osm,way/161126131,https://www.openstreetmap.org/way/161126131,Equinix SV5
+ragingwire-ca3-ntt-027a48,osm,way/190868312,https://www.openstreetmap.org/way/190868312,RagingWire CA3
+ragingwire-ca3-ntt-027a48,peeringdb,6553,https://www.peeringdb.com/fac/6553,RagingWire CA3 - NTT
+360-spear-961d6b,osm,way/192307107,https://www.openstreetmap.org/way/192307107,360 Spear Street Data Center
+360-spear-961d6b,peeringdb,476,https://www.peeringdb.com/fac/476,360 Spear
+qts-sacramento-sac1-fcf61f,osm,way/194049551,https://www.openstreetmap.org/way/194049551,QTS Sacramento
+qts-sacramento-sac1-fcf61f,peeringdb,3359,https://www.peeringdb.com/fac/3359,QTS Sacramento (SAC1)
+equinix-sv15-34f355,osm,way/205823968,https://www.openstreetmap.org/way/205823968,Equinix SV15
+equinix-sv16-4fee5c,osm,way/205823970,https://www.openstreetmap.org/way/205823970,Equinix SV16
+equinix-sv17-3b6e78,osm,way/205823971,https://www.openstreetmap.org/way/205823971,Equinix SV17
+equinix-sv14-58daf0,osm,way/205823980,https://www.openstreetmap.org/way/205823980,Equinix SV14
+coresite-santa-clara-sv4-811c68,osm,way/205846843,https://www.openstreetmap.org/way/205846843,CoreSite SV4
+coresite-santa-clara-sv4-811c68,peeringdb,1619,https://www.peeringdb.com/fac/1619,CoreSite - Santa Clara (SV4)
+prime-santa-clara-0031f4,osm,way/209073636,https://www.openstreetmap.org/way/209073636,Prime Santa Clara
+digital-realty-sjc-1100-space-park-ae8df5,osm,way/209073641,https://www.openstreetmap.org/way/209073641,Digital Realty Silicon Valley SJC10
+digital-realty-sjc-1100-space-park-ae8df5,peeringdb,3131,https://www.peeringdb.com/fac/3131,Digital Realty SJC (1100 Space Park)
+colovore-70dcec,osm,way/209073645,https://www.openstreetmap.org/way/209073645,Colovore
+digital-realty-sjc-3105-alfred-st-2cbcfe,osm,way/209073647,https://www.openstreetmap.org/way/209073647,Digital Realty Silicon Valley SJC30
+digital-realty-sjc-3105-alfred-st-2cbcfe,peeringdb,4676,https://www.peeringdb.com/fac/4676,Digital Realty SJC (3105 Alfred St)
+digital-realty-sjc-3105-alfred-st-2cbcfe,epa_nei,15974611,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15974611,"DIGITAL ALFRED, LLC"
+digital-realty-sjc-1201-comstock-st-2d0b5d,osm,way/209073649,https://www.openstreetmap.org/way/209073649,Digital Realty Silicon Valley SJC15
+digital-realty-sjc-1201-comstock-st-2d0b5d,peeringdb,4682,https://www.peeringdb.com/fac/4682,Digital Realty SJC (1201 Comstock St)
+digital-realty-sjc-1525-comstock-st-4e8c03,osm,way/209073653,https://www.openstreetmap.org/way/209073653,Digital Realty Silicon Valley SJC16
+digital-realty-sjc-1525-comstock-st-4e8c03,peeringdb,4680,https://www.peeringdb.com/fac/4680,Digital Realty SJC (1525 Comstock St)
+digital-realty-sjc-1525-comstock-st-4e8c03,epa_nei,15974311,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15974311,1525 COMSTOCK C/O DIGITAL REALTY TRUST
+digital-realty-sjc-1725-comstock-st-558a97,osm,way/209073657,https://www.openstreetmap.org/way/209073657,Digital Realty Silicon Valley SJC29
+digital-realty-sjc-1725-comstock-st-558a97,peeringdb,4679,https://www.peeringdb.com/fac/4679,Digital Realty SJC (1725 Comstock St)
+digital-realty-sjc-1725-comstock-st-558a97,epa_nei,15974811,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15974811,DIGITAL REALTY TRUST
+centersquare-silicon-valley-sfo4-a-ecad88,osm,way/209073658,https://www.openstreetmap.org/way/209073658,Csquare SFO4
+centersquare-silicon-valley-sfo4-a-ecad88,peeringdb,7836,https://www.peeringdb.com/fac/7836,Centersquare Silicon Valley (SFO4-A)
+prime-santa-clara-data-center-adb9b8,osm,way/209073659,https://www.openstreetmap.org/way/209073659,Prime SANTA CLARA DATA CENTER
+digital-realty-sjc-3011-lafayette-st-6909de,osm,way/209076412,https://www.openstreetmap.org/way/209076412,Digital Realty Silicon Valley SJC11
+digital-realty-sjc-3011-lafayette-st-6909de,peeringdb,4678,https://www.peeringdb.com/fac/4678,Digital Realty SJC (3011 Lafayette St)
+digital-realty-sjc-2805-lafayette-e18de5,osm,way/209087373,https://www.openstreetmap.org/way/209087373,Silicon Valley SJC31
+digital-realty-sjc-2805-lafayette-e18de5,peeringdb,2542,https://www.peeringdb.com/fac/2542,Digital Realty SJC (2805 Lafayette)
+unnamed-data-center-5d9199,osm,way/209105766,https://www.openstreetmap.org/way/209105766,
+evocative-sjc11-afc016,osm,way/209117217,https://www.openstreetmap.org/way/209117217,Evocative Santa Clara SJC11
+evocative-sjc11-afc016,peeringdb,1842,https://www.peeringdb.com/fac/1842,Evocative SJC11
+dell-350-holger-way-481d56,osm,way/224139416,https://www.openstreetmap.org/way/224139416,Dell 350 Holger Way
+sv-colo-9b7cc1,osm,way/224174031,https://www.openstreetmap.org/way/224174031,SV Colo
+microsoft-5ac0d5,osm,way/224998784,https://www.openstreetmap.org/way/224998784,Microsoft
+centersquare-silicon-valley-sfo3-7eff0b,osm,way/271893323,https://www.openstreetmap.org/way/271893323,Csquare SFO3
+centersquare-silicon-valley-sfo3-7eff0b,peeringdb,2653,https://www.peeringdb.com/fac/2653,Centersquare Silicon Valley (SFO3)
+digital-realty-sfo-200-paul-eb654d,osm,way/289620443,https://www.openstreetmap.org/way/289620443,Digital Realty San Francisco SFO10
+digital-realty-sfo-200-paul-eb654d,peeringdb,2,https://www.peeringdb.com/fac/2,Digital Realty SFO (200 Paul)
+digital-realty-sfo-200-paul-eb654d,epa_nei,13976611,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=13976611,"200 PAUL AVENUE LLC, C/O DIGITAL REALTY TRUST"
+coresite-milpitas-sv2-ea7670,osm,way/299388896,https://www.openstreetmap.org/way/299388896,CoreSite SV2
+coresite-milpitas-sv2-ea7670,peeringdb,671,https://www.peeringdb.com/fac/671,Coresite - Milpitas (SV2)
+coresite-milpitas-sv2-ea7670,epa_nei,13771311,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=13771311,CORESITE
+digital-realty-sjc-2220-de-la-cruz-blvd-e3e377,osm,way/358455179,https://www.openstreetmap.org/way/358455179,Digital Realty Silicon Valley SC1
+digital-realty-sjc-2220-de-la-cruz-blvd-e3e377,peeringdb,1101,https://www.peeringdb.com/fac/1101,Digital Realty SJC (2220 De La Cruz Blvd)
+qes-computers-9f42e3,osm,way/358946546,https://www.openstreetmap.org/way/358946546,QES Computers
+hurricane-electric-fremont-1-c1ceae,osm,way/383728972,https://www.openstreetmap.org/way/383728972,Hurricane Electric Fremont 1
+hurricane-electric-fremont-1-c1ceae,peeringdb,702,https://www.peeringdb.com/fac/702,Hurricane Electric Fremont 1
+xo-fremont-1b8ecb,osm,way/384310259,https://www.openstreetmap.org/way/384310259,XO Fremont
+hurricane-electric-fremont-2-a085c4,osm,way/384310269,https://www.openstreetmap.org/way/384310269,Hurricane Electric Fremont 2
+hurricane-electric-fremont-2-a085c4,peeringdb,547,https://www.peeringdb.com/fac/547,Hurricane Electric Fremont 2
+equinix-sv6-silicon-valley-sunnyvale-300fba,osm,way/390287635,https://www.openstreetmap.org/way/390287635,Equinix SV6
+equinix-sv6-silicon-valley-sunnyvale-300fba,peeringdb,510,https://www.peeringdb.com/fac/510,"Equinix SV6 - Silicon Valley, Sunnyvale"
+equinix-sv6-silicon-valley-sunnyvale-300fba,epa_nei,16017711,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=16017711,EQUINIX LLC
+equinix-la7-los-angeles-9de8e8,osm,way/409027020,https://www.openstreetmap.org/way/409027020,Equinix
+equinix-la7-los-angeles-9de8e8,peeringdb,9406,https://www.peeringdb.com/fac/9406,Equinix LA7 - Los Angeles
+serverfarm-lax1-los-angeles-428cbe,osm,way/424945845,https://www.openstreetmap.org/way/424945845,Serverfarm - LAX1
+serverfarm-lax1-los-angeles-428cbe,peeringdb,4952,https://www.peeringdb.com/fac/4952,Serverfarm LAX1 Los Angeles
+digital-realty-lax-2260-e-el-segundo-2a4c1e,osm,way/424945852,https://www.openstreetmap.org/way/424945852,DRT LAX12
+digital-realty-lax-2260-e-el-segundo-2a4c1e,peeringdb,2547,https://www.peeringdb.com/fac/2547,Digital Realty LAX (2260 E El Segundo)
+drt-lax10-7d94e0,osm,way/428021796,https://www.openstreetmap.org/way/428021796,DRT LAX10
+multacom-one-wilshire-e9be70,osm,way/428021816,https://www.openstreetmap.org/way/428021816,One Wilshire
+multacom-one-wilshire-e9be70,peeringdb,2782,https://www.peeringdb.com/fac/2782,Multacom One Wilshire
+unnamed-data-center-a16537,osm,way/451413811,https://www.openstreetmap.org/way/451413811,
+equinix-sv3-silicon-valley-san-jose-2a8623,osm,way/460076753,https://www.openstreetmap.org/way/460076753,Equinix San Jose SV3
+equinix-sv3-silicon-valley-san-jose-2a8623,peeringdb,436,https://www.peeringdb.com/fac/436,"Equinix SV3 - Silicon Valley, San Jose"
+equinix-sv3-silicon-valley-san-jose-2a8623,epa_nei,15931011,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15931011,EQUINIX LLC
+digital-realty-sfo-365-main-bf6cb5,osm,way/460085343,https://www.openstreetmap.org/way/460085343,365 Main Street Data Center
+digital-realty-sfo-365-main-bf6cb5,peeringdb,23,https://www.peeringdb.com/fac/23,Digital Realty SFO (365 Main)
+digital-realty-sfo-365-main-bf6cb5,epa_nei,16066311,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=16066311,"DIGITAL 365, LLC"
+ntt-limited-b75b73,osm,way/460159925,https://www.openstreetmap.org/way/460159925,NTT Limited
+ntt-limited-b75b73,epa_nei,3329911,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=3329911,NTT GLOBAL DATA CENTERS AMERICAS INC.
+csquare-sfo1-54cdc3,osm,way/460159928,https://www.openstreetmap.org/way/460159928,Csquare SFO1
+tpx-colocation-datacenter-180bda,osm,way/492699069,https://www.openstreetmap.org/way/492699069,TPx Colocation Datacenter
+unnamed-data-center-eada51,osm,way/495115494,https://www.openstreetmap.org/way/495115494,
+equinix-sv10-cc41a7,osm,way/600806974,https://www.openstreetmap.org/way/600806974,Equinix SV10
+unnamed-data-center-e2576c,osm,way/765230023,https://www.openstreetmap.org/way/765230023,
+pg-e-datacenter-7315e7,osm,way/780063735,https://www.openstreetmap.org/way/780063735,PG&E Datacenter
+ntt-silicon-valley-sv1-data-center-7bde99,osm,way/888253616,https://www.openstreetmap.org/way/888253616,NTT Silicon Valley SV1 Data Center
+unnamed-data-center-bd5193,osm,way/930540164,https://www.openstreetmap.org/way/930540164,
+edgeconnex-sacramento-edcsac01-be6584,osm,way/933393863,https://www.openstreetmap.org/way/933393863,Edgeconnex Data Center
+edgeconnex-sacramento-edcsac01-be6584,peeringdb,1926,https://www.peeringdb.com/fac/1926,EdgeConneX Sacramento (EDCSAC01)
+northwest-data-center-and-communications-hub-e0b1a6,osm,way/978632013,https://www.openstreetmap.org/way/978632013,Northwest Data Center and Communications Hub
+amazon-ff1641,osm,way/1065780801,https://www.openstreetmap.org/way/1065780801,Amazon
+unnamed-data-center-9036f8,osm,way/1075445245,https://www.openstreetmap.org/way/1075445245,
+coresite-santa-clara-sv7-fd2a09,osm,way/1160688107,https://www.openstreetmap.org/way/1160688107,CoreSite SV7
+coresite-santa-clara-sv7-fd2a09,peeringdb,3344,https://www.peeringdb.com/fac/3344,CoreSite - Santa Clara (SV7)
+equinix-sv11-dc3435,osm,way/1227604493,https://www.openstreetmap.org/way/1227604493,Equinix SV11
+unnamed-data-center-5bbb60,osm,way/1313995085,https://www.openstreetmap.org/way/1313995085,
+vantage-santa-clara-ca2-a79294,osm,way/1314010354,https://www.openstreetmap.org/way/1314010354,Vantage Santa Clara CA2
+digital-realty-silicon-valley-sjc37-f2648a,osm,way/1314012931,https://www.openstreetmap.org/way/1314012931,Digital Realty Silicon Valley SJC37
+csquare-sfo4-40175a,osm,way/1344376231,https://www.openstreetmap.org/way/1344376231,Csquare SFO4
+databank-santa-clara-sfo1-4c62cf,osm,way/1351049826,https://www.openstreetmap.org/way/1351049826,DataBank Santa Clara SFO1
+databank-santa-clara-sfo1-4c62cf,peeringdb,10931,https://www.peeringdb.com/fac/10931,DataBank Santa Clara (SFO1)
+edgecore-silicon-valley-f3d51a,osm,way/1460847458,https://www.openstreetmap.org/way/1460847458,EdgeCore Silicon Valley
+stack-svy02-089814,osm,way/1460855151,https://www.openstreetmap.org/way/1460855151,STACK SVY02
+equinix-la1-los-angeles-2b9880,peeringdb,8,https://www.peeringdb.com/fac/8,Equinix LA1 - Los Angeles
+coresite-los-angeles-la1-one-wilshire-40c607,peeringdb,19,https://www.peeringdb.com/fac/19,CoreSite - Los Angeles (LA1) One Wilshire
+fedconnect-san-francisco-d3b5a8,peeringdb,21,https://www.peeringdb.com/fac/21,FedConnect San Francisco
+jma-nac-los-angeles-d918c0,peeringdb,22,https://www.peeringdb.com/fac/22,JMA NAC Los Angeles
+the-mission-street-center-21df65,peeringdb,24,https://www.peeringdb.com/fac/24,The Mission Street Center
+svtix-san-jose-ac60f6,peeringdb,33,https://www.peeringdb.com/fac/33,SVTIX San Jose
+kdweb-san-jose-2aeaa4,peeringdb,84,https://www.peeringdb.com/fac/84,KDWEB San Jose
+equinix-sv17-silicon-valley-santa-clara-95f87e,peeringdb,85,https://www.peeringdb.com/fac/85,"Equinix SV17 - Silicon Valley, Santa Clara"
+equinix-la2-los-angeles-6e645d,peeringdb,102,https://www.peeringdb.com/fac/102,Equinix LA2 - Los Angeles
+evocative-san-jose-sv7-c3a8ce,peeringdb,147,https://www.peeringdb.com/fac/147,Evocative San Jose (SV7)
+level-3-sunnyvale-7e9219,peeringdb,176,https://www.peeringdb.com/fac/176,Level(3) Sunnyvale
+evocative-sjc3-d25a6d,peeringdb,293,https://www.peeringdb.com/fac/293,Evocative SJC3
+telehouse-los-angeles-457320,peeringdb,317,https://www.peeringdb.com/fac/317,Telehouse - Los Angeles
+equinix-la3-la4-los-angeles-el-segundo-31bb71,peeringdb,333,https://www.peeringdb.com/fac/333,"Equinix LA3/LA4 - Los Angeles, El Segundo"
+ocdc-orange-county-datacenter-santa-ana-004a69,peeringdb,378,https://www.peeringdb.com/fac/378,OCDC Orange County Datacenter Santa Ana
+digital-realty-lax-600-w-7th-16382f,peeringdb,403,https://www.peeringdb.com/fac/403,Digital Realty LAX (600 W 7th)
+190-park-center-plaza-san-jose-4be01d,peeringdb,414,https://www.peeringdb.com/fac/414,190 Park Center Plaza San Jose
+level-3-oakland-f46686,peeringdb,430,https://www.peeringdb.com/fac/430,Level(3) Oakland
+digital-realty-oak-720-2nd-st-251da3,peeringdb,468,https://www.peeringdb.com/fac/468,Digital Realty OAK (720 2nd St)
+digital-realty-oak-720-2nd-st-251da3,epa_nei,15974511,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15974511,DIGITAL 720 2ND LLC
+qts-santa-clara-sjc1-sjc2-a940f0,peeringdb,578,https://www.peeringdb.com/fac/578,QTS Santa Clara (SJC1/SJC2)
+274-brannan-street-98db8e,peeringdb,593,https://www.peeringdb.com/fac/593,274 Brannan Street
+telecom-center-la-a4b520,peeringdb,642,https://www.peeringdb.com/fac/642,Telecom Center LA
+telepacific-57c341,peeringdb,767,https://www.peeringdb.com/fac/767,TelePacific
+lightedge-san-diego-2-san2-75a686,peeringdb,800,https://www.peeringdb.com/fac/800,LightEdge San Diego 2 (SAN2)
+nasa-moffet-field-c24c97,peeringdb,865,https://www.peeringdb.com/fac/865,NASA Moffet Field
+800-south-hope-faa296,peeringdb,966,https://www.peeringdb.com/fac/966,800 south hope
+quadranet-dtla-28c077,peeringdb,981,https://www.peeringdb.com/fac/981,QuadraNet DTLA
+xo-818-west-7th-89226a,peeringdb,1003,https://www.peeringdb.com/fac/1003,XO 818 West 7th
+xo-600-west-7th-8b44f6,peeringdb,1004,https://www.peeringdb.com/fac/1004,XO 600 West 7th
+801-tenth-street-modesto-ayera-eea2f5,peeringdb,1078,https://www.peeringdb.com/fac/1078,801 Tenth Street Modesto (Ayera)
+level-3-los-angeles-072045,peeringdb,1096,https://www.peeringdb.com/fac/1096,Level(3) Los Angeles
+i2b-san02-b4b2a9,peeringdb,1183,https://www.peeringdb.com/fac/1183,I2B SAN02
+i2b-san01-98392c,peeringdb,1184,https://www.peeringdb.com/fac/1184,I2B SAN01
+fireline-data-center-a45ef3,peeringdb,1227,https://www.peeringdb.com/fac/1227,Fireline Data Center
+bay-area-internet-6a1157,peeringdb,1513,https://www.peeringdb.com/fac/1513,Bay Area Internet
+ez-network-systems-e4a8d4,peeringdb,1518,https://www.peeringdb.com/fac/1518,EZ Network Systems
+level-3-hayward-c8de31,peeringdb,1644,https://www.peeringdb.com/fac/1644,Level(3) Hayward
+sungard-as-sacramento-615b2d,peeringdb,1698,https://www.peeringdb.com/fac/1698,Sungard AS Sacramento
+ic2net-data-center-b381a4,peeringdb,1754,https://www.peeringdb.com/fac/1754,IC2NET Data Center
+evocative-emeryville-em1-7c112d,peeringdb,2013,https://www.peeringdb.com/fac/2013,Evocative Emeryville (EM1)
+psychz-networks-lax1-fd36c7,peeringdb,2185,https://www.peeringdb.com/fac/2185,Psychz Networks LAX1
+edgeconnex-santa-clara-edcsvc01-edcsvc02-2e885b,peeringdb,2427,https://www.peeringdb.com/fac/2427,EdgeConneX Santa Clara (EDCSVC01/EDCSVC02)
+edgeconnex-santa-clara-edcsvc01-edcsvc02-2e885b,epa_nei,18602711,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18602711,"EDGECONNEX SILICON VALLEY HOLDINGS, LLC"
+centersquare-los-angeles-lax3-3840ce,peeringdb,2641,https://www.peeringdb.com/fac/2641,Centersquare Los Angeles (LAX3)
+multacom-main-353626,peeringdb,2781,https://www.peeringdb.com/fac/2781,MultaCom Main
+multacom-telecom-center-39b20a,peeringdb,2783,https://www.peeringdb.com/fac/2783,Multacom Telecom Center
+h5-data-centers-silicon-valley-98683d,peeringdb,2873,https://www.peeringdb.com/fac/2873,H5 Data Centers Silicon Valley
+datapipe-silicon-valley-one-295a36,peeringdb,2973,https://www.peeringdb.com/fac/2973,DataPipe Silicon Valley One
+datapipe-silicon-valley-one-295a36,epa_nei,15734311,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15734311,DATAPIPE INC
+databank-irvine-sna1-fe778e,peeringdb,2980,https://www.peeringdb.com/fac/2980,DataBank Irvine (SNA1)
+unitedlayer-los-angeles-0e9e45,peeringdb,3012,https://www.peeringdb.com/fac/3012,UnitedLayer Los Angeles
+ladc1-624-s-grand-ave-c16689,peeringdb,3421,https://www.peeringdb.com/fac/3421,LADC1 - 624 S Grand Ave
+ladc2-707-wilshire-blvd-8af5b8,peeringdb,3422,https://www.peeringdb.com/fac/3422,LADC2 - 707 Wilshire Blvd
+ladc3-600-w-7th-st-a67430,peeringdb,3423,https://www.peeringdb.com/fac/3423,LADC3 - 600 W 7th St
+ladc4-530-w-6th-st-172296,peeringdb,3424,https://www.peeringdb.com/fac/3424,LADC4 - 530 W 6th St
+ladc5-650-s-grand-ave-8591af,peeringdb,3425,https://www.peeringdb.com/fac/3425,LADC5 - 650 S Grand Ave
+sfdc1-200-paul-ave-506803,peeringdb,3426,https://www.peeringdb.com/fac/3426,SFDC1 - 200 Paul Ave
+aecero-orange-county-sna1-57c020,peeringdb,3777,https://www.peeringdb.com/fac/3777,Aecero - Orange County (SNA1)
+quadranet-lax-8c2ff9,peeringdb,3825,https://www.peeringdb.com/fac/3825,QuadraNet LAX
+opus-interactive-silicon-valley-sjc01-7701c0,peeringdb,3864,https://www.peeringdb.com/fac/3864,Opus Interactive Silicon Valley (SJC01)
+fireline-broadband-8c8e8a,peeringdb,4514,https://www.peeringdb.com/fac/4514,Fireline Broadband
+quest-roseville-f97bcb,peeringdb,4571,https://www.peeringdb.com/fac/4571,Quest Roseville
+digital-realty-sjc-3205-alfred-st-43d703,peeringdb,4675,https://www.peeringdb.com/fac/4675,Digital Realty SJC (3205 Alfred St)
+digital-realty-sjc-1500-space-park-dr-bf0534,peeringdb,4681,https://www.peeringdb.com/fac/4681,Digital Realty SJC (1500 Space Park Dr)
+burbank-water-and-power-217168,peeringdb,4990,https://www.peeringdb.com/fac/4990,Burbank Water and Power
+x2nsat-petaluma-bee0a5,peeringdb,5246,https://www.peeringdb.com/fac/5246,X2nSat Petaluma
+wave-data-centers-san-francisco-cebd75,peeringdb,5326,https://www.peeringdb.com/fac/5326,Wave Data Centers San Francisco
+serverfarm-sc1-5de315,peeringdb,5439,https://www.peeringdb.com/fac/5439,ServerFarm SC1
+subrigo-lax11-b4fd6e,peeringdb,5600,https://www.peeringdb.com/fac/5600,Subrigo LAX11
+crown-castle-los-angeles-624-s-grand-e65497,peeringdb,5775,https://www.peeringdb.com/fac/5775,Crown Castle Los Angeles (624 S Grand)
+stack-infrastructure-silicon-valley-svy01-081940,peeringdb,6095,https://www.peeringdb.com/fac/6095,Stack Infrastructure Silicon Valley SVY01
+stack-infrastructure-silicon-valley-svy01-081940,epa_nei,18612511,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18612511,STACK INFRASTRUCTURE
+colocrossing-sj1-cd82cd,peeringdb,6422,https://www.peeringdb.com/fac/6422,ColoCrossing SJ1
+colocrossing-la1-c1e973,peeringdb,6426,https://www.peeringdb.com/fac/6426,ColoCrossing LA1
+centersquare-los-angeles-lax4-784d87,peeringdb,6669,https://www.peeringdb.com/fac/6669,Centersquare Los Angeles (LAX4)
+centersquare-los-angeles-lax5-1b0d26,peeringdb,6670,https://www.peeringdb.com/fac/6670,Centersquare Los Angeles (LAX5)
+border-crossing-pop-1-54a8d1,peeringdb,6765,https://www.peeringdb.com/fac/6765,Border Crossing Pop 1
+volt-modesto-cacedf,peeringdb,6972,https://www.peeringdb.com/fac/6972,Volt Modesto
+turnkey-internet-ca-efc639,peeringdb,7263,https://www.peeringdb.com/fac/7263,TurnKey Internet - CA
+xfernet-lax01-ade529,peeringdb,7297,https://www.peeringdb.com/fac/7297,Xfernet LAX01
+unwired-fat1-fresno-colocation-212b82,peeringdb,7670,https://www.peeringdb.com/fac/7670,Unwired FAT1 - Fresno Colocation
+the-garland-center-west-7-center-bf54fa,peeringdb,7985,https://www.peeringdb.com/fac/7985,The Garland Center / West 7 Center
+fortress-sf1-24717e,peeringdb,8727,https://www.peeringdb.com/fac/8727,Fortress SF1
+evocative-lax14-b06103,peeringdb,8863,https://www.peeringdb.com/fac/8863,Evocative LAX14
+coresite-los-angeles-la3-f7529a,peeringdb,9664,https://www.peeringdb.com/fac/9664,CoreSite - Los Angeles (LA3)
+aiso-data-center-fa0af6,peeringdb,9773,https://www.peeringdb.com/fac/9773,AISO Data Center
+fiber-alley-8915-c80505,peeringdb,10547,https://www.peeringdb.com/fac/10547,Fiber Alley 8915
+fiber-alley-8917-d65717,peeringdb,10548,https://www.peeringdb.com/fac/10548,Fiber Alley 8917
+navisite-santa-clara-e317e2,peeringdb,10830,https://www.peeringdb.com/fac/10830,Navisite Santa Clara
+databank-san-diego-san1-b900d2,peeringdb,10910,https://www.peeringdb.com/fac/10910,DataBank San Diego (SAN1)
+databank-los-angeles-lax1-12fb2c,peeringdb,10932,https://www.peeringdb.com/fac/10932,DataBank Los Angeles (LAX1)
+databank-irvine-sna2-122741,peeringdb,10933,https://www.peeringdb.com/fac/10933,DataBank Irvine (SNA2)
+scalematrix-san-diego-data-center-us-west-01-3a9ec4,peeringdb,11008,https://www.peeringdb.com/fac/11008,ScaleMatrix San Diego Data Center US-West 01
+t5-siliconvalley-f7f176,peeringdb,11927,https://www.peeringdb.com/fac/11927,T5@SiliconValley
+sd-comsat-santa-paula-ground-station-f8bb25,peeringdb,12680,https://www.peeringdb.com/fac/12680,SD / Comsat Santa Paula Ground Station
+cogent-la-mirada-773268,peeringdb,13227,https://www.peeringdb.com/fac/13227,Cogent La Mirada
+mdc-san-diego-cf2ff8,peeringdb,13313,https://www.peeringdb.com/fac/13313,MDC San Diego
+edgecore-silicon-valley-ab1c2b,peeringdb,13478,https://www.peeringdb.com/fac/13478,EdgeCore Silicon Valley
+h5-data-centers-san-luis-obispo-2fa68f,peeringdb,13681,https://www.peeringdb.com/fac/13681,H5 Data Centers San Luis Obispo
+3hcloud-sfo-1-b8a679,peeringdb,15285,https://www.peeringdb.com/fac/15285,3HCloud - SFO-1
+365-data-centers-rancho-cordova-ca1-eb6f0f,peeringdb,16130,https://www.peeringdb.com/fac/16130,365 Data Centers Rancho Cordova (CA1)
+hurricane-electric-san-jose-1-1b3d54,peeringdb,16184,https://www.peeringdb.com/fac/16184,Hurricane Electric San Jose 1
+raging-wire-data-center-e06370,epa_nei,15701511,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15701511,RAGING WIRE DATA CENTER
+american-internet-services-inc-dee42b,epa_nei,15974411,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15974411,AMERICAN INTERNET SERVICES INC
+amazon-data-services-inc-2f97f0,epa_nei,17244211,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=17244211,"AMAZON DATA SERVICES, INC."
+apple-inc-3826fc,epa_nei,10460711,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=10460711,APPLE INC
+facebook-inc-bf14e7,epa_nei,16010311,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=16010311,"FACEBOOK, INC"
+cyxtera-communications-llc-54eac7,epa_nei,19650011,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=19650011,"CYXTERA COMMUNICATIONS, LLC"
+microsoft-corporation-05f6e3,epa_nei,13778311,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=13778311,MICROSOFT CORPORATION
+xeres-ventures-lp-sc1-e03279,epa_nei,18599611,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18599611,"XERES VENTURES, LP (SC1)"
+quality-investment-properties-santa-clara-ll-e6077d,epa_nei,15972111,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15972111,"QUALITY INVESTMENT PROPERTIES SANTA CLARA, LLC"
+amazon-data-services-inc-5ef47b,epa_nei,18609111,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18609111,"AMAZON DATA SERVICES, INC."
+cyxtera-communications-llc-sc8-e3303d,epa_nei,18618711,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18618711,"CYXTERA COMMUNICATIONS, LLC - SC8"
+cyxtera-communications-llc-sn1-81e31b,epa_nei,18619411,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18619411,"CYXTERA COMMUNICATIONS, LLC SN1"
+cyxtera-communications-llc-sc4-5-f4cf12,epa_nei,16021111,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=16021111,CYXTERA COMMUNICATIONS  LLC SC4-5
+google-llc-032272,epa_nei,14248811,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=14248811,GOOGLE LLC
+3011-lafayette-f82457,epa_nei,13771711,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=13771711,3011 LAFAYETTE
+vantage-data-centers-management-o-d174e9,epa_nei,19660311,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=19660311,VANTAGE DATA CENTERS MANAGEMENT O.
+vdc-v-2c6883,epa_nei,18618111,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18618111,VDC V
+google-llc-66600a,epa_nei,18611211,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18611211,GOOGLE LLC
+cyxtera-communications-llc-sc9-77afac,epa_nei,18619311,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18619311,"CYXTERA COMMUNICATIONS, LLC SC9"
+google-llc-489159,epa_nei,18614411,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18614411,GOOGLE LLC
+vxchnge-ca-llc-ce6be0,epa_nei,18610011,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18610011,VXCHNGE - CA LLC
+jay-paul-company-2485a1,epa_nei,15971711,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15971711,JAY PAUL COMPANY
+2805-lafayette-f3160d,epa_nei,18601111,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18601111,2805 LAFAYETTE
+1100-space-park-llc-3b98f5,epa_nei,9991911,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=9991911,"1100 SPACE PARK, LLC"
+element-critical-8e18c0,epa_nei,18610111,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18610111,ELEMENT CRITICAL
+hosting-com-4e37d5,epa_nei,15756211,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15756211,HOSTING COM

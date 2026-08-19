@@ -1,0 +1,9026 @@
+{
+ "elements": [
+  {
+   "id": 2607827436,
+   "lat": 32.7750252,
+   "lon": -117.070888,
+   "tags": {
+    "name": "SDSU Computer Room",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 5146323411,
+   "lat": 37.8698521,
+   "lon": -122.2598231,
+   "tags": {
+    "description": "Computer lab providing services to UC Berkeley community",
+    "name": "Open Computing Facility",
+    "source": "local_knowledge",
+    "telecom": "data_center",
+    "website": "https://www.ocf.berkeley.edu/",
+    "wheelchair": "yes",
+    "wikidata": "Q7095985",
+    "wikipedia": "en:Open Computing Facility"
+   },
+   "type": "node"
+  },
+  {
+   "id": 8238715059,
+   "lat": 37.4027449,
+   "lon": -121.891051,
+   "tags": {
+    "addr:city": "San Jose",
+    "addr:housenumber": "2150",
+    "addr:postcode": "95131",
+    "addr:state": "CA",
+    "addr:street": "Trade Zone Boulevard",
+    "addr:unit": "107",
+    "fixme": "Somewhere on this floor",
+    "level": "0",
+    "name": "STACK Infrastructure",
+    "operator": "Stack Infrastructure, Incorporated",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 8238715061,
+   "lat": 37.4026341,
+   "lon": -121.891057,
+   "tags": {
+    "addr:city": "San Jose",
+    "addr:housenumber": "2150",
+    "addr:postcode": "95131",
+    "addr:state": "CA",
+    "addr:street": "Trade Zone Boulevard",
+    "addr:unit": "201",
+    "fixme": "Somewhere on this floor",
+    "level": "1",
+    "name": "STACK Infrastructure",
+    "operator": "Stack Infrastructure, Incorporated",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 8477460442,
+   "lat": 35.2553162,
+   "lon": -120.6415128,
+   "tags": {
+    "name": "Digital West Data Center",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 8897151054,
+   "lat": 37.3341181,
+   "lon": -121.891646,
+   "tags": {
+    "addr:city": "San Jose",
+    "addr:housenumber": "55",
+    "addr:postcode": "95113",
+    "addr:state": "CA",
+    "addr:street": "South Market Street",
+    "addr:unit": "104",
+    "fixme": "Somewhere in this building",
+    "name": "San Jose Colocation Center",
+    "official_name": "CoreSite Real Estate 55 S Market Street, L.L.C.",
+    "operator": "CoreSite",
+    "operator:wikidata": "Q5170140",
+    "ref": "SV1",
+    "telecom": "data_center",
+    "website": "https://www.coresite.com/data-center/sv1-san-jose-ca"
+   },
+   "type": "node"
+  },
+  {
+   "id": 10780794741,
+   "lat": 37.7796531,
+   "lon": -122.3940005,
+   "tags": {
+    "addr:housenumber": "630",
+    "addr:state": "CA",
+    "addr:street": "3rd Street",
+    "operator": "Ntirety",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 10880725408,
+   "lat": 37.9710809,
+   "lon": -122.0437382,
+   "tags": {
+    "addr:city": "Concord",
+    "addr:housenumber": "1855",
+    "addr:postcode": "94520",
+    "addr:state": "CA",
+    "addr:street": "Gateway Boulevard",
+    "addr:unit": "Suite 730",
+    "description": "e360 is a platform that delivers solutions to environmental challenges, promoting sustainable practices and a greener future for businesses and individuals worldwide.",
+    "name": "e360",
+    "phone": "+1-877-368-4797",
+    "telecom": "data_center",
+    "website": "https://www.e360.com/"
+   },
+   "type": "node"
+  },
+  {
+   "id": 11924506303,
+   "lat": 33.9102899,
+   "lon": -117.5030207,
+   "tags": {
+    "name": "IT",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 12437277166,
+   "lat": 37.3666621,
+   "lon": -121.9628653,
+   "tags": {
+    "addr:housenumber": "2215",
+    "addr:street": "Martin Avenue",
+    "name": "Prime Santa Clara",
+    "operator": "Prime",
+    "telecom": "data_center",
+    "website": "https://primedatacenters.com/santa-clara-data-centers/"
+   },
+   "type": "node"
+  },
+  {
+   "id": 12550746951,
+   "lat": 37.3228675,
+   "lon": -121.9474176,
+   "tags": {
+    "addr:city": "San Jose",
+    "addr:housenumber": "300",
+    "addr:postcode": "95128",
+    "addr:state": "CA",
+    "addr:street": "Santana Row",
+    "addr:unit": "400",
+    "name": "Forescout Technologies, Inc.",
+    "phone": "+1-408-213-3191",
+    "telecom": "data_center",
+    "website": "https://www.forescout.com/"
+   },
+   "type": "node"
+  },
+  {
+   "id": 13042311881,
+   "lat": 34.0584789,
+   "lon": -118.2359144,
+   "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "900",
+    "addr:postcode": "90012",
+    "addr:state": "CA",
+    "addr:street": "North Alameda Street",
+    "check_date": "2025-08-01",
+    "name": "CoreSite - LA2",
+    "operator": "CoreSite",
+    "operator:wikidata": "Q5170140",
+    "ref": "LA2",
+    "telecom": "data_center",
+    "website": "https://www.coresite.com/data-center/la2-los-angeles-ca"
+   },
+   "type": "node"
+  },
+  {
+   "id": 14081154610,
+   "lat": 37.5529209,
+   "lon": -121.9808321,
+   "tags": {
+    "addr:unit": "116",
+    "name": "Petadata",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.05858,
+    "maxlon": -118.2344732,
+    "minlat": 34.0576277,
+    "minlon": -118.2363145
+   },
+   "geometry": [
+    {
+     "lat": 34.0585614,
+     "lon": -118.2360477
+    },
+    {
+     "lat": 34.0585708,
+     "lon": -118.2360439
+    },
+    {
+     "lat": 34.0585659,
+     "lon": -118.2360264
+    },
+    {
+     "lat": 34.0585561,
+     "lon": -118.2360303
+    },
+    {
+     "lat": 34.0585367,
+     "lon": -118.2359609
+    },
+    {
+     "lat": 34.0585476,
+     "lon": -118.2359565
+    },
+    {
+     "lat": 34.0585423,
+     "lon": -118.2359376
+    },
+    {
+     "lat": 34.058532,
+     "lon": -118.2359417
+    },
+    {
+     "lat": 34.058513,
+     "lon": -118.2358735
+    },
+    {
+     "lat": 34.0585242,
+     "lon": -118.235869
+    },
+    {
+     "lat": 34.0585193,
+     "lon": -118.2358514
+    },
+    {
+     "lat": 34.0585069,
+     "lon": -118.2358564
+    },
+    {
+     "lat": 34.0584874,
+     "lon": -118.2357867
+    },
+    {
+     "lat": 34.0584975,
+     "lon": -118.2357826
+    },
+    {
+     "lat": 34.0584921,
+     "lon": -118.2357634
+    },
+    {
+     "lat": 34.0584814,
+     "lon": -118.2357677
+    },
+    {
+     "lat": 34.0584653,
+     "lon": -118.2357099
+    },
+    {
+     "lat": 34.0584605,
+     "lon": -118.2357119
+    },
+    {
+     "lat": 34.0582126,
+     "lon": -118.2348556
+    },
+    {
+     "lat": 34.0582433,
+     "lon": -118.2348428
+    },
+    {
+     "lat": 34.0581379,
+     "lon": -118.2344732
+    },
+    {
+     "lat": 34.0580692,
+     "lon": -118.2345015
+    },
+    {
+     "lat": 34.0580671,
+     "lon": -118.2344942
+    },
+    {
+     "lat": 34.0580621,
+     "lon": -118.2344909
+    },
+    {
+     "lat": 34.0580394,
+     "lon": -118.2345016
+    },
+    {
+     "lat": 34.0580361,
+     "lon": -118.2345065
+    },
+    {
+     "lat": 34.0580365,
+     "lon": -118.2345146
+    },
+    {
+     "lat": 34.0579994,
+     "lon": -118.2345298
+    },
+    {
+     "lat": 34.057995,
+     "lon": -118.2345236
+    },
+    {
+     "lat": 34.057989,
+     "lon": -118.234521
+    },
+    {
+     "lat": 34.0579667,
+     "lon": -118.2345316
+    },
+    {
+     "lat": 34.0579637,
+     "lon": -118.234538
+    },
+    {
+     "lat": 34.057963,
+     "lon": -118.2345451
+    },
+    {
+     "lat": 34.0576277,
+     "lon": -118.2346799
+    },
+    {
+     "lat": 34.0576459,
+     "lon": -118.234744
+    },
+    {
+     "lat": 34.0576345,
+     "lon": -118.2347487
+    },
+    {
+     "lat": 34.0576403,
+     "lon": -118.2347689
+    },
+    {
+     "lat": 34.0576517,
+     "lon": -118.2347642
+    },
+    {
+     "lat": 34.0576706,
+     "lon": -118.2348305
+    },
+    {
+     "lat": 34.057661,
+     "lon": -118.2348345
+    },
+    {
+     "lat": 34.0576667,
+     "lon": -118.2348547
+    },
+    {
+     "lat": 34.0576764,
+     "lon": -118.2348507
+    },
+    {
+     "lat": 34.0576957,
+     "lon": -118.2349185
+    },
+    {
+     "lat": 34.0576867,
+     "lon": -118.2349221
+    },
+    {
+     "lat": 34.0576922,
+     "lon": -118.2349416
+    },
+    {
+     "lat": 34.0577013,
+     "lon": -118.2349379
+    },
+    {
+     "lat": 34.0577206,
+     "lon": -118.235006
+    },
+    {
+     "lat": 34.0577096,
+     "lon": -118.2350105
+    },
+    {
+     "lat": 34.0577151,
+     "lon": -118.2350299
+    },
+    {
+     "lat": 34.0577262,
+     "lon": -118.2350253
+    },
+    {
+     "lat": 34.0577454,
+     "lon": -118.235093
+    },
+    {
+     "lat": 34.0577358,
+     "lon": -118.235097
+    },
+    {
+     "lat": 34.0577419,
+     "lon": -118.2351184
+    },
+    {
+     "lat": 34.0577516,
+     "lon": -118.2351144
+    },
+    {
+     "lat": 34.0577702,
+     "lon": -118.2351801
+    },
+    {
+     "lat": 34.0577581,
+     "lon": -118.235185
+    },
+    {
+     "lat": 34.0577639,
+     "lon": -118.2352051
+    },
+    {
+     "lat": 34.057776,
+     "lon": -118.2352002
+    },
+    {
+     "lat": 34.0577955,
+     "lon": -118.2352688
+    },
+    {
+     "lat": 34.0577846,
+     "lon": -118.2352732
+    },
+    {
+     "lat": 34.0577902,
+     "lon": -118.2352931
+    },
+    {
+     "lat": 34.0578013,
+     "lon": -118.2352886
+    },
+    {
+     "lat": 34.0578211,
+     "lon": -118.2353582
+    },
+    {
+     "lat": 34.057809,
+     "lon": -118.2353632
+    },
+    {
+     "lat": 34.0578145,
+     "lon": -118.2353825
+    },
+    {
+     "lat": 34.0578266,
+     "lon": -118.2353776
+    },
+    {
+     "lat": 34.0578452,
+     "lon": -118.2354431
+    },
+    {
+     "lat": 34.0578314,
+     "lon": -118.2354488
+    },
+    {
+     "lat": 34.0578374,
+     "lon": -118.2354702
+    },
+    {
+     "lat": 34.0578513,
+     "lon": -118.2354645
+    },
+    {
+     "lat": 34.0578583,
+     "lon": -118.2354891
+    },
+    {
+     "lat": 34.057837,
+     "lon": -118.2354978
+    },
+    {
+     "lat": 34.057835,
+     "lon": -118.2354905
+    },
+    {
+     "lat": 34.0578311,
+     "lon": -118.2354857
+    },
+    {
+     "lat": 34.0578262,
+     "lon": -118.2354825
+    },
+    {
+     "lat": 34.0578213,
+     "lon": -118.2354823
+    },
+    {
+     "lat": 34.0578153,
+     "lon": -118.2354868
+    },
+    {
+     "lat": 34.0578083,
+     "lon": -118.2355004
+    },
+    {
+     "lat": 34.0577999,
+     "lon": -118.2355035
+    },
+    {
+     "lat": 34.0578102,
+     "lon": -118.2355371
+    },
+    {
+     "lat": 34.0578199,
+     "lon": -118.2355327
+    },
+    {
+     "lat": 34.0578231,
+     "lon": -118.2355358
+    },
+    {
+     "lat": 34.0578284,
+     "lon": -118.2355374
+    },
+    {
+     "lat": 34.0578348,
+     "lon": -118.2355375
+    },
+    {
+     "lat": 34.0578396,
+     "lon": -118.2355334
+    },
+    {
+     "lat": 34.0578427,
+     "lon": -118.2355279
+    },
+    {
+     "lat": 34.0578439,
+     "lon": -118.2355205
+    },
+    {
+     "lat": 34.0578422,
+     "lon": -118.2355136
+    },
+    {
+     "lat": 34.0578606,
+     "lon": -118.2355054
+    },
+    {
+     "lat": 34.0578943,
+     "lon": -118.235616
+    },
+    {
+     "lat": 34.0578799,
+     "lon": -118.2356223
+    },
+    {
+     "lat": 34.0578867,
+     "lon": -118.2356443
+    },
+    {
+     "lat": 34.0579007,
+     "lon": -118.2356381
+    },
+    {
+     "lat": 34.0579199,
+     "lon": -118.2357052
+    },
+    {
+     "lat": 34.0579062,
+     "lon": -118.2357108
+    },
+    {
+     "lat": 34.0579121,
+     "lon": -118.2357315
+    },
+    {
+     "lat": 34.0579258,
+     "lon": -118.2357259
+    },
+    {
+     "lat": 34.0579449,
+     "lon": -118.2357931
+    },
+    {
+     "lat": 34.0579312,
+     "lon": -118.2357988
+    },
+    {
+     "lat": 34.0579368,
+     "lon": -118.2358184
+    },
+    {
+     "lat": 34.0579505,
+     "lon": -118.2358128
+    },
+    {
+     "lat": 34.0579697,
+     "lon": -118.2358802
+    },
+    {
+     "lat": 34.0579588,
+     "lon": -118.2358847
+    },
+    {
+     "lat": 34.0579647,
+     "lon": -118.2359053
+    },
+    {
+     "lat": 34.0579756,
+     "lon": -118.2359008
+    },
+    {
+     "lat": 34.0579948,
+     "lon": -118.2359682
+    },
+    {
+     "lat": 34.0579834,
+     "lon": -118.235973
+    },
+    {
+     "lat": 34.0579885,
+     "lon": -118.2359912
+    },
+    {
+     "lat": 34.058,
+     "lon": -118.2359864
+    },
+    {
+     "lat": 34.0580199,
+     "lon": -118.2360562
+    },
+    {
+     "lat": 34.058008,
+     "lon": -118.2360611
+    },
+    {
+     "lat": 34.0580132,
+     "lon": -118.2360792
+    },
+    {
+     "lat": 34.0580251,
+     "lon": -118.2360743
+    },
+    {
+     "lat": 34.0580445,
+     "lon": -118.2361425
+    },
+    {
+     "lat": 34.058034,
+     "lon": -118.2361468
+    },
+    {
+     "lat": 34.0580388,
+     "lon": -118.2361635
+    },
+    {
+     "lat": 34.0580492,
+     "lon": -118.2361592
+    },
+    {
+     "lat": 34.058069,
+     "lon": -118.2362284
+    },
+    {
+     "lat": 34.0580588,
+     "lon": -118.2362325
+    },
+    {
+     "lat": 34.058063,
+     "lon": -118.2362471
+    },
+    {
+     "lat": 34.0580731,
+     "lon": -118.2362429
+    },
+    {
+     "lat": 34.0580935,
+     "lon": -118.2363145
+    },
+    {
+     "lat": 34.0581465,
+     "lon": -118.2362927
+    },
+    {
+     "lat": 34.0581494,
+     "lon": -118.2363028
+    },
+    {
+     "lat": 34.0581664,
+     "lon": -118.2362957
+    },
+    {
+     "lat": 34.0581636,
+     "lon": -118.2362857
+    },
+    {
+     "lat": 34.0582194,
+     "lon": -118.2362627
+    },
+    {
+     "lat": 34.0582222,
+     "lon": -118.2362723
+    },
+    {
+     "lat": 34.058238,
+     "lon": -118.2362658
+    },
+    {
+     "lat": 34.0582353,
+     "lon": -118.2362561
+    },
+    {
+     "lat": 34.0582915,
+     "lon": -118.236233
+    },
+    {
+     "lat": 34.0582947,
+     "lon": -118.2362443
+    },
+    {
+     "lat": 34.0583116,
+     "lon": -118.2362373
+    },
+    {
+     "lat": 34.0583084,
+     "lon": -118.236226
+    },
+    {
+     "lat": 34.0583651,
+     "lon": -118.2362028
+    },
+    {
+     "lat": 34.0583682,
+     "lon": -118.2362137
+    },
+    {
+     "lat": 34.0583856,
+     "lon": -118.2362066
+    },
+    {
+     "lat": 34.0583825,
+     "lon": -118.2361956
+    },
+    {
+     "lat": 34.0584396,
+     "lon": -118.2361721
+    },
+    {
+     "lat": 34.0584425,
+     "lon": -118.236183
+    },
+    {
+     "lat": 34.0584583,
+     "lon": -118.236177
+    },
+    {
+     "lat": 34.058455,
+     "lon": -118.2361649
+    },
+    {
+     "lat": 34.0585127,
+     "lon": -118.2361428
+    },
+    {
+     "lat": 34.0585154,
+     "lon": -118.2361529
+    },
+    {
+     "lat": 34.0585293,
+     "lon": -118.2361476
+    },
+    {
+     "lat": 34.058526,
+     "lon": -118.2361351
+    },
+    {
+     "lat": 34.05858,
+     "lon": -118.2361144
+    },
+    {
+     "lat": 34.0585614,
+     "lon": -118.2360477
+    }
+   ],
+   "id": 30666790,
+   "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "900",
+    "addr:postcode": "90012",
+    "addr:state": "CA",
+    "addr:street": "Alameda St",
+    "addr:street_direction_prefix": "N",
+    "amenity": "post_office",
+    "building": "commercial",
+    "building:levels": "2",
+    "clli": "LSANCAVJ",
+    "ele": "125.7",
+    "gnis:feature_id": "247727",
+    "height": "39.2",
+    "heritage": "2",
+    "heritage:operator": "nrhp",
+    "heritage:website": "http://focus.nps.gov/AssetDetail/NRIS/85000131",
+    "historic": "building",
+    "image": "https://commons.wikimedia.org/wiki/File:U.S._Post_Office_-_Los_Angeles_Terminal_Annex.JPG",
+    "lacounty:ain": "5409015016",
+    "lacounty:bld_id": "490167843620",
+    "name": "USPO Terminal Annex",
+    "operator": "United States Postal Service",
+    "operator:short": "USPS",
+    "operator:type": "public",
+    "operator:website": "https://www.usps.com",
+    "operator:wikidata": "Q668687",
+    "operator:wikipedia": "en:United States Postal Service",
+    "ref:nrhp": "85000131",
+    "short_name": "USPS",
+    "source": "survey;image;usgs_imagery",
+    "source_ref": "AM909_DSCR0634",
+    "start_date": "1938",
+    "telecom": "data_center",
+    "wikidata": "Q2466390",
+    "wikimedia_commons": "Category:United_States_Post_Office_\u2013_Los_Angeles_Terminal_Annex",
+    "wikipedia": "en:U.S. Post Office-Los Angeles Terminal Annex"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 32.8281557,
+    "maxlon": -117.1290827,
+    "minlat": 32.8276326,
+    "minlon": -117.1307723
+   },
+   "geometry": [
+    {
+     "lat": 32.8281557,
+     "lon": -117.1298738
+    },
+    {
+     "lat": 32.8280664,
+     "lon": -117.1298729
+    },
+    {
+     "lat": 32.8280784,
+     "lon": -117.1290908
+    },
+    {
+     "lat": 32.8276509,
+     "lon": -117.1290827
+    },
+    {
+     "lat": 32.8276326,
+     "lon": -117.1307604
+    },
+    {
+     "lat": 32.8280696,
+     "lon": -117.1307723
+    },
+    {
+     "lat": 32.8280706,
+     "lon": -117.1301866
+    },
+    {
+     "lat": 32.8281535,
+     "lon": -117.1301837
+    },
+    {
+     "lat": 32.8281557,
+     "lon": -117.1298738
+    }
+   ],
+   "id": 31800424,
+   "tags": {
+    "addr:city": "San Diego",
+    "addr:country": "US",
+    "addr:housenumber": "9305",
+    "addr:postcode": "92123",
+    "addr:state": "CA",
+    "addr:street": "Lightwave Avenue",
+    "building": "industrial",
+    "clli": "SNDGCALW",
+    "name": "LightEdge SAN1",
+    "sangis:OBJECTID": "615",
+    "sangis:TYPE": "Industrial",
+    "source": "SanGIS Footprints_Nonresidential_SD public domain (http://www.sangis.org/)",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 32.8427561,
+    "maxlon": -117.1690649,
+    "minlat": 32.8419548,
+    "minlon": -117.1697802
+   },
+   "geometry": [
+    {
+     "lat": 32.8419548,
+     "lon": -117.1691303
+    },
+    {
+     "lat": 32.8420298,
+     "lon": -117.1697802
+    },
+    {
+     "lat": 32.8422421,
+     "lon": -117.1697455
+    },
+    {
+     "lat": 32.8422158,
+     "lon": -117.1695178
+    },
+    {
+     "lat": 32.8427561,
+     "lon": -117.1694295
+    },
+    {
+     "lat": 32.842727,
+     "lon": -117.169177
+    },
+    {
+     "lat": 32.8426075,
+     "lon": -117.1690673
+    },
+    {
+     "lat": 32.8423595,
+     "lon": -117.1691079
+    },
+    {
+     "lat": 32.8423546,
+     "lon": -117.1690649
+    },
+    {
+     "lat": 32.8419548,
+     "lon": -117.1691303
+    }
+   ],
+   "id": 31803515,
+   "tags": {
+    "addr:city": "San Diego",
+    "addr:housenumber": "5761",
+    "addr:postcode": "92111",
+    "addr:state": "CA",
+    "addr:street": "Copley Drive",
+    "addr:suite": "150B",
+    "building": "yes",
+    "building_type": "industrial",
+    "name": "EdgeConneX San Diego",
+    "operator": "EdgeConneX",
+    "operator:wikidata": "Q115477226",
+    "sangis:OBJECTID": "61",
+    "sangis:TYPE": "Industrial",
+    "source": "SanGIS Footprints_Nonresidential_SD public domain (http://www.sangis.org/)",
+    "telecom": "data_center",
+    "website": "https://www.edgeconnex.com/locations/americas/san-diego-ca/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 38.6508118,
+    "maxlon": -121.490718,
+    "minlat": 38.6499885,
+    "minlon": -121.4931742
+   },
+   "geometry": [
+    {
+     "lat": 38.6507922,
+     "lon": -121.4931742
+    },
+    {
+     "lat": 38.6508118,
+     "lon": -121.4907304
+    },
+    {
+     "lat": 38.6500059,
+     "lon": -121.490718
+    },
+    {
+     "lat": 38.6500042,
+     "lon": -121.4909483
+    },
+    {
+     "lat": 38.6499885,
+     "lon": -121.4931641
+    },
+    {
+     "lat": 38.6507922,
+     "lon": -121.4931742
+    }
+   ],
+   "id": 32560290,
+   "tags": {
+    "addr:city": "Sacramento",
+    "addr:housenumber": "1312",
+    "addr:postcode": "95834",
+    "addr:state": "CA",
+    "addr:street": "Striker Avenue",
+    "building": "yes",
+    "clli": "NSCRCA11",
+    "name": "RagingWire CA2",
+    "operator": "NTT",
+    "operator:wikidata": "Q1054787",
+    "ref": "CA2",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 38.6508292,
+    "maxlon": -121.4879967,
+    "minlat": 38.6500346,
+    "minlon": -121.4903769
+   },
+   "geometry": [
+    {
+     "lat": 38.6500346,
+     "lon": -121.4903694
+    },
+    {
+     "lat": 38.6508134,
+     "lon": -121.4903769
+    },
+    {
+     "lat": 38.6508292,
+     "lon": -121.4880033
+    },
+    {
+     "lat": 38.65005,
+     "lon": -121.4879967
+    },
+    {
+     "lat": 38.6500365,
+     "lon": -121.4900793
+    },
+    {
+     "lat": 38.6500346,
+     "lon": -121.4903694
+    }
+   ],
+   "id": 32560292,
+   "tags": {
+    "addr:city": "Sacramento",
+    "addr:housenumber": "1200",
+    "addr:postcode": "95834",
+    "addr:state": "CA",
+    "addr:street": "Striker Avenue",
+    "building": "yes",
+    "clli": "NSCRCA11",
+    "name": "RagingWire CA1",
+    "operator": "NTT",
+    "operator:wikidata": "Q1054787",
+    "ref": "CA1",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.2422915,
+    "maxlon": -121.7824465,
+    "minlat": 37.2409035,
+    "minlon": -121.7842088
+   },
+   "geometry": [
+    {
+     "lat": 37.2418049,
+     "lon": -121.7826024
+    },
+    {
+     "lat": 37.2417142,
+     "lon": -121.7824512
+    },
+    {
+     "lat": 37.2416993,
+     "lon": -121.7824654
+    },
+    {
+     "lat": 37.241688,
+     "lon": -121.7824465
+    },
+    {
+     "lat": 37.2415675,
+     "lon": -121.7825605
+    },
+    {
+     "lat": 37.2415452,
+     "lon": -121.7825565
+    },
+    {
+     "lat": 37.2415373,
+     "lon": -121.7825641
+    },
+    {
+     "lat": 37.2415566,
+     "lon": -121.7825964
+    },
+    {
+     "lat": 37.2412539,
+     "lon": -121.7828827
+    },
+    {
+     "lat": 37.241137,
+     "lon": -121.7826877
+    },
+    {
+     "lat": 37.2410519,
+     "lon": -121.7827683
+    },
+    {
+     "lat": 37.2411688,
+     "lon": -121.7829633
+    },
+    {
+     "lat": 37.2410909,
+     "lon": -121.783037
+    },
+    {
+     "lat": 37.2410801,
+     "lon": -121.783019
+    },
+    {
+     "lat": 37.2409075,
+     "lon": -121.7831823
+    },
+    {
+     "lat": 37.2409183,
+     "lon": -121.7832003
+    },
+    {
+     "lat": 37.2409035,
+     "lon": -121.7832143
+    },
+    {
+     "lat": 37.241201,
+     "lon": -121.7837106
+    },
+    {
+     "lat": 37.2412321,
+     "lon": -121.7837625
+    },
+    {
+     "lat": 37.2414998,
+     "lon": -121.7842088
+    },
+    {
+     "lat": 37.2416396,
+     "lon": -121.7840765
+    },
+    {
+     "lat": 37.2422915,
+     "lon": -121.7834597
+    },
+    {
+     "lat": 37.241846,
+     "lon": -121.7827166
+    },
+    {
+     "lat": 37.2417996,
+     "lon": -121.7826392
+    },
+    {
+     "lat": 37.241825,
+     "lon": -121.782615
+    },
+    {
+     "lat": 37.2418193,
+     "lon": -121.782605
+    },
+    {
+     "lat": 37.2418049,
+     "lon": -121.7826024
+    }
+   ],
+   "id": 35491576,
+   "tags": {
+    "addr:city": "San Jose",
+    "addr:housenumber": "11",
+    "addr:postcode": "95119",
+    "addr:state": "CA",
+    "addr:street": "Great Oaks Boulevard",
+    "building": "data_center",
+    "clli": "SNJSCA",
+    "ele": "71.27",
+    "height": "8.39",
+    "name": "Equinix SV1",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "SV1",
+    "telecom": "data_center",
+    "website": "https://www.equinix.co.uk/locations/united-states-colocation/silicon-valley-data-centers/sv1/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3737949,
+    "maxlon": -121.9871741,
+    "minlat": 37.373144,
+    "minlon": -121.9884264
+   },
+   "geometry": [
+    {
+     "lat": 37.3736746,
+     "lon": -121.9884264
+    },
+    {
+     "lat": 37.3736748,
+     "lon": -121.9882927
+    },
+    {
+     "lat": 37.3737261,
+     "lon": -121.9882929
+    },
+    {
+     "lat": 37.3737272,
+     "lon": -121.9881683
+    },
+    {
+     "lat": 37.3737931,
+     "lon": -121.9881727
+    },
+    {
+     "lat": 37.3737949,
+     "lon": -121.9876621
+    },
+    {
+     "lat": 37.3736761,
+     "lon": -121.9876587
+    },
+    {
+     "lat": 37.3736735,
+     "lon": -121.9871781
+    },
+    {
+     "lat": 37.373144,
+     "lon": -121.9871741
+    },
+    {
+     "lat": 37.3731441,
+     "lon": -121.9884197
+    },
+    {
+     "lat": 37.3736746,
+     "lon": -121.9884264
+    }
+   ],
+   "id": 37877544,
+   "tags": {
+    "addr:city": "Sunnyvale",
+    "addr:housenumber": "1380",
+    "addr:postcode": "94086",
+    "addr:state": "CA",
+    "addr:street": "Kifer Road",
+    "building": "commercial",
+    "building:levels": "1",
+    "name": "Lumen Sunnyvale 1",
+    "operator": "Lumen Technologies",
+    "operator:wikidata": "Q5063092",
+    "smoking": "no",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3792456,
+    "maxlon": -121.955534,
+    "minlat": 37.3784127,
+    "minlon": -121.9563174
+   },
+   "geometry": [
+    {
+     "lat": 37.3792456,
+     "lon": -121.9563089
+    },
+    {
+     "lat": 37.3792415,
+     "lon": -121.9556805
+    },
+    {
+     "lat": 37.3790789,
+     "lon": -121.9556822
+    },
+    {
+     "lat": 37.3790779,
+     "lon": -121.955534
+    },
+    {
+     "lat": 37.3784127,
+     "lon": -121.9555409
+    },
+    {
+     "lat": 37.3784178,
+     "lon": -121.9563174
+    },
+    {
+     "lat": 37.3788386,
+     "lon": -121.9563131
+    },
+    {
+     "lat": 37.3792456,
+     "lon": -121.9563089
+    }
+   ],
+   "id": 37947313,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "3223",
+    "addr:postcode": "95054",
+    "addr:state": "CA",
+    "addr:street": "Kenneth Street",
+    "building": "yes",
+    "name": "OpenColo",
+    "telecom": "data_center",
+    "website": "https://www.opencolo.com/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3790591,
+    "maxlon": -121.9546356,
+    "minlat": 37.3778816,
+    "minlon": -121.9553321
+   },
+   "geometry": [
+    {
+     "lat": 37.3790591,
+     "lon": -121.9553321
+    },
+    {
+     "lat": 37.3789091,
+     "lon": -121.9546369
+    },
+    {
+     "lat": 37.3778819,
+     "lon": -121.9546356
+    },
+    {
+     "lat": 37.3778816,
+     "lon": -121.9553313
+    },
+    {
+     "lat": 37.3790591,
+     "lon": -121.9553321
+    }
+   ],
+   "id": 37947314,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "1350",
+    "addr:state": "CA",
+    "addr:street": "Duane Avenue",
+    "building": "equinix",
+    "name": "Equinix Santa Clara SV2",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "SV2",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/silicon-valley-data-centers/sv2"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3782987,
+    "maxlon": -121.9538402,
+    "minlat": 37.3777762,
+    "minlon": -121.9544151
+   },
+   "geometry": [
+    {
+     "lat": 37.378254,
+     "lon": -121.9544151
+    },
+    {
+     "lat": 37.3782539,
+     "lon": -121.9540031
+    },
+    {
+     "lat": 37.3782987,
+     "lon": -121.9540031
+    },
+    {
+     "lat": 37.3782987,
+     "lon": -121.9539348
+    },
+    {
+     "lat": 37.3782566,
+     "lon": -121.9539348
+    },
+    {
+     "lat": 37.3782566,
+     "lon": -121.9538941
+    },
+    {
+     "lat": 37.3782566,
+     "lon": -121.9538811
+    },
+    {
+     "lat": 37.3780778,
+     "lon": -121.953881
+    },
+    {
+     "lat": 37.3780778,
+     "lon": -121.9538403
+    },
+    {
+     "lat": 37.378015,
+     "lon": -121.9538402
+    },
+    {
+     "lat": 37.378015,
+     "lon": -121.9538845
+    },
+    {
+     "lat": 37.3778393,
+     "lon": -121.9538844
+    },
+    {
+     "lat": 37.3778393,
+     "lon": -121.9542571
+    },
+    {
+     "lat": 37.3777762,
+     "lon": -121.9542571
+    },
+    {
+     "lat": 37.3777762,
+     "lon": -121.9544151
+    },
+    {
+     "lat": 37.378254,
+     "lon": -121.9544151
+    }
+   ],
+   "id": 37947315,
+   "tags": {
+    "addr:housenumber": "3080",
+    "addr:street": "Raymond Street",
+    "building": "data_center",
+    "name": "Layer42 Santa Clara",
+    "operator": "Layer42",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3730353,
+    "maxlon": -121.9730933,
+    "minlat": 37.3717801,
+    "minlon": -121.9742006
+   },
+   "geometry": [
+    {
+     "lat": 37.3728786,
+     "lon": -121.9741996
+    },
+    {
+     "lat": 37.3728781,
+     "lon": -121.9737195
+    },
+    {
+     "lat": 37.3730163,
+     "lon": -121.9737193
+    },
+    {
+     "lat": 37.3730158,
+     "lon": -121.9731546
+    },
+    {
+     "lat": 37.3730353,
+     "lon": -121.9731545
+    },
+    {
+     "lat": 37.3730352,
+     "lon": -121.9730933
+    },
+    {
+     "lat": 37.3728772,
+     "lon": -121.9730936
+    },
+    {
+     "lat": 37.3728773,
+     "lon": -121.9731173
+    },
+    {
+     "lat": 37.3717801,
+     "lon": -121.973119
+    },
+    {
+     "lat": 37.371781,
+     "lon": -121.9740344
+    },
+    {
+     "lat": 37.3718545,
+     "lon": -121.9740343
+    },
+    {
+     "lat": 37.3718546,
+     "lon": -121.9740984
+    },
+    {
+     "lat": 37.3722613,
+     "lon": -121.9740978
+    },
+    {
+     "lat": 37.3722614,
+     "lon": -121.9742006
+    },
+    {
+     "lat": 37.3728786,
+     "lon": -121.9741996
+    }
+   ],
+   "id": 38305431,
+   "tags": {
+    "addr:housenumber": "2820",
+    "addr:street": "Northwestern Parkway",
+    "building": "data_center",
+    "name": "Digital Realty Silicon Valley SJC34",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3719217,
+    "maxlon": -121.969052,
+    "minlat": 37.3710209,
+    "minlon": -121.9703132
+   },
+   "geometry": [
+    {
+     "lat": 37.3710209,
+     "lon": -121.9700015
+    },
+    {
+     "lat": 37.3711466,
+     "lon": -121.9700037
+    },
+    {
+     "lat": 37.3711487,
+     "lon": -121.9703086
+    },
+    {
+     "lat": 37.3715923,
+     "lon": -121.9703116
+    },
+    {
+     "lat": 37.3718297,
+     "lon": -121.9703132
+    },
+    {
+     "lat": 37.3718308,
+     "lon": -121.9696969
+    },
+    {
+     "lat": 37.3719206,
+     "lon": -121.9696972
+    },
+    {
+     "lat": 37.3719217,
+     "lon": -121.9691735
+    },
+    {
+     "lat": 37.3718318,
+     "lon": -121.9691732
+    },
+    {
+     "lat": 37.3718318,
+     "lon": -121.9691552
+    },
+    {
+     "lat": 37.3718318,
+     "lon": -121.969052
+    },
+    {
+     "lat": 37.3713224,
+     "lon": -121.96906
+    },
+    {
+     "lat": 37.3713021,
+     "lon": -121.9690922
+    },
+    {
+     "lat": 37.3713117,
+     "lon": -121.9691392
+    },
+    {
+     "lat": 37.3713117,
+     "lon": -121.9691955
+    },
+    {
+     "lat": 37.3712968,
+     "lon": -121.9692491
+    },
+    {
+     "lat": 37.3712776,
+     "lon": -121.9692934
+    },
+    {
+     "lat": 37.371251,
+     "lon": -121.9693283
+    },
+    {
+     "lat": 37.3712169,
+     "lon": -121.9693564
+    },
+    {
+     "lat": 37.3711796,
+     "lon": -121.9693685
+    },
+    {
+     "lat": 37.3711423,
+     "lon": -121.9693765
+    },
+    {
+     "lat": 37.3711461,
+     "lon": -121.9699285
+    },
+    {
+     "lat": 37.371022,
+     "lon": -121.9699264
+    },
+    {
+     "lat": 37.3710209,
+     "lon": -121.9700015
+    }
+   ],
+   "id": 38305568,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "2401",
+    "addr:postcode": "95051",
+    "addr:state": "CA",
+    "addr:street": "Walsh Avenue",
+    "building": "data_center",
+    "name": "Csquare SFO1",
+    "operator": "Csquare",
+    "telecom": "data_center",
+    "website": "https://www.csquare.com/data-centers/silicon-valley#santaclara-sfo1"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3738191,
+    "maxlon": -121.97224,
+    "minlat": 37.372796,
+    "minlon": -121.9733155
+   },
+   "geometry": [
+    {
+     "lat": 37.3738191,
+     "lon": -121.9733144
+    },
+    {
+     "lat": 37.3738177,
+     "lon": -121.97224
+    },
+    {
+     "lat": 37.372796,
+     "lon": -121.9722423
+    },
+    {
+     "lat": 37.3727967,
+     "lon": -121.9728089
+    },
+    {
+     "lat": 37.3732966,
+     "lon": -121.9728078
+    },
+    {
+     "lat": 37.3732973,
+     "lon": -121.9733155
+    },
+    {
+     "lat": 37.3738191,
+     "lon": -121.9733144
+    }
+   ],
+   "id": 38305611,
+   "tags": {
+    "building": "data_center",
+    "operator": "Vantage",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3660616,
+    "maxlon": -121.9609037,
+    "minlat": 37.364742,
+    "minlon": -121.9624416
+   },
+   "geometry": [
+    {
+     "lat": 37.364742,
+     "lon": -121.9617164
+    },
+    {
+     "lat": 37.3650516,
+     "lon": -121.9624416
+    },
+    {
+     "lat": 37.3656317,
+     "lon": -121.9620495
+    },
+    {
+     "lat": 37.3654394,
+     "lon": -121.9615992
+    },
+    {
+     "lat": 37.3660616,
+     "lon": -121.9611786
+    },
+    {
+     "lat": 37.3659443,
+     "lon": -121.9609037
+    },
+    {
+     "lat": 37.364742,
+     "lon": -121.9617164
+    }
+   ],
+   "id": 40608200,
+   "tags": {
+    "addr:housenumber": "2050",
+    "addr:street": "Martin Avenue",
+    "building": "yes",
+    "name": "Cologix Santa Clara SV1 Data Center",
+    "operator": "Cologix",
+    "ref": "SV1",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3979758,
+    "maxlon": -121.9799449,
+    "minlat": 37.3971682,
+    "minlon": -121.981981
+   },
+   "geometry": [
+    {
+     "lat": 37.3972183,
+     "lon": -121.9817417
+    },
+    {
+     "lat": 37.3972183,
+     "lon": -121.9803006
+    },
+    {
+     "lat": 37.3971682,
+     "lon": -121.9803006
+    },
+    {
+     "lat": 37.3971682,
+     "lon": -121.9799449
+    },
+    {
+     "lat": 37.3979758,
+     "lon": -121.9799449
+    },
+    {
+     "lat": 37.3979758,
+     "lon": -121.9808454
+    },
+    {
+     "lat": 37.397844,
+     "lon": -121.9808454
+    },
+    {
+     "lat": 37.397844,
+     "lon": -121.9808926
+    },
+    {
+     "lat": 37.3978943,
+     "lon": -121.9808926
+    },
+    {
+     "lat": 37.3978943,
+     "lon": -121.9810468
+    },
+    {
+     "lat": 37.397886,
+     "lon": -121.9810468
+    },
+    {
+     "lat": 37.397886,
+     "lon": -121.981981
+    },
+    {
+     "lat": 37.3975373,
+     "lon": -121.981981
+    },
+    {
+     "lat": 37.3975373,
+     "lon": -121.9817417
+    },
+    {
+     "lat": 37.3972183,
+     "lon": -121.9817417
+    }
+   ],
+   "id": 54119665,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "4650",
+    "addr:postcode": "95054",
+    "addr:state": "CA",
+    "addr:street": "Old Ironsides Drive",
+    "building": "yes",
+    "name": "Csquare SFO2",
+    "operator": "Csquare",
+    "ref": "SFO2",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3989434,
+    "maxlon": -121.9801856,
+    "minlat": 37.3983327,
+    "minlon": -121.982127
+   },
+   "geometry": [
+    {
+     "lat": 37.3988425,
+     "lon": -121.982127
+    },
+    {
+     "lat": 37.3988429,
+     "lon": -121.9817423
+    },
+    {
+     "lat": 37.3988155,
+     "lon": -121.9817423
+    },
+    {
+     "lat": 37.3988159,
+     "lon": -121.9813509
+    },
+    {
+     "lat": 37.3989422,
+     "lon": -121.9813511
+    },
+    {
+     "lat": 37.3989434,
+     "lon": -121.9801866
+    },
+    {
+     "lat": 37.3983347,
+     "lon": -121.9801856
+    },
+    {
+     "lat": 37.3983327,
+     "lon": -121.9821261
+    },
+    {
+     "lat": 37.3988425,
+     "lon": -121.982127
+    }
+   ],
+   "id": 54119667,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "4700",
+    "addr:postcode": "95054",
+    "addr:state": "CA",
+    "addr:street": "Old Ironsides Drive",
+    "building": "yes",
+    "name": "Csquare SFO2",
+    "operator": "Csquare",
+    "ref": "SFO2",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3942888,
+    "maxlon": -121.977966,
+    "minlat": 37.3936835,
+    "minlon": -121.9786753
+   },
+   "geometry": [
+    {
+     "lat": 37.3942888,
+     "lon": -121.9786747
+    },
+    {
+     "lat": 37.3942855,
+     "lon": -121.9783403
+    },
+    {
+     "lat": 37.3939888,
+     "lon": -121.977966
+    },
+    {
+     "lat": 37.3936835,
+     "lon": -121.977969
+    },
+    {
+     "lat": 37.3936938,
+     "lon": -121.9784225
+    },
+    {
+     "lat": 37.3938906,
+     "lon": -121.978424
+    },
+    {
+     "lat": 37.3939067,
+     "lon": -121.9784432
+    },
+    {
+     "lat": 37.3939036,
+     "lon": -121.9784654
+    },
+    {
+     "lat": 37.3939051,
+     "lon": -121.978498
+    },
+    {
+     "lat": 37.393916,
+     "lon": -121.9785324
+    },
+    {
+     "lat": 37.3939335,
+     "lon": -121.9785541
+    },
+    {
+     "lat": 37.3939523,
+     "lon": -121.9785674
+    },
+    {
+     "lat": 37.3939823,
+     "lon": -121.9785749
+    },
+    {
+     "lat": 37.3940056,
+     "lon": -121.9785696
+    },
+    {
+     "lat": 37.3940232,
+     "lon": -121.9785883
+    },
+    {
+     "lat": 37.3940238,
+     "lon": -121.9786753
+    },
+    {
+     "lat": 37.3942888,
+     "lon": -121.9786747
+    }
+   ],
+   "id": 54121151,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "2805",
+    "addr:postcode": "95054",
+    "addr:state": "CA",
+    "addr:street": "Mission College Boulevard",
+    "building": "yes",
+    "name": "QTS Santa Clara 1",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "telecom": "data_center",
+    "website": "https://qtsdatacenters.com/data-centers/santa-clara/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3755114,
+    "maxlon": -121.9713044,
+    "minlat": 37.3748037,
+    "minlon": -121.9721237
+   },
+   "geometry": [
+    {
+     "lat": 37.3753377,
+     "lon": -121.9713056
+    },
+    {
+     "lat": 37.3748048,
+     "lon": -121.9713044
+    },
+    {
+     "lat": 37.3748037,
+     "lon": -121.9721225
+    },
+    {
+     "lat": 37.3753366,
+     "lon": -121.9721237
+    },
+    {
+     "lat": 37.3753367,
+     "lon": -121.9720084
+    },
+    {
+     "lat": 37.3755105,
+     "lon": -121.9720087
+    },
+    {
+     "lat": 37.3755114,
+     "lon": -121.9713735
+    },
+    {
+     "lat": 37.3753376,
+     "lon": -121.9713731
+    },
+    {
+     "lat": 37.3753377,
+     "lon": -121.9713056
+    }
+   ],
+   "id": 54173383,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "2901",
+    "addr:postcode": "95054",
+    "addr:state": "CA",
+    "addr:street": "Coronado Drive",
+    "building": "commercial",
+    "name": "CoreSite SV3",
+    "operator": "CoreSite",
+    "ref": "SV3",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.376822,
+    "maxlon": -121.9718013,
+    "minlat": 37.3757817,
+    "minlon": -121.9723662
+   },
+   "geometry": [
+    {
+     "lat": 37.3757817,
+     "lon": -121.97181
+    },
+    {
+     "lat": 37.3768191,
+     "lon": -121.9718013
+    },
+    {
+     "lat": 37.376822,
+     "lon": -121.9723577
+    },
+    {
+     "lat": 37.3757846,
+     "lon": -121.9723662
+    },
+    {
+     "lat": 37.3757817,
+     "lon": -121.97181
+    }
+   ],
+   "id": 54173753,
+   "tags": {
+    "building": "yes",
+    "name": "CoreSite SV6",
+    "operator": "CoreSite",
+    "ref": "SV6",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3775848,
+    "maxlon": -121.9712945,
+    "minlat": 37.3771806,
+    "minlon": -121.9723855
+   },
+   "geometry": [
+    {
+     "lat": 37.3775471,
+     "lon": -121.9712945
+    },
+    {
+     "lat": 37.3771806,
+     "lon": -121.9713149
+    },
+    {
+     "lat": 37.3772181,
+     "lon": -121.9723855
+    },
+    {
+     "lat": 37.3775848,
+     "lon": -121.9723651
+    },
+    {
+     "lat": 37.3775788,
+     "lon": -121.9721942
+    },
+    {
+     "lat": 37.3775471,
+     "lon": -121.9712945
+    }
+   ],
+   "id": 54173755,
+   "tags": {
+    "building": "yes",
+    "name": "CoreSite SV8",
+    "operator": "CoreSite",
+    "ref": "SV8",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.375611,
+    "maxlon": -121.9703973,
+    "minlat": 37.3747808,
+    "minlon": -121.9709805
+   },
+   "geometry": [
+    {
+     "lat": 37.3747829,
+     "lon": -121.9704012
+    },
+    {
+     "lat": 37.3756085,
+     "lon": -121.9703973
+    },
+    {
+     "lat": 37.375611,
+     "lon": -121.9709791
+    },
+    {
+     "lat": 37.3747808,
+     "lon": -121.9709805
+    },
+    {
+     "lat": 37.3747829,
+     "lon": -121.9704012
+    }
+   ],
+   "id": 54383196,
+   "tags": {
+    "building": "commercial",
+    "name": "CoreSite SV5",
+    "operator": "CoreSite",
+    "ref": "SV5",
+    "roof:colour": "gray",
+    "roof:shape": "flat",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3759013,
+    "maxlon": -121.9691809,
+    "minlat": 37.3752088,
+    "minlon": -121.970029
+   },
+   "geometry": [
+    {
+     "lat": 37.3752088,
+     "lon": -121.9692492
+    },
+    {
+     "lat": 37.3752138,
+     "lon": -121.970029
+    },
+    {
+     "lat": 37.3759013,
+     "lon": -121.970022
+    },
+    {
+     "lat": 37.3758958,
+     "lon": -121.9691809
+    },
+    {
+     "lat": 37.3753283,
+     "lon": -121.9691868
+    },
+    {
+     "lat": 37.3753287,
+     "lon": -121.969248
+    },
+    {
+     "lat": 37.3752088,
+     "lon": -121.9692492
+    }
+   ],
+   "id": 54383197,
+   "tags": {
+    "building": "commercial",
+    "name": "CoreSite SV9",
+    "operator": "CoreSite",
+    "ref": "SV9",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3930914,
+    "maxlon": -121.9780146,
+    "minlat": 37.3923701,
+    "minlon": -121.9788407
+   },
+   "geometry": [
+    {
+     "lat": 37.3930594,
+     "lon": -121.9785148
+    },
+    {
+     "lat": 37.3930573,
+     "lon": -121.9784062
+    },
+    {
+     "lat": 37.3930829,
+     "lon": -121.978366
+    },
+    {
+     "lat": 37.3930914,
+     "lon": -121.9783257
+    },
+    {
+     "lat": 37.3930903,
+     "lon": -121.9782855
+    },
+    {
+     "lat": 37.3930829,
+     "lon": -121.9782426
+    },
+    {
+     "lat": 37.3930573,
+     "lon": -121.9782037
+    },
+    {
+     "lat": 37.3930573,
+     "lon": -121.9780951
+    },
+    {
+     "lat": 37.3929273,
+     "lon": -121.9780964
+    },
+    {
+     "lat": 37.392809,
+     "lon": -121.9780387
+    },
+    {
+     "lat": 37.3927803,
+     "lon": -121.9781125
+    },
+    {
+     "lat": 37.3925959,
+     "lon": -121.9780146
+    },
+    {
+     "lat": 37.3925096,
+     "lon": -121.9782761
+    },
+    {
+     "lat": 37.3924755,
+     "lon": -121.9783002
+    },
+    {
+     "lat": 37.3924606,
+     "lon": -121.978323
+    },
+    {
+     "lat": 37.3924468,
+     "lon": -121.9783579
+    },
+    {
+     "lat": 37.3924393,
+     "lon": -121.9784035
+    },
+    {
+     "lat": 37.3924436,
+     "lon": -121.978429
+    },
+    {
+     "lat": 37.3924489,
+     "lon": -121.9784558
+    },
+    {
+     "lat": 37.3923701,
+     "lon": -121.9787133
+    },
+    {
+     "lat": 37.392613,
+     "lon": -121.9788407
+    },
+    {
+     "lat": 37.3926386,
+     "lon": -121.9787576
+    },
+    {
+     "lat": 37.3927004,
+     "lon": -121.9787938
+    },
+    {
+     "lat": 37.3927899,
+     "lon": -121.9785175
+    },
+    {
+     "lat": 37.3930594,
+     "lon": -121.9785148
+    }
+   ],
+   "id": 58708529,
+   "tags": {
+    "addr:housenumber": "2805",
+    "addr:postcode": "95054",
+    "addr:state": "CA",
+    "addr:street": "Mission College Boulevard",
+    "building": "yes",
+    "name": "QTS Santa Clara 2",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "telecom": "data_center",
+    "website": "https://qtsdatacenters.com/data-centers/santa-clara/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.4152373,
+    "maxlon": -122.013896,
+    "minlat": 37.4137845,
+    "minlon": -122.0152166
+   },
+   "geometry": [
+    {
+     "lat": 37.4137845,
+     "lon": -122.0150287
+    },
+    {
+     "lat": 37.4140226,
+     "lon": -122.0149503
+    },
+    {
+     "lat": 37.4139144,
+     "lon": -122.0144294
+    },
+    {
+     "lat": 37.4140772,
+     "lon": -122.0143758
+    },
+    {
+     "lat": 37.4141182,
+     "lon": -122.0145736
+    },
+    {
+     "lat": 37.4142078,
+     "lon": -122.0145441
+    },
+    {
+     "lat": 37.4141354,
+     "lon": -122.0141962
+    },
+    {
+     "lat": 37.4148843,
+     "lon": -122.0139493
+    },
+    {
+     "lat": 37.4150477,
+     "lon": -122.013896
+    },
+    {
+     "lat": 37.4150765,
+     "lon": -122.014036
+    },
+    {
+     "lat": 37.4151278,
+     "lon": -122.0140193
+    },
+    {
+     "lat": 37.4152373,
+     "lon": -122.014551
+    },
+    {
+     "lat": 37.4150558,
+     "lon": -122.0146102
+    },
+    {
+     "lat": 37.4151161,
+     "lon": -122.0149031
+    },
+    {
+     "lat": 37.4143246,
+     "lon": -122.0151614
+    },
+    {
+     "lat": 37.4143032,
+     "lon": -122.0150576
+    },
+    {
+     "lat": 37.4142398,
+     "lon": -122.0150783
+    },
+    {
+     "lat": 37.4142611,
+     "lon": -122.0151818
+    },
+    {
+     "lat": 37.4141709,
+     "lon": -122.0152114
+    },
+    {
+     "lat": 37.4141497,
+     "lon": -122.0151093
+    },
+    {
+     "lat": 37.4138235,
+     "lon": -122.0152166
+    },
+    {
+     "lat": 37.4137845,
+     "lon": -122.0150287
+    }
+   ],
+   "id": 99813512,
+   "tags": {
+    "addr:city": "Sunnyvale",
+    "addr:housenumber": "255",
+    "addr:postcode": "94089",
+    "addr:state": "CA",
+    "addr:street": "Caspian Drive",
+    "building": "data_center",
+    "name": "Equinix SV4",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "SV4",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/silicon-valley-data-centers/sv4"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.4461804,
+    "maxlon": -122.1604739,
+    "minlat": 37.4456098,
+    "minlon": -122.1610982
+   },
+   "geometry": [
+    {
+     "lat": 37.4456098,
+     "lon": -122.1609449
+    },
+    {
+     "lat": 37.4457061,
+     "lon": -122.1610982
+    },
+    {
+     "lat": 37.445848,
+     "lon": -122.1609569
+    },
+    {
+     "lat": 37.4458334,
+     "lon": -122.1609337
+    },
+    {
+     "lat": 37.445958,
+     "lon": -122.1608096
+    },
+    {
+     "lat": 37.4459739,
+     "lon": -122.1608349
+    },
+    {
+     "lat": 37.4461804,
+     "lon": -122.1606293
+    },
+    {
+     "lat": 37.4460829,
+     "lon": -122.1604739
+    },
+    {
+     "lat": 37.4456098,
+     "lon": -122.1609449
+    }
+   ],
+   "id": 132746406,
+   "tags": {
+    "addr:city": "Palo Alto",
+    "addr:housenumber": "529",
+    "addr:postcode": "94301",
+    "addr:state": "CA",
+    "addr:street": "Bryant Street",
+    "alt_name": "Palo Alto Internet Exchange",
+    "building": "data_center",
+    "name": "Equinix SV8",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "operator:wikipedia": "en:Equinix",
+    "ref": "SV8",
+    "source": "bing",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/silicon-valley-data-centers/sv8"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.242832,
+    "maxlon": -121.7804664,
+    "minlat": 37.2413118,
+    "minlon": -121.7831041
+   },
+   "geometry": [
+    {
+     "lat": 37.242353,
+     "lon": -121.7831041
+    },
+    {
+     "lat": 37.242832,
+     "lon": -121.7826585
+    },
+    {
+     "lat": 37.242821,
+     "lon": -121.7826397
+    },
+    {
+     "lat": 37.2425705,
+     "lon": -121.7822139
+    },
+    {
+     "lat": 37.2423954,
+     "lon": -121.7819163
+    },
+    {
+     "lat": 37.2424763,
+     "lon": -121.7818405
+    },
+    {
+     "lat": 37.2416587,
+     "lon": -121.7804664
+    },
+    {
+     "lat": 37.2415621,
+     "lon": -121.780557
+    },
+    {
+     "lat": 37.241586,
+     "lon": -121.7805971
+    },
+    {
+     "lat": 37.2416316,
+     "lon": -121.7806737
+    },
+    {
+     "lat": 37.2415512,
+     "lon": -121.7807491
+    },
+    {
+     "lat": 37.2415385,
+     "lon": -121.7807611
+    },
+    {
+     "lat": 37.2414067,
+     "lon": -121.7808848
+    },
+    {
+     "lat": 37.2414822,
+     "lon": -121.7810116
+    },
+    {
+     "lat": 37.2413118,
+     "lon": -121.7811716
+    },
+    {
+     "lat": 37.2413942,
+     "lon": -121.7813101
+    },
+    {
+     "lat": 37.2413659,
+     "lon": -121.7813367
+    },
+    {
+     "lat": 37.2416468,
+     "lon": -121.7818082
+    },
+    {
+     "lat": 37.2417083,
+     "lon": -121.7819114
+    },
+    {
+     "lat": 37.2416667,
+     "lon": -121.7819505
+    },
+    {
+     "lat": 37.2416711,
+     "lon": -121.7819579
+    },
+    {
+     "lat": 37.2420802,
+     "lon": -121.7826455
+    },
+    {
+     "lat": 37.2423152,
+     "lon": -121.7830405
+    },
+    {
+     "lat": 37.242353,
+     "lon": -121.7831041
+    }
+   ],
+   "id": 161126131,
+   "tags": {
+    "addr:city": "San Jose",
+    "addr:housenumber": "9",
+    "addr:postcode": "95119",
+    "addr:state": "CA",
+    "addr:street": "Great Oaks Boulevard",
+    "building": "data_center",
+    "name": "Equinix SV5",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "SV5",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/silicon-valley-data-centers/sv5"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 38.6446726,
+    "maxlon": -121.497913,
+    "minlat": 38.643806,
+    "minlon": -121.4996124
+   },
+   "geometry": [
+    {
+     "lat": 38.6446654,
+     "lon": -121.4996124
+    },
+    {
+     "lat": 38.643806,
+     "lon": -121.4996063
+    },
+    {
+     "lat": 38.6438134,
+     "lon": -121.497913
+    },
+    {
+     "lat": 38.6446726,
+     "lon": -121.4979191
+    },
+    {
+     "lat": 38.6446654,
+     "lon": -121.4996124
+    }
+   ],
+   "id": 190868312,
+   "tags": {
+    "addr:city": "Sacramento",
+    "addr:housenumber": "1625",
+    "addr:postcode": "95834",
+    "addr:state": "CA",
+    "addr:street": "National Driveq",
+    "building": "data_center",
+    "name": "RagingWire CA3",
+    "operator": "NTT",
+    "operator:wikidata": "Q1054787",
+    "ref": "CA3",
+    "telecom": "data_center",
+    "website": "https://services.global.ntt/en-us/services-and-products/global-data-centers/global-locations/americas/sacramento-data-centers"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.7893799,
+    "maxlon": -122.3896469,
+    "minlat": 37.7886034,
+    "minlon": -122.3906265
+   },
+   "geometry": [
+    {
+     "lat": 37.7891359,
+     "lon": -122.3906265
+    },
+    {
+     "lat": 37.7893799,
+     "lon": -122.3903153
+    },
+    {
+     "lat": 37.7888474,
+     "lon": -122.3896469
+    },
+    {
+     "lat": 37.7886034,
+     "lon": -122.389958
+    },
+    {
+     "lat": 37.7891359,
+     "lon": -122.3906265
+    }
+   ],
+   "id": 192307107,
+   "tags": {
+    "addr:city": "San Francisco",
+    "addr:housenumber": "360",
+    "addr:state": "CA",
+    "addr:street": "Spear Street",
+    "building": "data_center",
+    "height": "34 m",
+    "name": "360 Spear Street Data Center",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 38.646629,
+    "maxlon": -121.4852948,
+    "minlat": 38.6461236,
+    "minlon": -121.4872423
+   },
+   "geometry": [
+    {
+     "lat": 38.646629,
+     "lon": -121.4857655
+    },
+    {
+     "lat": 38.6466244,
+     "lon": -121.4852948
+    },
+    {
+     "lat": 38.6461236,
+     "lon": -121.4853066
+    },
+    {
+     "lat": 38.6461236,
+     "lon": -121.4872423
+    },
+    {
+     "lat": 38.6465004,
+     "lon": -121.4872423
+    },
+    {
+     "lat": 38.6465004,
+     "lon": -121.48679
+    },
+    {
+     "lat": 38.6465785,
+     "lon": -121.4867892
+    },
+    {
+     "lat": 38.6465722,
+     "lon": -121.4857664
+    },
+    {
+     "lat": 38.646629,
+     "lon": -121.4857655
+    }
+   ],
+   "id": 194049551,
+   "tags": {
+    "addr:city": "Sacramento",
+    "addr:housenumber": "1100",
+    "addr:postcode": "95834",
+    "addr:state": "CA",
+    "addr:street": "North Market Boulevard",
+    "building": "yes",
+    "name": "QTS Sacramento",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "telecom": "data_center",
+    "website": "https://www.qtsdatacenters.com/data-centers/sacramento"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3758285,
+    "maxlon": -121.9881349,
+    "minlat": 37.3751618,
+    "minlon": -121.9886777
+   },
+   "geometry": [
+    {
+     "lat": 37.3758281,
+     "lon": -121.9886777
+    },
+    {
+     "lat": 37.3758285,
+     "lon": -121.9881357
+    },
+    {
+     "lat": 37.3751622,
+     "lon": -121.9881349
+    },
+    {
+     "lat": 37.3751618,
+     "lon": -121.9886769
+    },
+    {
+     "lat": 37.3758281,
+     "lon": -121.9886777
+    }
+   ],
+   "id": 205823968,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "2960",
+    "addr:postcode": "95051",
+    "addr:state": "CA",
+    "addr:street": "Corvin Drive",
+    "building": "data_center",
+    "name": "Equinix SV15",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "SV15",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/silicon-valley-data-centers/sv15"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3763006,
+    "maxlon": -121.9882908,
+    "minlat": 37.375948,
+    "minlon": -121.9890528
+   },
+   "geometry": [
+    {
+     "lat": 37.3762946,
+     "lon": -121.9890528
+    },
+    {
+     "lat": 37.3763006,
+     "lon": -121.9884428
+    },
+    {
+     "lat": 37.37621,
+     "lon": -121.9884414
+    },
+    {
+     "lat": 37.3762115,
+     "lon": -121.9882948
+    },
+    {
+     "lat": 37.3759554,
+     "lon": -121.9882908
+    },
+    {
+     "lat": 37.375948,
+     "lon": -121.9890474
+    },
+    {
+     "lat": 37.3762946,
+     "lon": -121.9890528
+    }
+   ],
+   "id": 205823970,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "2960",
+    "addr:postcode": "95051",
+    "addr:state": "CA",
+    "addr:street": "Corvin Drive",
+    "building": "data_center",
+    "name": "Equinix SV16",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "SV16",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/silicon-valley-data-centers/sv16"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3767559,
+    "maxlon": -121.9880985,
+    "minlat": 37.3763058,
+    "minlon": -121.9890665
+   },
+   "geometry": [
+    {
+     "lat": 37.3767522,
+     "lon": -121.988875
+    },
+    {
+     "lat": 37.3767559,
+     "lon": -121.9881006
+    },
+    {
+     "lat": 37.3764826,
+     "lon": -121.9880985
+    },
+    {
+     "lat": 37.3764822,
+     "lon": -121.9881857
+    },
+    {
+     "lat": 37.37631,
+     "lon": -121.9881844
+    },
+    {
+     "lat": 37.3763058,
+     "lon": -121.9890638
+    },
+    {
+     "lat": 37.376672,
+     "lon": -121.9890665
+    },
+    {
+     "lat": 37.3766729,
+     "lon": -121.9888744
+    },
+    {
+     "lat": 37.3767522,
+     "lon": -121.988875
+    }
+   ],
+   "id": 205823971,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "2960",
+    "addr:postcode": "95051",
+    "addr:state": "CA",
+    "addr:street": "Corvin Drive",
+    "building": "data_center",
+    "name": "Equinix SV17",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "SV17",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/silicon-valley-data-centers/sv17"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3751209,
+    "maxlon": -121.9880383,
+    "minlat": 37.3748476,
+    "minlon": -121.9889102
+   },
+   "geometry": [
+    {
+     "lat": 37.3751197,
+     "lon": -121.9889102
+    },
+    {
+     "lat": 37.3751209,
+     "lon": -121.9886162
+    },
+    {
+     "lat": 37.3750414,
+     "lon": -121.9886157
+    },
+    {
+     "lat": 37.3750437,
+     "lon": -121.9880395
+    },
+    {
+     "lat": 37.374851,
+     "lon": -121.9880383
+    },
+    {
+     "lat": 37.3748476,
+     "lon": -121.9889085
+    },
+    {
+     "lat": 37.3751197,
+     "lon": -121.9889102
+    }
+   ],
+   "id": 205823980,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "2960",
+    "addr:postcode": "95051",
+    "addr:state": "CA",
+    "addr:street": "Corvin Drive",
+    "building": "data_center",
+    "name": "Equinix SV14",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "SV14",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/silicon-valley-data-centers/sv14"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3766922,
+    "maxlon": -121.9703974,
+    "minlat": 37.3758305,
+    "minlon": -121.9709728
+   },
+   "geometry": [
+    {
+     "lat": 37.3766922,
+     "lon": -121.9709728
+    },
+    {
+     "lat": 37.3766916,
+     "lon": -121.9703974
+    },
+    {
+     "lat": 37.3758305,
+     "lon": -121.9704005
+    },
+    {
+     "lat": 37.3758334,
+     "lon": -121.9709665
+    },
+    {
+     "lat": 37.3766922,
+     "lon": -121.9709728
+    }
+   ],
+   "id": 205846843,
+   "tags": {
+    "building": "commercial",
+    "name": "CoreSite SV4",
+    "operator": "CoreSite",
+    "ref": "SV4",
+    "roof:colour": "gray",
+    "roof:shape": "flat",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3772653,
+    "maxlon": -121.9517557,
+    "minlat": 37.376801,
+    "minlon": -121.9523622
+   },
+   "geometry": [
+    {
+     "lat": 37.3772653,
+     "lon": -121.9523621
+    },
+    {
+     "lat": 37.3772635,
+     "lon": -121.9521423
+    },
+    {
+     "lat": 37.3771978,
+     "lon": -121.952141
+    },
+    {
+     "lat": 37.377195,
+     "lon": -121.9519697
+    },
+    {
+     "lat": 37.3771367,
+     "lon": -121.9519678
+    },
+    {
+     "lat": 37.3771338,
+     "lon": -121.9517819
+    },
+    {
+     "lat": 37.3771155,
+     "lon": -121.9517557
+    },
+    {
+     "lat": 37.376801,
+     "lon": -121.9517571
+    },
+    {
+     "lat": 37.3768021,
+     "lon": -121.9519638
+    },
+    {
+     "lat": 37.3768042,
+     "lon": -121.9523622
+    },
+    {
+     "lat": 37.3772653,
+     "lon": -121.9523621
+    }
+   ],
+   "id": 209073635,
+   "tags": {
+    "addr:housenumber": "3045",
+    "addr:street": "Raymond Street",
+    "building": "yes",
+    "name": "Lumen Santa Clara",
+    "operator": "Lumen Technologies",
+    "operator:wikidata": "Q5063092",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3752844,
+    "maxlon": -121.9529826,
+    "minlat": 37.37475,
+    "minlon": -121.9535168
+   },
+   "geometry": [
+    {
+     "lat": 37.3752835,
+     "lon": -121.9535168
+    },
+    {
+     "lat": 37.3752844,
+     "lon": -121.9529842
+    },
+    {
+     "lat": 37.374751,
+     "lon": -121.9529826
+    },
+    {
+     "lat": 37.37475,
+     "lon": -121.9535153
+    },
+    {
+     "lat": 37.3752835,
+     "lon": -121.9535168
+    }
+   ],
+   "id": 209073636,
+   "tags": {
+    "addr:housenumber": "1111",
+    "addr:street": "Comstock Street",
+    "building": "yes",
+    "name": "Prime Santa Clara",
+    "operator": "Prime",
+    "telecom": "data_center",
+    "website": "https://primedatacenters.com/santa-clara-data-centers/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3760948,
+    "maxlon": -121.9528396,
+    "minlat": 37.3755491,
+    "minlon": -121.9538322
+   },
+   "geometry": [
+    {
+     "lat": 37.3759221,
+     "lon": -121.9528396
+    },
+    {
+     "lat": 37.3757095,
+     "lon": -121.9528401
+    },
+    {
+     "lat": 37.3755491,
+     "lon": -121.9528423
+    },
+    {
+     "lat": 37.3755524,
+     "lon": -121.9538306
+    },
+    {
+     "lat": 37.375881,
+     "lon": -121.9538316
+    },
+    {
+     "lat": 37.3759002,
+     "lon": -121.9538317
+    },
+    {
+     "lat": 37.3760948,
+     "lon": -121.9538322
+    },
+    {
+     "lat": 37.3760947,
+     "lon": -121.9528402
+    },
+    {
+     "lat": 37.3760593,
+     "lon": -121.9528401
+    },
+    {
+     "lat": 37.376027,
+     "lon": -121.95284
+    },
+    {
+     "lat": 37.3759221,
+     "lon": -121.9528396
+    }
+   ],
+   "id": 209073641,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "1100",
+    "addr:postcode": "95054",
+    "addr:state": "CA",
+    "addr:street": "Space Park Drive",
+    "building": "data_center",
+    "building:levels": "3",
+    "name": "Digital Realty Silicon Valley SJC10",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "SJC10",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.nl/data-centers/americas/silicon-valley/sjc10"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3769047,
+    "maxlon": -121.9528056,
+    "minlat": 37.3765409,
+    "minlon": -121.9534821
+   },
+   "geometry": [
+    {
+     "lat": 37.3769037,
+     "lon": -121.9534795
+    },
+    {
+     "lat": 37.3769027,
+     "lon": -121.9532706
+    },
+    {
+     "lat": 37.3769047,
+     "lon": -121.9528237
+    },
+    {
+     "lat": 37.3766273,
+     "lon": -121.9528271
+    },
+    {
+     "lat": 37.3766281,
+     "lon": -121.9528056
+    },
+    {
+     "lat": 37.3765419,
+     "lon": -121.9528058
+    },
+    {
+     "lat": 37.3765409,
+     "lon": -121.9529087
+    },
+    {
+     "lat": 37.3765613,
+     "lon": -121.9529066
+    },
+    {
+     "lat": 37.3765616,
+     "lon": -121.9529318
+    },
+    {
+     "lat": 37.3765585,
+     "lon": -121.9534622
+    },
+    {
+     "lat": 37.3765584,
+     "lon": -121.9534821
+    },
+    {
+     "lat": 37.3769037,
+     "lon": -121.9534795
+    }
+   ],
+   "id": 209073645,
+   "tags": {
+    "building": "yes",
+    "name": "Colovore",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3786543,
+    "maxlon": -121.957792,
+    "minlat": 37.3779205,
+    "minlon": -121.9584293
+   },
+   "geometry": [
+    {
+     "lat": 37.3786543,
+     "lon": -121.9584291
+    },
+    {
+     "lat": 37.3786539,
+     "lon": -121.957792
+    },
+    {
+     "lat": 37.3779205,
+     "lon": -121.9577927
+    },
+    {
+     "lat": 37.3779209,
+     "lon": -121.9584193
+    },
+    {
+     "lat": 37.3782157,
+     "lon": -121.9584191
+    },
+    {
+     "lat": 37.3782157,
+     "lon": -121.9583866
+    },
+    {
+     "lat": 37.3783414,
+     "lon": -121.9583865
+    },
+    {
+     "lat": 37.3783415,
+     "lon": -121.9584293
+    },
+    {
+     "lat": 37.3786543,
+     "lon": -121.9584291
+    }
+   ],
+   "id": 209073647,
+   "tags": {
+    "addr:housenumber": "3105",
+    "addr:street": "Alfred Street",
+    "building": "data_center",
+    "name": "Digital Realty Silicon Valley SJC30",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "SJC30",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/silicon-valley/sjc30"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3752148,
+    "maxlon": -121.9538097,
+    "minlat": 37.3747783,
+    "minlon": -121.9543441
+   },
+   "geometry": [
+    {
+     "lat": 37.3752142,
+     "lon": -121.9543441
+    },
+    {
+     "lat": 37.3752148,
+     "lon": -121.9538104
+    },
+    {
+     "lat": 37.3747789,
+     "lon": -121.9538097
+    },
+    {
+     "lat": 37.3747783,
+     "lon": -121.9543434
+    },
+    {
+     "lat": 37.3752142,
+     "lon": -121.9543441
+    }
+   ],
+   "id": 209073649,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "1201",
+    "addr:postcode": "95054",
+    "addr:street": "Comstock Street",
+    "building": "data_center",
+    "name": "Digital Realty Silicon Valley SJC15",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "SJC15",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/silicon-valley/sjc15"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3751249,
+    "maxlon": -121.9554556,
+    "minlat": 37.3747399,
+    "minlon": -121.9565418
+   },
+   "geometry": [
+    {
+     "lat": 37.3751249,
+     "lon": -121.9564445
+    },
+    {
+     "lat": 37.3751201,
+     "lon": -121.9554556
+    },
+    {
+     "lat": 37.3747399,
+     "lon": -121.9554585
+    },
+    {
+     "lat": 37.3747451,
+     "lon": -121.9565418
+    },
+    {
+     "lat": 37.3750172,
+     "lon": -121.9565397
+    },
+    {
+     "lat": 37.3750168,
+     "lon": -121.9564453
+    },
+    {
+     "lat": 37.3751249,
+     "lon": -121.9564445
+    }
+   ],
+   "id": 209073653,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "1525",
+    "addr:postcode": "95054",
+    "addr:state": "CA",
+    "addr:street": "Comstock Street",
+    "building": "data_center",
+    "name": "Digital Realty Silicon Valley SJC16",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "SJC16",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/silicon-valley/sjc16"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3752591,
+    "maxlon": -121.9576903,
+    "minlat": 37.3747873,
+    "minlon": -121.9585021
+   },
+   "geometry": [
+    {
+     "lat": 37.3752573,
+     "lon": -121.9585021
+    },
+    {
+     "lat": 37.3752591,
+     "lon": -121.957692
+    },
+    {
+     "lat": 37.3747891,
+     "lon": -121.9576903
+    },
+    {
+     "lat": 37.3747873,
+     "lon": -121.9585004
+    },
+    {
+     "lat": 37.3752573,
+     "lon": -121.9585021
+    }
+   ],
+   "id": 209073657,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "1725",
+    "addr:postcode": "95054",
+    "addr:state": "CA",
+    "addr:street": "Comstock Street",
+    "building": "data_center",
+    "name": "Digital Realty Silicon Valley SJC29",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/silicon-valley/sjc29"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3760318,
+    "maxlon": -121.9548704,
+    "minlat": 37.3755654,
+    "minlon": -121.9554984
+   },
+   "geometry": [
+    {
+     "lat": 37.3760318,
+     "lon": -121.9554908
+    },
+    {
+     "lat": 37.3760302,
+     "lon": -121.9553298
+    },
+    {
+     "lat": 37.3759694,
+     "lon": -121.9553308
+    },
+    {
+     "lat": 37.3759646,
+     "lon": -121.9548704
+    },
+    {
+     "lat": 37.3755654,
+     "lon": -121.954877
+    },
+    {
+     "lat": 37.3755719,
+     "lon": -121.9554984
+    },
+    {
+     "lat": 37.3760318,
+     "lon": -121.9554908
+    }
+   ],
+   "id": 209073658,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "1500",
+    "addr:postcode": "95054",
+    "addr:state": "CA",
+    "addr:street": "Space Park Drive",
+    "building": "yes",
+    "name": "Csquare SFO4",
+    "operator": "Csquare",
+    "ref": "SFO4",
+    "telecom": "data_center",
+    "website": "https://www.csquare.com/data-centers/silicon-valley#santaclara-sfo4"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3752729,
+    "maxlon": -121.9546226,
+    "minlat": 37.3747856,
+    "minlon": -121.9551325
+   },
+   "geometry": [
+    {
+     "lat": 37.3752722,
+     "lon": -121.9551325
+    },
+    {
+     "lat": 37.3752729,
+     "lon": -121.9546853
+    },
+    {
+     "lat": 37.3752175,
+     "lon": -121.9546852
+    },
+    {
+     "lat": 37.3752177,
+     "lon": -121.9546238
+    },
+    {
+     "lat": 37.3747865,
+     "lon": -121.9546226
+    },
+    {
+     "lat": 37.3747856,
+     "lon": -121.9551313
+    },
+    {
+     "lat": 37.3752722,
+     "lon": -121.9551325
+    }
+   ],
+   "id": 209073659,
+   "tags": {
+    "addr:housenumber": "1231",
+    "addr:street": "Comstock Street",
+    "building": "yes",
+    "name": "Prime SANTA CLARA DATA CENTER",
+    "operator": "Prime",
+    "telecom": "data_center",
+    "website": "https://primedatacenters.com/santa-clara-data-centers/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3765814,
+    "maxlon": -121.9479497,
+    "minlat": 37.3761521,
+    "minlon": -121.9491802
+   },
+   "geometry": [
+    {
+     "lat": 37.3765814,
+     "lon": -121.9487561
+    },
+    {
+     "lat": 37.3765802,
+     "lon": -121.9481103
+    },
+    {
+     "lat": 37.3761521,
+     "lon": -121.9479497
+    },
+    {
+     "lat": 37.3761549,
+     "lon": -121.9491802
+    },
+    {
+     "lat": 37.3763599,
+     "lon": -121.949178
+    },
+    {
+     "lat": 37.3763539,
+     "lon": -121.9488976
+    },
+    {
+     "lat": 37.3764954,
+     "lon": -121.9488991
+    },
+    {
+     "lat": 37.3764976,
+     "lon": -121.9487584
+    },
+    {
+     "lat": 37.3765814,
+     "lon": -121.9487561
+    }
+   ],
+   "id": 209076412,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "3011",
+    "addr:postcode": "95054",
+    "addr:state": "CA",
+    "addr:street": "Lafayette Street",
+    "building": "data_center",
+    "name": "Digital Realty Silicon Valley SJC11",
+    "note": "Apparently, \"leased to a social networking company\"",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "SJC11",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/silicon-valley/sjc11"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3777297,
+    "maxlon": -121.9504153,
+    "minlat": 37.3774399,
+    "minlon": -121.9509489
+   },
+   "geometry": [
+    {
+     "lat": 37.3777297,
+     "lon": -121.9509434
+    },
+    {
+     "lat": 37.3777233,
+     "lon": -121.9504153
+    },
+    {
+     "lat": 37.3774399,
+     "lon": -121.9504207
+    },
+    {
+     "lat": 37.3774463,
+     "lon": -121.9509489
+    },
+    {
+     "lat": 37.3777297,
+     "lon": -121.9509434
+    }
+   ],
+   "id": 209077298,
+   "tags": {
+    "addr:housenumber": "870",
+    "addr:street": "Duane Avenue",
+    "building": "data_center",
+    "name": "Lumen",
+    "operator": "Lumen Technologies",
+    "operator:wikidata": "Q5063092",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3726753,
+    "maxlon": -121.9473326,
+    "minlat": 37.3717673,
+    "minlon": -121.9491925
+   },
+   "geometry": [
+    {
+     "lat": 37.3726063,
+     "lon": -121.9483445
+    },
+    {
+     "lat": 37.3725935,
+     "lon": -121.9473326
+    },
+    {
+     "lat": 37.3720993,
+     "lon": -121.9473425
+    },
+    {
+     "lat": 37.3721006,
+     "lon": -121.9474458
+    },
+    {
+     "lat": 37.3719043,
+     "lon": -121.9474497
+    },
+    {
+     "lat": 37.3719188,
+     "lon": -121.9486012
+    },
+    {
+     "lat": 37.3717673,
+     "lon": -121.9486042
+    },
+    {
+     "lat": 37.3717742,
+     "lon": -121.9491479
+    },
+    {
+     "lat": 37.3718137,
+     "lon": -121.9491471
+    },
+    {
+     "lat": 37.3718143,
+     "lon": -121.9491925
+    },
+    {
+     "lat": 37.3726725,
+     "lon": -121.9491754
+    },
+    {
+     "lat": 37.3726704,
+     "lon": -121.949009
+    },
+    {
+     "lat": 37.3726394,
+     "lon": -121.9490097
+    },
+    {
+     "lat": 37.3726373,
+     "lon": -121.9488414
+    },
+    {
+     "lat": 37.3726753,
+     "lon": -121.9488406
+    },
+    {
+     "lat": 37.372669,
+     "lon": -121.9483432
+    },
+    {
+     "lat": 37.3726063,
+     "lon": -121.9483445
+    }
+   ],
+   "id": 209087373,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "2805",
+    "addr:postcode": "95050",
+    "addr:state": "CA",
+    "addr:street": "Lafayette Street",
+    "building": "data_center",
+    "name": "Silicon Valley SJC31",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "SJC31",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/silicon-valley/sjc31"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3800369,
+    "maxlon": -121.949709,
+    "minlat": 37.3795425,
+    "minlon": -121.9500979
+   },
+   "geometry": [
+    {
+     "lat": 37.3800327,
+     "lon": -121.9500979
+    },
+    {
+     "lat": 37.3800369,
+     "lon": -121.9498619
+    },
+    {
+     "lat": 37.3798941,
+     "lon": -121.949709
+    },
+    {
+     "lat": 37.3795425,
+     "lon": -121.949709
+    },
+    {
+     "lat": 37.3795489,
+     "lon": -121.9500925
+    },
+    {
+     "lat": 37.3800327,
+     "lon": -121.9500979
+    }
+   ],
+   "id": 209105766,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "3205",
+    "addr:postcode": "95054",
+    "addr:state": "CA",
+    "addr:street": "Bassett Street",
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3899616,
+    "maxlon": -121.9614393,
+    "minlat": 37.3891113,
+    "minlon": -121.9624404
+   },
+   "geometry": [
+    {
+     "lat": 37.3899616,
+     "lon": -121.9617967
+    },
+    {
+     "lat": 37.3893691,
+     "lon": -121.9614393
+    },
+    {
+     "lat": 37.3892985,
+     "lon": -121.9616248
+    },
+    {
+     "lat": 37.3892569,
+     "lon": -121.9615997
+    },
+    {
+     "lat": 37.3892317,
+     "lon": -121.961666
+    },
+    {
+     "lat": 37.3892775,
+     "lon": -121.9618383
+    },
+    {
+     "lat": 37.389225,
+     "lon": -121.9618059
+    },
+    {
+     "lat": 37.3891113,
+     "lon": -121.962098
+    },
+    {
+     "lat": 37.3892963,
+     "lon": -121.962212
+    },
+    {
+     "lat": 37.3893132,
+     "lon": -121.9621687
+    },
+    {
+     "lat": 37.3894248,
+     "lon": -121.9622375
+    },
+    {
+     "lat": 37.3894564,
+     "lon": -121.9623348
+    },
+    {
+     "lat": 37.3896281,
+     "lon": -121.9624404
+    },
+    {
+     "lat": 37.3897345,
+     "lon": -121.9623922
+    },
+    {
+     "lat": 37.3898225,
+     "lon": -121.9621665
+    },
+    {
+     "lat": 37.3897687,
+     "lon": -121.9621333
+    },
+    {
+     "lat": 37.3899072,
+     "lon": -121.9620635
+    },
+    {
+     "lat": 37.3899297,
+     "lon": -121.9620045
+    },
+    {
+     "lat": 37.3898913,
+     "lon": -121.9619813
+    },
+    {
+     "lat": 37.3899616,
+     "lon": -121.9617967
+    }
+   ],
+   "id": 209117217,
+   "tags": {
+    "addr:housenumber": "2151",
+    "addr:street": "Mission College Boulevard",
+    "building": "commercial",
+    "name": "Evocative Santa Clara SJC11",
+    "ref": "SJC11",
+    "telecom": "data_center",
+    "website": "https://evocative.com/data-centers/santa-clara-ca-data-center-sjc11/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.418619,
+    "maxlon": -121.9425757,
+    "minlat": 37.418143,
+    "minlon": -121.9436589
+   },
+   "geometry": [
+    {
+     "lat": 37.418143,
+     "lon": -121.9428107
+    },
+    {
+     "lat": 37.4181873,
+     "lon": -121.9428119
+    },
+    {
+     "lat": 37.4181852,
+     "lon": -121.9429294
+    },
+    {
+     "lat": 37.4181566,
+     "lon": -121.9429286
+    },
+    {
+     "lat": 37.4181536,
+     "lon": -121.9430978
+    },
+    {
+     "lat": 37.4182662,
+     "lon": -121.9431009
+    },
+    {
+     "lat": 37.4182605,
+     "lon": -121.9434293
+    },
+    {
+     "lat": 37.4182371,
+     "lon": -121.9434287
+    },
+    {
+     "lat": 37.4182345,
+     "lon": -121.9435749
+    },
+    {
+     "lat": 37.4182582,
+     "lon": -121.9435755
+    },
+    {
+     "lat": 37.4182569,
+     "lon": -121.9436494
+    },
+    {
+     "lat": 37.4186004,
+     "lon": -121.9436589
+    },
+    {
+     "lat": 37.418619,
+     "lon": -121.9425875
+    },
+    {
+     "lat": 37.4181909,
+     "lon": -121.9425757
+    },
+    {
+     "lat": 37.4181898,
+     "lon": -121.9426408
+    },
+    {
+     "lat": 37.418146,
+     "lon": -121.9426396
+    },
+    {
+     "lat": 37.418143,
+     "lon": -121.9428107
+    }
+   ],
+   "id": 224139416,
+   "tags": {
+    "addr:city": "San Jose",
+    "addr:housenumber": "400",
+    "addr:postcode": "95134",
+    "addr:street": "Holger Way",
+    "building": "commercial",
+    "ele": "17.68",
+    "height": "10.01",
+    "name": "Dell 350 Holger Way",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.364652,
+    "maxlon": -121.9583754,
+    "minlat": 37.3639088,
+    "minlon": -121.9592002
+   },
+   "geometry": [
+    {
+     "lat": 37.364652,
+     "lon": -121.9591924
+    },
+    {
+     "lat": 37.3646459,
+     "lon": -121.9583754
+    },
+    {
+     "lat": 37.3641207,
+     "lon": -121.9583816
+    },
+    {
+     "lat": 37.364122,
+     "lon": -121.9585577
+    },
+    {
+     "lat": 37.3639088,
+     "lon": -121.9585602
+    },
+    {
+     "lat": 37.3639117,
+     "lon": -121.9589542
+    },
+    {
+     "lat": 37.3639947,
+     "lon": -121.9589532
+    },
+    {
+     "lat": 37.3639966,
+     "lon": -121.9592002
+    },
+    {
+     "lat": 37.364652,
+     "lon": -121.9591924
+    }
+   ],
+   "id": 224174031,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:state": "CA",
+    "addr:street": "Richard Avenue",
+    "building": "colocation",
+    "name": "SV Colo",
+    "operator": "SV Colo",
+    "telecom": "data_center",
+    "website": "https://www.svcolo.com/index.html"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3627329,
+    "maxlon": -121.9452894,
+    "minlat": 37.3614724,
+    "minlon": -121.9476279
+   },
+   "geometry": [
+    {
+     "lat": 37.3625423,
+     "lon": -121.9463993
+    },
+    {
+     "lat": 37.3627329,
+     "lon": -121.9456799
+    },
+    {
+     "lat": 37.3618017,
+     "lon": -121.9452894
+    },
+    {
+     "lat": 37.3616101,
+     "lon": -121.9460128
+    },
+    {
+     "lat": 37.3617892,
+     "lon": -121.9460879
+    },
+    {
+     "lat": 37.3614724,
+     "lon": -121.9472836
+    },
+    {
+     "lat": 37.3622935,
+     "lon": -121.9476279
+    },
+    {
+     "lat": 37.3625047,
+     "lon": -121.9468307
+    },
+    {
+     "lat": 37.3619125,
+     "lon": -121.9465823
+    },
+    {
+     "lat": 37.3620191,
+     "lon": -121.9461799
+    },
+    {
+     "lat": 37.3625423,
+     "lon": -121.9463993
+    }
+   ],
+   "id": 224998784,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "2055",
+    "addr:state": "CA",
+    "addr:street": "Lafayette Street",
+    "building": "data_center",
+    "name": "Microsoft",
+    "operator": "Microsoft",
+    "operator:wikidata": "Q2283",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3725247,
+    "maxlon": -121.9855562,
+    "minlat": 37.3715836,
+    "minlon": -121.9865252
+   },
+   "geometry": [
+    {
+     "lat": 37.372524,
+     "lon": -121.9863223
+    },
+    {
+     "lat": 37.3725247,
+     "lon": -121.9857339
+    },
+    {
+     "lat": 37.3723568,
+     "lon": -121.9857336
+    },
+    {
+     "lat": 37.372357,
+     "lon": -121.9855566
+    },
+    {
+     "lat": 37.3721459,
+     "lon": -121.9855562
+    },
+    {
+     "lat": 37.3721456,
+     "lon": -121.9857384
+    },
+    {
+     "lat": 37.3719757,
+     "lon": -121.9857381
+    },
+    {
+     "lat": 37.3719759,
+     "lon": -121.9855572
+    },
+    {
+     "lat": 37.3717134,
+     "lon": -121.9855567
+    },
+    {
+     "lat": 37.3717132,
+     "lon": -121.9857373
+    },
+    {
+     "lat": 37.371584,
+     "lon": -121.985737
+    },
+    {
+     "lat": 37.3715836,
+     "lon": -121.9860152
+    },
+    {
+     "lat": 37.3718409,
+     "lon": -121.9860158
+    },
+    {
+     "lat": 37.3718401,
+     "lon": -121.986524
+    },
+    {
+     "lat": 37.3723574,
+     "lon": -121.9865252
+    },
+    {
+     "lat": 37.3723575,
+     "lon": -121.986422
+    },
+    {
+     "lat": 37.3724668,
+     "lon": -121.9864223
+    },
+    {
+     "lat": 37.3724669,
+     "lon": -121.9863222
+    },
+    {
+     "lat": 37.372524,
+     "lon": -121.9863223
+    }
+   ],
+   "id": 271893323,
+   "tags": {
+    "addr:city": "Sunnyvale",
+    "addr:housenumber": "1400",
+    "addr:postcode": "94086",
+    "addr:state": "CA",
+    "addr:street": "Kifer Road",
+    "building": "yes",
+    "name": "Csquare SFO3",
+    "operator": "Csquare",
+    "ref": "SFO3",
+    "telecom": "data_center",
+    "website": "https://www.csquare.com/data-centers/silicon-valley#sunnyvale-sfo3"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.7242993,
+    "maxlon": -122.3973845,
+    "minlat": 37.722955,
+    "minlon": -122.3985241
+   },
+   "geometry": [
+    {
+     "lat": 37.7238817,
+     "lon": -122.3982713
+    },
+    {
+     "lat": 37.7241793,
+     "lon": -122.3981959
+    },
+    {
+     "lat": 37.724186,
+     "lon": -122.3982358
+    },
+    {
+     "lat": 37.7242993,
+     "lon": -122.3982056
+    },
+    {
+     "lat": 37.7242824,
+     "lon": -122.3981014
+    },
+    {
+     "lat": 37.7242521,
+     "lon": -122.3981063
+    },
+    {
+     "lat": 37.7241486,
+     "lon": -122.397481
+    },
+    {
+     "lat": 37.7237714,
+     "lon": -122.3975724
+    },
+    {
+     "lat": 37.7237527,
+     "lon": -122.397447
+    },
+    {
+     "lat": 37.7237854,
+     "lon": -122.3974392
+    },
+    {
+     "lat": 37.7237769,
+     "lon": -122.3973845
+    },
+    {
+     "lat": 37.722955,
+     "lon": -122.3976478
+    },
+    {
+     "lat": 37.7231245,
+     "lon": -122.3983675
+    },
+    {
+     "lat": 37.7231289,
+     "lon": -122.3983661
+    },
+    {
+     "lat": 37.7231662,
+     "lon": -122.3985241
+    },
+    {
+     "lat": 37.7238842,
+     "lon": -122.3982923
+    },
+    {
+     "lat": 37.7238817,
+     "lon": -122.3982713
+    }
+   ],
+   "id": 289620443,
+   "tags": {
+    "addr:city": "San Francisco",
+    "addr:housenumber": "200",
+    "addr:state": "CA",
+    "addr:street": "Paul Avenue",
+    "building": "data_center",
+    "clli": "SNFCCAMM",
+    "height": "16",
+    "name": "Digital Realty San Francisco SFO10",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "SFO10",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.4062039,
+    "maxlon": -121.9154745,
+    "minlat": 37.4051675,
+    "minlon": -121.9170462
+   },
+   "geometry": [
+    {
+     "lat": 37.4062039,
+     "lon": -121.9158256
+    },
+    {
+     "lat": 37.4057135,
+     "lon": -121.9170462
+    },
+    {
+     "lat": 37.405431,
+     "lon": -121.9168663
+    },
+    {
+     "lat": 37.4054607,
+     "lon": -121.9167923
+    },
+    {
+     "lat": 37.4051675,
+     "lon": -121.9166056
+    },
+    {
+     "lat": 37.4055634,
+     "lon": -121.9156202
+    },
+    {
+     "lat": 37.4055877,
+     "lon": -121.9156357
+    },
+    {
+     "lat": 37.4056525,
+     "lon": -121.9154745
+    },
+    {
+     "lat": 37.4062039,
+     "lon": -121.9158256
+    }
+   ],
+   "id": 299388896,
+   "tags": {
+    "addr:city": "Milpitas",
+    "addr:housenumber": "1656",
+    "addr:postcode": "95035",
+    "addr:state": "CA",
+    "addr:street": "McCarthy Boulevard",
+    "building": "yes",
+    "clli": "MLPSCASD",
+    "name": "CoreSite SV2",
+    "operator": "CoreSite Real Estate 1656 McCarthy, L.P.",
+    "ref": "SV2",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3631473,
+    "maxlon": -121.942847,
+    "minlat": 37.3601465,
+    "minlon": -121.9451097
+   },
+   "geometry": [
+    {
+     "lat": 37.362911,
+     "lon": -121.9451097
+    },
+    {
+     "lat": 37.3620343,
+     "lon": -121.9446405
+    },
+    {
+     "lat": 37.362054,
+     "lon": -121.9445824
+    },
+    {
+     "lat": 37.3610433,
+     "lon": -121.9440417
+    },
+    {
+     "lat": 37.3610177,
+     "lon": -121.9440846
+    },
+    {
+     "lat": 37.3601465,
+     "lon": -121.9436186
+    },
+    {
+     "lat": 37.3603749,
+     "lon": -121.9429428
+    },
+    {
+     "lat": 37.3604193,
+     "lon": -121.9429666
+    },
+    {
+     "lat": 37.3604597,
+     "lon": -121.942847
+    },
+    {
+     "lat": 37.3606518,
+     "lon": -121.9429499
+    },
+    {
+     "lat": 37.3606734,
+     "lon": -121.9428862
+    },
+    {
+     "lat": 37.3616365,
+     "lon": -121.9434022
+    },
+    {
+     "lat": 37.3616696,
+     "lon": -121.9433045
+    },
+    {
+     "lat": 37.3617186,
+     "lon": -121.9431583
+    },
+    {
+     "lat": 37.3620738,
+     "lon": -121.943348
+    },
+    {
+     "lat": 37.3619913,
+     "lon": -121.9435914
+    },
+    {
+     "lat": 37.3629825,
+     "lon": -121.9441226
+    },
+    {
+     "lat": 37.3629641,
+     "lon": -121.9441769
+    },
+    {
+     "lat": 37.3631304,
+     "lon": -121.9442659
+    },
+    {
+     "lat": 37.3630914,
+     "lon": -121.944381
+    },
+    {
+     "lat": 37.3631473,
+     "lon": -121.9444109
+    },
+    {
+     "lat": 37.362911,
+     "lon": -121.9451097
+    }
+   ],
+   "id": 358455179,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "2220",
+    "addr:state": "CA",
+    "addr:street": "De La Cruz Boulevard",
+    "addr:unit": "1",
+    "building": "data_center",
+    "name": "Digital Realty Silicon Valley SC1",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.6994977,
+    "maxlon": -121.9036938,
+    "minlat": 37.6994529,
+    "minlon": -121.9039052
+   },
+   "geometry": [
+    {
+     "lat": 37.6994553,
+     "lon": -121.9039052
+    },
+    {
+     "lat": 37.6994977,
+     "lon": -121.9039044
+    },
+    {
+     "lat": 37.6994953,
+     "lon": -121.9036938
+    },
+    {
+     "lat": 37.6994529,
+     "lon": -121.9036946
+    },
+    {
+     "lat": 37.6994553,
+     "lon": -121.9039052
+    }
+   ],
+   "id": 358946546,
+   "tags": {
+    "building": "yes",
+    "name": "QES Computers",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.4902227,
+    "maxlon": -121.9305839,
+    "minlat": 37.4895469,
+    "minlon": -121.9314638
+   },
+   "geometry": [
+    {
+     "lat": 37.4898833,
+     "lon": -121.9314638
+    },
+    {
+     "lat": 37.4895469,
+     "lon": -121.9311408
+    },
+    {
+     "lat": 37.4895958,
+     "lon": -121.9310558
+    },
+    {
+     "lat": 37.4896239,
+     "lon": -121.9310069
+    },
+    {
+     "lat": 37.4896105,
+     "lon": -121.9309897
+    },
+    {
+     "lat": 37.4895982,
+     "lon": -121.9309741
+    },
+    {
+     "lat": 37.4895654,
+     "lon": -121.9309322
+    },
+    {
+     "lat": 37.489628,
+     "lon": -121.9308528
+    },
+    {
+     "lat": 37.4896756,
+     "lon": -121.9307925
+    },
+    {
+     "lat": 37.4896925,
+     "lon": -121.9307712
+    },
+    {
+     "lat": 37.4898402,
+     "lon": -121.9305839
+    },
+    {
+     "lat": 37.4902227,
+     "lon": -121.9309535
+    },
+    {
+     "lat": 37.4901011,
+     "lon": -121.9311524
+    },
+    {
+     "lat": 37.4900842,
+     "lon": -121.9311369
+    },
+    {
+     "lat": 37.4900754,
+     "lon": -121.9311512
+    },
+    {
+     "lat": 37.4899976,
+     "lon": -121.9312779
+    },
+    {
+     "lat": 37.489897,
+     "lon": -121.9314414
+    },
+    {
+     "lat": 37.4898833,
+     "lon": -121.9314638
+    }
+   ],
+   "id": 383728972,
+   "tags": {
+    "addr:city": "Fremont",
+    "addr:country": "US",
+    "addr:housenumber": "760",
+    "addr:postcode": "94539",
+    "addr:state": "CA",
+    "addr:street": "Mission Court",
+    "building": "industrial",
+    "building:levels": "2",
+    "name": "Hurricane Electric Fremont 1",
+    "operator": "Hurricane Electric",
+    "ref": "fmt1",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.4758395,
+    "maxlon": -121.9215444,
+    "minlat": 37.4748106,
+    "minlon": -121.9226692
+   },
+   "geometry": [
+    {
+     "lat": 37.4756542,
+     "lon": -121.9226692
+    },
+    {
+     "lat": 37.4758395,
+     "lon": -121.9221653
+    },
+    {
+     "lat": 37.4757772,
+     "lon": -121.922129
+    },
+    {
+     "lat": 37.4757468,
+     "lon": -121.922012
+    },
+    {
+     "lat": 37.4757645,
+     "lon": -121.9219657
+    },
+    {
+     "lat": 37.4754152,
+     "lon": -121.9217617
+    },
+    {
+     "lat": 37.4754016,
+     "lon": -121.9217986
+    },
+    {
+     "lat": 37.4752028,
+     "lon": -121.9216825
+    },
+    {
+     "lat": 37.4752164,
+     "lon": -121.9216456
+    },
+    {
+     "lat": 37.4750431,
+     "lon": -121.9215444
+    },
+    {
+     "lat": 37.4748106,
+     "lon": -121.9221767
+    },
+    {
+     "lat": 37.4756542,
+     "lon": -121.9226692
+    }
+   ],
+   "id": 384310259,
+   "tags": {
+    "addr:housenumber": "47913;47923;47963",
+    "addr:street": "Warm Springs Boulevard",
+    "building": "yes",
+    "name": "XO Fremont",
+    "operator": "XO",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.4727182,
+    "maxlon": -121.9194248,
+    "minlat": 37.4709499,
+    "minlon": -121.9211566
+   },
+   "geometry": [
+    {
+     "lat": 37.4724053,
+     "lon": -121.9211001
+    },
+    {
+     "lat": 37.4727182,
+     "lon": -121.9202187
+    },
+    {
+     "lat": 37.4721177,
+     "lon": -121.9198802
+    },
+    {
+     "lat": 37.4721294,
+     "lon": -121.9198473
+    },
+    {
+     "lat": 37.4718264,
+     "lon": -121.9196764
+    },
+    {
+     "lat": 37.4717797,
+     "lon": -121.9195696
+    },
+    {
+     "lat": 37.4717136,
+     "lon": -121.9196103
+    },
+    {
+     "lat": 37.4716232,
+     "lon": -121.919562
+    },
+    {
+     "lat": 37.4716115,
+     "lon": -121.9195949
+    },
+    {
+     "lat": 37.4713096,
+     "lon": -121.9194248
+    },
+    {
+     "lat": 37.4709499,
+     "lon": -121.9204382
+    },
+    {
+     "lat": 37.4713572,
+     "lon": -121.9206677
+    },
+    {
+     "lat": 37.471404,
+     "lon": -121.9205358
+    },
+    {
+     "lat": 37.4714547,
+     "lon": -121.9205643
+    },
+    {
+     "lat": 37.4713747,
+     "lon": -121.9207895
+    },
+    {
+     "lat": 37.4714654,
+     "lon": -121.9208407
+    },
+    {
+     "lat": 37.4715454,
+     "lon": -121.9206154
+    },
+    {
+     "lat": 37.4716032,
+     "lon": -121.920648
+    },
+    {
+     "lat": 37.4715441,
+     "lon": -121.9208143
+    },
+    {
+     "lat": 37.4718497,
+     "lon": -121.9209865
+    },
+    {
+     "lat": 37.4719087,
+     "lon": -121.9208202
+    },
+    {
+     "lat": 37.4719569,
+     "lon": -121.9208474
+    },
+    {
+     "lat": 37.4718978,
+     "lon": -121.9210141
+    },
+    {
+     "lat": 37.4721506,
+     "lon": -121.9211566
+    },
+    {
+     "lat": 37.4722098,
+     "lon": -121.9209899
+    },
+    {
+     "lat": 37.4724053,
+     "lon": -121.9211001
+    }
+   ],
+   "id": 384310269,
+   "tags": {
+    "addr:city": "Fremont",
+    "addr:country": "US",
+    "addr:housenumber": "48233",
+    "addr:postcode": "94539",
+    "addr:state": "CA",
+    "addr:street": "Warm Springs Boulevard",
+    "building": "yes",
+    "building:levels": "2",
+    "clli": "FRMTCA",
+    "name": "Hurricane Electric Fremont 2",
+    "operator": "Hurricane Electric",
+    "ref": "fmt2",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3998986,
+    "maxlon": -122.0142524,
+    "minlat": 37.3993545,
+    "minlon": -122.0148644
+   },
+   "geometry": [
+    {
+     "lat": 37.3998986,
+     "lon": -122.0146965
+    },
+    {
+     "lat": 37.3998603,
+     "lon": -122.0145235
+    },
+    {
+     "lat": 37.3998393,
+     "lon": -122.0145309
+    },
+    {
+     "lat": 37.3998186,
+     "lon": -122.014437
+    },
+    {
+     "lat": 37.3998097,
+     "lon": -122.0144302
+    },
+    {
+     "lat": 37.3997911,
+     "lon": -122.0144325
+    },
+    {
+     "lat": 37.3997379,
+     "lon": -122.0144511
+    },
+    {
+     "lat": 37.399722,
+     "lon": -122.0143794
+    },
+    {
+     "lat": 37.3996796,
+     "lon": -122.0143942
+    },
+    {
+     "lat": 37.3996482,
+     "lon": -122.0142524
+    },
+    {
+     "lat": 37.3993545,
+     "lon": -122.0143554
+    },
+    {
+     "lat": 37.3994386,
+     "lon": -122.0147352
+    },
+    {
+     "lat": 37.3993947,
+     "lon": -122.0147506
+    },
+    {
+     "lat": 37.3994199,
+     "lon": -122.0148644
+    },
+    {
+     "lat": 37.3998986,
+     "lon": -122.0146965
+    }
+   ],
+   "id": 390287635,
+   "tags": {
+    "addr:city": "Sunnyvale",
+    "addr:housenumber": "444",
+    "addr:state": "CA",
+    "addr:street": "Toyama Drive",
+    "building": "data_center",
+    "name": "Equinix SV6",
+    "operator": "Equinix",
+    "ref": "SV6",
+    "telecom": "data_center",
+    "website": "https://www.equinix.co.uk/locations/united-states-colocation/silicon-valley-data-centers/sv6/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.8513604,
+    "maxlon": -118.3036797,
+    "minlat": 33.8501445,
+    "minlon": -118.3044832
+   },
+   "geometry": [
+    {
+     "lat": 33.8501449,
+     "lon": -118.3036797
+    },
+    {
+     "lat": 33.8501446,
+     "lon": -118.3041962
+    },
+    {
+     "lat": 33.8501445,
+     "lon": -118.3044823
+    },
+    {
+     "lat": 33.85136,
+     "lon": -118.3044832
+    },
+    {
+     "lat": 33.85136,
+     "lon": -118.3044321
+    },
+    {
+     "lat": 33.85136,
+     "lon": -118.3043534
+    },
+    {
+     "lat": 33.8513604,
+     "lon": -118.3036808
+    },
+    {
+     "lat": 33.8501449,
+     "lon": -118.3036797
+    }
+   ],
+   "id": 409027020,
+   "tags": {
+    "addr:city": "Torrance",
+    "addr:housenumber": "1501",
+    "addr:postcode": "90501",
+    "addr:state": "CA",
+    "addr:street": "Francisco Street",
+    "building": "yes",
+    "ele": "29.3",
+    "height": "11.3",
+    "lacounty:ain": "7351021800",
+    "lacounty:bld_id": "469329768392",
+    "name": "Equinix",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "LA7",
+    "source": "yahoo",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/los-angeles-data-centers/la7"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.9179842,
+    "maxlon": -118.3854978,
+    "minlat": 33.917471,
+    "minlon": -118.3869491
+   },
+   "geometry": [
+    {
+     "lat": 33.9179842,
+     "lon": -118.3857638
+    },
+    {
+     "lat": 33.9178641,
+     "lon": -118.3857637
+    },
+    {
+     "lat": 33.9178642,
+     "lon": -118.3854979
+    },
+    {
+     "lat": 33.9177426,
+     "lon": -118.3854978
+    },
+    {
+     "lat": 33.9177425,
+     "lon": -118.3857623
+    },
+    {
+     "lat": 33.9175836,
+     "lon": -118.3857622
+    },
+    {
+     "lat": 33.9175837,
+     "lon": -118.385697
+    },
+    {
+     "lat": 33.9174716,
+     "lon": -118.385697
+    },
+    {
+     "lat": 33.917471,
+     "lon": -118.3869488
+    },
+    {
+     "lat": 33.9179836,
+     "lon": -118.3869491
+    },
+    {
+     "lat": 33.9179842,
+     "lon": -118.3857638
+    }
+   ],
+   "id": 424945736,
+   "tags": {
+    "addr:city": "El Segundo",
+    "addr:housenumber": "200",
+    "addr:postcode": "90245",
+    "addr:state": "CA",
+    "addr:street": "North Nash Street",
+    "building": "data_center",
+    "ele": "40.9",
+    "height": "8.5",
+    "lacounty:ain": "4138003046",
+    "lacounty:bld_id": "444460792673",
+    "operator": "Centurylink",
+    "owner": "Digital Realty",
+    "start_date": "1976",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.9221552,
+    "maxlon": -118.3857344,
+    "minlat": 33.9213277,
+    "minlon": -118.3871833
+   },
+   "geometry": [
+    {
+     "lat": 33.9221552,
+     "lon": -118.3857394
+    },
+    {
+     "lat": 33.9216297,
+     "lon": -118.3857344
+    },
+    {
+     "lat": 33.921629,
+     "lon": -118.385841
+    },
+    {
+     "lat": 33.9213349,
+     "lon": -118.3858382
+    },
+    {
+     "lat": 33.9213323,
+     "lon": -118.3862358
+    },
+    {
+     "lat": 33.9213277,
+     "lon": -118.3869336
+    },
+    {
+     "lat": 33.9213436,
+     "lon": -118.3869337
+    },
+    {
+     "lat": 33.9214227,
+     "lon": -118.3869345
+    },
+    {
+     "lat": 33.9214218,
+     "lon": -118.3870731
+    },
+    {
+     "lat": 33.9214211,
+     "lon": -118.3871785
+    },
+    {
+     "lat": 33.9219316,
+     "lon": -118.3871833
+    },
+    {
+     "lat": 33.9219327,
+     "lon": -118.387013
+    },
+    {
+     "lat": 33.9219331,
+     "lon": -118.3869409
+    },
+    {
+     "lat": 33.9221474,
+     "lon": -118.3869429
+    },
+    {
+     "lat": 33.9221552,
+     "lon": -118.3857394
+    }
+   ],
+   "id": 424945845,
+   "tags": {
+    "addr:city": "El Segundo",
+    "addr:housenumber": "444",
+    "addr:postcode": "90245",
+    "addr:state": "CA",
+    "addr:street": "North Nash Street",
+    "building": "industrial",
+    "check_date": "2025-04-14",
+    "ele": "38.8",
+    "height": "7.0",
+    "lacounty:ain": "4138003007",
+    "lacounty:bld_id": "444394794128",
+    "name": "Serverfarm - LAX1",
+    "operator": "Serverfarm LLC.",
+    "ref": "LAX1",
+    "start_date": "1973",
+    "telecom": "data_center",
+    "website": "https://www.serverfarmllc.com/los-angeles-data-center/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.9161086,
+    "maxlon": -118.3839957,
+    "minlat": 33.91521,
+    "minlon": -118.3852415
+   },
+   "geometry": [
+    {
+     "lat": 33.9159438,
+     "lon": -118.3843323
+    },
+    {
+     "lat": 33.915944,
+     "lon": -118.3842013
+    },
+    {
+     "lat": 33.9160097,
+     "lon": -118.3842014
+    },
+    {
+     "lat": 33.9160098,
+     "lon": -118.384032
+    },
+    {
+     "lat": 33.9157895,
+     "lon": -118.3840315
+    },
+    {
+     "lat": 33.9157895,
+     "lon": -118.3839968
+    },
+    {
+     "lat": 33.9152103,
+     "lon": -118.3839957
+    },
+    {
+     "lat": 33.91521,
+     "lon": -118.3842205
+    },
+    {
+     "lat": 33.9152385,
+     "lon": -118.3842205
+    },
+    {
+     "lat": 33.9152372,
+     "lon": -118.3852402
+    },
+    {
+     "lat": 33.9159446,
+     "lon": -118.3852415
+    },
+    {
+     "lat": 33.9159447,
+     "lon": -118.3851579
+    },
+    {
+     "lat": 33.9161076,
+     "lon": -118.3851581
+    },
+    {
+     "lat": 33.9161086,
+     "lon": -118.3843326
+    },
+    {
+     "lat": 33.9159438,
+     "lon": -118.3843323
+    }
+   ],
+   "id": 424945852,
+   "tags": {
+    "addr:city": "El Segundo",
+    "addr:housenumber": "2260",
+    "addr:postcode": "90245",
+    "addr:state": "CA",
+    "addr:street": "East El Segundo Boulevard",
+    "building": "data_center",
+    "ele": "45.3",
+    "height": "14.9",
+    "lacounty:ain": "4138013027",
+    "lacounty:bld_id": "445113791911",
+    "name": "DRT LAX12",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "LAX4",
+    "start_date": "1979",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.047821,
+    "maxlon": -118.256867,
+    "minlat": 34.0468397,
+    "minlon": -118.258153
+   },
+   "geometry": [
+    {
+     "lat": 34.0470976,
+     "lon": -118.257695
+    },
+    {
+     "lat": 34.0470992,
+     "lon": -118.257698
+    },
+    {
+     "lat": 34.0470776,
+     "lon": -118.257718
+    },
+    {
+     "lat": 34.0473573,
+     "lon": -118.258153
+    },
+    {
+     "lat": 34.0473883,
+     "lon": -118.258124
+    },
+    {
+     "lat": 34.0473915,
+     "lon": -118.258129
+    },
+    {
+     "lat": 34.0474047,
+     "lon": -118.258116
+    },
+    {
+     "lat": 34.0474029,
+     "lon": -118.258114
+    },
+    {
+     "lat": 34.0474332,
+     "lon": -118.258085
+    },
+    {
+     "lat": 34.0474345,
+     "lon": -118.258087
+    },
+    {
+     "lat": 34.0474478,
+     "lon": -118.258075
+    },
+    {
+     "lat": 34.0474461,
+     "lon": -118.258072
+    },
+    {
+     "lat": 34.0474501,
+     "lon": -118.258068
+    },
+    {
+     "lat": 34.0474558,
+     "lon": -118.258077
+    },
+    {
+     "lat": 34.0475243,
+     "lon": -118.258013
+    },
+    {
+     "lat": 34.0475202,
+     "lon": -118.258007
+    },
+    {
+     "lat": 34.0475794,
+     "lon": -118.257951
+    },
+    {
+     "lat": 34.0475748,
+     "lon": -118.257944
+    },
+    {
+     "lat": 34.047617,
+     "lon": -118.257904
+    },
+    {
+     "lat": 34.0476194,
+     "lon": -118.257908
+    },
+    {
+     "lat": 34.0476226,
+     "lon": -118.257905
+    },
+    {
+     "lat": 34.0476238,
+     "lon": -118.257907
+    },
+    {
+     "lat": 34.0476345,
+     "lon": -118.257897
+    },
+    {
+     "lat": 34.0476333,
+     "lon": -118.257895
+    },
+    {
+     "lat": 34.0476374,
+     "lon": -118.257891
+    },
+    {
+     "lat": 34.047635,
+     "lon": -118.257888
+    },
+    {
+     "lat": 34.0476484,
+     "lon": -118.257875
+    },
+    {
+     "lat": 34.047657,
+     "lon": -118.257889
+    },
+    {
+     "lat": 34.0476819,
+     "lon": -118.257865
+    },
+    {
+     "lat": 34.0476726,
+     "lon": -118.257851
+    },
+    {
+     "lat": 34.0476845,
+     "lon": -118.25784
+    },
+    {
+     "lat": 34.0476876,
+     "lon": -118.257845
+    },
+    {
+     "lat": 34.0476916,
+     "lon": -118.257841
+    },
+    {
+     "lat": 34.0476927,
+     "lon": -118.257843
+    },
+    {
+     "lat": 34.0477028,
+     "lon": -118.257833
+    },
+    {
+     "lat": 34.0477015,
+     "lon": -118.257831
+    },
+    {
+     "lat": 34.047705,
+     "lon": -118.257828
+    },
+    {
+     "lat": 34.0477026,
+     "lon": -118.257824
+    },
+    {
+     "lat": 34.0477364,
+     "lon": -118.257792
+    },
+    {
+     "lat": 34.0477395,
+     "lon": -118.257797
+    },
+    {
+     "lat": 34.0477475,
+     "lon": -118.25779
+    },
+    {
+     "lat": 34.047749,
+     "lon": -118.257792
+    },
+    {
+     "lat": 34.047821,
+     "lon": -118.257725
+    },
+    {
+     "lat": 34.047812,
+     "lon": -118.257711
+    },
+    {
+     "lat": 34.0478111,
+     "lon": -118.257712
+    },
+    {
+     "lat": 34.0478077,
+     "lon": -118.257706
+    },
+    {
+     "lat": 34.0478046,
+     "lon": -118.257709
+    },
+    {
+     "lat": 34.0477965,
+     "lon": -118.257697
+    },
+    {
+     "lat": 34.0477994,
+     "lon": -118.257694
+    },
+    {
+     "lat": 34.0477956,
+     "lon": -118.257688
+    },
+    {
+     "lat": 34.0477932,
+     "lon": -118.257691
+    },
+    {
+     "lat": 34.0477854,
+     "lon": -118.257679
+    },
+    {
+     "lat": 34.0477882,
+     "lon": -118.257676
+    },
+    {
+     "lat": 34.0477844,
+     "lon": -118.25767
+    },
+    {
+     "lat": 34.0477809,
+     "lon": -118.257674
+    },
+    {
+     "lat": 34.0477731,
+     "lon": -118.257662
+    },
+    {
+     "lat": 34.0477748,
+     "lon": -118.25766
+    },
+    {
+     "lat": 34.0477567,
+     "lon": -118.257632
+    },
+    {
+     "lat": 34.0477534,
+     "lon": -118.257635
+    },
+    {
+     "lat": 34.0477464,
+     "lon": -118.257625
+    },
+    {
+     "lat": 34.0477498,
+     "lon": -118.257621
+    },
+    {
+     "lat": 34.0477468,
+     "lon": -118.257617
+    },
+    {
+     "lat": 34.0477439,
+     "lon": -118.25762
+    },
+    {
+     "lat": 34.0477372,
+     "lon": -118.257609
+    },
+    {
+     "lat": 34.0477401,
+     "lon": -118.257607
+    },
+    {
+     "lat": 34.0477373,
+     "lon": -118.257602
+    },
+    {
+     "lat": 34.0477338,
+     "lon": -118.257606
+    },
+    {
+     "lat": 34.0477264,
+     "lon": -118.257594
+    },
+    {
+     "lat": 34.0477294,
+     "lon": -118.257591
+    },
+    {
+     "lat": 34.0477273,
+     "lon": -118.257588
+    },
+    {
+     "lat": 34.0477288,
+     "lon": -118.257587
+    },
+    {
+     "lat": 34.0477174,
+     "lon": -118.257569
+    },
+    {
+     "lat": 34.0477248,
+     "lon": -118.257562
+    },
+    {
+     "lat": 34.0476978,
+     "lon": -118.257521
+    },
+    {
+     "lat": 34.0476905,
+     "lon": -118.257528
+    },
+    {
+     "lat": 34.0476773,
+     "lon": -118.257508
+    },
+    {
+     "lat": 34.0476734,
+     "lon": -118.257511
+    },
+    {
+     "lat": 34.0476666,
+     "lon": -118.257501
+    },
+    {
+     "lat": 34.04767,
+     "lon": -118.257498
+    },
+    {
+     "lat": 34.0476671,
+     "lon": -118.257493
+    },
+    {
+     "lat": 34.047664,
+     "lon": -118.257496
+    },
+    {
+     "lat": 34.047657,
+     "lon": -118.257485
+    },
+    {
+     "lat": 34.04766,
+     "lon": -118.257483
+    },
+    {
+     "lat": 34.0476572,
+     "lon": -118.257478
+    },
+    {
+     "lat": 34.0476542,
+     "lon": -118.257481
+    },
+    {
+     "lat": 34.0476473,
+     "lon": -118.25747
+    },
+    {
+     "lat": 34.0476525,
+     "lon": -118.257465
+    },
+    {
+     "lat": 34.0476354,
+     "lon": -118.257439
+    },
+    {
+     "lat": 34.0476324,
+     "lon": -118.257442
+    },
+    {
+     "lat": 34.0476225,
+     "lon": -118.257426
+    },
+    {
+     "lat": 34.0476252,
+     "lon": -118.257424
+    },
+    {
+     "lat": 34.0476205,
+     "lon": -118.257417
+    },
+    {
+     "lat": 34.0476176,
+     "lon": -118.257419
+    },
+    {
+     "lat": 34.0476079,
+     "lon": -118.257404
+    },
+    {
+     "lat": 34.0476118,
+     "lon": -118.257401
+    },
+    {
+     "lat": 34.0475995,
+     "lon": -118.257382
+    },
+    {
+     "lat": 34.0475973,
+     "lon": -118.257384
+    },
+    {
+     "lat": 34.0475871,
+     "lon": -118.257368
+    },
+    {
+     "lat": 34.0475894,
+     "lon": -118.257366
+    },
+    {
+     "lat": 34.047586,
+     "lon": -118.257361
+    },
+    {
+     "lat": 34.0475835,
+     "lon": -118.257363
+    },
+    {
+     "lat": 34.0475729,
+     "lon": -118.257347
+    },
+    {
+     "lat": 34.0475755,
+     "lon": -118.257345
+    },
+    {
+     "lat": 34.0475631,
+     "lon": -118.257326
+    },
+    {
+     "lat": 34.0475612,
+     "lon": -118.257328
+    },
+    {
+     "lat": 34.0475512,
+     "lon": -118.257312
+    },
+    {
+     "lat": 34.047553,
+     "lon": -118.257311
+    },
+    {
+     "lat": 34.0475481,
+     "lon": -118.257303
+    },
+    {
+     "lat": 34.0475458,
+     "lon": -118.257305
+    },
+    {
+     "lat": 34.0475371,
+     "lon": -118.257292
+    },
+    {
+     "lat": 34.0475394,
+     "lon": -118.25729
+    },
+    {
+     "lat": 34.0475347,
+     "lon": -118.257282
+    },
+    {
+     "lat": 34.0475327,
+     "lon": -118.257284
+    },
+    {
+     "lat": 34.0475239,
+     "lon": -118.257271
+    },
+    {
+     "lat": 34.0475265,
+     "lon": -118.257268
+    },
+    {
+     "lat": 34.0475134,
+     "lon": -118.257248
+    },
+    {
+     "lat": 34.0475113,
+     "lon": -118.25725
+    },
+    {
+     "lat": 34.0475009,
+     "lon": -118.257234
+    },
+    {
+     "lat": 34.047503,
+     "lon": -118.257232
+    },
+    {
+     "lat": 34.0474996,
+     "lon": -118.257227
+    },
+    {
+     "lat": 34.0474976,
+     "lon": -118.257228
+    },
+    {
+     "lat": 34.0474872,
+     "lon": -118.257212
+    },
+    {
+     "lat": 34.047489,
+     "lon": -118.257211
+    },
+    {
+     "lat": 34.0474773,
+     "lon": -118.257193
+    },
+    {
+     "lat": 34.0474736,
+     "lon": -118.257196
+    },
+    {
+     "lat": 34.0474632,
+     "lon": -118.25718
+    },
+    {
+     "lat": 34.0474667,
+     "lon": -118.257177
+    },
+    {
+     "lat": 34.047463,
+     "lon": -118.257171
+    },
+    {
+     "lat": 34.0474599,
+     "lon": -118.257174
+    },
+    {
+     "lat": 34.0474497,
+     "lon": -118.257158
+    },
+    {
+     "lat": 34.0474528,
+     "lon": -118.257155
+    },
+    {
+     "lat": 34.0474383,
+     "lon": -118.257133
+    },
+    {
+     "lat": 34.047436,
+     "lon": -118.257135
+    },
+    {
+     "lat": 34.0474336,
+     "lon": -118.257131
+    },
+    {
+     "lat": 34.0474311,
+     "lon": -118.257134
+    },
+    {
+     "lat": 34.0474242,
+     "lon": -118.257123
+    },
+    {
+     "lat": 34.0474272,
+     "lon": -118.25712
+    },
+    {
+     "lat": 34.0474244,
+     "lon": -118.257116
+    },
+    {
+     "lat": 34.0474212,
+     "lon": -118.257119
+    },
+    {
+     "lat": 34.0474145,
+     "lon": -118.257108
+    },
+    {
+     "lat": 34.0474175,
+     "lon": -118.257105
+    },
+    {
+     "lat": 34.0474149,
+     "lon": -118.257101
+    },
+    {
+     "lat": 34.0474115,
+     "lon": -118.257105
+    },
+    {
+     "lat": 34.0474037,
+     "lon": -118.257093
+    },
+    {
+     "lat": 34.0474074,
+     "lon": -118.257089
+    },
+    {
+     "lat": 34.0473944,
+     "lon": -118.257069
+    },
+    {
+     "lat": 34.0474022,
+     "lon": -118.257062
+    },
+    {
+     "lat": 34.0473755,
+     "lon": -118.257021
+    },
+    {
+     "lat": 34.0473684,
+     "lon": -118.257027
+    },
+    {
+     "lat": 34.0473545,
+     "lon": -118.257006
+    },
+    {
+     "lat": 34.0473503,
+     "lon": -118.25701
+    },
+    {
+     "lat": 34.047343,
+     "lon": -118.256999
+    },
+    {
+     "lat": 34.0473465,
+     "lon": -118.256995
+    },
+    {
+     "lat": 34.047344,
+     "lon": -118.256991
+    },
+    {
+     "lat": 34.0473408,
+     "lon": -118.256994
+    },
+    {
+     "lat": 34.0473342,
+     "lon": -118.256984
+    },
+    {
+     "lat": 34.0473371,
+     "lon": -118.256982
+    },
+    {
+     "lat": 34.0473335,
+     "lon": -118.256976
+    },
+    {
+     "lat": 34.0473308,
+     "lon": -118.256979
+    },
+    {
+     "lat": 34.0473241,
+     "lon": -118.256968
+    },
+    {
+     "lat": 34.0473289,
+     "lon": -118.256964
+    },
+    {
+     "lat": 34.0473108,
+     "lon": -118.256936
+    },
+    {
+     "lat": 34.0473075,
+     "lon": -118.256939
+    },
+    {
+     "lat": 34.0472999,
+     "lon": -118.256927
+    },
+    {
+     "lat": 34.0473032,
+     "lon": -118.256924
+    },
+    {
+     "lat": 34.0472993,
+     "lon": -118.256918
+    },
+    {
+     "lat": 34.0472965,
+     "lon": -118.256921
+    },
+    {
+     "lat": 34.0472888,
+     "lon": -118.256909
+    },
+    {
+     "lat": 34.0472924,
+     "lon": -118.256906
+    },
+    {
+     "lat": 34.0472883,
+     "lon": -118.2569
+    },
+    {
+     "lat": 34.0472847,
+     "lon": -118.256903
+    },
+    {
+     "lat": 34.0472773,
+     "lon": -118.256891
+    },
+    {
+     "lat": 34.0472807,
+     "lon": -118.256888
+    },
+    {
+     "lat": 34.0472779,
+     "lon": -118.256883
+    },
+    {
+     "lat": 34.0472797,
+     "lon": -118.256882
+    },
+    {
+     "lat": 34.04727,
+     "lon": -118.256867
+    },
+    {
+     "lat": 34.0472564,
+     "lon": -118.25688
+    },
+    {
+     "lat": 34.047259,
+     "lon": -118.256884
+    },
+    {
+     "lat": 34.0472454,
+     "lon": -118.256897
+    },
+    {
+     "lat": 34.047243,
+     "lon": -118.256893
+    },
+    {
+     "lat": 34.0472373,
+     "lon": -118.256899
+    },
+    {
+     "lat": 34.0472403,
+     "lon": -118.256903
+    },
+    {
+     "lat": 34.0472308,
+     "lon": -118.256912
+    },
+    {
+     "lat": 34.0472282,
+     "lon": -118.256908
+    },
+    {
+     "lat": 34.0472207,
+     "lon": -118.256915
+    },
+    {
+     "lat": 34.0472228,
+     "lon": -118.256919
+    },
+    {
+     "lat": 34.0472151,
+     "lon": -118.256926
+    },
+    {
+     "lat": 34.0472127,
+     "lon": -118.256922
+    },
+    {
+     "lat": 34.0471902,
+     "lon": -118.256943
+    },
+    {
+     "lat": 34.0471937,
+     "lon": -118.256949
+    },
+    {
+     "lat": 34.0471847,
+     "lon": -118.256957
+    },
+    {
+     "lat": 34.0471828,
+     "lon": -118.256954
+    },
+    {
+     "lat": 34.047178,
+     "lon": -118.256959
+    },
+    {
+     "lat": 34.0471801,
+     "lon": -118.256962
+    },
+    {
+     "lat": 34.0471722,
+     "lon": -118.256969
+    },
+    {
+     "lat": 34.0471704,
+     "lon": -118.256967
+    },
+    {
+     "lat": 34.0471671,
+     "lon": -118.25697
+    },
+    {
+     "lat": 34.0471687,
+     "lon": -118.256972
+    },
+    {
+     "lat": 34.0471594,
+     "lon": -118.256981
+    },
+    {
+     "lat": 34.0471568,
+     "lon": -118.256977
+    },
+    {
+     "lat": 34.0471396,
+     "lon": -118.256993
+    },
+    {
+     "lat": 34.0471416,
+     "lon": -118.256996
+    },
+    {
+     "lat": 34.0471278,
+     "lon": -118.257009
+    },
+    {
+     "lat": 34.0471228,
+     "lon": -118.257001
+    },
+    {
+     "lat": 34.0470986,
+     "lon": -118.257024
+    },
+    {
+     "lat": 34.0471041,
+     "lon": -118.257032
+    },
+    {
+     "lat": 34.0470903,
+     "lon": -118.257045
+    },
+    {
+     "lat": 34.0470874,
+     "lon": -118.257041
+    },
+    {
+     "lat": 34.0470708,
+     "lon": -118.257056
+    },
+    {
+     "lat": 34.0470732,
+     "lon": -118.25706
+    },
+    {
+     "lat": 34.0470645,
+     "lon": -118.257068
+    },
+    {
+     "lat": 34.0470624,
+     "lon": -118.257065
+    },
+    {
+     "lat": 34.0470571,
+     "lon": -118.25707
+    },
+    {
+     "lat": 34.0470593,
+     "lon": -118.257073
+    },
+    {
+     "lat": 34.0470522,
+     "lon": -118.25708
+    },
+    {
+     "lat": 34.0470502,
+     "lon": -118.257077
+    },
+    {
+     "lat": 34.0470455,
+     "lon": -118.257081
+    },
+    {
+     "lat": 34.0470476,
+     "lon": -118.257085
+    },
+    {
+     "lat": 34.047038,
+     "lon": -118.257094
+    },
+    {
+     "lat": 34.0470352,
+     "lon": -118.257089
+    },
+    {
+     "lat": 34.0470294,
+     "lon": -118.257095
+    },
+    {
+     "lat": 34.0470275,
+     "lon": -118.257092
+    },
+    {
+     "lat": 34.0469652,
+     "lon": -118.257147
+    },
+    {
+     "lat": 34.046898,
+     "lon": -118.257211
+    },
+    {
+     "lat": 34.0468397,
+     "lon": -118.257265
+    },
+    {
+     "lat": 34.0468644,
+     "lon": -118.257302
+    },
+    {
+     "lat": 34.046863,
+     "lon": -118.257303
+    },
+    {
+     "lat": 34.0469788,
+     "lon": -118.257482
+    },
+    {
+     "lat": 34.0469806,
+     "lon": -118.257481
+    },
+    {
+     "lat": 34.046996,
+     "lon": -118.257504
+    },
+    {
+     "lat": 34.046994,
+     "lon": -118.257506
+    },
+    {
+     "lat": 34.0470866,
+     "lon": -118.257649
+    },
+    {
+     "lat": 34.0470886,
+     "lon": -118.257647
+    },
+    {
+     "lat": 34.0471006,
+     "lon": -118.257666
+    },
+    {
+     "lat": 34.0470987,
+     "lon": -118.257668
+    },
+    {
+     "lat": 34.0470861,
+     "lon": -118.25768
+    },
+    {
+     "lat": 34.0470976,
+     "lon": -118.257695
+    }
+   ],
+   "id": 428021796,
+   "tags": {
+    "building": "commercial",
+    "building:levels": "7",
+    "ele": "123.4",
+    "height": "42.0",
+    "lacounty:ain": "5144011014;5144011019",
+    "lacounty:bld_id": "483626839623;483693839668",
+    "name": "DRT LAX10",
+    "old_name": "Carrier Center",
+    "ref": "LAX6",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0483225,
+    "maxlon": -118.2550705,
+    "minlat": 34.0474528,
+    "minlon": -118.2560113
+   },
+   "geometry": [
+    {
+     "lat": 34.0474528,
+     "lon": -118.2556099
+    },
+    {
+     "lat": 34.0475102,
+     "lon": -118.2557007
+    },
+    {
+     "lat": 34.0475427,
+     "lon": -118.2556707
+    },
+    {
+     "lat": 34.047558,
+     "lon": -118.2556949
+    },
+    {
+     "lat": 34.04752,
+     "lon": -118.2557299
+    },
+    {
+     "lat": 34.0476121,
+     "lon": -118.2558757
+    },
+    {
+     "lat": 34.0476542,
+     "lon": -118.255837
+    },
+    {
+     "lat": 34.0477644,
+     "lon": -118.2560113
+    },
+    {
+     "lat": 34.047837,
+     "lon": -118.2559445
+    },
+    {
+     "lat": 34.0478459,
+     "lon": -118.2559363
+    },
+    {
+     "lat": 34.0482267,
+     "lon": -118.2555857
+    },
+    {
+     "lat": 34.0483225,
+     "lon": -118.2554976
+    },
+    {
+     "lat": 34.0481323,
+     "lon": -118.2551967
+    },
+    {
+     "lat": 34.0480525,
+     "lon": -118.2550705
+    },
+    {
+     "lat": 34.0479335,
+     "lon": -118.2551801
+    },
+    {
+     "lat": 34.0479283,
+     "lon": -118.2551719
+    },
+    {
+     "lat": 34.0474528,
+     "lon": -118.2556099
+    }
+   ],
+   "id": 428021816,
+   "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "624",
+    "addr:postcode": "90017",
+    "addr:state": "CA",
+    "addr:street": "South Grand Avenue",
+    "building": "commercial",
+    "building:colour": "#ECEED6",
+    "building:levels": "30",
+    "building:material": "glass",
+    "ele": "208.0",
+    "height": "120",
+    "lacounty:ain": "5144004029;5144004014;5144004029",
+    "lacounty:bld_id": "484225839768;484256839921;484190839793",
+    "name": "One Wilshire",
+    "roof:material": "concrete",
+    "roof:shape": "flat",
+    "telecom": "data_center",
+    "website": "https://onewilshire.com/",
+    "wikidata": "Q21540371"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.7173336,
+    "maxlon": -117.8050406,
+    "minlat": 33.7162189,
+    "minlon": -117.8065112
+   },
+   "geometry": [
+    {
+     "lat": 33.7166818,
+     "lon": -117.8050406
+    },
+    {
+     "lat": 33.7162189,
+     "lon": -117.8054155
+    },
+    {
+     "lat": 33.7168328,
+     "lon": -117.8065112
+    },
+    {
+     "lat": 33.7170508,
+     "lon": -117.8063346
+    },
+    {
+     "lat": 33.7171158,
+     "lon": -117.8064507
+    },
+    {
+     "lat": 33.7173336,
+     "lon": -117.8062743
+    },
+    {
+     "lat": 33.7172676,
+     "lon": -117.8061566
+    },
+    {
+     "lat": 33.7172948,
+     "lon": -117.8061346
+    },
+    {
+     "lat": 33.7166818,
+     "lon": -117.8050406
+    }
+   ],
+   "id": 441502816,
+   "tags": {
+    "addr:city": "Tustin",
+    "addr:housenumber": "14452",
+    "addr:postcode": "92780",
+    "addr:street": "Franklin Avenue",
+    "building": "data_center",
+    "height": "3.6",
+    "name": "Lumen Technologies"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3342649,
+    "maxlon": -121.8872426,
+    "minlat": 37.3330003,
+    "minlon": -121.8886851
+   },
+   "geometry": [
+    {
+     "lat": 37.3339048,
+     "lon": -121.8886851
+    },
+    {
+     "lat": 37.3340291,
+     "lon": -121.8884225
+    },
+    {
+     "lat": 37.3340427,
+     "lon": -121.8883939
+    },
+    {
+     "lat": 37.3342649,
+     "lon": -121.8879246
+    },
+    {
+     "lat": 37.3342289,
+     "lon": -121.8878976
+    },
+    {
+     "lat": 37.3341924,
+     "lon": -121.8878702
+    },
+    {
+     "lat": 37.3341648,
+     "lon": -121.8878496
+    },
+    {
+     "lat": 37.3341418,
+     "lon": -121.8878324
+    },
+    {
+     "lat": 37.3341551,
+     "lon": -121.8878043
+    },
+    {
+     "lat": 37.3340238,
+     "lon": -121.887706
+    },
+    {
+     "lat": 37.3340215,
+     "lon": -121.8877109
+    },
+    {
+     "lat": 37.3339412,
+     "lon": -121.8876508
+    },
+    {
+     "lat": 37.3339343,
+     "lon": -121.8876654
+    },
+    {
+     "lat": 37.3338752,
+     "lon": -121.8876212
+    },
+    {
+     "lat": 37.3338821,
+     "lon": -121.8876066
+    },
+    {
+     "lat": 37.3335358,
+     "lon": -121.8873472
+    },
+    {
+     "lat": 37.3335382,
+     "lon": -121.8873423
+    },
+    {
+     "lat": 37.333405,
+     "lon": -121.8872426
+    },
+    {
+     "lat": 37.3333383,
+     "lon": -121.8873835
+    },
+    {
+     "lat": 37.3333337,
+     "lon": -121.88738
+    },
+    {
+     "lat": 37.3333118,
+     "lon": -121.8874264
+    },
+    {
+     "lat": 37.3333026,
+     "lon": -121.8874195
+    },
+    {
+     "lat": 37.3332954,
+     "lon": -121.8874348
+    },
+    {
+     "lat": 37.3332985,
+     "lon": -121.8874371
+    },
+    {
+     "lat": 37.3332825,
+     "lon": -121.8874709
+    },
+    {
+     "lat": 37.3332794,
+     "lon": -121.8874686
+    },
+    {
+     "lat": 37.3332705,
+     "lon": -121.8874874
+    },
+    {
+     "lat": 37.3332842,
+     "lon": -121.8874977
+    },
+    {
+     "lat": 37.3332426,
+     "lon": -121.8875857
+    },
+    {
+     "lat": 37.3332335,
+     "lon": -121.8875788
+    },
+    {
+     "lat": 37.3332308,
+     "lon": -121.8875846
+    },
+    {
+     "lat": 37.3332169,
+     "lon": -121.8875742
+    },
+    {
+     "lat": 37.3331837,
+     "lon": -121.8876442
+    },
+    {
+     "lat": 37.3331976,
+     "lon": -121.8876546
+    },
+    {
+     "lat": 37.3331949,
+     "lon": -121.8876604
+    },
+    {
+     "lat": 37.333204,
+     "lon": -121.8876673
+    },
+    {
+     "lat": 37.3331604,
+     "lon": -121.8877593
+    },
+    {
+     "lat": 37.3331513,
+     "lon": -121.8877525
+    },
+    {
+     "lat": 37.3331488,
+     "lon": -121.8877577
+    },
+    {
+     "lat": 37.3331342,
+     "lon": -121.8877468
+    },
+    {
+     "lat": 37.3331007,
+     "lon": -121.8878176
+    },
+    {
+     "lat": 37.3331153,
+     "lon": -121.8878285
+    },
+    {
+     "lat": 37.3331127,
+     "lon": -121.8878339
+    },
+    {
+     "lat": 37.3331219,
+     "lon": -121.8878407
+    },
+    {
+     "lat": 37.33308,
+     "lon": -121.8879291
+    },
+    {
+     "lat": 37.3330669,
+     "lon": -121.8879192
+    },
+    {
+     "lat": 37.3330003,
+     "lon": -121.8880598
+    },
+    {
+     "lat": 37.3331318,
+     "lon": -121.8881582
+    },
+    {
+     "lat": 37.333134,
+     "lon": -121.8881534
+    },
+    {
+     "lat": 37.3333286,
+     "lon": -121.8882991
+    },
+    {
+     "lat": 37.3333357,
+     "lon": -121.8882841
+    },
+    {
+     "lat": 37.333413,
+     "lon": -121.888342
+    },
+    {
+     "lat": 37.3334059,
+     "lon": -121.888357
+    },
+    {
+     "lat": 37.333563,
+     "lon": -121.8884746
+    },
+    {
+     "lat": 37.3335607,
+     "lon": -121.8884794
+    },
+    {
+     "lat": 37.3336922,
+     "lon": -121.8885779
+    },
+    {
+     "lat": 37.3337099,
+     "lon": -121.8885404
+    },
+    {
+     "lat": 37.3337452,
+     "lon": -121.8885669
+    },
+    {
+     "lat": 37.3337793,
+     "lon": -121.8884949
+    },
+    {
+     "lat": 37.3337827,
+     "lon": -121.8884975
+    },
+    {
+     "lat": 37.3337775,
+     "lon": -121.8885083
+    },
+    {
+     "lat": 37.3337884,
+     "lon": -121.8885279
+    },
+    {
+     "lat": 37.3337603,
+     "lon": -121.8885528
+    },
+    {
+     "lat": 37.3337809,
+     "lon": -121.8885897
+    },
+    {
+     "lat": 37.3337684,
+     "lon": -121.8886007
+    },
+    {
+     "lat": 37.333788,
+     "lon": -121.8886357
+    },
+    {
+     "lat": 37.3338005,
+     "lon": -121.8886247
+    },
+    {
+     "lat": 37.3338196,
+     "lon": -121.8886589
+    },
+    {
+     "lat": 37.3338478,
+     "lon": -121.8886339
+    },
+    {
+     "lat": 37.3338571,
+     "lon": -121.8886505
+    },
+    {
+     "lat": 37.3338827,
+     "lon": -121.8886271
+    },
+    {
+     "lat": 37.3338682,
+     "lon": -121.8886577
+    },
+    {
+     "lat": 37.3339048,
+     "lon": -121.8886851
+    }
+   ],
+   "id": 451413811,
+   "tags": {
+    "addr:city": "San Jose",
+    "addr:housenumber": "150",
+    "addr:postcode": "95113",
+    "addr:street": "South 1st Street",
+    "building": "retail",
+    "building:levels": "2",
+    "building:levels:underground": "2",
+    "disused:shop": "mall",
+    "layer": "1",
+    "old_name": "Pavilion",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3889003,
+    "maxlon": -121.8875329,
+    "minlat": 37.3876477,
+    "minlon": -121.8893598
+   },
+   "geometry": [
+    {
+     "lat": 37.3876477,
+     "lon": -121.8887523
+    },
+    {
+     "lat": 37.3877301,
+     "lon": -121.8888216
+    },
+    {
+     "lat": 37.3877122,
+     "lon": -121.8888553
+    },
+    {
+     "lat": 37.3879956,
+     "lon": -121.889094
+    },
+    {
+     "lat": 37.3879239,
+     "lon": -121.8892289
+    },
+    {
+     "lat": 37.3880795,
+     "lon": -121.8893598
+    },
+    {
+     "lat": 37.3881691,
+     "lon": -121.8891912
+    },
+    {
+     "lat": 37.3882515,
+     "lon": -121.8892606
+    },
+    {
+     "lat": 37.3882895,
+     "lon": -121.8891892
+    },
+    {
+     "lat": 37.3882624,
+     "lon": -121.8891663
+    },
+    {
+     "lat": 37.3887364,
+     "lon": -121.8882744
+    },
+    {
+     "lat": 37.3887635,
+     "lon": -121.8882973
+    },
+    {
+     "lat": 37.3889003,
+     "lon": -121.8880399
+    },
+    {
+     "lat": 37.3888377,
+     "lon": -121.8879871
+    },
+    {
+     "lat": 37.3888469,
+     "lon": -121.8879697
+    },
+    {
+     "lat": 37.3886634,
+     "lon": -121.8878152
+    },
+    {
+     "lat": 37.3886476,
+     "lon": -121.8878449
+    },
+    {
+     "lat": 37.3885409,
+     "lon": -121.8877551
+    },
+    {
+     "lat": 37.3885567,
+     "lon": -121.8877253
+    },
+    {
+     "lat": 37.3883725,
+     "lon": -121.8875702
+    },
+    {
+     "lat": 37.3883632,
+     "lon": -121.8875877
+    },
+    {
+     "lat": 37.3882981,
+     "lon": -121.8875329
+    },
+    {
+     "lat": 37.3881613,
+     "lon": -121.8877903
+    },
+    {
+     "lat": 37.3882158,
+     "lon": -121.8878362
+    },
+    {
+     "lat": 37.3879974,
+     "lon": -121.8882471
+    },
+    {
+     "lat": 37.3879705,
+     "lon": -121.8882244
+    },
+    {
+     "lat": 37.3877149,
+     "lon": -121.8887054
+    },
+    {
+     "lat": 37.3876857,
+     "lon": -121.8886808
+    },
+    {
+     "lat": 37.3876477,
+     "lon": -121.8887523
+    }
+   ],
+   "id": 460076753,
+   "tags": {
+    "addr:city": "San Jose",
+    "addr:housenumber": "1735",
+    "addr:postcode": "95131",
+    "addr:state": "CA",
+    "addr:street": "Lundy Avenue",
+    "building": "data_center",
+    "ele": "27.52",
+    "height": "9.14",
+    "name": "Equinix San Jose SV3",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "operator:wikipedia": "en:Equinix",
+    "ref": "SV3",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/silicon-valley-data-centers/sv3"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.7891359,
+    "maxlon": -122.389958,
+    "minlat": 37.7883262,
+    "minlon": -122.3909801
+   },
+   "geometry": [
+    {
+     "lat": 37.7886034,
+     "lon": -122.389958
+    },
+    {
+     "lat": 37.7885722,
+     "lon": -122.3899977
+    },
+    {
+     "lat": 37.7883262,
+     "lon": -122.3903117
+    },
+    {
+     "lat": 37.7888587,
+     "lon": -122.3909801
+    },
+    {
+     "lat": 37.7891359,
+     "lon": -122.3906265
+    },
+    {
+     "lat": 37.7886034,
+     "lon": -122.389958
+    }
+   ],
+   "id": 460085343,
+   "tags": {
+    "addr:city": "San Francisco",
+    "addr:housenumber": "365",
+    "addr:state": "CA",
+    "addr:street": "Main Street",
+    "building": "data_center",
+    "ele": "6",
+    "gnis:feature_id": "1655412",
+    "height": "34 m",
+    "name": "365 Main Street Data Center",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.404429,
+    "maxlon": -121.888552,
+    "minlat": 37.4034992,
+    "minlon": -121.8899096
+   },
+   "geometry": [
+    {
+     "lat": 37.4034992,
+     "lon": -121.8885985
+    },
+    {
+     "lat": 37.4035228,
+     "lon": -121.8888901
+    },
+    {
+     "lat": 37.4035899,
+     "lon": -121.8888815
+    },
+    {
+     "lat": 37.4035993,
+     "lon": -121.8889984
+    },
+    {
+     "lat": 37.4035322,
+     "lon": -121.889007
+    },
+    {
+     "lat": 37.403556,
+     "lon": -121.8893008
+    },
+    {
+     "lat": 37.4037528,
+     "lon": -121.8892756
+    },
+    {
+     "lat": 37.4037658,
+     "lon": -121.8894355
+    },
+    {
+     "lat": 37.4036347,
+     "lon": -121.8894523
+    },
+    {
+     "lat": 37.4036717,
+     "lon": -121.8899096
+    },
+    {
+     "lat": 37.4039695,
+     "lon": -121.8898714
+    },
+    {
+     "lat": 37.4039662,
+     "lon": -121.8898305
+    },
+    {
+     "lat": 37.4041279,
+     "lon": -121.8898098
+    },
+    {
+     "lat": 37.4041312,
+     "lon": -121.8898507
+    },
+    {
+     "lat": 37.4041641,
+     "lon": -121.8898464
+    },
+    {
+     "lat": 37.4043836,
+     "lon": -121.8898183
+    },
+    {
+     "lat": 37.404429,
+     "lon": -121.8898125
+    },
+    {
+     "lat": 37.404392,
+     "lon": -121.8893553
+    },
+    {
+     "lat": 37.4042998,
+     "lon": -121.8893671
+    },
+    {
+     "lat": 37.4041019,
+     "lon": -121.8893925
+    },
+    {
+     "lat": 37.4040621,
+     "lon": -121.8893976
+    },
+    {
+     "lat": 37.4040123,
+     "lon": -121.8887815
+    },
+    {
+     "lat": 37.4039468,
+     "lon": -121.8887899
+    },
+    {
+     "lat": 37.4039336,
+     "lon": -121.8886258
+    },
+    {
+     "lat": 37.4038687,
+     "lon": -121.8886341
+    },
+    {
+     "lat": 37.403862,
+     "lon": -121.888552
+    },
+    {
+     "lat": 37.403726,
+     "lon": -121.8885694
+    },
+    {
+     "lat": 37.4035105,
+     "lon": -121.888597
+    },
+    {
+     "lat": 37.4034992,
+     "lon": -121.8885985
+    }
+   ],
+   "id": 460159925,
+   "tags": {
+    "addr:city": "San Jose",
+    "addr:housenumber": "2334",
+    "addr:postcode": "95131",
+    "addr:state": "CA",
+    "addr:street": "Lundy Place",
+    "building": "data_center",
+    "ele": "28.56",
+    "height": "9.10",
+    "operator": "NTT Limited",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.371022,
+    "maxlon": -121.9693821,
+    "minlat": 37.369878,
+    "minlon": -121.9702683
+   },
+   "geometry": [
+    {
+     "lat": 37.371022,
+     "lon": -121.9699264
+    },
+    {
+     "lat": 37.3708983,
+     "lon": -121.9699243
+    },
+    {
+     "lat": 37.3709109,
+     "lon": -121.9694266
+    },
+    {
+     "lat": 37.3700293,
+     "lon": -121.9694276
+    },
+    {
+     "lat": 37.3700293,
+     "lon": -121.9693874
+    },
+    {
+     "lat": 37.369903,
+     "lon": -121.9693821
+    },
+    {
+     "lat": 37.3699,
+     "lon": -121.9695695
+    },
+    {
+     "lat": 37.3698796,
+     "lon": -121.969569
+    },
+    {
+     "lat": 37.369878,
+     "lon": -121.9696669
+    },
+    {
+     "lat": 37.3698984,
+     "lon": -121.9696674
+    },
+    {
+     "lat": 37.3698969,
+     "lon": -121.9697623
+    },
+    {
+     "lat": 37.3700267,
+     "lon": -121.9697657
+    },
+    {
+     "lat": 37.3700253,
+     "lon": -121.9702634
+    },
+    {
+     "lat": 37.3701305,
+     "lon": -121.970264
+    },
+    {
+     "lat": 37.3708927,
+     "lon": -121.9702683
+    },
+    {
+     "lat": 37.3708971,
+     "lon": -121.9699994
+    },
+    {
+     "lat": 37.3710209,
+     "lon": -121.9700015
+    },
+    {
+     "lat": 37.371022,
+     "lon": -121.9699264
+    }
+   ],
+   "id": 460159928,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "2403",
+    "addr:postcode": "95051",
+    "addr:state": "CA",
+    "addr:street": "Walsh Avenue",
+    "building": "data_center",
+    "name": "Csquare SFO1",
+    "operator": "Csquare",
+    "telecom": "data_center",
+    "website": "https://www.csquare.com/data-centers/silicon-valley#santaclara-sfo1"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3724466,
+    "maxlon": -121.9722345,
+    "minlat": 37.3711108,
+    "minlon": -121.9727759
+   },
+   "geometry": [
+    {
+     "lat": 37.3724466,
+     "lon": -121.9722399
+    },
+    {
+     "lat": 37.3711122,
+     "lon": -121.9722345
+    },
+    {
+     "lat": 37.3711108,
+     "lon": -121.9727705
+    },
+    {
+     "lat": 37.3716472,
+     "lon": -121.9727727
+    },
+    {
+     "lat": 37.3724452,
+     "lon": -121.9727759
+    },
+    {
+     "lat": 37.3724466,
+     "lon": -121.9722399
+    }
+   ],
+   "id": 460159955,
+   "tags": {
+    "building": "data_center",
+    "operator": "Vantage",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.2001772,
+    "maxlon": -118.3434592,
+    "minlat": 34.199561,
+    "minlon": -118.3441185
+   },
+   "geometry": [
+    {
+     "lat": 34.199561,
+     "lon": -118.3434724
+    },
+    {
+     "lat": 34.1995707,
+     "lon": -118.3441185
+    },
+    {
+     "lat": 34.2001772,
+     "lon": -118.3441054
+    },
+    {
+     "lat": 34.2001675,
+     "lon": -118.3434592
+    },
+    {
+     "lat": 34.199561,
+     "lon": -118.3434724
+    }
+   ],
+   "id": 460212563,
+   "tags": {
+    "building": "data_center",
+    "ele": "220.3",
+    "height": "11.2",
+    "lacounty:ain": "2466022046",
+    "lacounty:bld_id": "457732895303",
+    "operator": "Centurylink",
+    "owner": "Digital Realty",
+    "start_date": "1990",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 38.2546475,
+    "maxlon": -122.2722252,
+    "minlat": 38.2534825,
+    "minlon": -122.2739584
+   },
+   "geometry": [
+    {
+     "lat": 38.2546475,
+     "lon": -122.273639
+    },
+    {
+     "lat": 38.2545585,
+     "lon": -122.2736475
+    },
+    {
+     "lat": 38.2545735,
+     "lon": -122.2739005
+    },
+    {
+     "lat": 38.2539695,
+     "lon": -122.2739584
+    },
+    {
+     "lat": 38.2539608,
+     "lon": -122.2738121
+    },
+    {
+     "lat": 38.2539187,
+     "lon": -122.2738161
+    },
+    {
+     "lat": 38.2539126,
+     "lon": -122.2737149
+    },
+    {
+     "lat": 38.2538544,
+     "lon": -122.2737206
+    },
+    {
+     "lat": 38.2538508,
+     "lon": -122.2736603
+    },
+    {
+     "lat": 38.2535228,
+     "lon": -122.2736921
+    },
+    {
+     "lat": 38.2534825,
+     "lon": -122.2730191
+    },
+    {
+     "lat": 38.2536012,
+     "lon": -122.2730076
+    },
+    {
+     "lat": 38.253579,
+     "lon": -122.2726372
+    },
+    {
+     "lat": 38.2536797,
+     "lon": -122.2726275
+    },
+    {
+     "lat": 38.2536608,
+     "lon": -122.2723107
+    },
+    {
+     "lat": 38.2545445,
+     "lon": -122.2722252
+    },
+    {
+     "lat": 38.2545579,
+     "lon": -122.2724511
+    },
+    {
+     "lat": 38.2544739,
+     "lon": -122.2724592
+    },
+    {
+     "lat": 38.2545095,
+     "lon": -122.2730581
+    },
+    {
+     "lat": 38.2546125,
+     "lon": -122.2730482
+    },
+    {
+     "lat": 38.2546475,
+     "lon": -122.273639
+    }
+   ],
+   "id": 464371693,
+   "tags": {
+    "building": "yes",
+    "name": "Kaiser Data Center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.5802358,
+    "maxlon": -118.1138307,
+    "minlat": 34.579721,
+    "minlon": -118.1141838
+   },
+   "geometry": [
+    {
+     "lat": 34.5802358,
+     "lon": -118.1138733
+    },
+    {
+     "lat": 34.5799851,
+     "lon": -118.1138722
+    },
+    {
+     "lat": 34.5799852,
+     "lon": -118.1138311
+    },
+    {
+     "lat": 34.579902,
+     "lon": -118.1138307
+    },
+    {
+     "lat": 34.5799019,
+     "lon": -118.1138657
+    },
+    {
+     "lat": 34.5798714,
+     "lon": -118.1138656
+    },
+    {
+     "lat": 34.5798713,
+     "lon": -118.1138755
+    },
+    {
+     "lat": 34.5797695,
+     "lon": -118.1138751
+    },
+    {
+     "lat": 34.5797694,
+     "lon": -118.1139022
+    },
+    {
+     "lat": 34.5797296,
+     "lon": -118.113902
+    },
+    {
+     "lat": 34.579729,
+     "lon": -118.1141116
+    },
+    {
+     "lat": 34.5797211,
+     "lon": -118.1141115
+    },
+    {
+     "lat": 34.579721,
+     "lon": -118.1141685
+    },
+    {
+     "lat": 34.5797949,
+     "lon": -118.1141689
+    },
+    {
+     "lat": 34.5797949,
+     "lon": -118.1141819
+    },
+    {
+     "lat": 34.5802348,
+     "lon": -118.1141838
+    },
+    {
+     "lat": 34.5802358,
+     "lon": -118.1138733
+    }
+   ],
+   "id": 472954201,
+   "tags": {
+    "addr:city": "Palmdale",
+    "addr:housenumber": "901",
+    "addr:postcode": "93550",
+    "addr:state": "CA",
+    "addr:street": "East Palmdale Boulevard",
+    "building": "yes",
+    "building:units": "1",
+    "lacounty:ain": "3008036806",
+    "lacounty:bld_id": "PLM26408",
+    "name": "AT&T",
+    "start_date": "1974",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.707879,
+    "maxlon": -117.8436399,
+    "minlat": 33.7071339,
+    "minlon": -117.8445685
+   },
+   "geometry": [
+    {
+     "lat": 33.707879,
+     "lon": -117.8442365
+    },
+    {
+     "lat": 33.7074647,
+     "lon": -117.8436399
+    },
+    {
+     "lat": 33.7071339,
+     "lon": -117.8439719
+    },
+    {
+     "lat": 33.7075482,
+     "lon": -117.8445685
+    },
+    {
+     "lat": 33.707879,
+     "lon": -117.8442365
+    }
+   ],
+   "id": 492699069,
+   "tags": {
+    "addr:city": "Santa Ana",
+    "addr:housenumber": "2001",
+    "addr:postcode": "92705",
+    "addr:state": "CA",
+    "addr:street": "East Dyer Road",
+    "alt_name": "TPx Santa Ana Data Center",
+    "building": "commercial",
+    "height": "8.6",
+    "name": "TPx Colocation Datacenter",
+    "operator": "TPx Communications",
+    "operator:wikidata": "Q7695734",
+    "source": "https://www.datacenters.com/providers/tpx-communications;https://www.datacentermap.com/usa/california/irvine/tpx-santa-ana-data-center/",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0482267,
+    "maxlon": -118.2552016,
+    "minlat": 34.0476032,
+    "minlon": -118.2559363
+   },
+   "geometry": [
+    {
+     "lat": 34.047984,
+     "lon": -118.2552016
+    },
+    {
+     "lat": 34.0482267,
+     "lon": -118.2555857
+    },
+    {
+     "lat": 34.0478459,
+     "lon": -118.2559363
+    },
+    {
+     "lat": 34.0476032,
+     "lon": -118.2555522
+    },
+    {
+     "lat": 34.047984,
+     "lon": -118.2552016
+    }
+   ],
+   "id": 495115494,
+   "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "624",
+    "addr:postcode": "90017",
+    "addr:state": "CA",
+    "addr:street": "South Grand Avenue",
+    "building:colour": "#ECEED6",
+    "building:levels": "30",
+    "building:material": "glass",
+    "building:part": "yes",
+    "clli": "LSANCARC",
+    "height": "120",
+    "roof:material": "concrete",
+    "roof:shape": "flat",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 32.7482526,
+    "maxlon": -117.1585181,
+    "minlat": 32.7470561,
+    "minlon": -117.1593895
+   },
+   "geometry": [
+    {
+     "lat": 32.7479923,
+     "lon": -117.1593895
+    },
+    {
+     "lat": 32.7470882,
+     "lon": -117.1593869
+    },
+    {
+     "lat": 32.7470914,
+     "lon": -117.1590613
+    },
+    {
+     "lat": 32.7471501,
+     "lon": -117.1590612
+    },
+    {
+     "lat": 32.7471477,
+     "lon": -117.1589037
+    },
+    {
+     "lat": 32.7471586,
+     "lon": -117.1589037
+    },
+    {
+     "lat": 32.7471573,
+     "lon": -117.1586835
+    },
+    {
+     "lat": 32.7470561,
+     "lon": -117.1586826
+    },
+    {
+     "lat": 32.7470581,
+     "lon": -117.1585181
+    },
+    {
+     "lat": 32.7479961,
+     "lon": -117.158526
+    },
+    {
+     "lat": 32.7479955,
+     "lon": -117.1587915
+    },
+    {
+     "lat": 32.7482526,
+     "lon": -117.1587922
+    },
+    {
+     "lat": 32.7482495,
+     "lon": -117.1589391
+    },
+    {
+     "lat": 32.7479994,
+     "lon": -117.1589403
+    },
+    {
+     "lat": 32.7479974,
+     "lon": -117.1590067
+    },
+    {
+     "lat": 32.7480489,
+     "lon": -117.1590077
+    },
+    {
+     "lat": 32.7480495,
+     "lon": -117.1590623
+    },
+    {
+     "lat": 32.7479533,
+     "lon": -117.159062
+    },
+    {
+     "lat": 32.7479479,
+     "lon": -117.1593188
+    },
+    {
+     "lat": 32.7479945,
+     "lon": -117.1593185
+    },
+    {
+     "lat": 32.7479923,
+     "lon": -117.1593895
+    }
+   ],
+   "id": 531709017,
+   "tags": {
+    "addr:city": "San Diego",
+    "addr:housenumber": "650",
+    "addr:postcode": "92103",
+    "addr:state": "CA",
+    "addr:street": "Robinson Avenue",
+    "building": "industrial",
+    "name": "AT&T Center",
+    "opening_hours": "24/7",
+    "operator": "American Telephone & Telegraph",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.4032664,
+    "maxlon": -121.8930625,
+    "minlat": 37.4018532,
+    "minlon": -121.8937195
+   },
+   "geometry": [
+    {
+     "lat": 37.4018532,
+     "lon": -121.8936145
+    },
+    {
+     "lat": 37.4024531,
+     "lon": -121.8936599
+    },
+    {
+     "lat": 37.4024586,
+     "lon": -121.8935457
+    },
+    {
+     "lat": 37.4027189,
+     "lon": -121.8935654
+    },
+    {
+     "lat": 37.4027135,
+     "lon": -121.8936796
+    },
+    {
+     "lat": 37.40324,
+     "lon": -121.8937195
+    },
+    {
+     "lat": 37.4032664,
+     "lon": -121.8931675
+    },
+    {
+     "lat": 37.4018796,
+     "lon": -121.8930625
+    },
+    {
+     "lat": 37.4018532,
+     "lon": -121.8936145
+    }
+   ],
+   "id": 553223628,
+   "tags": {
+    "building": "yes",
+    "ele": "25.56",
+    "height": "8.46",
+    "name": "Stack Infrastructure",
+    "operator": "Stack Infrastructure",
+    "operator:wikidata": "Q115477173",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.4032562,
+    "maxlon": -121.8920345,
+    "minlat": 37.4011627,
+    "minlon": -121.892739
+   },
+   "geometry": [
+    {
+     "lat": 37.4021665,
+     "lon": -121.8925942
+    },
+    {
+     "lat": 37.4021639,
+     "lon": -121.8926486
+    },
+    {
+     "lat": 37.4021555,
+     "lon": -121.892648
+    },
+    {
+     "lat": 37.4021541,
+     "lon": -121.8926769
+    },
+    {
+     "lat": 37.4029621,
+     "lon": -121.892739
+    },
+    {
+     "lat": 37.4029625,
+     "lon": -121.8927293
+    },
+    {
+     "lat": 37.4030257,
+     "lon": -121.8927342
+    },
+    {
+     "lat": 37.4030279,
+     "lon": -121.8926898
+    },
+    {
+     "lat": 37.4032343,
+     "lon": -121.8927059
+    },
+    {
+     "lat": 37.4032562,
+     "lon": -121.8922608
+    },
+    {
+     "lat": 37.4022812,
+     "lon": -121.8921846
+    },
+    {
+     "lat": 37.4022853,
+     "lon": -121.8921013
+    },
+    {
+     "lat": 37.4014876,
+     "lon": -121.8920392
+    },
+    {
+     "lat": 37.4014867,
+     "lon": -121.8920577
+    },
+    {
+     "lat": 37.4011836,
+     "lon": -121.8920345
+    },
+    {
+     "lat": 37.4011627,
+     "lon": -121.892469
+    },
+    {
+     "lat": 37.4014011,
+     "lon": -121.8924872
+    },
+    {
+     "lat": 37.4013992,
+     "lon": -121.8925258
+    },
+    {
+     "lat": 37.4014636,
+     "lon": -121.8925307
+    },
+    {
+     "lat": 37.4014631,
+     "lon": -121.8925412
+    },
+    {
+     "lat": 37.4021665,
+     "lon": -121.8925942
+    }
+   ],
+   "id": 553223629,
+   "tags": {
+    "building": "yes",
+    "ele": "21.11",
+    "height": "5.58",
+    "name": "Stack Infrastructure",
+    "operator": "Stack Infrastructure",
+    "operator:wikidata": "Q115477173",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.2419076,
+    "maxlon": -121.783828,
+    "minlat": 37.24055,
+    "minlon": -121.7856792
+   },
+   "geometry": [
+    {
+     "lat": 37.2419076,
+     "lon": -121.7852994
+    },
+    {
+     "lat": 37.2414985,
+     "lon": -121.7856792
+    },
+    {
+     "lat": 37.24055,
+     "lon": -121.7841418
+    },
+    {
+     "lat": 37.2408794,
+     "lon": -121.783828
+    },
+    {
+     "lat": 37.2417643,
+     "lon": -121.7852694
+    },
+    {
+     "lat": 37.2418407,
+     "lon": -121.7851974
+    },
+    {
+     "lat": 37.2419076,
+     "lon": -121.7852994
+    }
+   ],
+   "id": 600806974,
+   "tags": {
+    "addr:city": "San Jose",
+    "addr:housenumber": "7",
+    "addr:postcode": "95119",
+    "addr:state": "CA",
+    "addr:street": "Great Oaks Boulevard",
+    "building": "data_center",
+    "name": "Equinix SV10",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "SV10",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/silicon-valley-data-centers/sv10"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0595124,
+    "maxlon": -117.2021169,
+    "minlat": 34.0594209,
+    "minlon": -117.2022162
+   },
+   "geometry": [
+    {
+     "lat": 34.0594209,
+     "lon": -117.2021169
+    },
+    {
+     "lat": 34.0594212,
+     "lon": -117.2022162
+    },
+    {
+     "lat": 34.0595119,
+     "lon": -117.2022159
+    },
+    {
+     "lat": 34.0595124,
+     "lon": -117.2021173
+    },
+    {
+     "lat": 34.0594209,
+     "lon": -117.2021169
+    }
+   ],
+   "id": 765230023,
+   "tags": {
+    "addr:state": "CA",
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 38.2465829,
+    "maxlon": -122.0666267,
+    "minlat": 38.2458935,
+    "minlon": -122.0677421
+   },
+   "geometry": [
+    {
+     "lat": 38.2465802,
+     "lon": -122.0669039
+    },
+    {
+     "lat": 38.2465829,
+     "lon": -122.0675913
+    },
+    {
+     "lat": 38.2461479,
+     "lon": -122.067594
+    },
+    {
+     "lat": 38.2461485,
+     "lon": -122.067741
+    },
+    {
+     "lat": 38.2459602,
+     "lon": -122.0677421
+    },
+    {
+     "lat": 38.2459596,
+     "lon": -122.0675825
+    },
+    {
+     "lat": 38.2458939,
+     "lon": -122.0675829
+    },
+    {
+     "lat": 38.2458935,
+     "lon": -122.067461
+    },
+    {
+     "lat": 38.2459951,
+     "lon": -122.0674603
+    },
+    {
+     "lat": 38.2459946,
+     "lon": -122.0673235
+    },
+    {
+     "lat": 38.2460374,
+     "lon": -122.0673232
+    },
+    {
+     "lat": 38.2460371,
+     "lon": -122.0672481
+    },
+    {
+     "lat": 38.2458945,
+     "lon": -122.067249
+    },
+    {
+     "lat": 38.2458939,
+     "lon": -122.0670979
+    },
+    {
+     "lat": 38.2460288,
+     "lon": -122.067097
+    },
+    {
+     "lat": 38.246028,
+     "lon": -122.0668949
+    },
+    {
+     "lat": 38.2461391,
+     "lon": -122.0668942
+    },
+    {
+     "lat": 38.2461388,
+     "lon": -122.0668363
+    },
+    {
+     "lat": 38.2460763,
+     "lon": -122.0668368
+    },
+    {
+     "lat": 38.2460758,
+     "lon": -122.0667081
+    },
+    {
+     "lat": 38.2461869,
+     "lon": -122.0667073
+    },
+    {
+     "lat": 38.2461866,
+     "lon": -122.0666277
+    },
+    {
+     "lat": 38.2463321,
+     "lon": -122.0666267
+    },
+    {
+     "lat": 38.2463325,
+     "lon": -122.0667238
+    },
+    {
+     "lat": 38.2464047,
+     "lon": -122.0667234
+    },
+    {
+     "lat": 38.2464051,
+     "lon": -122.0668142
+    },
+    {
+     "lat": 38.2464741,
+     "lon": -122.0668137
+    },
+    {
+     "lat": 38.2464744,
+     "lon": -122.0669046
+    },
+    {
+     "lat": 38.2465802,
+     "lon": -122.0669039
+    }
+   ],
+   "id": 780063735,
+   "tags": {
+    "addr:city": "Fairfield",
+    "addr:housenumber": "425",
+    "addr:postcode": "94533",
+    "addr:state": "CA",
+    "addr:street": "Beck Avenue",
+    "building": "yes",
+    "name": "PG&E Datacenter",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3695105,
+    "maxlon": -121.9551353,
+    "minlat": 37.368596,
+    "minlon": -121.9555403
+   },
+   "geometry": [
+    {
+     "lat": 37.3695105,
+     "lon": -121.9555362
+    },
+    {
+     "lat": 37.3695094,
+     "lon": -121.9551353
+    },
+    {
+     "lat": 37.368596,
+     "lon": -121.9551392
+    },
+    {
+     "lat": 37.3685971,
+     "lon": -121.9555403
+    },
+    {
+     "lat": 37.3695105,
+     "lon": -121.9555362
+    }
+   ],
+   "id": 888253616,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "1160",
+    "addr:postcode": "95050",
+    "addr:state": "CA",
+    "addr:street": "Walsh Avenue",
+    "building": "yes",
+    "name": "NTT Silicon Valley SV1 Data Center",
+    "operator": "NTT",
+    "operator:wikidata": "Q1054787",
+    "ref": "SV1",
+    "telecom": "data_center",
+    "website": "https://services.global.ntt/en-us/services-and-products/global-data-centers/global-locations/americas/silicon-valley-sv1-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.1537706,
+    "maxlon": -117.2386249,
+    "minlat": 33.1534296,
+    "minlon": -117.2390678
+   },
+   "geometry": [
+    {
+     "lat": 33.1537306,
+     "lon": -117.2390678
+    },
+    {
+     "lat": 33.1534296,
+     "lon": -117.2390248
+    },
+    {
+     "lat": 33.1534696,
+     "lon": -117.2386249
+    },
+    {
+     "lat": 33.1537706,
+     "lon": -117.2386679
+    },
+    {
+     "lat": 33.1537306,
+     "lon": -117.2390678
+    }
+   ],
+   "id": 930540164,
+   "tags": {
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 38.5925866,
+    "maxlon": -121.2770722,
+    "minlat": 38.5920109,
+    "minlon": -121.2778079
+   },
+   "geometry": [
+    {
+     "lat": 38.5925866,
+     "lon": -121.2772299
+    },
+    {
+     "lat": 38.5924599,
+     "lon": -121.2778079
+    },
+    {
+     "lat": 38.5920109,
+     "lon": -121.2776475
+    },
+    {
+     "lat": 38.5921025,
+     "lon": -121.277233
+    },
+    {
+     "lat": 38.5920861,
+     "lon": -121.2772274
+    },
+    {
+     "lat": 38.592068,
+     "lon": -121.2772213
+    },
+    {
+     "lat": 38.5920847,
+     "lon": -121.2771464
+    },
+    {
+     "lat": 38.592126,
+     "lon": -121.2771618
+    },
+    {
+     "lat": 38.5921454,
+     "lon": -121.2770722
+    },
+    {
+     "lat": 38.5925866,
+     "lon": -121.2772299
+    }
+   ],
+   "id": 933393863,
+   "tags": {
+    "addr:city": "Rancho Cordova",
+    "addr:housenumber": "10980",
+    "addr:postcode": "95670",
+    "addr:state": "CA",
+    "addr:street": "Gold Center Drive",
+    "building": "yes",
+    "name": "Edgeconnex Data Center",
+    "operator": "EdgeConneX",
+    "operator:wikidata": "Q115477226",
+    "source": "esri/Sacramento_County_CA_Addresses",
+    "telecom": "data_center",
+    "website": "https://www.edgeconnex.com/locations/americas/sacramento-ca/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.4336419,
+    "maxlon": -122.1804564,
+    "minlat": 37.4331836,
+    "minlon": -122.1809588
+   },
+   "geometry": [
+    {
+     "lat": 37.4332467,
+     "lon": -122.1808558
+    },
+    {
+     "lat": 37.4331836,
+     "lon": -122.1808751
+    },
+    {
+     "lat": 37.4331997,
+     "lon": -122.1809588
+    },
+    {
+     "lat": 37.4332602,
+     "lon": -122.1809403
+    },
+    {
+     "lat": 37.4332661,
+     "lon": -122.1809489
+    },
+    {
+     "lat": 37.4334849,
+     "lon": -122.1808807
+    },
+    {
+     "lat": 37.4334693,
+     "lon": -122.1808009
+    },
+    {
+     "lat": 37.4335231,
+     "lon": -122.1807841
+    },
+    {
+     "lat": 37.4335258,
+     "lon": -122.1807975
+    },
+    {
+     "lat": 37.4336419,
+     "lon": -122.1807614
+    },
+    {
+     "lat": 37.4335822,
+     "lon": -122.1804564
+    },
+    {
+     "lat": 37.4334534,
+     "lon": -122.1804964
+    },
+    {
+     "lat": 37.4334906,
+     "lon": -122.1806867
+    },
+    {
+     "lat": 37.4334553,
+     "lon": -122.1806976
+    },
+    {
+     "lat": 37.4334537,
+     "lon": -122.1806894
+    },
+    {
+     "lat": 37.4332279,
+     "lon": -122.1807583
+    },
+    {
+     "lat": 37.4332467,
+     "lon": -122.1808558
+    }
+   ],
+   "id": 978632013,
+   "tags": {
+    "addr:city": "Stanford",
+    "addr:housenumber": "319",
+    "addr:street": "Oak Road",
+    "building": "data_center",
+    "name": "Northwest Data Center and Communications Hub",
+    "short_name": "NDCCH",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3905554,
+    "maxlon": -121.9655505,
+    "minlat": 37.389302,
+    "minlon": -121.9664311
+   },
+   "geometry": [
+    {
+     "lat": 37.389302,
+     "lon": -121.9656641
+    },
+    {
+     "lat": 37.3893302,
+     "lon": -121.9661392
+    },
+    {
+     "lat": 37.3893518,
+     "lon": -121.9661371
+    },
+    {
+     "lat": 37.3893693,
+     "lon": -121.9664311
+    },
+    {
+     "lat": 37.3905554,
+     "lon": -121.9663197
+    },
+    {
+     "lat": 37.3905098,
+     "lon": -121.9655505
+    },
+    {
+     "lat": 37.389302,
+     "lon": -121.9656641
+    }
+   ],
+   "id": 1065780801,
+   "tags": {
+    "building": "yes",
+    "name": "Amazon",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3618083,
+    "maxlon": -121.9417307,
+    "minlat": 37.3604999,
+    "minlon": -121.9429497
+   },
+   "geometry": [
+    {
+     "lat": 37.3604999,
+     "lon": -121.9424635
+    },
+    {
+     "lat": 37.3607151,
+     "lon": -121.9417935
+    },
+    {
+     "lat": 37.3608204,
+     "lon": -121.941847
+    },
+    {
+     "lat": 37.3608404,
+     "lon": -121.9417849
+    },
+    {
+     "lat": 37.3608828,
+     "lon": -121.9418065
+    },
+    {
+     "lat": 37.3609072,
+     "lon": -121.9417307
+    },
+    {
+     "lat": 37.3613261,
+     "lon": -121.9419439
+    },
+    {
+     "lat": 37.3613399,
+     "lon": -121.9419011
+    },
+    {
+     "lat": 37.3613664,
+     "lon": -121.9419146
+    },
+    {
+     "lat": 37.3613827,
+     "lon": -121.9418641
+    },
+    {
+     "lat": 37.3614645,
+     "lon": -121.9419057
+    },
+    {
+     "lat": 37.3614982,
+     "lon": -121.9418008
+    },
+    {
+     "lat": 37.3618083,
+     "lon": -121.9419586
+    },
+    {
+     "lat": 37.3615303,
+     "lon": -121.9428202
+    },
+    {
+     "lat": 37.3614954,
+     "lon": -121.9428021
+    },
+    {
+     "lat": 37.3612907,
+     "lon": -121.942697
+    },
+    {
+     "lat": 37.3612095,
+     "lon": -121.9429497
+    },
+    {
+     "lat": 37.3605889,
+     "lon": -121.942634
+    },
+    {
+     "lat": 37.3606235,
+     "lon": -121.9425263
+    },
+    {
+     "lat": 37.3604999,
+     "lon": -121.9424635
+    }
+   ],
+   "id": 1075445245,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "2220",
+    "addr:state": "CA",
+    "addr:street": "De La Cruz Boulevard",
+    "addr:unit": "2",
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3766015,
+    "maxlon": -121.9727714,
+    "minlat": 37.3755561,
+    "minlon": -121.973342
+   },
+   "geometry": [
+    {
+     "lat": 37.376596,
+     "lon": -121.9727714
+    },
+    {
+     "lat": 37.3755561,
+     "lon": -121.9727877
+    },
+    {
+     "lat": 37.3755616,
+     "lon": -121.973342
+    },
+    {
+     "lat": 37.3766015,
+     "lon": -121.9733255
+    },
+    {
+     "lat": 37.376596,
+     "lon": -121.9727714
+    }
+   ],
+   "id": 1160688107,
+   "tags": {
+    "building": "yes",
+    "name": "CoreSite SV7",
+    "operator": "CoreSite",
+    "ref": "SV7",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.2433715,
+    "maxlon": -121.7831921,
+    "minlat": 37.2418586,
+    "minlon": -121.784851
+   },
+   "geometry": [
+    {
+     "lat": 37.2418586,
+     "lon": -121.7844275
+    },
+    {
+     "lat": 37.2427616,
+     "lon": -121.7835701
+    },
+    {
+     "lat": 37.24316,
+     "lon": -121.7831921
+    },
+    {
+     "lat": 37.2433715,
+     "lon": -121.7835381
+    },
+    {
+     "lat": 37.2421911,
+     "lon": -121.7846572
+    },
+    {
+     "lat": 37.242236,
+     "lon": -121.7847316
+    },
+    {
+     "lat": 37.2421113,
+     "lon": -121.784851
+    },
+    {
+     "lat": 37.2418586,
+     "lon": -121.7844275
+    }
+   ],
+   "id": 1227604493,
+   "tags": {
+    "addr:city": "San Jose",
+    "addr:housenumber": "5",
+    "addr:postcode": "95119",
+    "addr:state": "CA",
+    "addr:street": "Great Oaks Boulevard",
+    "building": "data_center",
+    "name": "Equinix SV11",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "SV11",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/silicon-valley-data-centers/sv11"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.6652397,
+    "maxlon": -121.0398493,
+    "minlat": 37.6650497,
+    "minlon": -121.0402175
+   },
+   "geometry": [
+    {
+     "lat": 37.6652221,
+     "lon": -121.0401998
+    },
+    {
+     "lat": 37.6651751,
+     "lon": -121.0401994
+    },
+    {
+     "lat": 37.665175,
+     "lon": -121.0402175
+    },
+    {
+     "lat": 37.6651039,
+     "lon": -121.0402168
+    },
+    {
+     "lat": 37.6651041,
+     "lon": -121.0401973
+    },
+    {
+     "lat": 37.665061,
+     "lon": -121.0401968
+    },
+    {
+     "lat": 37.6650617,
+     "lon": -121.040083
+    },
+    {
+     "lat": 37.6650497,
+     "lon": -121.0400829
+    },
+    {
+     "lat": 37.6650503,
+     "lon": -121.0399971
+    },
+    {
+     "lat": 37.6650617,
+     "lon": -121.0399972
+    },
+    {
+     "lat": 37.6650623,
+     "lon": -121.0399135
+    },
+    {
+     "lat": 37.6651028,
+     "lon": -121.039914
+    },
+    {
+     "lat": 37.6651031,
+     "lon": -121.0398666
+    },
+    {
+     "lat": 37.665177,
+     "lon": -121.0398674
+    },
+    {
+     "lat": 37.6651772,
+     "lon": -121.0398493
+    },
+    {
+     "lat": 37.6652303,
+     "lon": -121.0398498
+    },
+    {
+     "lat": 37.6652293,
+     "lon": -121.0399913
+    },
+    {
+     "lat": 37.6652397,
+     "lon": -121.0399914
+    },
+    {
+     "lat": 37.6652396,
+     "lon": -121.0400133
+    },
+    {
+     "lat": 37.6652391,
+     "lon": -121.0400831
+    },
+    {
+     "lat": 37.6652229,
+     "lon": -121.0400829
+    },
+    {
+     "lat": 37.6652221,
+     "lon": -121.0401998
+    }
+   ],
+   "id": 1296163129,
+   "tags": {
+    "building": "yes",
+    "name": "Modesto Junior College West Data Center",
+    "operator": "Yosemite Community College District",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3711994,
+    "maxlon": -121.9735525,
+    "minlat": 37.3700869,
+    "minlon": -121.9754125
+   },
+   "geometry": [
+    {
+     "lat": 37.3700869,
+     "lon": -121.9739842
+    },
+    {
+     "lat": 37.370449,
+     "lon": -121.9738363
+    },
+    {
+     "lat": 37.3704154,
+     "lon": -121.9736946
+    },
+    {
+     "lat": 37.370755,
+     "lon": -121.9735525
+    },
+    {
+     "lat": 37.3711994,
+     "lon": -121.9750949
+    },
+    {
+     "lat": 37.3705026,
+     "lon": -121.9754125
+    },
+    {
+     "lat": 37.3700869,
+     "lon": -121.9739842
+    }
+   ],
+   "id": 1313995085,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "2590",
+    "addr:postcode": "95051",
+    "addr:state": "CA",
+    "addr:street": "Walsh Avenue",
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.364405,
+    "maxlon": -121.9457428,
+    "minlat": 37.3635973,
+    "minlon": -121.9480372
+   },
+   "geometry": [
+    {
+     "lat": 37.3636602,
+     "lon": -121.9457428
+    },
+    {
+     "lat": 37.3635973,
+     "lon": -121.9463789
+    },
+    {
+     "lat": 37.3638818,
+     "lon": -121.9464234
+    },
+    {
+     "lat": 37.3637303,
+     "lon": -121.9479546
+    },
+    {
+     "lat": 37.3642569,
+     "lon": -121.9480372
+    },
+    {
+     "lat": 37.364405,
+     "lon": -121.9465402
+    },
+    {
+     "lat": 37.3642652,
+     "lon": -121.9465183
+    },
+    {
+     "lat": 37.3643315,
+     "lon": -121.9458478
+    },
+    {
+     "lat": 37.3636602,
+     "lon": -121.9457428
+    }
+   ],
+   "id": 1314010354,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "737",
+    "addr:postcode": "95051",
+    "addr:state": "CA",
+    "addr:street": "Mathew Street",
+    "building": "yes",
+    "name": "Vantage Santa Clara CA2",
+    "operator": "Vantage Data Centers",
+    "operator:wikidata": "Q133440987",
+    "telecom": "data_center",
+    "website": "https://vantage-dc.com/data-center-locations/north-america/santa-clara-ii-california/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3715792,
+    "maxlon": -121.9465331,
+    "minlat": 37.3702593,
+    "minlon": -121.9479
+   },
+   "geometry": [
+    {
+     "lat": 37.3702952,
+     "lon": -121.9477365
+    },
+    {
+     "lat": 37.3703498,
+     "lon": -121.9471392
+    },
+    {
+     "lat": 37.3702593,
+     "lon": -121.9471261
+    },
+    {
+     "lat": 37.3702961,
+     "lon": -121.9467214
+    },
+    {
+     "lat": 37.3705247,
+     "lon": -121.9467544
+    },
+    {
+     "lat": 37.3705449,
+     "lon": -121.9465331
+    },
+    {
+     "lat": 37.3715444,
+     "lon": -121.9466772
+    },
+    {
+     "lat": 37.3715792,
+     "lon": -121.9467697
+    },
+    {
+     "lat": 37.3714871,
+     "lon": -121.9478726
+    },
+    {
+     "lat": 37.3714259,
+     "lon": -121.9479
+    },
+    {
+     "lat": 37.3702952,
+     "lon": -121.9477365
+    }
+   ],
+   "id": 1314012931,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "641",
+    "addr:postcode": "95050",
+    "addr:state": "CA",
+    "addr:street": "Walsh Avenue",
+    "building": "yes",
+    "name": "Digital Realty Silicon Valley SJC37",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "SJC37",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/silicon-valley/sjc37"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3760168,
+    "maxlon": -121.9559532,
+    "minlat": 37.3755134,
+    "minlon": -121.9565871
+   },
+   "geometry": [
+    {
+     "lat": 37.3759892,
+     "lon": -121.9565856
+    },
+    {
+     "lat": 37.3755147,
+     "lon": -121.9565871
+    },
+    {
+     "lat": 37.3755134,
+     "lon": -121.9559547
+    },
+    {
+     "lat": 37.3759805,
+     "lon": -121.9559532
+    },
+    {
+     "lat": 37.3759807,
+     "lon": -121.9560729
+    },
+    {
+     "lat": 37.3760164,
+     "lon": -121.9560728
+    },
+    {
+     "lat": 37.3760168,
+     "lon": -121.9562705
+    },
+    {
+     "lat": 37.3759886,
+     "lon": -121.9562706
+    },
+    {
+     "lat": 37.3759892,
+     "lon": -121.9565856
+    }
+   ],
+   "id": 1344376231,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "1550",
+    "addr:postcode": "95054",
+    "addr:state": "CA",
+    "addr:street": "Space Park Drive",
+    "building": "yes",
+    "name": "Csquare SFO4",
+    "operator": "Csquare",
+    "ref": "SFO4",
+    "telecom": "data_center",
+    "website": "https://www.csquare.com/data-centers/silicon-valley#santaclara-sfo4"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.4075773,
+    "maxlon": -121.9654574,
+    "minlat": 37.4070278,
+    "minlon": -121.9665033
+   },
+   "geometry": [
+    {
+     "lat": 37.4070278,
+     "lon": -121.9664
+    },
+    {
+     "lat": 37.4072288,
+     "lon": -121.9665033
+    },
+    {
+     "lat": 37.4073776,
+     "lon": -121.9660447
+    },
+    {
+     "lat": 37.4074269,
+     "lon": -121.96607
+    },
+    {
+     "lat": 37.4075773,
+     "lon": -121.9656062
+    },
+    {
+     "lat": 37.4072879,
+     "lon": -121.9654574
+    },
+    {
+     "lat": 37.407215,
+     "lon": -121.9656821
+    },
+    {
+     "lat": 37.4072543,
+     "lon": -121.9657023
+    },
+    {
+     "lat": 37.4070278,
+     "lon": -121.9664
+    }
+   ],
+   "id": 1351049826,
+   "tags": {
+    "addr:city": "Santa Clara",
+    "addr:housenumber": "5101",
+    "addr:postcode": "95054",
+    "addr:state": "CA",
+    "addr:street": "Lafayette Street",
+    "building": "yes",
+    "name": "DataBank Santa Clara SFO1",
+    "operator": "DataBank",
+    "operator:wikidata": "Q117314439",
+    "ref": "SFO1",
+    "telecom": "data_center",
+    "website": "https://www.databank.com/data-centers/silicon-valley/santa-clara/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.384229,
+    "maxlon": -121.9646256,
+    "minlat": 37.3832095,
+    "minlon": -121.9661832
+   },
+   "geometry": [
+    {
+     "lat": 37.3836688,
+     "lon": -121.9661832
+    },
+    {
+     "lat": 37.384229,
+     "lon": -121.9648848
+    },
+    {
+     "lat": 37.3838498,
+     "lon": -121.9646256
+    },
+    {
+     "lat": 37.383801,
+     "lon": -121.9647387
+    },
+    {
+     "lat": 37.3837211,
+     "lon": -121.9646841
+    },
+    {
+     "lat": 37.3832095,
+     "lon": -121.9658693
+    },
+    {
+     "lat": 37.3836688,
+     "lon": -121.9661832
+    }
+   ],
+   "id": 1460847458,
+   "tags": {
+    "building": "yes",
+    "name": "EdgeCore Silicon Valley",
+    "telecom": "data_center",
+    "website": "https://edgecore.com/locations/silicon-valley/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3623808,
+    "maxlon": -121.9529718,
+    "minlat": 37.3614879,
+    "minlon": -121.9544894
+   },
+   "geometry": [
+    {
+     "lat": 37.3623808,
+     "lon": -121.9544801
+    },
+    {
+     "lat": 37.3623701,
+     "lon": -121.9530488
+    },
+    {
+     "lat": 37.3619052,
+     "lon": -121.9530543
+    },
+    {
+     "lat": 37.3619045,
+     "lon": -121.9529718
+    },
+    {
+     "lat": 37.3614879,
+     "lon": -121.9529768
+    },
+    {
+     "lat": 37.3614979,
+     "lon": -121.9542861
+    },
+    {
+     "lat": 37.3615997,
+     "lon": -121.9544894
+    },
+    {
+     "lat": 37.3623808,
+     "lon": -121.9544801
+    }
+   ],
+   "id": 1460855151,
+   "tags": {
+    "building": "yes",
+    "name": "STACK SVY02",
+    "operator": "Stack Infrastructure",
+    "operator:wikidata": "Q115477173",
+    "ref": "SVY02",
+    "telecom": "data_center",
+    "website": "https://www.stackinfra.com/locations/americas/silicon-valley/svy02/"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-08-18T13:29:02Z",
+  "timestamp_osm_base": "2026-08-19T22:00:05Z"
+ },
+ "version": 0.6
+}

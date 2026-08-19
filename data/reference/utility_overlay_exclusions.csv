@@ -1,0 +1,21 @@
+# Entities in the CEC ElectricLoadServingEntities layer whose territory polygons
+# overlay retail utility service areas but which do NOT provide retail electric
+# distribution service to commercial customers such as data centers.
+#
+# Why this file exists: the CEC layer contains overlapping polygons. A Santa Clara
+# data center falls inside Silicon Valley Power (48 km2), PG&E (180,702 km2) and
+# the Power and Water Resource Pooling Authority (12,656 km2) simultaneously.
+# Choosing the smallest polygon alone is wrong, because PWRPA is smaller than
+# PG&E yet serves agricultural water districts, not commercial load. So
+# non-retail overlays are removed first, and the smallest remaining territory --
+# the most specific genuine retail provider -- wins.
+#
+# Irrigation districts that DO provide retail electric service (Imperial,
+# Modesto, Turlock, Merced) are deliberately absent from this list.
+acronym,utility,reason
+PWRPA,Power and Water Resource Pooling Authority,Joint powers agency pooling supply for agricultural water districts; not a retail distributor
+,Metropolitan Water District of So. Cal,Regional water wholesaler; electric load is its own pumping plant
+CCSF,City and County of San Francisco - Hetch Hetchy Water and Power,Serves municipal facilities only; commercial load in San Francisco is served by PG&E
+,Port of Oakland,Serves port tenants and terminal operations only
+,Port of Stockton,Serves port tenants and terminal operations only
+,City of Industry,Limited municipal service area serving city-owned load
