@@ -43,7 +43,7 @@ def test_street_names_do_not_trigger_institution_rules():
             "raw_json": None,
         }
     )
-    facility_class, rule, operator = classify.classify_row(row)
+    facility_class, rule, operator, _ = classify.classify_row(row)
     assert rule is None
     assert operator == "QTS"
 
@@ -69,7 +69,7 @@ def test_carrier_sites_in_peeringdb_are_kept_but_osm_central_offices_are_not():
             "raw_json": None,
         }
     )
-    facility_class, rule, _ = classify.classify_row(pdb)
+    facility_class, rule, _, _ = classify.classify_row(pdb)
     assert rule is None
     assert facility_class == classify.CLASS_COLOCATION
 
@@ -82,7 +82,7 @@ def test_carrier_sites_in_peeringdb_are_kept_but_osm_central_offices_are_not():
             "raw_json": None,
         }
     )
-    _, rule, _ = classify.classify_row(osm)
+    _, rule, _, _ = classify.classify_row(osm)
     assert rule == "telecom_central_office"
 
 
@@ -96,7 +96,7 @@ def test_hyperscaler_and_wholesale_classes():
             {"source": "osm", "name": f"{operator} Site", "operator_raw": operator,
              "address": None, "raw_json": None}
         )
-        facility_class, rule, _ = classify.classify_row(row)
+        facility_class, rule, _, _ = classify.classify_row(row)
         assert rule is None
         assert facility_class == expected
 

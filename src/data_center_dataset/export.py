@@ -19,6 +19,7 @@ import logging
 
 import geopandas as gpd
 import pandas as pd
+from shapely import wkt as shapely_wkt
 from shapely.geometry import Point
 
 from .config import PROCESSED_DIR, WGS84, ensure_dirs
@@ -30,6 +31,7 @@ FACILITY_COLUMNS = [
     "facility_id",
     "name",
     "operator",
+    "operator_confidence",
     "facility_class",
     "lat",
     "lon",
@@ -81,6 +83,7 @@ POWER_COLUMNS = [
 
 FIELD_DOCS = {
     "facility_id": "Stable slug + hash identifier for the resolved site.",
+    "operator_confidence": "How the operator was resolved: alias (curated table) | alias_token (partial token match) | unattributed (known property SPV, operator not public) | unresolved (raw string kept).",
     "facility_class": "colocation | wholesale | hyperscale | unknown.",
     "utility": "Most specific retail electric utility whose CEC territory contains the site.",
     "utility_candidates": "All overlapping CEC territories, including non-retail overlays. Shows attribution ambiguity.",
@@ -141,11 +144,46 @@ def write_all(built: dict) -> None:
     gdf.to_file(geo_path, driver="GeoJSON")
     log.info("wrote facilities.geojson (%d features)", len(gdf))
 
+    _write_footprints(facilities, geo_cols)
+
     (PROCESSED_DIR / "reconciliation.json").write_text(
         json.dumps(built["reconciliation"], indent=2, sort_keys=True)
     )
 
     _write_datapackage(built)
+
+
+def _write_footprints(facilities: pd.DataFrame, geo_cols: list[str]) -> None:
+    """Publish building footprint polygons as their own layer.
+
+    Kept separate from ``facilities.geojson`` (which is points) because the two
+    serve different purposes: points map every facility, polygons map only the
+    subset whose building outline is known. Mixing geometry types in one file
+    makes both harder to style.
+    """
+    if "geometry_wkt" not in facilities.columns:
+        return
+
+    subset = facilities[facilities.geometry_wkt.notna()].copy()
+    path = PROCESSED_DIR / "facility_footprints.geojson"
+    if subset.empty:
+        log.info("no footprint polygons to write")
+        return
+
+    geoms = []
+    keep = []
+    for idx, wkt_value in zip(subset.index, subset.geometry_wkt):
+        try:
+            geoms.append(shapely_wkt.loads(wkt_value))
+            keep.append(idx)
+        except Exception:
+            log.debug("unparseable footprint WKT on row %s", idx)
+
+    subset = subset.loc[keep]
+    cols = [c for c in geo_cols if c in subset.columns]
+    gdf = gpd.GeoDataFrame(subset[cols].copy(), geometry=geoms, crs=WGS84)
+    gdf.to_file(path, driver="GeoJSON")
+    log.info("wrote facility_footprints.geojson (%d polygons)", len(gdf))
 
 
 def _resource(stem: str, df: pd.DataFrame, description: str) -> dict:

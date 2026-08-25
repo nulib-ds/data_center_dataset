@@ -396,6 +396,7 @@ def resolve(records: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataF
                 "facility_id": fid,
                 "name": str(name),
                 "operator": _pick(group, "operator"),
+                "operator_confidence": _pick(group, "operator_confidence"),
                 "facility_class": facility_class,
                 "lat": lat,
                 "lon": lon,

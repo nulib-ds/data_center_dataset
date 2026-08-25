@@ -164,8 +164,25 @@ def _norm_operator_key(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip()
 
 
+#: Label applied to property vehicles whose operator is not publicly known.
+UNATTRIBUTED_OPERATOR = "Unattributed (property SPV)"
+
+CONFIDENCE_ALIAS = "alias"
+CONFIDENCE_TOKEN = "alias_token"
+CONFIDENCE_UNRESOLVED = "unresolved"
+CONFIDENCE_UNATTRIBUTED = "unattributed"
+
+
 @lru_cache(maxsize=1)
 def _alias_map() -> dict[str, str]:
+    """Normalised alias -> canonical company.
+
+    Also registers a whitespace-stripped form of every key. EPA NEI writes
+    company names in permit style, so "RAGING WIRE" must resolve to the same
+    entity as the curated alias "RagingWire" -- without this the two were
+    reported as separate operators and NTT's estimated load was understated by
+    55 MW.
+    """
     path = REFERENCE_DIR / "operator_aliases.csv"
     if not path.exists():
         log.warning("operator alias file missing: %s", path)
@@ -173,27 +190,89 @@ def _alias_map() -> dict[str, str]:
     table = pd.read_csv(path)
     mapping: dict[str, str] = {}
     for canonical, alias in zip(table["canonical"], table["alias"]):
-        mapping[_norm_operator_key(alias)] = canonical
-        mapping[_norm_operator_key(canonical)] = canonical
+        for raw in (alias, canonical):
+            key = _norm_operator_key(raw)
+            if not key:
+                continue
+            mapping.setdefault(key, canonical)
+            mapping.setdefault(key.replace(" ", ""), canonical)
     return mapping
 
 
-def canonical_operator(raw: object) -> str | None:
-    """Map a free-text operator string onto a canonical company name."""
-    if raw is None or (isinstance(raw, float) and pd.isna(raw)) or not str(raw).strip():
+@lru_cache(maxsize=1)
+def _unattributed_patterns() -> tuple[str, ...]:
+    path = REFERENCE_DIR / "operator_unattributed.csv"
+    if not path.exists():
+        return ()
+    table = pd.read_csv(path, comment="#")
+    return tuple(
+        _norm_operator_key(m) for m in table["match"].dropna() if str(m).strip()
+    )
+
+
+def _token_subsequence_match(key: str, aliases: dict[str, str]) -> str | None:
+    """Match when an alias's tokens appear as a contiguous run inside ``key``.
+
+    Replaces an earlier plain substring test, which was unsafe: the alias
+    "Switch" matched "AT&T Switching Center", and "Prime" matched any name
+    containing those letters. Requiring whole-token alignment and a minimum
+    alias length removes that class of error. Longest alias wins.
+    """
+    key_tokens = key.split()
+    if not key_tokens:
         return None
+    best: tuple[int, str] | None = None
+    for alias, canonical in aliases.items():
+        if " " not in alias and len(alias) < 3:
+            continue  # two letters is too weak even for a whole-token match
+        alias_tokens = alias.split()
+        n = len(alias_tokens)
+        if n > len(key_tokens):
+            continue
+        for i in range(len(key_tokens) - n + 1):
+            if key_tokens[i : i + n] == alias_tokens:
+                score = sum(len(t) for t in alias_tokens)
+                if best is None or score > best[0]:
+                    best = (score, canonical)
+                break
+    return best[1] if best else None
+
+
+def resolve_operator(raw: object) -> tuple[str | None, str]:
+    """Return ``(operator_group, confidence)`` for a raw operator string.
+
+    ``operator_group`` is the value to aggregate on. It is a canonical company
+    name where one could be established, ``UNATTRIBUTED_OPERATOR`` for known
+    property vehicles, and otherwise the cleaned raw string.
+    """
+    if raw is None or (isinstance(raw, float) and pd.isna(raw)) or not str(raw).strip():
+        return None, CONFIDENCE_UNRESOLVED
+
     key = _norm_operator_key(raw)
     if not key:
-        return None
+        return None, CONFIDENCE_UNRESOLVED
+
     aliases = _alias_map()
     if key in aliases:
-        return aliases[key]
-    # Longest-alias-wins substring fallback, so "Equinix SV1" resolves even
-    # though the exact string is not in the alias table.
-    hits = [(a, c) for a, c in aliases.items() if a and (a in key or key in a)]
-    if hits:
-        return max(hits, key=lambda kv: len(kv[0]))[1]
-    return str(raw).strip()
+        return aliases[key], CONFIDENCE_ALIAS
+    if key.replace(" ", "") in aliases:
+        return aliases[key.replace(" ", "")], CONFIDENCE_ALIAS
+
+    for pattern in _unattributed_patterns():
+        if pattern and (pattern in key or key in pattern):
+            return UNATTRIBUTED_OPERATOR, CONFIDENCE_UNATTRIBUTED
+
+    token_hit = _token_subsequence_match(key, aliases)
+    if token_hit:
+        return token_hit, CONFIDENCE_TOKEN
+
+    return str(raw).strip(), CONFIDENCE_UNRESOLVED
+
+
+def canonical_operator(raw: object) -> str | None:
+    """Backwards-compatible wrapper returning only the resolved name."""
+    return resolve_operator(raw)[0]
+
 
 
 # --------------------------------------------------------------------------
@@ -215,14 +294,14 @@ def _text_blob(row: pd.Series) -> str:
     return " ".join(str(p) for p in parts if p and not pd.isna(p))
 
 
-def classify_row(row: pd.Series) -> tuple[str, str | None, str | None]:
-    """Return ``(facility_class, exclusion_rule, canonical_operator)``.
+def classify_row(row: pd.Series) -> tuple[str, str | None, str | None, str]:
+    """Return ``(facility_class, exclusion_rule, operator, operator_confidence)``.
 
     ``exclusion_rule`` is ``None`` for in-scope records.
     """
-    operator = canonical_operator(row.get("operator_raw")) or canonical_operator(
-        row.get("name")
-    )
+    operator, confidence = resolve_operator(row.get("operator_raw"))
+    if operator is None:
+        operator, confidence = resolve_operator(row.get("name"))
     name = str(row.get("name") or "")
     blob = _text_blob(row)
 
@@ -234,14 +313,14 @@ def classify_row(row: pd.Series) -> tuple[str, str | None, str | None]:
     if not trusted:
         for rule, pattern in _EXCLUSION_RULES:
             if pattern.search(blob):
-                return CLASS_UNKNOWN, rule, operator
+                return CLASS_UNKNOWN, rule, operator, confidence
 
     if operator in _HYPERSCALE_OPERATORS:
-        return CLASS_HYPERSCALE, None, operator
+        return CLASS_HYPERSCALE, None, operator, confidence
     if operator in _WHOLESALE_OPERATORS:
-        return CLASS_WHOLESALE, None, operator
+        return CLASS_WHOLESALE, None, operator, confidence
     if operator in _COLO_OPERATORS:
-        return CLASS_COLOCATION, None, operator
+        return CLASS_COLOCATION, None, operator, confidence
 
     if operator in _TELECOM_OPERATORS or _TELECOM_NAME_RE.search(name):
         # A carrier's central office is out of scope, but a carrier-operated
@@ -249,10 +328,10 @@ def classify_row(row: pd.Series) -> tuple[str, str | None, str | None]:
         # space and therefore is in scope. Presence in PeeringDB is the
         # discriminator; the tag alone is not enough.
         if trusted:
-            return CLASS_COLOCATION, None, operator
-        return CLASS_TELECOM, "telecom_central_office", operator
+            return CLASS_COLOCATION, None, operator, confidence
+        return CLASS_TELECOM, "telecom_central_office", operator, confidence
 
-    return CLASS_UNKNOWN, None, operator
+    return CLASS_UNKNOWN, None, operator, confidence
 
 
 def apply(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
@@ -262,11 +341,21 @@ def apply(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
     responsible, and is written to ``data/processed/exclusions.csv`` for review.
     """
     if df.empty:
-        empty = df.assign(facility_class=None, exclusion_rule=None, operator=None)
+        empty = df.assign(
+            facility_class=None,
+            exclusion_rule=None,
+            operator=None,
+            operator_confidence=None,
+        )
         return empty, empty
 
     verdicts = df.apply(classify_row, axis=1, result_type="expand")
-    verdicts.columns = ["facility_class", "exclusion_rule", "operator"]
+    verdicts.columns = [
+        "facility_class",
+        "exclusion_rule",
+        "operator",
+        "operator_confidence",
+    ]
     tagged = pd.concat([df.reset_index(drop=True), verdicts.reset_index(drop=True)], axis=1)
 
     # Geographic sanity gate. PeeringDB carries genuine upstream data-entry

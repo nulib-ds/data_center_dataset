@@ -93,6 +93,74 @@ def validate(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
         raise typer.Exit(code=1)
 
 
+@app.command(name="map")
+def map_(
+    output: str = typer.Option(
+        None, "--output", "-o", help="Destination HTML path."
+    ),
+    open_browser: bool = typer.Option(
+        False, "--open", help="Open the map in a browser when done."
+    ),
+    verbose: bool = typer.Option(False, "--verbose", "-v"),
+) -> None:
+    """Render an interactive satellite map of the facilities."""
+    _setup_logging(verbose)
+    from pathlib import Path
+
+    from . import viz
+
+    if not (PROCESSED_DIR / "facilities.csv").exists():
+        console.print("[red]No outputs found. Run `build` first.[/red]")
+        raise typer.Exit(code=1)
+
+    path = viz.write_map(Path(output) if output else None)
+    console.print(f"[green]Wrote[/green] {path}")
+
+    if open_browser:
+        import webbrowser
+
+        webbrowser.open(path.resolve().as_uri())
+
+
+@app.command()
+def charts(
+    outdir: str = typer.Option(None, "--outdir", "-o", help="Destination directory."),
+    fetch_history: bool = typer.Option(
+        True,
+        "--fetch-history/--no-fetch-history",
+        help="Harvest OSM element history for the provenance figure (~115 requests).",
+    ),
+    refresh: bool = typer.Option(False, help="Bypass caches."),
+    verbose: bool = typer.Option(False, "--verbose", "-v"),
+) -> None:
+    """Render the analysis figures as PNG and SVG."""
+    _setup_logging(verbose)
+    from pathlib import Path
+
+    from . import charts as charts_mod
+    from .sources import osm_history
+
+    if not (PROCESSED_DIR / "facilities.csv").exists():
+        console.print("[red]No outputs found. Run `build` first.[/red]")
+        raise typer.Exit(code=1)
+
+    history = None
+    if fetch_history:
+        with CachedClient(min_interval=1.05) as client:
+            try:
+                history = osm_history.fetch(client, refresh=refresh)
+            except Exception as exc:
+                console.print(f"[yellow]OSM history unavailable: {exc}[/yellow]")
+
+    written = charts_mod.build_all(
+        Path(outdir) if outdir else None, history=history
+    )
+    console.print(f"[green]Wrote {len(written)} files[/green]")
+    for path in written:
+        if path.suffix == ".png":
+            console.print(f"  {path}")
+
+
 @app.command()
 def report() -> None:
     """Print a summary of the built dataset."""

@@ -20,6 +20,8 @@ dependencies = [
     "tenacity>=8.3",
     "selectolax>=0.3.21",
     "zipfile-deflate64>=0.2.0",
+    "plotly>=6.9.0",
+    "matplotlib>=3.11.1",
 ]
 
 [project.optional-dependencies]

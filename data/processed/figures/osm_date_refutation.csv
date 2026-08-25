@@ -1,0 +1,7 @@
+source_id,name,real_year,osm_created_year,datacenter_tagged_year,error_years,n_versions
+way/30666790,USPO Terminal Annex,1938,2009,2023,71,13
+way/424945845,Serverfarm - LAX1,1973,2016,2025,43,4
+way/472954201,AT&T,1974,2017,2019,43,3
+way/424945736,,1976,2016,2016,40,3
+way/424945852,DRT LAX12,1979,2016,2016,37,6
+way/460212563,,1990,2016,2016,26,2

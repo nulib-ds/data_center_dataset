@@ -60,6 +60,7 @@ def test_constraints_survive_transitive_merging():
                 "name": f"CoreSite - Santa Clara (SV{code})",
                 "operator_raw": "CoreSite",
                 "operator": "CoreSite",
+                "operator_confidence": "alias",
                 "facility_class": "colocation",
                 "lat": 37.38 + i * 0.0002,
                 "lon": -121.98,

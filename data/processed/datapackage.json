@@ -1,5 +1,5 @@
 {
-  "created": "2026-08-19",
+  "created": "2026-08-20",
   "description": "Registry of commercial (colocation, wholesale, hyperscale) data centers in California, assembled from OpenStreetMap, PeeringDB, the EPA National Emissions Inventory and California Energy Commission GIS. Power figures are ESTIMATES carrying an explicit evidence tier and confidence interval; none is a metered consumption reading. See LIMITATIONS.md before use.",
   "licenses": [
     {
@@ -11,11 +11,11 @@
   "name": "california-data-center-dataset",
   "profile": "tabular-data-package",
   "reconciliation": {
-    "bottom_up_annual_twh": 13.27,
-    "bottom_up_it_load_mw": 1473.3,
+    "bottom_up_annual_twh": 12.92,
+    "bottom_up_it_load_mw": 1433.2,
     "calibration_applied": false,
-    "implied_calibration_factor": 1.357,
-    "n_facilities_with_power": 118,
+    "implied_calibration_factor": 1.393,
+    "n_facilities_with_power": 117,
     "top_down_anchor_twh": 18.0,
     "top_down_range_twh": [
       12.0,
@@ -45,6 +45,11 @@
           {
             "description": "",
             "name": "operator",
+            "type": "string"
+          },
+          {
+            "description": "How the operator was resolved: alias (curated table) | alias_token (partial token match) | unattributed (known property SPV, operator not public) | unresolved (raw string kept).",
+            "name": "operator_confidence",
             "type": "string"
           },
           {
@@ -458,6 +463,11 @@
           {
             "description": "",
             "name": "operator",
+            "type": "string"
+          },
+          {
+            "description": "How the operator was resolved: alias (curated table) | alias_token (partial token match) | unattributed (known property SPV, operator not public) | unresolved (raw string kept).",
+            "name": "operator_confidence",
             "type": "string"
           },
           {

@@ -1,0 +1,22 @@
+# Property-holding entities whose operating company could not be established
+# from a public source.
+#
+# These appear in EPA NEI because air permits are issued to the legal owner of
+# the equipment, which for data centers is frequently a single-purpose property
+# vehicle rather than the operator. They carry real estimated load -- together
+# roughly 100 MW -- so dropping them would understate the state total, and
+# guessing an operator would fabricate attribution.
+#
+# Instead they are grouped under a single visible label so that the gap is
+# legible in any operator ranking. Move an entry out of this file (into
+# operator_aliases.csv) only when you have a source establishing the operator.
+#
+# match is compared case-insensitively against the normalised operator string.
+match,note
+XERES VENTURES,"Santa Clara site, 44 permitted generators. ""SC1"" suffix suggests Santa Clara 1 but the operator is not publicly established."
+2805 LAFAYETTE,"Address-named entity at 2805 Lafayette St, Santa Clara. Distinct from QTS at 2805 Mission College Blvd."
+3011 LAFAYETTE,"Address-named entity at 3011 Lafayette St, Santa Clara."
+VDC V,"Santa Clara site. ""VDC"" plausibly Vantage Data Centers, which holds two other permits in the same city, but this is inference rather than evidence."
+1101 SPACE PARK PARTNERS,"Adjacent to but distinct from 1100 Space Park."
+JAMESTOWN CONCORD TECH,"Property vehicle; occupant not established."
+SOMO VILLAGE COMMERCIAL,"Property vehicle in Rohnert Park; occupant not established."
