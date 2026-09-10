@@ -36,32 +36,59 @@ def ensure_dirs() -> None:
         d.mkdir(parents=True, exist_ok=True)
 
 
-def raw_dir(source: str, snapshot: str) -> Path:
-    """Directory for an immutable dated snapshot of one source."""
-    p = RAW_DIR / source / snapshot
+def raw_dir(source: str, snapshot: str, state: str | None = None) -> Path:
+    """Directory for an immutable dated snapshot of one source.
+
+    Most sources vary by state (OSM/PeeringDB/NEI are queried per state), so
+    their snapshots live at ``raw/<source>/<STATE>/<snapshot>/``. A few sources
+    are not state-scoped (e.g. the shared NEI archive, or California-only
+    enrichments queried without a state segment) and pass ``state=None``.
+    """
+    p = RAW_DIR / source
+    if state:
+        p = p / state.upper()
+    p = p / snapshot
     p.mkdir(parents=True, exist_ok=True)
     return p
 
 
-def latest_snapshot(source: str) -> str | None:
+def latest_snapshot(source: str, state: str | None = None) -> str | None:
     """Most recent snapshot date available on disk for ``source``."""
     base = RAW_DIR / source
+    if state:
+        base = base / state.upper()
     if not base.is_dir():
         return None
     snaps = sorted(p.name for p in base.iterdir() if p.is_dir())
     return snaps[-1] if snaps else None
 
 
+def processed_dir(state: str) -> Path:
+    """Per-state output directory, e.g. ``data/processed/TX/``."""
+    p = PROCESSED_DIR / state.upper()
+    p.mkdir(parents=True, exist_ok=True)
+    return p
+
+
 # --------------------------------------------------------------------------
 # Geography
 # --------------------------------------------------------------------------
 
-#: California Albers. Equal-area, metre units -- correct choice for computing
-#: building footprint areas and point-to-point distances statewide.
-CA_EQUAL_AREA_CRS = "EPSG:3310"
+#: USA Contiguous Albers Equal Area Conic. Equal-area, metre units, and valid
+#: across the full CONUS -- unlike the previous EPSG:3310 (California Albers),
+#: which is accurate for California but not the correct choice once other
+#: states are in scope. Used for every footprint-area and distance computation.
+EQUAL_AREA_CRS = "EPSG:5070"
+#: Deprecated alias kept for any external code referencing the old name.
+CA_EQUAL_AREA_CRS = EQUAL_AREA_CRS
 WGS84 = "EPSG:4326"
 
-#: Generous bounding box for California (minx, miny, maxx, maxy).
+#: Generous CONUS bounding box, used only as a loose safety net in the
+#: published-table schema. The tight, per-state boundary check that actually
+#: rejects mislabelled records lives in ``normalize.classify`` and uses each
+#: state's own bbox from :mod:`data_center_dataset.states`.
+CONUS_BBOX = (-124.85, 24.40, -66.85, 49.40)
+#: Deprecated alias.
 CA_BBOX = (-124.55, 32.45, -114.05, 42.05)
 
 # --------------------------------------------------------------------------
@@ -111,10 +138,8 @@ UTILIZATION_CI = (0.55, 0.85)
 
 HOURS_PER_YEAR = 8760
 
-#: Statewide reconciliation target, annual electricity use of California data
-#: centers in TWh. Order-of-magnitude anchor derived from the LBNL 2024 report
-#: (176 TWh nationally for 2023) apportioned to California. Used only as a
-#: sanity check, never to overwrite per-facility evidence.
+#: Deprecated: per-state anchors now live in ``data_center_dataset.states``.
+#: Kept only as the default when a caller does not supply one explicitly.
 CA_ANNUAL_TWH_ANCHOR = 18.0
 CA_ANNUAL_TWH_ANCHOR_RANGE = (12.0, 26.0)
 

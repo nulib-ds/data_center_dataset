@@ -16,7 +16,7 @@ from shapely import wkt as shapely_wkt
 from shapely.geometry import Point
 
 from ..config import (
-    CA_EQUAL_AREA_CRS,
+    EQUAL_AREA_CRS,
     MAX_MODELLED_STOREYS,
     REFERENCE_DIR,
     WGS84,
@@ -65,7 +65,7 @@ def add_footprint_area(df: pd.DataFrame) -> pd.DataFrame:
         return out
 
     gdf = to_geoframe(out)
-    projected = gdf.to_crs(CA_EQUAL_AREA_CRS)
+    projected = gdf.to_crs(EQUAL_AREA_CRS)
     is_poly = projected.geometry.geom_type.isin(["Polygon", "MultiPolygon"])
 
     areas = pd.Series(pd.NA, index=out.index, dtype="Float64")
@@ -144,7 +144,7 @@ def assign_utility(
         return out
 
     excluded = _overlay_exclusions()
-    poly = territories.to_crs(CA_EQUAL_AREA_CRS).copy()
+    poly = territories.to_crs(EQUAL_AREA_CRS).copy()
     poly["_area"] = poly.geometry.area
 
     retail = poly[
@@ -155,7 +155,7 @@ def assign_utility(
         out[["facility_id"]].copy(),
         geometry=[Point(xy) for xy in zip(out.lon, out.lat)],
         crs=WGS84,
-    ).to_crs(CA_EQUAL_AREA_CRS)
+    ).to_crs(EQUAL_AREA_CRS)
 
     # All overlaps, for transparency.
     all_hits = gpd.sjoin(pts, poly[["utility", "geometry"]], how="left", predicate="within")
@@ -210,9 +210,9 @@ def spatial_join_attribute(
         out[["facility_id"]].copy(),
         geometry=[Point(xy) for xy in zip(out.lon, out.lat)],
         crs=WGS84,
-    ).to_crs(CA_EQUAL_AREA_CRS)
+    ).to_crs(EQUAL_AREA_CRS)
 
-    poly = polygons.to_crs(CA_EQUAL_AREA_CRS)[[value_column, "geometry"]]
+    poly = polygons.to_crs(EQUAL_AREA_CRS)[[value_column, "geometry"]]
     joined = gpd.sjoin(pts, poly, how="left", predicate="within")
     joined = joined.drop_duplicates(subset="facility_id", keep="first")
 
@@ -237,9 +237,9 @@ def nearest_distance_km(
         out[["facility_id"]].copy(),
         geometry=[Point(xy) for xy in zip(out.lon, out.lat)],
         crs=WGS84,
-    ).to_crs(CA_EQUAL_AREA_CRS)
+    ).to_crs(EQUAL_AREA_CRS)
 
-    tgt = targets.to_crs(CA_EQUAL_AREA_CRS)[["geometry"]].reset_index(drop=True)
+    tgt = targets.to_crs(EQUAL_AREA_CRS)[["geometry"]].reset_index(drop=True)
     joined = gpd.sjoin_nearest(pts, tgt, how="left", distance_col="_dist_m")
     joined = joined.drop_duplicates(subset="facility_id", keep="first")
 

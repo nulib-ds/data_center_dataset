@@ -1,20 +1,36 @@
-"""EPA National Emissions Inventory ingest (2020, Region 9).
+"""EPA National Emissions Inventory ingest (2020, per-state region files).
 
 Why this source matters
 -----------------------
 Reconnaissance showed NEI is the strongest *free* per-facility signal available
-for California data centers, on two counts:
+for data centers, on two counts:
 
 1. **Recall.** It contributes commercial sites that neither OSM nor PeeringDB
-   records -- Google Mountain View, Vantage Santa Clara, RagingWire Sacramento,
-   AWS Santa Clara/Hayward, Microsoft Santa Clara -- each with coordinates,
-   because every one of them holds an air permit for backup diesel generators.
+   records, because every large data center holds an air permit for backup
+   diesel generators.
 
 2. **Tier B power proxy.** The count of permitted emergency generators at a
    site scales with the critical load those generators must carry.
 
-Important caveats, measured rather than assumed
------------------------------------------------
+The archive is split into ten "byregions" files (EPA Regions 1-10, plus one
+for unassigned facilities). One state maps to exactly one region file:
+
+===== ================================
+State  NEI region member
+===== ================================
+CA     point_9.csv  (Region 9: AZ CA HI NV)
+AZ     point_9.csv
+TX     point_6.csv  (Region 6: AR LA NM OK TX)
+GA     point_4.csv  (Region 4: AL FL GA KY MS NC SC TN)
+IL     point_5.csv  (Region 5: IL IN MI MN OH WI)
+VA     point_3.csv  (Region 3: DE DC MD PA VA WV)
+===== ================================
+
+The mapping lives on each state's :class:`~data_center_dataset.states.StateProfile`
+so that adding a state means adding one entry there, not touching this module.
+
+Important caveats, measured on California data and assumed to generalise
+------------------------------------------------------------------------
 * The structured ``design capacity`` field is effectively unusable: only 32 of
   817 California data-center units populate it, and 30 of those report a
   placeholder ``.1 E6BTU/HR``.
@@ -22,7 +38,10 @@ Important caveats, measured rather than assumed
   and ``process description`` ("G1 1500 KW EMERGENCY GENERATOR", "947 BHP").
   These parse for ~7.5% of units, yielding a median of 2116 kW and an
   interquartile range of 885-2190 kW. Those measurements set the per-unit prior
-  used when a rating cannot be parsed -- see ``GENERATOR_KW_*`` below.
+  used when a rating cannot be parsed -- see ``GENERATOR_KW_*`` below. This
+  prior was calibrated on California only; it is applied to every state as the
+  best available estimate, not because it has been separately validated
+  elsewhere.
 
 The upstream archive uses Deflate64, which CPython's ``zipfile`` cannot read,
 hence the ``zipfile_deflate64`` import.
@@ -54,8 +73,6 @@ ARCHIVE_URL = (
     "2020nei_facility_process_byregions.zip"
 )
 ARCHIVE_NAME = "2020nei_facility_process_byregions.zip"
-#: EPA Region 9 covers CA, AZ, NV, HI and the Pacific territories.
-REGION_MEMBER = "point_9.csv"
 
 #: NAICS codes that identify data center / computing-infrastructure sites.
 DATA_CENTER_NAICS = {"518210", "541513"}
@@ -105,23 +122,35 @@ def _archive_path() -> "object":
 
 
 def fetch(
-    client: CachedClient, snapshot: str | None = None, refresh: bool = False
+    client: CachedClient,
+    state: str = "CA",
+    snapshot: str | None = None,
+    refresh: bool = False,
 ) -> pd.DataFrame:
-    """Download the NEI archive if needed and snapshot the CA subset.
+    """Download the NEI archive if needed and snapshot the state's subset.
 
-    The 157 MB archive is deliberately *not* committed. What is committed is
-    the filtered California data-center extract produced here, which is small
-    and fully reproducible from ``ARCHIVE_URL``.
+    The 157 MB archive is shared across every state and deliberately *not*
+    committed. What is committed is the filtered per-state data-center
+    extract produced here, which is small and fully reproducible from
+    ``ARCHIVE_URL``.
     """
+    from ..states import get as get_state_profile
+
+    profile = get_state_profile(state)
+    region_member = profile.nei_region_file
+
     snapshot = snapshot or date.today().isoformat()
-    subset_path = raw_dir(SOURCE, snapshot) / "nei2020_ca_datacenter_units.csv"
+    subset_path = (
+        raw_dir(SOURCE, snapshot, state=state)
+        / f"nei2020_{state.lower()}_datacenter_units.csv"
+    )
 
     if subset_path.exists() and not refresh:
         return pd.read_csv(subset_path, dtype=str)
 
     archive = _archive_path()
     archive.parent.mkdir(parents=True, exist_ok=True)
-    log.info("downloading NEI 2020 archive (~157 MB, one time)")
+    log.info("downloading NEI 2020 archive (~157 MB, one time, shared across states)")
     client.download(ARCHIVE_URL, archive, refresh=refresh)
 
     keep_cols = [
@@ -144,10 +173,10 @@ def fetch(
     seen: set[tuple[str, str]] = set()
     rows: list[dict] = []
 
-    with zipfile.ZipFile(archive) as zf, zf.open(REGION_MEMBER) as raw:
+    with zipfile.ZipFile(archive) as zf, zf.open(region_member) as raw:
         stream = io.TextIOWrapper(raw, encoding="utf-8", errors="replace")
         for record in csv.DictReader(stream):
-            if record.get("state") != "CA":
+            if record.get("state") != state.upper():
                 continue
             if (record.get("primary naics code") or "").strip() not in DATA_CENTER_NAICS:
                 continue
@@ -160,9 +189,10 @@ def fetch(
     subset = pd.DataFrame(rows, columns=keep_cols)
     subset.to_csv(subset_path, index=False)
     log.info(
-        "nei: %d CA data-center units at %d facilities -> %s",
+        "nei: %d %s data-center units at %d facilities -> %s",
         len(subset),
-        subset["eis facility id"].nunique(),
+        state.upper(),
+        subset["eis facility id"].nunique() if not subset.empty else 0,
         subset_path.name,
     )
     return subset
@@ -181,7 +211,7 @@ def _is_generator(row: pd.Series) -> bool:
     return bool(re.search(r"\b(generator|gen\s?set|ic\s+engine|standby|emergency)\b", text, re.I))
 
 
-def parse(subset: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+def parse(subset: pd.DataFrame, state: str = "CA") -> tuple[pd.DataFrame, pd.DataFrame]:
     """Return ``(source_records, generator_inventory)``.
 
     ``generator_inventory`` is one row per facility and feeds the Tier B
@@ -222,7 +252,7 @@ def parse(subset: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
                 "lon": float(lon),
                 "address": (first["address"] or "").strip() or None,
                 "city": (first["city"] or "").strip() or None,
-                "state": "CA",
+                "state": state.upper(),
                 "postcode": (first["zip code"] or "").strip() or None,
                 "raw_json": json.dumps(
                     {
@@ -262,4 +292,5 @@ def parse(subset: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
 
 
 def load(client: CachedClient, **kw) -> tuple[pd.DataFrame, pd.DataFrame]:
-    return parse(fetch(client, **kw))
+    subset = fetch(client, **kw)
+    return parse(subset, state=kw.get("state", "CA"))

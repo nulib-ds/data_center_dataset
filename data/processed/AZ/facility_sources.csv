@@ -1,0 +1,94 @@
+facility_id,source,source_id,source_url,source_name
+optimumhq-2438c6,osm,node/7557854384,https://www.openstreetmap.org/node/7557854384,OptimumHQ
+the-chatfield-group-d986aa,osm,node/7557868585,https://www.openstreetmap.org/node/7557868585,The Chatfield Group
+all-about-serving-process-server-5f5400,osm,node/7578821329,https://www.openstreetmap.org/node/7578821329,All About Serving Process Server
+emailage-a19097,osm,node/7737996606,https://www.openstreetmap.org/node/7737996606,Emailage
+alliance-technology-b8b830,osm,node/7821940847,https://www.openstreetmap.org/node/7821940847,Alliance Technology
+vaultlogix-d6f072,osm,node/10796113031,https://www.openstreetmap.org/node/10796113031,VaultLogix
+profit-finder-pro-software-0080b1,osm,node/10796113033,https://www.openstreetmap.org/node/10796113033,Profit Finder Pro Software
+datapro-usa-web-development-846f81,osm,node/10798644674,https://www.openstreetmap.org/node/10798644674,DataPro USA Web Development
+k-motion-interactive-e6ea2c,osm,node/10938672218,https://www.openstreetmap.org/node/10938672218,K-Motion Interactive
+iron-mountain-data-center-scottsdale-azs-1-f1d892,osm,node/11018926315,https://www.openstreetmap.org/node/11018926315,Iron Mountain Data Centers AZS-1
+iron-mountain-data-center-scottsdale-azs-1-f1d892,peeringdb,531,https://www.peeringdb.com/fac/531,Iron Mountain Data Center - Scottsdale (AZS-1)
+accelera-data-systems-ee6398,osm,node/11113161710,https://www.openstreetmap.org/node/11113161710,Accelera Data Systems
+alembic-computer-services-inc-b7aa4f,osm,node/11938614120,https://www.openstreetmap.org/node/11938614120,"Alembic Computer Services, Inc."
+j-curve-technologies-4873cc,osm,node/11938631189,https://www.openstreetmap.org/node/11938631189,J-Curve Technologies
+comarch-db317c,osm,node/13019681063,https://www.openstreetmap.org/node/13019681063,Comarch
+iron-mountain-records-storage-474599,osm,way/131891022,https://www.openstreetmap.org/way/131891022,Iron Mountain Records Storage
+l3harris-technologies-inc-d796a2,osm,way/152163711,https://www.openstreetmap.org/way/152163711,L3Harris Technologies Inc
+az-labs-9871b0,osm,way/152163722,https://www.openstreetmap.org/way/152163722,AZ Labs
+aligned-phoenix-phx-01-ed24dd,osm,way/155739337,https://www.openstreetmap.org/way/155739337,Aligned Energy Data Center
+aligned-phoenix-phx-01-ed24dd,peeringdb,7863,https://www.peeringdb.com/fac/7863,Aligned Phoenix (PHX-01)
+flexential-phoenix-phx01-ffc829,osm,way/157362579,https://www.openstreetmap.org/way/157362579,Flexential Phoenix - Deer Valley
+flexential-phoenix-phx01-ffc829,peeringdb,2221,https://www.peeringdb.com/fac/2221,Flexential - Phoenix (PHX01)
+data-storage-centers-c97b93,osm,way/210917861,https://www.openstreetmap.org/way/210917861,Data Storage Centers
+edgeconnex-phoenix-edcphx01-278008,osm,way/220014929,https://www.openstreetmap.org/way/220014929,EdgeConneX
+edgeconnex-phoenix-edcphx01-278008,peeringdb,1917,https://www.peeringdb.com/fac/1917,EdgeConneX Phoenix (EDCPHX01)
+digital-realty-data-center-d67e9c,osm,way/220518160,https://www.openstreetmap.org/way/220518160,Digital Realty Data Center
+phoenixnap-5f89c4,osm,way/244490839,https://www.openstreetmap.org/way/244490839,PhoenixNAP
+phoenixnap-5f89c4,peeringdb,917,https://www.peeringdb.com/fac/917,PhoenixNAP
+cogent-data-center-affbc2,osm,way/290307022,https://www.openstreetmap.org/way/290307022,Cogent Data Center
+digital-realty-phx15-2121-s-price-rd-6b4b60,osm,way/300952513,https://www.openstreetmap.org/way/300952513,Digital Realty Phoenix PHX15
+digital-realty-phx15-2121-s-price-rd-6b4b60,peeringdb,5138,https://www.peeringdb.com/fac/5138,Digital Realty PHX15 (2121 S Price Rd)
+h5-data-centers-phoenix-d68f8f,osm,way/300959969,https://www.openstreetmap.org/way/300959969,H5 Phoenix
+h5-data-centers-phoenix-d68f8f,peeringdb,3076,https://www.peeringdb.com/fac/3076,H5 Data Centers Phoenix
+cyrusone-phoenix-80e356,osm,way/300959970,https://www.openstreetmap.org/way/300959970,CyrusOne
+cyrusone-phoenix-80e356,osm,way/781370600,https://www.openstreetmap.org/way/781370600,CyrusOne
+cyrusone-phoenix-80e356,osm,way/977653854,https://www.openstreetmap.org/way/977653854,CyrusOne
+cyrusone-phoenix-80e356,osm,way/977653858,https://www.openstreetmap.org/way/977653858,CyrusOne
+cyrusone-phoenix-80e356,osm,way/977653859,https://www.openstreetmap.org/way/977653859,CyrusOne
+cyrusone-phoenix-80e356,osm,way/1227682824,https://www.openstreetmap.org/way/1227682824,CyrusOne
+cyrusone-phoenix-80e356,osm,way/1227684019,https://www.openstreetmap.org/way/1227684019,CyrusOne
+cyrusone-phoenix-80e356,osm,way/1227684020,https://www.openstreetmap.org/way/1227684020,CyrusOne
+cyrusone-phoenix-80e356,peeringdb,1488,https://www.peeringdb.com/fac/1488,CyrusOne Phoenix
+apple-data-center-ed2980,osm,way/300974499,https://www.openstreetmap.org/way/300974499,Apple Data Center
+stream-data-centers-phoenix-i-7155c9,osm,way/468707940,https://www.openstreetmap.org/way/468707940,Stream Data Centers PHX-1
+stream-data-centers-phoenix-i-7155c9,peeringdb,8088,https://www.peeringdb.com/fac/8088,Stream Data Centers - Phoenix I
+godaddy-gilbert-92307e,osm,way/530982335,https://www.openstreetmap.org/way/530982335,GoDaddy - Gilbert
+centersquare-phoenix-phx1-mesa-4018c1,osm,way/543117031,https://www.openstreetmap.org/way/543117031,Centersquare: Phoenix - (PHX1 - Mesa)
+unnamed-data-center-8a0041,osm,way/567575425,https://www.openstreetmap.org/way/567575425,
+iron-mountain-data-center-phoenix-azp-2-825f08,osm,way/685011021,https://www.openstreetmap.org/way/685011021,Iron Mountain AZP-2
+iron-mountain-data-center-phoenix-azp-2-825f08,peeringdb,6346,https://www.peeringdb.com/fac/6346,Iron Mountain Data Center - Phoenix (AZP-2)
+phx-10-249421,osm,way/795384117,https://www.openstreetmap.org/way/795384117,PHX-10
+phx-10-249421,osm,way/1091128478,https://www.openstreetmap.org/way/1091128478,PHX-11
+phx-10-249421,osm,way/1532070752,https://www.openstreetmap.org/way/1532070752,PHX-12
+phx-10-249421,osm,way/1532070753,https://www.openstreetmap.org/way/1532070753,PHX-13
+phx-10-249421,osm,way/1532070754,https://www.openstreetmap.org/way/1532070754,PHX-14
+edgecore-phoenix-83b23c,osm,way/808979618,https://www.openstreetmap.org/way/808979618,EdgeCore
+edgecore-phoenix-83b23c,peeringdb,12553,https://www.peeringdb.com/fac/12553,EdgeCore Phoenix
+strongmind-1b6b2a,osm,way/828228235,https://www.openstreetmap.org/way/828228235,StrongMind
+myndshift-technologies-7269da,osm,way/836947535,https://www.openstreetmap.org/way/836947535,Myndshift Technologies
+directv-bb28fe,osm,way/843314844,https://www.openstreetmap.org/way/843314844,DirecTV
+unnamed-data-center-b53901,osm,way/938592711,https://www.openstreetmap.org/way/938592711,
+omnis-network-phoenix-6c96cf,osm,way/940821791,https://www.openstreetmap.org/way/940821791,Omnis Network
+omnis-network-phoenix-6c96cf,peeringdb,4572,https://www.peeringdb.com/fac/4572,Omnis Network Phoenix
+1gservers-data-center-phx1-ffc0ec,osm,way/952157194,https://www.openstreetmap.org/way/952157194,1GServers
+1gservers-data-center-phx1-ffc0ec,peeringdb,16889,https://www.peeringdb.com/fac/16889,1GServers Data Center PHX1
+edgeconnex-phx02-data-center-d855d6,osm,way/1015704066,https://www.openstreetmap.org/way/1015704066,EdgeConneX PHX02 Data Center
+directv-50f172,osm,way/1042260902,https://www.openstreetmap.org/way/1042260902,DirecTV
+unnamed-data-center-df655c,osm,way/1052182309,https://www.openstreetmap.org/way/1052182309,
+qts-phoenix-phx2-395309,osm,way/1132632705,https://www.openstreetmap.org/way/1132632705,QTS
+qts-phoenix-phx2-395309,peeringdb,13686,https://www.peeringdb.com/fac/13686,QTS Phoenix (PHX2)
+vantage-data-centers-0f8ed7,osm,way/1283734104,https://www.openstreetmap.org/way/1283734104,Vantage Data Centers
+qts-c154fb,osm,way/1315636714,https://www.openstreetmap.org/way/1315636714,QTS
+iron-mountain-data-center-phoenix-azp-1-cf4b81,osm,way/1357825755,https://www.openstreetmap.org/way/1357825755,Iron Mountain AZP-1
+iron-mountain-data-center-phoenix-azp-1-cf4b81,peeringdb,572,https://www.peeringdb.com/fac/572,Iron Mountain Data Center - Phoenix (AZP-1)
+unnamed-data-center-9ab94e,osm,way/1372772726,https://www.openstreetmap.org/way/1372772726,
+unnamed-data-center-df6b41,osm,way/1456975947,https://www.openstreetmap.org/way/1456975947,
+unnamed-data-center-6dcf78,osm,way/1456975948,https://www.openstreetmap.org/way/1456975948,
+unnamed-data-center-523fd6,osm,way/1456975949,https://www.openstreetmap.org/way/1456975949,
+digital-realty-phx10-120-e-van-buren-3149e9,peeringdb,171,https://www.peeringdb.com/fac/171,Digital Realty PHX10 (120 E Van Buren)
+centersquare-phoenix-phx3-33c458,peeringdb,613,https://www.peeringdb.com/fac/613,Centersquare Phoenix (PHX3)
+login-tucson-65c067,peeringdb,973,https://www.peeringdb.com/fac/973,Login Tucson
+qts-phoenix-phx1-ff7740,peeringdb,1880,https://www.peeringdb.com/fac/1880,QTS Phoenix (PHX1)
+simply-bits-dc1-eb7827,peeringdb,2249,https://www.peeringdb.com/fac/2249,Simply Bits DC1
+centersquare-phoenix-phx1-ee9d4a,peeringdb,2642,https://www.peeringdb.com/fac/2642,Centersquare Phoenix (PHX1)
+sungard-as-scottsdale-6d9c2a,peeringdb,2954,https://www.peeringdb.com/fac/2954,Sungard AS Scottsdale
+ark-data-centers-tucson-az-43dfe4,peeringdb,8336,https://www.peeringdb.com/fac/8336,"ark data centers - Tucson, AZ"
+expedient-phoenix-76946b,peeringdb,8474,https://www.peeringdb.com/fac/8474,Expedient Phoenix
+inap-phoenix-a866d9,peeringdb,8861,https://www.peeringdb.com/fac/8861,INAP Phoenix
+databank-phoenix-phx1-5c401f,peeringdb,10934,https://www.peeringdb.com/fac/10934,DataBank Phoenix (PHX1)
+databank-phoenix-phx2-c53919,peeringdb,10935,https://www.peeringdb.com/fac/10935,DataBank Phoenix (PHX2)
+databank-phoenix-phx3-685b16,peeringdb,10936,https://www.peeringdb.com/fac/10936,DataBank Phoenix (PHX3)
+mdc-nogales-599e49,peeringdb,11903,https://www.peeringdb.com/fac/11903,MDC Nogales
+us-signal-az01-phoenix-3b5288,peeringdb,12307,https://www.peeringdb.com/fac/12307,US Signal AZ01 - Phoenix

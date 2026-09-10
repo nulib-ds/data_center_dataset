@@ -24,7 +24,7 @@ import pandas as pd
 from shapely.geometry import Point
 
 from ..config import (
-    CA_EQUAL_AREA_CRS,
+    EQUAL_AREA_CRS,
     DEDUPE_AUTO_MERGE,
     DEDUPE_RADIUS_M,
     DEDUPE_REVIEW_FLOOR,
@@ -336,7 +336,7 @@ def resolve(records: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataF
         work[["name", "operator", "address", "source"]].copy(),
         geometry=[Point(xy) for xy in zip(work.lon, work.lat)],
         crs=WGS84,
-    ).to_crs(CA_EQUAL_AREA_CRS)
+    ).to_crs(EQUAL_AREA_CRS)
 
     pairs = _candidate_pairs(gdf)
     log.info("dedupe: %d candidate pairs from %d records", len(pairs), len(work))

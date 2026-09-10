@@ -334,11 +334,18 @@ def classify_row(row: pd.Series) -> tuple[str, str | None, str | None, str]:
     return CLASS_UNKNOWN, None, operator, confidence
 
 
-def apply(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+def apply(
+    df: pd.DataFrame, bbox: tuple[float, float, float, float] = CA_BBOX
+) -> tuple[pd.DataFrame, pd.DataFrame]:
     """Split source records into (in_scope, excluded).
 
+    ``bbox`` is the target state's (minx, miny, maxx, maxy), from
+    :mod:`data_center_dataset.states`. Defaults to California for backward
+    compatibility when called without it.
+
     The excluded frame carries an ``exclusion_rule`` column naming the rule
-    responsible, and is written to ``data/processed/exclusions.csv`` for review.
+    responsible, and is written to ``data/processed/<STATE>/exclusions.csv``
+    for review.
     """
     if df.empty:
         empty = df.assign(
@@ -360,14 +367,15 @@ def apply(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
 
     # Geographic sanity gate. PeeringDB carries genuine upstream data-entry
     # errors: QTS Charlotte (North Carolina), AceHost Durham (North Carolina)
-    # and Cogent Fairfax are all recorded with state="CA". A coordinate several
-    # hundred miles outside California is decisive regardless of the state field.
-    minx, miny, maxx, maxy = CA_BBOX
+    # and Cogent Fairfax are all recorded with state="CA" despite being
+    # nowhere near it. A coordinate well outside the target state's bounding
+    # box is decisive regardless of the state field.
+    minx, miny, maxx, maxy = bbox
     lat = pd.to_numeric(tagged.lat, errors="coerce")
     lon = pd.to_numeric(tagged.lon, errors="coerce")
     out_of_bounds = ~(lat.between(miny, maxy) & lon.between(minx, maxx))
     tagged.loc[out_of_bounds & tagged.exclusion_rule.isna(), "exclusion_rule"] = (
-        "outside_california"
+        "outside_state"
     )
 
     keep = tagged.exclusion_rule.isna() & tagged.facility_class.isin(IN_SCOPE_CLASSES)

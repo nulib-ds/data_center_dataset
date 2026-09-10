@@ -90,15 +90,20 @@ def test_gross_area_multiplies_by_storeys():
     assert out.est_gross_sqft.tolist() == [30_000.0, 10_000.0, 10_000.0]
 
 
-def test_facility_schema_rejects_coordinates_outside_california():
+def test_facility_schema_rejects_coordinates_outside_conus():
+    """The schema now only enforces a loose CONUS safety net (see CONUS_BBOX);
+    the tight per-state boundary lives in ``classify.apply``'s ``bbox`` param.
+    North Carolina is inside CONUS, so it would no longer trip this check --
+    use a coordinate genuinely outside the continental US instead.
+    """
     df = pd.DataFrame(
         [
             {
                 "facility_id": "bad",
                 "name": "Somewhere else",
                 "operator": "X",
-                "lat": 35.03,
-                "lon": -81.10,  # North Carolina
+                "lat": 51.50,
+                "lon": -0.12,  # London, well outside CONUS_BBOX
                 "footprint_sqft": None,
                 "est_white_space_sqft": None,
                 "best_power_mw": None,

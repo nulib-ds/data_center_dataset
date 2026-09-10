@@ -1,0 +1,84 @@
+facility_id,source,source_id,source_url,source_name
+google-fiber-049d91,osm,node/4879481820,https://www.openstreetmap.org/node/4879481820,Google Fiber
+digital-realty-atl13-atlanta-5ba433,osm,node/8109664813,https://www.openstreetmap.org/node/8109664813,Atlanta ATL13
+digital-realty-atl13-atlanta-5ba433,peeringdb,125,https://www.peeringdb.com/fac/125,Digital Realty ATL13 - Atlanta
+coresite-atlanta-at1-3c6be6,osm,node/12331366645,https://www.openstreetmap.org/node/12331366645,CoreSite AT1
+coresite-atlanta-at1-3c6be6,peeringdb,1337,https://www.peeringdb.com/fac/1337,CoreSite - Atlanta (AT1)
+hewlett-packard-7e41e3,osm,way/34770750,https://www.openstreetmap.org/way/34770750,Hewlett-Packard
+strategic-datasphere-ecb74c,osm,way/39083541,https://www.openstreetmap.org/way/39083541,Strategic Datasphere
+flexential-atlanta-alpharetta-atl3-4-8b977c,osm,way/39083797,https://www.openstreetmap.org/way/39083797,Flexential Atlanta - Alpharetta Data Center
+flexential-atlanta-alpharetta-atl3-4-8b977c,peeringdb,4996,https://www.peeringdb.com/fac/4996,Flexential - Atlanta/Alpharetta (ATL3/4)
+secure-data-center-8437ff,osm,way/39083830,https://www.openstreetmap.org/way/39083830,Secure Data Center
+cox-data-center-8dfb41,osm,way/269166415,https://www.openstreetmap.org/way/269166415,Cox Data Center
+qts-atlanta-metro-atl1-231ab2,osm,way/269847438,https://www.openstreetmap.org/way/269847438,QTS Atlanta Data Center 1
+qts-atlanta-metro-atl1-231ab2,peeringdb,581,https://www.peeringdb.com/fac/581,QTS Atlanta-Metro (ATL1)
+digital-realty-data-center-9f3cc4,osm,way/278560778,https://www.openstreetmap.org/way/278560778,Digital Realty Data Center
+coresite-atlanta-at2-da4901,osm,way/284044002,https://www.openstreetmap.org/way/284044002,CoreSite AT2 - Marietta Data Center
+coresite-atlanta-at2-da4901,peeringdb,6638,https://www.peeringdb.com/fac/6638,CoreSite - Atlanta (AT2)
+qts-atlanta-suwanee-suw1-08d843,osm,way/387378765,https://www.openstreetmap.org/way/387378765,QTS Suwanee Data Center 1
+qts-atlanta-suwanee-suw1-08d843,osm,way/1207052719,https://www.openstreetmap.org/way/1207052719,QTS Suwanee
+qts-atlanta-suwanee-suw1-08d843,peeringdb,580,https://www.peeringdb.com/fac/580,QTS Atlanta-Suwanee (SUW1)
+qts-suwanee-data-center-2-569f17,osm,way/387379196,https://www.openstreetmap.org/way/387379196,QTS Suwanee Data Center 2
+flexential-atlanta-norcross-atl1-2-e0db42,osm,way/392324240,https://www.openstreetmap.org/way/392324240,Flexential Atlanta - Norcross
+flexential-atlanta-norcross-atl1-2-e0db42,peeringdb,4995,https://www.peeringdb.com/fac/4995,Flexential - Atlanta/Norcross (ATL1/2)
+unnamed-data-center-29d003,osm,way/545704217,https://www.openstreetmap.org/way/545704217,
+google-datacenter-douglas-county-fc264a,osm,way/578435601,https://www.openstreetmap.org/way/578435601,Google Datacenter - Douglas County
+mapletree-industrial-9f091f,osm,way/615593145,https://www.openstreetmap.org/way/615593145,Mapletree Industrial
+ascent-atlanta-data-center-f738c2,osm,way/635022480,https://www.openstreetmap.org/way/635022480,Ascent - Atlanta Data Center
+centersquare-atlanta-atl1-a-b-c-a1ea48,osm,way/713410334,https://www.openstreetmap.org/way/713410334,Centersquare Atlanta ATL1
+centersquare-atlanta-atl1-a-b-c-a1ea48,peeringdb,4048,https://www.peeringdb.com/fac/4048,Centersquare Atlanta (ATL1-A/B/C)
+centersquare-atlanta-atl1-a-b-c-a1ea48,peeringdb,6675,https://www.peeringdb.com/fac/6675,Centersquare Atlanta (ATL1-D)
+t5-data-center-cb8a15,osm,way/891031651,https://www.openstreetmap.org/way/891031651,T5 Data Center
+dli-one-6d48ec,osm,way/958153769,https://www.openstreetmap.org/way/958153769,DLI ONE
+dli-one-6d48ec,peeringdb,13230,https://www.peeringdb.com/fac/13230,DLI One
+unnamed-data-center-938563,osm,way/958153770,https://www.openstreetmap.org/way/958153770,
+digital-realty-atlanta-atl11-e0ebf6,osm,way/975064000,https://www.openstreetmap.org/way/975064000,Digital Realty Atlanta ATL11
+switch-data-center-4b8cd4,osm,way/975064004,https://www.openstreetmap.org/way/975064004,Switch Data Center
+qts-atlanta-data-center-2-46c93a,osm,way/1007825570,https://www.openstreetmap.org/way/1007825570,QTS Atlanta Data Center 2
+unnamed-data-center-0866eb,osm,way/1012918195,https://www.openstreetmap.org/way/1012918195,
+meta-stanton-springs-data-center-13486c,osm,way/1054387470,https://www.openstreetmap.org/way/1054387470,Meta Stanton Springs Data Center
+meta-a3ce9b,osm,way/1054387471,https://www.openstreetmap.org/way/1054387471,Meta
+meta-d3cdc1,osm,way/1070895993,https://www.openstreetmap.org/way/1070895993,Meta
+meta-331bc0,osm,way/1070895994,https://www.openstreetmap.org/way/1070895994,Meta
+flexential-atlanta-douglasville-atl5-1c08ab,osm,way/1097502168,https://www.openstreetmap.org/way/1097502168,Flexential Atlanta - Douglasville 1
+flexential-atlanta-douglasville-atl5-1c08ab,peeringdb,13389,https://www.peeringdb.com/fac/13389,Flexential - Atlanta/Douglasville (ATL5)
+flexential-atlanta-douglasville-2-c24f7f,osm,way/1258702591,https://www.openstreetmap.org/way/1258702591,Flexential Atlanta - Douglasville 2
+ups-data-center-95c208,osm,way/1282332209,https://www.openstreetmap.org/way/1282332209,UPS Data Center
+qts-atlanta-fayetteville-atl2-1e9bbc,osm,way/1472128597,https://www.openstreetmap.org/way/1472128597,QTS
+qts-atlanta-fayetteville-atl2-1e9bbc,peeringdb,16563,https://www.peeringdb.com/fac/16563,QTS Atlanta-Fayetteville (ATL2)
+qts-ca9ef7,osm,way/1472128598,https://www.openstreetmap.org/way/1472128598,QTS
+qts-ff97bc,osm,way/1510517635,https://www.openstreetmap.org/way/1510517635,QTS
+qts-4eb45b,osm,way/1510517636,https://www.openstreetmap.org/way/1510517636,QTS
+equinix-at2-at3-atlanta-ee4a5d,peeringdb,11,https://www.peeringdb.com/fac/11,Equinix AT2/AT3 - Atlanta
+level-3-atlanta-courtland-bd8050,peeringdb,249,https://www.peeringdb.com/fac/249,Level(3) Atlanta (Courtland)
+colo-at-55-llc-617803,peeringdb,619,https://www.peeringdb.com/fac/619,"Colo at 55, LLC"
+equinix-at1-atlanta-3d8830,peeringdb,940,https://www.peeringdb.com/fac/940,Equinix AT1 - Atlanta
+colo-34-downtown-90b526,peeringdb,1293,https://www.peeringdb.com/fac/1293,Colo@34 (Downtown)
+level-3-atlanta-peachtree-9d83b5,peeringdb,1729,https://www.peeringdb.com/fac/1729,Level(3) Atlanta (Peachtree)
+edgeconnex-atlanta-edcatl01-8bec83,peeringdb,1929,https://www.peeringdb.com/fac/1929,EdgeConneX Atlanta (EDCATL01)
+colo-buckhead-612b24,peeringdb,2268,https://www.peeringdb.com/fac/2268,Colo@ (Buckhead)
+atlanta-tech-village-97e9b9,peeringdb,2269,https://www.peeringdb.com/fac/2269,Atlanta Tech Village
+columbia-county-community-broadband-utility-4382cb,peeringdb,2572,https://www.peeringdb.com/fac/2572,Columbia County Community Broadband Utility
+h5-data-centers-atlanta-d78327,peeringdb,3078,https://www.peeringdb.com/fac/3078,H5 Data Centers Atlanta
+digital-realty-atl14-atlanta-7b686b,peeringdb,3725,https://www.peeringdb.com/fac/3725,Digital Realty ATL14 - Atlanta
+databank-atlanta-atl2-051cf9,peeringdb,3853,https://www.peeringdb.com/fac/3853,DataBank Atlanta (ATL2)
+verizon-atlanta-04cc53,peeringdb,3951,https://www.peeringdb.com/fac/3951,Verizon Atlanta
+coloblox-data-centers-atl2-742dec,peeringdb,4604,https://www.peeringdb.com/fac/4604,Coloblox Data Centers ATL2
+serverfarm-atl1-atlanta-99d852,peeringdb,5435,https://www.peeringdb.com/fac/5435,Serverfarm ATL1 Atlanta
+evocative-atl1-424e1f,peeringdb,5890,https://www.peeringdb.com/fac/5890,Evocative ATL1
+coloblox-data-centers-atl3-9a128e,peeringdb,6022,https://www.peeringdb.com/fac/6022,Coloblox Data Centers ATL3
+dc-blox-atl1-dcblox-atlanta-6fa3a0,peeringdb,7220,https://www.peeringdb.com/fac/7220,DC BLOX ATL1 - DCBLOX Atlanta
+edgeconnex-atlanta-edcatl02-ea087a,peeringdb,7568,https://www.peeringdb.com/fac/7568,EdgeConneX Atlanta (EDCATL02)
+coloblox-data-centers-atl1-f46087,peeringdb,7938,https://www.peeringdb.com/fac/7938,Coloblox Data Centers ATL1
+phoenixnap-atlanta-94a49c,peeringdb,8341,https://www.peeringdb.com/fac/8341,PhoenixNAP ATLANTA
+databank-atlanta-atl1-9447de,peeringdb,8484,https://www.peeringdb.com/fac/8484,Databank Atlanta (ATL1)
+cogent-atlanta-7bff0c,peeringdb,9622,https://www.peeringdb.com/fac/9622,Cogent Atlanta
+lincoln-rackhouse-atlanta-49225b,peeringdb,10104,https://www.peeringdb.com/fac/10104,Lincoln Rackhouse Atlanta
+databank-atlanta-atl3-a07081,peeringdb,10916,https://www.peeringdb.com/fac/10916,DataBank Atlanta (ATL3)
+t5-atlanta-035076,peeringdb,11930,https://www.peeringdb.com/fac/11930,T5@Atlanta
+t5-augusta-e50dba,peeringdb,11931,https://www.peeringdb.com/fac/11931,T5@Augusta
+equinix-at4-atlanta-8282a5,peeringdb,12513,https://www.peeringdb.com/fac/12513,Equinix AT4 - Atlanta
+southern-telecom-2e4395,peeringdb,15861,https://www.peeringdb.com/fac/15861,Southern Telecom
+365-data-centers-alpharetta-ga1-90101d,peeringdb,16127,https://www.peeringdb.com/fac/16127,365 Data Centers Alpharetta (GA1)
+365-data-centers-smyrna-ga2-bbfd86,peeringdb,16132,https://www.peeringdb.com/fac/16132,365 Data Centers Smyrna (GA2)
+cogent-atlanta-2-8943c4,peeringdb,16444,https://www.peeringdb.com/fac/16444,Cogent Atlanta 2

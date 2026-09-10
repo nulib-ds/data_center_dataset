@@ -1,0 +1,216 @@
+eis facility id,company name,site name,primary naics code,site latitude,site longitude,address,city,zip code,eis unit id,unit type,unit description,process description,scc
+14971111,,ADP,518210,42.035285,-87.979625,100 Northwest Point Blvd,Elk Grove Village,60007-1018,96467713,Reciprocating IC Engine,1250 kW Generator,,20200101
+14971111,,ADP,518210,42.035285,-87.979625,100 Northwest Point Blvd,Elk Grove Village,60007-1018,96467813,Reciprocating IC Engine,Generator (1500 kW),,20200101
+17930811,,Ascent LLC,518210,41.920038,-87.912187,505 N Railroad Ave,Northlake,60164,127018613,Reciprocating IC Engine,Suite 400: Emergency generator #10 (2000 kW),,20200102
+17930811,,Ascent LLC,518210,41.920038,-87.912187,505 N Railroad Ave,Northlake,60164,127018713,Reciprocating IC Engine,Suite 400: Emergency generator #11 (2000 kW),,20200102
+17930811,,Ascent LLC,518210,41.920038,-87.912187,505 N Railroad Ave,Northlake,60164,127018813,Reciprocating IC Engine,Suite 400: Emergency generator #12 (2000 kW),,20200102
+17930811,,Ascent LLC,518210,41.920038,-87.912187,505 N Railroad Ave,Northlake,60164,127019613,Reciprocating IC Engine,Emergency generator #21 (2250 kW),,20200102
+17930811,,Ascent LLC,518210,41.920038,-87.912187,505 N Railroad Ave,Northlake,60164,127019713,Reciprocating IC Engine,Emergency generator #22 (2250 kW),,20200102
+17930811,,Ascent LLC,518210,41.920038,-87.912187,505 N Railroad Ave,Northlake,60164,127019813,Reciprocating IC Engine,Emergency generator #23 (2250 kW),,20200102
+19114011,,T5Chicago II LLC,518210,42.023051,-87.975507,200 Innovation Dr,Elk Grove Village,60007,138984913,Reciprocating IC Engine,"11 Diesel emergency generators (Gen01, Gen-R, Gen03 - Gen11)",distillate fuel oil #2,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,91300813,Cooling Tower,6 Two-celled cooling towers,,38500110
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,136164013,Reciprocating IC Engine,Emergency generator EGA2 (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,136164113,Reciprocating IC Engine,Emergency generator EGAR (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,136164213,Reciprocating IC Engine,Emergency generator EGA3 (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,136164313,Reciprocating IC Engine,Emergency generator EGA4 (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,136164413,Reciprocating IC Engine,Emergency generator EGB1 (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,136164513,Reciprocating IC Engine,Emergency generator EGB2 (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,136164613,Reciprocating IC Engine,Emergency generator EGBR (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,136164713,Reciprocating IC Engine,Emergency generator EGB3 (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,136164813,Reciprocating IC Engine,Emergency generator EGB4 (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,136164913,Reciprocating IC Engine,Emergency generator EGC1 (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,136165013,Reciprocating IC Engine,Emergency generator EGC2 (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,136165113,Reciprocating IC Engine,Emergency generator EGCR (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,136165213,Reciprocating IC Engine,Emergency generator EGSS (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,136165313,Reciprocating IC Engine,Emergency generator EGSN (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,91300713,Reciprocating IC Engine,Emergency generator EGA1 (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,127014913,Reciprocating IC Engine,Emergency generator EGC5 (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,127015013,Reciprocating IC Engine,Emergency generator EGC6 (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,127015113,Reciprocating IC Engine,Emergency generator EGC7 (2500 kW),,20200102
+10789411,,Equinix LLC,518210,42.001236,-87.955085,1905 Lunt Ave,Elk Grove Village,60007-5603,127015213,Reciprocating IC Engine,Emergency generator EGC8 (2500 kW),,20200102
+17734911,,Quality Technology Services LLC,518210,41.842109,-87.668856,2800 S Ashland Ave,Chicago,60608-5323,134152713,Reciprocating IC Engine,17 Emergency generators,,20200101
+18951311,,Stream Data Centers,518210,42.002631,-87.951094,2080 Lunt Ave,Elk Grove Village,60007,138984713,Reciprocating IC Engine,Emergency generator EG1 (1000 kW),Diesel,20200102
+18951311,,Stream Data Centers,518210,42.002631,-87.951094,2080 Lunt Ave,Elk Grove Village,60007,138984813,Reciprocating IC Engine,12 Emergency generators (EG2-13) - 2250 kW each,Diesel,20200102
+19114211,,Ensono Data Center,518210,41.827562,-88.023978,1501 Opus Place,Downers Grove,60515,138986813,Reciprocating IC Engine,Emergency generator #4,,20200102
+17833011,,CyrusOne LLC,518210,41.796601,-88.242984,2905 Diehl Rd,Aurora,60504,127044013,Reciprocating IC Engine,Set D: 4 Generators (3353 HP each),Up to 50% load,20200102
+17833011,,CyrusOne LLC,518210,41.796601,-88.242984,2905 Diehl Rd,Aurora,60504,127044113,Reciprocating IC Engine,Set C (Barn 1): 8 Generators (#3-10),Up to 50% load,20200102
+17833011,,CyrusOne LLC,518210,41.796601,-88.242984,2905 Diehl Rd,Aurora,60504,127044213,Reciprocating IC Engine,Set A (Barn 2): 6 Generators (#24-29),Up to 50% load,20200102
+17833011,,CyrusOne LLC,518210,41.796601,-88.242984,2905 Diehl Rd,Aurora,60504,127044313,Reciprocating IC Engine,Set B (Barn 3): 8 Generators (#31-38),Up to 50% load,20200102
+17833011,,CyrusOne LLC,518210,41.796601,-88.242984,2905 Diehl Rd,Aurora,60504,127044413,Cooling Tower,5 Cooling towers,,38500110
+10805611,,Chicago Enterprise LLC,518210,41.97578,-87.964659,711 N Edgewood Ave,Wood Dale,60191-1254,91310913,Turbine,"2,937 HP Emergency Generator",#2 Fuel oil fired,20200101
+10805611,,Chicago Enterprise LLC,518210,41.97578,-87.964659,711 N Edgewood Ave,Wood Dale,60191-1254,59675313,Reciprocating IC Engine,2 Emergency generators (2876 HP each),,20200101
+10890811,,Cyxtera Communications LLC,518210,41.992153,-87.958165,2425 Busse Rd,Elk Grove Village,60007-5737,110373413,Reciprocating IC Engine,2250 KW Diesel generator (Gen-3E),Diesel fired,20200102
+10890811,,Cyxtera Communications LLC,518210,41.992153,-87.958165,2425 Busse Rd,Elk Grove Village,60007-5737,136176713,Reciprocating IC Engine,Emergency generator Gen-3D (2000 kW),,20200102
+10890811,,Cyxtera Communications LLC,518210,41.992153,-87.958165,2425 Busse Rd,Elk Grove Village,60007-5737,136176613,Reciprocating IC Engine,Emergency generator Gen-3C (2000 kW),,20200102
+10890811,,Cyxtera Communications LLC,518210,41.992153,-87.958165,2425 Busse Rd,Elk Grove Village,60007-5737,91312413,Turbine,"12 Generators (1A-1E and 2A-2E, EG #11 and EG #12)",,20200102
+10890811,,Cyxtera Communications LLC,518210,41.992153,-87.958165,2425 Busse Rd,Elk Grove Village,60007-5737,110373313,Reciprocating IC Engine,2250 KW Diesel generator (Gen-3A),Diesel fired,20200102
+10890811,,Cyxtera Communications LLC,518210,41.992153,-87.958165,2425 Busse Rd,Elk Grove Village,60007-5737,125326413,Unclassified,2250 KW Diesel generator (Gen-3B),,20200102
+14973811,,ClearBlue Technologies/OakBrook Inc,518210,41.844915,-87.941348,800 Jorie Blvd,Oak Brook,60523,91264013,Reciprocating IC Engine,Emergency generator (1680 HP),,20200102
+14607911,,Allstate Data Center,518210,41.943852,-89.033127,1425 S Dement Rd,Rochelle,61068-8530,88595913,Reciprocating IC Engine,3 Diesel generators (2500 kW each),,20200102
+14603511,,The Northern Trust Co,518210,41.942135,-89.032943,915 Technology Pkwy,Rochelle,61068-8533,88595813,Reciprocating IC Engine,Diesel generator #4 (2000 KW),,20300101
+14603511,,The Northern Trust Co,518210,41.942135,-89.032943,915 Technology Pkwy,Rochelle,61068-8533,88595513,Reciprocating IC Engine,Diesel generator #2 (2000 KW),,20300101
+14603511,,The Northern Trust Co,518210,41.942135,-89.032943,915 Technology Pkwy,Rochelle,61068-8533,88595613,Reciprocating IC Engine,Diesel generator #3 (2000 KW),,20300101
+14603511,,The Northern Trust Co,518210,41.942135,-89.032943,915 Technology Pkwy,Rochelle,61068-8533,88595713,Reciprocating IC Engine,Diesel generator #1 (2000 KW),,20300101
+15461811,,Deere & Co,518210,41.509421,-90.510085,400 19th St,Moline,61265-1389,96554313,Reciprocating IC Engine,Generator #1 (2250 kW),,20200102
+15461811,,Deere & Co,518210,41.509421,-90.510085,400 19th St,Moline,61265-1389,96554413,Reciprocating IC Engine,Generator #2 (2250 kW),,20200102
+15461811,,Deere & Co,518210,41.509421,-90.510085,400 19th St,Moline,61265-1389,96554513,Reciprocating IC Engine,Generator #3 (2250 kW),,20200102
+15461811,,Deere & Co,518210,41.509421,-90.510085,400 19th St,Moline,61265-1389,125366713,Unclassified,Generator #4 (2250 kW),,20200102
+17933411,,Edge ConneX,541513,42.001461,-87.952607,2021 Lunt Ave,Elk Grove Village,60007-5605,134144313,Reciprocating IC Engine,Emergency generator GENAJ110 (1750 kW),,20200102
+17933411,,Edge ConneX,541513,42.001461,-87.952607,2021 Lunt Ave,Elk Grove Village,60007-5605,134143413,Reciprocating IC Engine,Emergency generator GENAA110 (2500 kW),,20200102
+17933411,,Edge ConneX,541513,42.001461,-87.952607,2021 Lunt Ave,Elk Grove Village,60007-5605,134143513,Reciprocating IC Engine,Emergency generator GENAB110 (2500 kW),,20200102
+17933411,,Edge ConneX,541513,42.001461,-87.952607,2021 Lunt Ave,Elk Grove Village,60007-5605,134143613,Reciprocating IC Engine,Emergency generator GENAC110 (2500 kW),,20200102
+17933411,,Edge ConneX,541513,42.001461,-87.952607,2021 Lunt Ave,Elk Grove Village,60007-5605,134143713,Reciprocating IC Engine,Emergency generator GENAD110 (2500 kW),,20200102
+17933411,,Edge ConneX,541513,42.001461,-87.952607,2021 Lunt Ave,Elk Grove Village,60007-5605,134143813,Reciprocating IC Engine,Emergency generator GENAE110 (2500 kW),,20200102
+17933411,,Edge ConneX,541513,42.001461,-87.952607,2021 Lunt Ave,Elk Grove Village,60007-5605,134143913,Reciprocating IC Engine,Emergency generator GENAF110 (2500 kW),,20200102
+17933411,,Edge ConneX,541513,42.001461,-87.952607,2021 Lunt Ave,Elk Grove Village,60007-5605,134144013,Reciprocating IC Engine,Emergency generator GENAG110 (2500 kW),,20200102
+17933411,,Edge ConneX,541513,42.001461,-87.952607,2021 Lunt Ave,Elk Grove Village,60007-5605,134144113,Reciprocating IC Engine,Emergency generator GENAH110 (2500 kW),,20200102
+17933411,,Edge ConneX,541513,42.001461,-87.952607,2021 Lunt Ave,Elk Grove Village,60007-5605,134144213,Reciprocating IC Engine,Emergency generator GENAI110 (1750 kW),,20200102
+17933411,,Edge ConneX,541513,42.001461,-87.952607,2021 Lunt Ave,Elk Grove Village,60007-5605,134144413,Reciprocating IC Engine,Emergency generator GENAK110 (1750 kW),,20200102
+17933411,,Edge ConneX,541513,42.001461,-87.952607,2021 Lunt Ave,Elk Grove Village,60007-5605,134144513,Reciprocating IC Engine,Emergency generator GENAL110 (1750 kW),,20200102
+17933411,,Edge ConneX,541513,42.001461,-87.952607,2021 Lunt Ave,Elk Grove Village,60007-5605,134144613,Reciprocating IC Engine,Emergency generator GENAM110 (1750 kW),,20200102
+17933411,,Edge ConneX,541513,42.001461,-87.952607,2021 Lunt Ave,Elk Grove Village,60007-5605,134144713,Reciprocating IC Engine,Emergency generator GENAN110 (1750 kW),,20200102
+4650811,Na,CenturyLink Communications-CHD,541513,41.8759,-87.631271,427 S LaSalle St,Chicago,60605-1098,28378413,Reciprocating IC Engine,Emergency generator (1677 HP),,20300101
+4654011,Na,Equinix LLC,541513,41.853604,-87.618265,350 E Cermak Rd,Chicago,60616,96474913,Reciprocating IC Engine,Generator G-3,,20200101
+4654011,Na,Equinix LLC,541513,41.853604,-87.618265,350 E Cermak Rd,Chicago,60616,96475013,Reciprocating IC Engine,Generator G-4,,20200101
+4654011,Na,Equinix LLC,541513,41.853604,-87.618265,350 E Cermak Rd,Chicago,60616,96475113,Reciprocating IC Engine,Generator G-5,,20200101
+4654011,Na,Equinix LLC,541513,41.853604,-87.618265,350 E Cermak Rd,Chicago,60616,96475213,Reciprocating IC Engine,Generator G-6,,20200101
+4654011,Na,Equinix LLC,541513,41.853604,-87.618265,350 E Cermak Rd,Chicago,60616,28374613,Turbine,Generator G-1,,20200101
+4654011,Na,Equinix LLC,541513,41.853604,-87.618265,350 E Cermak Rd,Chicago,60616,108579113,Unclassified,Generator G-7,,20200101
+4654011,Na,Equinix LLC,541513,41.853604,-87.618265,350 E Cermak Rd,Chicago,60616,108579213,Unclassified,Generator G-8,,20200101
+4654011,Na,Equinix LLC,541513,41.853604,-87.618265,350 E Cermak Rd,Chicago,60616,108579313,Unclassified,Generator G-9,,20200101
+4654011,Na,Equinix LLC,541513,41.853604,-87.618265,350 E Cermak Rd,Chicago,60616,108579413,Unclassified,Generator G-10,,20200101
+4654011,Na,Equinix LLC,541513,41.853604,-87.618265,350 E Cermak Rd,Chicago,60616,96474813,Reciprocating IC Engine,Generator G-2,,20200101
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,134141413,Reciprocating IC Engine,Emergency generator GEN01 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,134141513,Reciprocating IC Engine,Emergency generator GEN02 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,134141613,Reciprocating IC Engine,Emergency generator GEN03 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138977413,Reciprocating IC Engine,Emergency generator GEN-R1-210/220-01 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138977513,Reciprocating IC Engine,Emergency generator GEN-P1-210-01 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138977613,Reciprocating IC Engine,Emergency generator GEN-P2-210-01 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138977713,Reciprocating IC Engine,Emergency generator GEN-P3-210-01 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138977813,Reciprocating IC Engine,Emergency generator GEN-P4-220-01 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138977913,Reciprocating IC Engine,Emergency generator 110 (2499 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138978013,Reciprocating IC Engine,Emergency generator 120 (2499 kW or 2250 KWe),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138978113,Reciprocating IC Engine,Emergency generator 130 (2499 kW or 2250 KWe),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138978213,Reciprocating IC Engine,Emergency generator C1 (2499 kW or 2250 KWe),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138978313,Reciprocating IC Engine,Emergency generator GEN-P5-220-01 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138978413,Reciprocating IC Engine,Emergency generator GEN-P6-220-01 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138978513,Reciprocating IC Engine,Emergency generator GEN-R1-110/120-01 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138978613,Reciprocating IC Engine,Emergency generator GEN-P1-110-01 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138978713,Reciprocating IC Engine,Emergency generator GEN-P2-110-01 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138978813,Reciprocating IC Engine,Emergency generator GEN-P3-110-01 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138978913,Reciprocating IC Engine,Emergency generator GEN-P4-120-01 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138979013,Reciprocating IC Engine,Emergency generator GEN-P5-120-01 (3000 kW),,20200102
+17734411,,SI CHIO1 ABS LLC,541513,42.006843,-87.964571,1441 Touhy Ave,Elk Grove Village,60007-5303,138979113,Reciprocating IC Engine,Emergency generator GEN-P6-120-01 (3000 kW),,20200102
+10899011,,Computer Sciences Corp,541513,41.853604,-87.618265,350 E Cermak Ste 400,Chicago,60616-5507,59532413,Reciprocating IC Engine,3 Diesel generator sets (2250 kW each),,20200101
+14971611,,1547 CSR Chicago Wells LLC,541513,41.872624,-87.633287,725 S Wells St,Chicago,60607,91257613,Turbine,Diesel generator #1 (1500 kW),,20300102
+14971611,,1547 CSR Chicago Wells LLC,541513,41.872624,-87.633287,725 S Wells St,Chicago,60607,91257813,Turbine,Diesel generator #3 (1500 kW),,20300102
+14971611,,1547 CSR Chicago Wells LLC,541513,41.872624,-87.633287,725 S Wells St,Chicago,60607,91257713,Turbine,Diesel generator #2 (1500 kW),,20300102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125320013,Unclassified,Generator GENA100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125320113,Unclassified,Generator GENB100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125320213,Unclassified,Generator GENC100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125320313,Unclassified,Generator GEND100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125320413,Unclassified,Generator GENE100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125320513,Unclassified,Generator GENF100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125320713,Unclassified,Generator GENH100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125320813,Unclassified,Generator GENI100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125320913,Unclassified,Generator GENJ100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125321113,Unclassified,Generator GENL100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125321213,Unclassified,Generator GENM100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125320613,Unclassified,Generator GENG100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125321013,Unclassified,Generator GENK100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125321313,Unclassified,Generator GENN100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125321413,Unclassified,Generator GENO100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125321513,Unclassified,Generator GENP100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125321613,Unclassified,Generator GENY100 (2745 kW),,20200102
+17831111,,EdgeConneX,541513,42.000746,-87.950745,1800 Nicholas Blvd,Elk Grove Village,60007-5903,125321713,Unclassified,Generator GENZ100 (2745 kW),,20200102
+10801311,,Microsoft Corp-Chicago Data Center,541513,41.923106,-87.918327,601 Northwest Ave,Northlake,60164-1301,91307713,Cooling Tower,12 Cooling towers,,38500110
+10801311,,Microsoft Corp-Chicago Data Center,541513,41.923106,-87.918327,601 Northwest Ave,Northlake,60164-1301,91307613,Reciprocating IC Engine,11 Emergency generators (2740 kW each),,20200102
+10801311,,Microsoft Corp-Chicago Data Center,541513,41.923106,-87.918327,601 Northwest Ave,Northlake,60164-1301,125321813,Unclassified,17 Emergency generators (4678 hp each),,20200102
+18839211,,Digital Realty Trust LP,541513,41.872624,-87.629901,600-780 S Federal,Chicago,60605,134152513,Reciprocating IC Engine,3 Emergency diesel generators,Diesel,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,127027213,Reciprocating IC Engine,Generator EG-1 (500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,127027313,Reciprocating IC Engine,Generator EG-2 (1750 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,127027413,Reciprocating IC Engine,Generator EG-3 (1750 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,127027513,Reciprocating IC Engine,Generator EG-4 (2250 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,127027613,Reciprocating IC Engine,Generator EG-5 (2250 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125316113,Unclassified,Generator EG-8 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125316313,Unclassified,Generator EG-10 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125316513,Unclassified,Generator EG-12 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125316713,Unclassified,Generator EG-14 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125316813,Unclassified,Generator EG-15 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125316913,Unclassified,Generator EG-16 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125317013,Unclassified,Generator EG-17 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125317113,Unclassified,Generator EG-18 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125317313,Unclassified,Generator EG-20 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125317413,Unclassified,Generator EG-21 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125315913,Unclassified,Generator EG-6 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125316013,Unclassified,Generator EG-7 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125316213,Unclassified,Generator EG-9 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125316413,Unclassified,Generator EG-11 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125316613,Unclassified,Generator EG-13 (2500 kW),,20200102
+17831011,,"SF CH1, LLC",541513,41.870978,-87.640154,840 S Canal St,Chicago,60607-4519,125317213,Unclassified,Generator EG-19 (2500 kW),,20200102
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136158313,Reciprocating IC Engine,Emergency generator EG1 (500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136158413,Reciprocating IC Engine,Emergency generator EG28 (1000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136158513,Reciprocating IC Engine,Emergency generator EG63 (1500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136158613,Reciprocating IC Engine,Emergency generator EG43 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136158713,Reciprocating IC Engine,Emergency generator EG44 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136158813,Reciprocating IC Engine,Emergency generator EG45 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136158913,Reciprocating IC Engine,Emergency generator EG46 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136159013,Reciprocating IC Engine,Emergency generator EG47 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136159113,Reciprocating IC Engine,Emergency generator EG48 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136159213,Reciprocating IC Engine,Emergency generator EG49 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136159313,Reciprocating IC Engine,Emergency generator EG50 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136159413,Reciprocating IC Engine,Emergency generator EG51 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136159513,Reciprocating IC Engine,Emergency generator EG52 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136159613,Reciprocating IC Engine,Emergency generator EG53 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136159713,Reciprocating IC Engine,Emergency generator EG54 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136159813,Reciprocating IC Engine,Emergency generator EG55 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136159913,Reciprocating IC Engine,Emergency generator EG56 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136160013,Reciprocating IC Engine,Emergency generator EG57 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136160113,Reciprocating IC Engine,Emergency generator EG58 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136160213,Reciprocating IC Engine,Emergency generator EG59 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136160313,Reciprocating IC Engine,Emergency generator EG60 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136160413,Reciprocating IC Engine,Emergency generator EG61 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,136160513,Reciprocating IC Engine,Emergency generator EG62 (3000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,108569713,Reciprocating IC Engine,Emergency generator EG2 (2000 kW),#2 Fuel oil fired,20300102
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,108569813,Reciprocating IC Engine,Emergency generator EG3 (2000 kW),#2 Fuel oil fired,20300102
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110351213,Reciprocating IC Engine,Emergency generator EG8 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110351913,Reciprocating IC Engine,Emergency generator EG15 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110352413,Reciprocating IC Engine,Emergency generator EG20 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110352613,Reciprocating IC Engine,Emergency generator EG22 - Building 9355 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,108569913,Reciprocating IC Engine,Emergency generator EG4 (2000 kW),#2 fuel oil fired,20300102
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,108570013,Reciprocating IC Engine,Emergency generator EG5 (2000 kW),#2 Fuel oil fired,20300102
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127009413,Reciprocating IC Engine,Emergency generator EG23 - Building 9355 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127009513,Reciprocating IC Engine,Emergency generator EG24 - Building 9355 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127009613,Reciprocating IC Engine,Emergency generator EG25 - Building 9355 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127009713,Reciprocating IC Engine,Emergency generator EG26 - Building 9355 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127009813,Reciprocating IC Engine,Emergency generator EG27 - Building 9355 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127009913,Reciprocating IC Engine,Emergency generator EG42 - Building 9333 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127010013,Reciprocating IC Engine,Emergency generator EG29 - Building 9377 (2500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127010113,Reciprocating IC Engine,Emergency generator EG30 - Building 9377 (2500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127010213,Reciprocating IC Engine,Emergency generator EG31 - Building 9377 (2500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127010313,Reciprocating IC Engine,Emergency generator EG32 - Building 9377 (2500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127010413,Reciprocating IC Engine,Emergency generator EG33 - Building 9377 (2500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127010513,Reciprocating IC Engine,Emergency generator EG34 (2500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127010613,Reciprocating IC Engine,Emergency generator EG35 (2500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127010713,Reciprocating IC Engine,Emergency generator EG36 (2500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127010813,Reciprocating IC Engine,Emergency generator EG37 (2500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127010913,Reciprocating IC Engine,Emergency generator EG38 (2500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127011013,Reciprocating IC Engine,Emergency generator EG39 (2500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127011113,Reciprocating IC Engine,Emergency generator EG40 (2500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,127011213,Reciprocating IC Engine,Emergency generator EG41 (2500 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110351013,Reciprocating IC Engine,Emergency generator EG6 (2000 kW),#2 Fuel oil fired,20200102
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110351113,Reciprocating IC Engine,Emergency generator EG7 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110351313,Reciprocating IC Engine,Emergency generator EG9 (1250 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110351413,Reciprocating IC Engine,Emergency generator EG10 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110351513,Reciprocating IC Engine,Emergency generator EG11 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110351613,Reciprocating IC Engine,Emergency generator EG12 (2000 kW),#2 fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110351713,Reciprocating IC Engine,Emergency generator EG13 (2000 kW),#2 fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110351813,Reciprocating IC Engine,Emergency generator EG14 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110352013,Reciprocating IC Engine,Emergency generator EG16 (2000 kW),#2 fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110352113,Reciprocating IC Engine,Emergency generator EG17 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110352213,Reciprocating IC Engine,Emergency generator EG18 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110352313,Reciprocating IC Engine,Emergency generator EG19 (2000 kW),#2 Fuel oil fired,20200101
+16783711,,Digital Grand Avenue LLC,541513,41.927479,-87.859419,9333 Grand Ave,Franklin Park,60131-3444,110352513,Reciprocating IC Engine,Emergency generator EG21 - Building 9355 (2000 kW),#2 Fuel oil fired,20200101
+19114611,,NTT Global Data Centers CH LLC,541513,41.989059,-88.007419,255 Pierce Rd,Itasca,60143,138987913,Reciprocating IC Engine,"25 Generators (24  3,250 kW and 1  1,500 kW)",,20300101
+10716311,,Deere & Co,541513,41.481499,-90.426743,1 John Deere Pl,Moline,61265-8010,88690013,Storage Tank,Gasoline storage/dispensing tank,,40301007
+10716311,,Deere & Co,541513,41.481499,-90.426743,1 John Deere Pl,Moline,61265-8010,58622313,Turbine,2 Diesel generators,,20200101

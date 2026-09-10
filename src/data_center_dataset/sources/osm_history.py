@@ -62,16 +62,21 @@ def _is_data_center(tags: dict) -> bool:
     return any(tags.get(k) in vals for k, vals in DATA_CENTER_TAGS.items())
 
 
-def _latest_osm_snapshot() -> dict:
-    paths = sorted(glob.glob(str(RAW_DIR / "osm" / "*" / "overpass_ca_datacenters.json")))
+def _latest_osm_snapshot(state: str) -> dict:
+    paths = sorted(
+        glob.glob(str(RAW_DIR / "osm" / state.upper() / "*" / "overpass_datacenters.json"))
+    )
     if not paths:
-        raise FileNotFoundError("No OSM snapshot found. Run `fetch` or `build` first.")
+        raise FileNotFoundError(
+            f"No OSM snapshot found for {state.upper()}. Run `fetch` or `build` first."
+        )
     return json.loads(open(paths[-1]).read())
 
 
 def fetch(
     client: CachedClient,
     *,
+    state: str = "CA",
     snapshot: str | None = None,
     refresh: bool = False,
     elements: list[dict] | None = None,
@@ -79,15 +84,15 @@ def fetch(
     """Harvest version history for every data-center element in the OSM snapshot.
 
     One request per element against the OSM API, rate limited by
-    :class:`CachedClient`. Roughly 115 requests for California.
+    :class:`CachedClient`. Roughly one request per facility in the state.
     """
     snapshot = snapshot or date.today().isoformat()
-    dest = raw_dir(SOURCE, snapshot) / "osm_element_history.csv"
+    dest = raw_dir(SOURCE, snapshot, state=state) / "osm_element_history.csv"
     if dest.exists() and not refresh:
         return pd.read_csv(dest)
 
     if elements is None:
-        elements = _latest_osm_snapshot().get("elements", [])
+        elements = _latest_osm_snapshot(state).get("elements", [])
 
     rows: list[dict] = []
     for i, element in enumerate(elements, start=1):

@@ -28,14 +28,14 @@ from __future__ import annotations
 
 import json
 import logging
+from pathlib import Path
 
 import pandas as pd
 
 from .config import PROCESSED_DIR, TIER_AREA, TIER_ATTESTED, TIER_GENERATOR
+from .states import get as get_state_profile
 
 log = logging.getLogger(__name__)
-
-OUTPUT_PATH = PROCESSED_DIR / "california_data_centers_map.html"
 
 #: Bright, high-chroma colours chosen to survive a dark, textured satellite
 #: background. Ordered so that stronger evidence reads as warmer.
@@ -48,8 +48,11 @@ TIER_STYLE = {
 #: downtown Los Angeles, where a real cluster of unestimated sites sits.
 NO_ESTIMATE_COLOUR = "#B9C4D4"
 
-#: Utilities given their own colour in the alternative view. Anything else is
-#: pooled into "Other", so the legend stays readable.
+#: Utilities given their own colour in the alternative view. This list is
+#: California-specific (utility is only populated there -- see
+#: ``states.StateProfile.has_utility_layer``); for every other state every
+#: facility falls into "Other / municipal" and the utility colour view is
+#: simply uninformative rather than wrong.
 UTILITY_STYLE = {
     "SVP": "#FF3B6B",
     "PG&E": "#FFB000",
@@ -60,33 +63,13 @@ UTILITY_STYLE = {
 }
 OTHER_UTILITY_COLOUR = "#C9C9C9"
 
-#: Framing. Data spans roughly 32.5-38.8 N and -122.7 to -117.0 E, i.e. the
-#: populated corridor from Sacramento to San Diego rather than the whole state.
-#: On a wide desktop viewport, any zoom that fits the latitude range leaves
-#: horizontal slack, so the default is a compromise found by rendering and
-#: inspecting. The region presets below exist because the data is genuinely
-#: bimodal -- statewide view cannot resolve either cluster.
-CALIFORNIA_CENTER = {"lat": 35.75, "lon": -119.40}
-DEFAULT_ZOOM = 6.05
-
-#: Preset views. Silicon Valley and Los Angeles hold the overwhelming majority
-#: of facilities and are unreadable at statewide zoom.
-REGION_VIEWS = [
-    ("All California", 35.75, -119.40, 6.05),
-    ("Silicon Valley", 37.38, -121.96, 11.2),
-    ("San Francisco", 37.77, -122.40, 12.4),
-    ("Los Angeles", 34.05, -118.25, 11.6),
-    ("Sacramento", 38.60, -121.45, 10.8),
-    ("San Diego", 32.85, -117.13, 11.2),
-]
-
 #: Largest marker diameter in pixels, for the largest facility.
 MAX_MARKER_PX = 42
 MIN_MARKER_PX = 6.5
 
 
-def _load(path=None) -> pd.DataFrame:
-    path = path or PROCESSED_DIR / "facilities.csv"
+def _load(processed_dir: Path) -> pd.DataFrame:
+    path = processed_dir / "facilities.csv"
     if not path.exists():
         raise FileNotFoundError(
             f"{path} not found. Run `data-center-dataset build` first."
@@ -94,8 +77,8 @@ def _load(path=None) -> pd.DataFrame:
     return pd.read_csv(path)
 
 
-def _load_footprints() -> dict | None:
-    path = PROCESSED_DIR / "facility_footprints.geojson"
+def _load_footprints(processed_dir: Path) -> dict | None:
+    path = processed_dir / "facility_footprints.geojson"
     if not path.exists():
         log.info("no footprint layer found; map will show markers only")
         return None
@@ -173,11 +156,19 @@ def _marker_sizes(mw: pd.Series, max_mw: float) -> pd.Series:
     return scaled.clip(lower=MIN_MARKER_PX)
 
 
-def build_figure(facilities: pd.DataFrame | None = None):
+def build_figure(
+    facilities: pd.DataFrame | None = None,
+    *,
+    state: str = "CA",
+    processed_dir: Path | None = None,
+):
     """Assemble the Plotly figure. Returns a ``plotly.graph_objects.Figure``."""
     import plotly.graph_objects as go
 
-    df = facilities if facilities is not None else _load()
+    profile = get_state_profile(state)
+    processed_dir = processed_dir or PROCESSED_DIR
+
+    df = facilities if facilities is not None else _load(processed_dir)
     df = df.copy()
     df["_hover"] = df.apply(_hover_text, axis=1)
 
@@ -274,7 +265,7 @@ def build_figure(facilities: pd.DataFrame | None = None):
     # ---- Footprint polygons -------------------------------------------
     layers = []
     n_footprints = 0
-    footprints = _load_footprints()
+    footprints = _load_footprints(processed_dir)
     if footprints and footprints.get("features"):
         n_footprints = len(footprints["features"])
         # Neutral white rather than a hue: footprints are geometry, not a
@@ -339,11 +330,11 @@ def build_figure(facilities: pd.DataFrame | None = None):
     ]
     region_buttons = [
         dict(
-            label=label,
+            label=view.label,
             method="relayout",
-            args=[{"map.center": {"lat": lat, "lon": lon}, "map.zoom": zoom}],
+            args=[{"map.center": {"lat": view.lat, "lon": view.lon}, "map.zoom": view.zoom}],
         )
-        for label, lat, lon, zoom in REGION_VIEWS
+        for view in profile.region_views
     ]
 
     n_sites = len(df)
@@ -356,7 +347,7 @@ def build_figure(facilities: pd.DataFrame | None = None):
     fig.update_layout(
         title=dict(
             text=(
-                f"<b>California data centers</b>  ·  {n_sites} commercial "
+                f"<b>{profile.name} data centers</b>  ·  {n_sites} commercial "
                 f"facilities  ·  {n_est} with an estimated load totalling "
                 f"~{total_mw:,.0f} MW IT (~{total_twh:,.1f} TWh/yr)"
             ),
@@ -366,8 +357,8 @@ def build_figure(facilities: pd.DataFrame | None = None):
         ),
         map=dict(
             style="satellite",
-            center=CALIFORNIA_CENTER,
-            zoom=DEFAULT_ZOOM,
+            center={"lat": profile.map_center[0], "lon": profile.map_center[1]},
+            zoom=profile.map_zoom,
             layers=layers,
         ),
         margin=dict(l=0, r=0, t=84, b=92),
@@ -426,7 +417,7 @@ def build_figure(facilities: pd.DataFrame | None = None):
             dict(
                 text=(
                     "<b>These are estimates, not meter readings.</b> Per-facility "
-                    "consumption is not public for any California data center. Values "
+                    f"consumption is not public for any {profile.name} data center. Values "
                     "are modelled from air-permit generator<br>counts (Tier B) or "
                     "building footprint (Tier C) — hover any marker for its interval. "
                     "Independent methods disagree by roughly 2×, and "
@@ -434,7 +425,8 @@ def build_figure(facilities: pd.DataFrame | None = None):
                     f"White outlines are known building footprints ({n_footprints} of "
                     f"{n_sites}); zoom in to see them.<br>"
                     "Imagery: ESRI World Imagery · Data: OpenStreetMap (ODbL), "
-                    "PeeringDB, EPA NEI 2020, California Energy Commission"
+                    "PeeringDB, EPA NEI 2020"
+                    + (", California Energy Commission" if profile.has_utility_layer else "")
                 ),
                 showarrow=False,
                 xref="paper",
@@ -451,10 +443,18 @@ def build_figure(facilities: pd.DataFrame | None = None):
     return fig
 
 
-def write_map(output_path=None, facilities: pd.DataFrame | None = None):
+def write_map(
+    output_path=None,
+    facilities: pd.DataFrame | None = None,
+    *,
+    state: str = "CA",
+    processed_dir: Path | None = None,
+):
     """Build the figure and write a self-contained HTML file."""
-    path = output_path or OUTPUT_PATH
-    fig = build_figure(facilities)
+    processed_dir = processed_dir or PROCESSED_DIR
+    filename_stem = f"{state.lower()}_data_centers_map"
+    path = output_path or (processed_dir / f"{filename_stem}.html")
+    fig = build_figure(facilities, state=state, processed_dir=processed_dir)
     path.parent.mkdir(parents=True, exist_ok=True)
     fig.write_html(
         path,
@@ -465,7 +465,7 @@ def write_map(output_path=None, facilities: pd.DataFrame | None = None):
             "displaylogo": False,
             "toImageButtonOptions": {
                 "format": "png",
-                "filename": "california_data_centers",
+                "filename": filename_stem,
                 "scale": 2,
             },
         },

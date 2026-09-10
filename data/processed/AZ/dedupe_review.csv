@@ -1,0 +1,10 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+peeringdb,572,Iron Mountain Data Center - Phoenix (AZP-1),615 N. 48th Street,peeringdb,10935,DataBank Phoenix (PHX2),615 N 48th St,0.649,,65.7,0.994,0.143,1.0,0.286,[]|['phx2']
+peeringdb,572,Iron Mountain Data Center - Phoenix (AZP-1),615 N. 48th Street,peeringdb,2642,Centersquare Phoenix (PHX1),615 N. 48th Street,0.642,,0.0,1.0,0.143,1.0,0.24,[]|['phx1']
+osm,way/1132632705,QTS,,osm,way/1315636714,QTS,,0.642,,441.7,0.594,1.0,0.0,1.0,[]|[]
+osm,way/244490839,PhoenixNAP,3402 East University Drive,peeringdb,8474,Expedient Phoenix,3402 E. University Dr.,0.623,,4.8,1.0,0.0,1.0,0.316,[]|[]
+peeringdb,917,PhoenixNAP,3402 E. University Dr.,peeringdb,8474,Expedient Phoenix,3402 E. University Dr.,0.623,,0.0,1.0,0.0,1.0,0.316,[]|[]
+osm,way/1357825755,Iron Mountain AZP-1,615 North 48th Street,peeringdb,10935,DataBank Phoenix (PHX2),615 N 48th St,0.614,,68.5,0.991,0.0,1.0,0.286,[]|['phx2']
+osm,way/1357825755,Iron Mountain AZP-1,615 North 48th Street,peeringdb,2642,Centersquare Phoenix (PHX1),615 N. 48th Street,0.608,,10.4,1.0,0.0,1.0,0.24,[]|['phx1']
+osm,node/7557854384,OptimumHQ,1955 South Val Vista Drive,osm,node/7557868585,The Chatfield Group,1955 South Val Vista Drive,0.589,,29.1,1.0,0.0,1.0,0.143,[]|[]
+osm,way/1315636714,QTS,,peeringdb,13686,QTS Phoenix (PHX2),1200 N. 40th Street,0.529,,310.5,0.734,0.333,0.0,1.0,[]|['phx2']

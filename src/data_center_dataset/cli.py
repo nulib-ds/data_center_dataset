@@ -12,14 +12,21 @@ from rich.logging import RichHandler
 from rich.table import Table
 
 from . import pipeline
-from .config import PROCESSED_DIR, ensure_dirs
+from .config import PROCESSED_DIR, ensure_dirs, processed_dir
 from .http import CachedClient
+from .states import STATES
+from .states import get as get_state_profile
 
 app = typer.Typer(
     add_completion=False,
-    help="Build a dataset of California data centers with tiered power estimates.",
+    help=(
+        "Build a dataset of US data centers with tiered power estimates. "
+        f"Supported states: {', '.join(sorted(STATES))}."
+    ),
 )
 console = Console()
+
+STATE_OPTION = typer.Option("CA", "--state", "-s", help="Two-letter state code.")
 
 
 def _setup_logging(verbose: bool) -> None:
@@ -31,35 +38,52 @@ def _setup_logging(verbose: bool) -> None:
     )
 
 
+def _validate_state(state: str) -> str:
+    try:
+        return get_state_profile(state).code
+    except ValueError as exc:
+        console.print(f"[red]{exc}[/red]")
+        raise typer.Exit(code=1) from exc
+
+
 @app.command()
 def fetch(
+    state: str = STATE_OPTION,
     refresh: bool = typer.Option(False, help="Bypass caches and re-download."),
     with_ceqanet: bool = typer.Option(
-        False, help="Also crawl CEQAnet for attested MW figures (slow, low recall)."
+        False, help="Also crawl CEQAnet for attested MW figures (CA only, slow, low recall)."
     ),
     verbose: bool = typer.Option(False, "--verbose", "-v"),
 ) -> None:
-    """Download and snapshot all sources without building outputs."""
+    """Download and snapshot all sources for a state without building outputs."""
     _setup_logging(verbose)
+    state = _validate_state(state)
     ensure_dirs()
     with CachedClient() as client:
-        result = pipeline.ingest(client, refresh=refresh, with_ceqanet=with_ceqanet)
-    console.print(f"[green]Ingested {len(result['records'])} source records.[/green]")
+        result = pipeline.ingest(
+            client, state=state, refresh=refresh, with_ceqanet=with_ceqanet
+        )
+    console.print(f"[green]Ingested {len(result['records'])} source records for {state}.[/green]")
 
 
 @app.command()
 def build(
+    state: str = STATE_OPTION,
     refresh: bool = typer.Option(False, help="Bypass caches and re-download."),
-    with_ceqanet: bool = typer.Option(False, help="Include CEQAnet Tier A crawl."),
+    with_ceqanet: bool = typer.Option(
+        False, help="Include CEQAnet Tier A crawl (CA only)."
+    ),
     apply_calibration: bool = typer.Option(
         False,
         help="Rescale non-attested tiers to the statewide anchor when out of range.",
     ),
     verbose: bool = typer.Option(False, "--verbose", "-v"),
 ) -> None:
-    """Run the full pipeline and write all outputs."""
+    """Run the full pipeline and write all outputs for a state."""
     _setup_logging(verbose)
+    state = _validate_state(state)
     built = pipeline.run(
+        state=state,
         refresh=refresh,
         with_ceqanet=with_ceqanet,
         apply_calibration=apply_calibration,
@@ -68,13 +92,56 @@ def build(
 
 
 @app.command()
-def validate(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
+def build_all(
+    refresh: bool = typer.Option(False, help="Bypass caches and re-download."),
+    apply_calibration: bool = typer.Option(False, help="See `build --help`."),
+    verbose: bool = typer.Option(False, "--verbose", "-v"),
+) -> None:
+    """Run the full pipeline for every supported state, one after another."""
+    _setup_logging(verbose)
+    summary = Table(title="All states")
+    summary.add_column("State")
+    summary.add_column("Facilities", justify="right")
+    summary.add_column("With power est.", justify="right")
+    summary.add_column("Sum IT MW", justify="right")
+    summary.add_column("Within anchor?")
+
+    for code in sorted(STATES):
+        console.rule(f"[bold]{get_state_profile(code).name} ({code})[/bold]")
+        try:
+            built = pipeline.run(
+                state=code, refresh=refresh, apply_calibration=apply_calibration
+            )
+        except Exception as exc:
+            console.print(f"[red]{code} failed: {exc}[/red]")
+            summary.add_row(code, "-", "-", "-", "ERROR")
+            continue
+        fac = built["facilities"]
+        recon = built.get("reconciliation") or {}
+        summary.add_row(
+            code,
+            str(len(fac)),
+            str(int(pd.to_numeric(fac.get("best_power_mw"), errors="coerce").notna().sum())),
+            f"{recon.get('bottom_up_it_load_mw', 0):,.0f}",
+            "yes" if recon.get("within_anchor_range") else "no",
+        )
+
+    console.rule("[bold]Summary[/bold]")
+    console.print(summary)
+
+
+@app.command()
+def validate(
+    state: str = STATE_OPTION, verbose: bool = typer.Option(False, "--verbose", "-v")
+) -> None:
     """Check the published tables against their schema contracts."""
     _setup_logging(verbose)
+    state = _validate_state(state)
     from .normalize.schema import FacilitySchema, PowerEstimateSchema
 
-    facilities = pd.read_csv(PROCESSED_DIR / "facilities.csv")
-    estimates = pd.read_csv(PROCESSED_DIR / "power_estimates.csv")
+    outdir = processed_dir(state)
+    facilities = pd.read_csv(outdir / "facilities.csv")
+    estimates = pd.read_csv(outdir / "power_estimates.csv")
 
     failures = []
     for name, df, schema in (
@@ -95,6 +162,7 @@ def validate(verbose: bool = typer.Option(False, "--verbose", "-v")) -> None:
 
 @app.command(name="map")
 def map_(
+    state: str = STATE_OPTION,
     output: str = typer.Option(
         None, "--output", "-o", help="Destination HTML path."
     ),
@@ -105,15 +173,19 @@ def map_(
 ) -> None:
     """Render an interactive satellite map of the facilities."""
     _setup_logging(verbose)
+    state = _validate_state(state)
     from pathlib import Path
 
     from . import viz
 
-    if not (PROCESSED_DIR / "facilities.csv").exists():
-        console.print("[red]No outputs found. Run `build` first.[/red]")
+    outdir = processed_dir(state)
+    if not (outdir / "facilities.csv").exists():
+        console.print(f"[red]No outputs found for {state}. Run `build --state {state}` first.[/red]")
         raise typer.Exit(code=1)
 
-    path = viz.write_map(Path(output) if output else None)
+    path = viz.write_map(
+        Path(output) if output else None, state=state, processed_dir=outdir
+    )
     console.print(f"[green]Wrote[/green] {path}")
 
     if open_browser:
@@ -124,36 +196,42 @@ def map_(
 
 @app.command()
 def charts(
+    state: str = STATE_OPTION,
     outdir: str = typer.Option(None, "--outdir", "-o", help="Destination directory."),
     fetch_history: bool = typer.Option(
         True,
         "--fetch-history/--no-fetch-history",
-        help="Harvest OSM element history for the provenance figure (~115 requests).",
+        help="Harvest OSM element history for the provenance figure.",
     ),
     refresh: bool = typer.Option(False, help="Bypass caches."),
     verbose: bool = typer.Option(False, "--verbose", "-v"),
 ) -> None:
     """Render the analysis figures as PNG and SVG."""
     _setup_logging(verbose)
+    state = _validate_state(state)
     from pathlib import Path
 
     from . import charts as charts_mod
     from .sources import osm_history
 
-    if not (PROCESSED_DIR / "facilities.csv").exists():
-        console.print("[red]No outputs found. Run `build` first.[/red]")
+    state_processed = processed_dir(state)
+    if not (state_processed / "facilities.csv").exists():
+        console.print(f"[red]No outputs found for {state}. Run `build --state {state}` first.[/red]")
         raise typer.Exit(code=1)
 
     history = None
     if fetch_history:
         with CachedClient(min_interval=1.05) as client:
             try:
-                history = osm_history.fetch(client, refresh=refresh)
+                history = osm_history.fetch(client, state=state, refresh=refresh)
             except Exception as exc:
                 console.print(f"[yellow]OSM history unavailable: {exc}[/yellow]")
 
     written = charts_mod.build_all(
-        Path(outdir) if outdir else None, history=history
+        Path(outdir) if outdir else (state_processed / "figures"),
+        history=history,
+        state=state,
+        processed_dir=state_processed,
     )
     console.print(f"[green]Wrote {len(written)} files[/green]")
     for path in written:
@@ -162,22 +240,25 @@ def charts(
 
 
 @app.command()
-def report() -> None:
+def report(state: str = STATE_OPTION) -> None:
     """Print a summary of the built dataset."""
-    path = PROCESSED_DIR / "facilities.csv"
+    state = _validate_state(state)
+    outdir = processed_dir(state)
+    path = outdir / "facilities.csv"
     if not path.exists():
-        console.print("[red]No outputs found. Run `build` first.[/red]")
+        console.print(f"[red]No outputs found for {state}. Run `build --state {state}` first.[/red]")
         raise typer.Exit(code=1)
     facilities = pd.read_csv(path)
-    recon_path = PROCESSED_DIR / "reconciliation.json"
+    recon_path = outdir / "reconciliation.json"
     recon = json.loads(recon_path.read_text()) if recon_path.exists() else {}
-    _summarise({"facilities": facilities, "reconciliation": recon})
+    _summarise({"state": state, "facilities": facilities, "reconciliation": recon})
 
 
 def _summarise(built: dict) -> None:
     facilities: pd.DataFrame = built["facilities"]
+    profile = get_state_profile(built.get("state", "CA"))
 
-    table = Table(title="California data centers", show_lines=False)
+    table = Table(title=f"{profile.name} data centers", show_lines=False)
     table.add_column("Metric")
     table.add_column("Value", justify="right")
     table.add_row("Facilities", str(len(facilities)))

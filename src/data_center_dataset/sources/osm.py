@@ -1,9 +1,11 @@
 """OpenStreetMap ingest via the Overpass API.
 
-Queries every California feature carrying a data-center tag and retains full
-way geometry (``out geom``) so that building footprint area can be computed
-downstream. Note that OSM contains *no* power tags for these features -- it
-contributes location, footprint, operator and construction year only.
+Queries every feature carrying a data-center tag within a given US state
+(selected by ISO3166-2 code so that neighbouring states are excluded cleanly)
+and retains full way geometry (``out geom``) so that building footprint area
+can be computed downstream. Note that OSM contains *no* power tags for these
+features -- it contributes location, footprint, operator and construction
+year only.
 """
 
 from __future__ import annotations
@@ -14,7 +16,6 @@ from datetime import date
 
 import pandas as pd
 from shapely.geometry import Polygon
-from shapely.geometry import mapping as shapely_mapping
 
 from ..config import raw_dir
 from ..http import CachedClient
@@ -25,34 +26,39 @@ log = logging.getLogger(__name__)
 SOURCE = "osm"
 OVERPASS_URL = "https://overpass-api.de/api/interpreter"
 
-#: California is selected by ISO code rather than a bounding box so that
-#: neighbouring states are excluded cleanly.
-OVERPASS_QUERY = """
+
+def _query(state: str) -> str:
+    return f"""
 [out:json][timeout:300];
-area["ISO3166-2"="US-CA"]["admin_level"="4"]->.ca;
+area["ISO3166-2"="US-{state.upper()}"]["admin_level"="4"]->.st;
 (
-  nwr(area.ca)["telecom"="data_center"];
-  nwr(area.ca)["telecom"="data_centre"];
-  nwr(area.ca)["building"="data_center"];
-  nwr(area.ca)["building"="data_centre"];
+  nwr(area.st)["telecom"="data_center"];
+  nwr(area.st)["telecom"="data_centre"];
+  nwr(area.st)["building"="data_center"];
+  nwr(area.st)["building"="data_centre"];
 );
 out tags geom;
 """
 
 
-def fetch(client: CachedClient, snapshot: str | None = None, refresh: bool = False) -> dict:
+def fetch(
+    client: CachedClient,
+    state: str = "CA",
+    snapshot: str | None = None,
+    refresh: bool = False,
+) -> dict:
     """Download the raw Overpass response and persist a dated snapshot."""
     snapshot = snapshot or date.today().isoformat()
-    dest = raw_dir(SOURCE, snapshot) / "overpass_ca_datacenters.json"
+    dest = raw_dir(SOURCE, snapshot, state=state) / "overpass_datacenters.json"
 
     if dest.exists() and not refresh:
         return json.loads(dest.read_text())
 
-    log.info("querying Overpass for California data centers")
+    log.info("querying Overpass for %s data centers", state.upper())
     payload = client.fetch_json(
         OVERPASS_URL,
         method="POST",
-        data={"data": OVERPASS_QUERY},
+        data={"data": _query(state)},
         refresh=refresh,
     )
     dest.write_text(json.dumps(payload, indent=1, sort_keys=True))

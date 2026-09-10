@@ -18,7 +18,7 @@ import pandera.pandas as pa
 import pandas as pd
 from pandera.typing import Series
 
-from ..config import CA_BBOX, TIER_PRECEDENCE
+from ..config import CONUS_BBOX, TIER_PRECEDENCE
 
 # --------------------------------------------------------------------------
 # Common intermediate representation
@@ -80,7 +80,7 @@ def conform_source_frame(df: pd.DataFrame) -> pd.DataFrame:
 # Published table contracts
 # --------------------------------------------------------------------------
 
-MINX, MINY, MAXX, MAXY = CA_BBOX
+MINX, MINY, MAXX, MAXY = CONUS_BBOX
 
 
 class FacilitySchema(pa.DataFrameModel):

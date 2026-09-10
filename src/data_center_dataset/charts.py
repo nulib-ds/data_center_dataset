@@ -29,6 +29,7 @@ from matplotlib.patches import Patch
 
 from .config import PROCESSED_DIR, TIER_AREA, TIER_ATTESTED, TIER_GENERATOR
 from .normalize.classify import UNATTRIBUTED_OPERATOR
+from .states import get as get_state_profile
 
 log = logging.getLogger(__name__)
 
@@ -54,10 +55,11 @@ ACCENT = "#1F4E5F"
 GRID = "#D8DEE4"
 INK = "#22282E"
 
-CAVEAT = (
-    "Estimates, not meter readings. Per-facility consumption is not public for "
-    "any California data center."
-)
+def _caveat(state_name: str) -> str:
+    return (
+        "Estimates, not meter readings. Per-facility consumption is not public "
+        f"for any {state_name} data center."
+    )
 
 
 def _apply_style() -> None:
@@ -109,9 +111,9 @@ def _save(fig, stem: str, outdir: Path) -> list[Path]:
 # --------------------------------------------------------------------------
 
 
-def _load() -> tuple[pd.DataFrame, pd.DataFrame]:
-    fac = pd.read_csv(PROCESSED_DIR / "facilities.csv")
-    est = pd.read_csv(PROCESSED_DIR / "power_estimates.csv")
+def _load(processed_dir: Path) -> tuple[pd.DataFrame, pd.DataFrame]:
+    fac = pd.read_csv(processed_dir / "facilities.csv")
+    est = pd.read_csv(processed_dir / "power_estimates.csv")
     return fac, est
 
 
@@ -120,7 +122,7 @@ def _load() -> tuple[pd.DataFrame, pd.DataFrame]:
 # --------------------------------------------------------------------------
 
 
-def top_operators_by_load(fac: pd.DataFrame, outdir: Path, top_n: int = 16):
+def top_operators_by_load(fac: pd.DataFrame, outdir: Path, state_name: str, top_n: int = 16):
     """Horizontal bars, segmented by the evidence tier behind each MW."""
     df = fac[fac.best_power_mw.notna()].copy()
 
@@ -186,7 +188,7 @@ def top_operators_by_load(fac: pd.DataFrame, outdir: Path, top_n: int = 16):
                 color="#40484F")
 
     ax.set_xlabel("Estimated IT load (MW), summed across sites")
-    ax.set_title("Which companies draw the most power\nCalifornia data centers, by estimated IT load")
+    ax.set_title(f"Which companies draw the most power\n{state_name} data centers, by estimated IT load")
     ax.set_xlim(0, hi.max() * 1.13)
     ax.grid(axis="y", visible=False)
 
@@ -202,7 +204,7 @@ def top_operators_by_load(fac: pd.DataFrame, outdir: Path, top_n: int = 16):
 
     _footnote(
         fig,
-        f"{CAVEAT}  Parentheses show sites with an estimate / total sites for that "
+        f"{_caveat(state_name)}  Parentheses show sites with an estimate / total sites for that "
         "operator. Bar segments show the evidence tier behind each megawatt.\n"
         "Intervals sum per-facility bounds, which assumes correlated errors and so "
         "is the wider, more conservative choice.",
@@ -215,7 +217,13 @@ def top_operators_by_load(fac: pd.DataFrame, outdir: Path, top_n: int = 16):
 # --------------------------------------------------------------------------
 
 
-def load_by_utility(fac: pd.DataFrame, outdir: Path):
+def load_by_utility(fac: pd.DataFrame, outdir: Path, state_name: str):
+    """Skipped entirely by ``build_all`` when no state has no utility layer.
+
+    Only California has a free statewide utility-territory source (see
+    ``states.StateProfile.has_utility_layer``); this function assumes it was
+    already checked and is never called with an all-null ``utility`` column.
+    """
     g = (
         fac.groupby("utility")
         .agg(sites=("facility_id", "count"), mw=("best_power_mw", "sum"))
@@ -242,13 +250,14 @@ def load_by_utility(fac: pd.DataFrame, outdir: Path):
     for yi, v in zip(y, g.sites):
         axes[1].text(v + g.sites.max() * 0.015, yi, f"{v:,.0f}", va="center", fontsize=9)
 
+    top_utility = g.index[0] if not g.empty else "?"
     fig.suptitle(
-        "Silicon Valley Power carries California's largest data center concentration",
+        f"{top_utility} carries {state_name}'s largest data center concentration",
         fontsize=13, fontweight="bold", x=0.005, ha="left",
     )
     _footnote(
         fig,
-        f"{CAVEAT}  Utility is assigned by point-in-polygon against CEC service "
+        f"{_caveat(state_name)}  Utility is assigned by point-in-polygon against CEC service "
         "territories, preferring the most specific retail provider.\nAttribution "
         "reflects geography, not supply contracts: direct access and community "
         "choice aggregation are not represented.",
@@ -261,7 +270,7 @@ def load_by_utility(fac: pd.DataFrame, outdir: Path):
 # --------------------------------------------------------------------------
 
 
-def rank_size_curve(fac: pd.DataFrame, outdir: Path):
+def rank_size_curve(fac: pd.DataFrame, outdir: Path, state_name: str):
     s = fac.best_power_mw.dropna().sort_values(ascending=False).reset_index(drop=True)
     if s.empty:
         return []
@@ -301,7 +310,7 @@ def rank_size_curve(fac: pd.DataFrame, outdir: Path):
 
     _footnote(
         fig,
-        f"{CAVEAT}  {len(s)} of {len(fac)} facilities have an estimate; the "
+        f"{_caveat(state_name)}  {len(s)} of {len(fac)} facilities have an estimate; the "
         f"remaining {len(fac) - len(s)} are absent from this curve, so the true "
         "tail is longer than shown.",
     )
@@ -407,7 +416,7 @@ def tier_agreement(est: pd.DataFrame, outdir: Path):
         fig,
         "Points below the 1:1 line mean the floor-area model returns less than the "
         "generator proxy. Either Tier B overestimates (its 1.30 redundancy divisor\n"
-        "assumes N+1 where much California colocation is 2N), or Tier C "
+        "assumes N+1 where much US colocation is 2N), or Tier C "
         "underestimates (white-space fraction or W/sqft too low), or footprints "
         "cover only part of a campus.\nThe priors were deliberately not tuned to "
         "force agreement: that would manufacture confidence and destroy the "
@@ -520,11 +529,22 @@ def interconnection_vs_load(fac: pd.DataFrame, outdir: Path):
 # --------------------------------------------------------------------------
 
 
-def provenance_timeline(history: pd.DataFrame, validation: pd.DataFrame, outdir: Path):
+def provenance_timeline(
+    history: pd.DataFrame,
+    validation: pd.DataFrame,
+    outdir: Path,
+    state_name: str,
+    n_facilities: int,
+    n_facilities_with_year: int,
+):
     """When these facilities entered OpenStreetMap. NOT when they were built.
 
     The refutation table is drawn onto the figure so the negative result cannot
     be separated from the chart and misread as construction history.
+
+    All prose in the lower panel is computed from ``validation`` rather than
+    hardcoded, so the figure stays accurate when re-run for a different state
+    or a later snapshot of the same state.
     """
     if history is None or history.empty:
         return []
@@ -589,17 +609,32 @@ def provenance_timeline(history: pd.DataFrame, validation: pd.DataFrame, outdir:
                 cell.set_facecolor("#EDF1F4")
 
         med = v.error_years.median()
-        sub = v[v.real_year > 1950]
-        corr = sub.real_year.corr(sub.osm_created_year) if len(sub) > 2 else float("nan")
+        # Correlation excluding whichever row has the single largest |error|,
+        # so one extreme leverage point (a very old building, mapped only
+        # recently) cannot manufacture an apparently strong correlation from a
+        # handful of points. Computed, not hardcoded, so this stays correct
+        # when re-run on a different state or a larger sample.
+        worst = v.error_years.abs().idxmax()
+        sub = v.drop(index=worst)
+        corr = (
+            sub.real_year.corr(sub.osm_created_year)
+            if len(sub) > 2
+            else float("nan")
+        )
+        modal_year = int(v.osm_created_year.mode().iloc[0])
+        modal_count = int((v.osm_created_year == modal_year).sum())
+        year_lo, year_hi = int(v.real_year.min()), int(v.real_year.max())
         ax2.text(
             0.0, 0.34,
-            f"Median error +{med:.0f} years. Excluding the single 1938 outlier the "
-            f"correlation is {corr:.2f} — the OSM year is effectively constant at "
-            "2016\nwhile real build years span 1973–1990, because the 2016 cluster is "
-            "a Los Angeles mapping campaign rather than a\nbuilding boom. Changeset "
-            "timestamps therefore measure OpenStreetMap, not California. A real "
-            "construction year is\nknown for only 2 of 216 facilities, so neither "
-            "facility counts nor load can be honestly plotted against time.",
+            f"Median error +{med:.0f} years. Excluding the single largest outlier the "
+            f"correlation is {corr:.2f} — {modal_count} of {len(v)} facilities were "
+            f"first mapped in {modal_year} alone,\nregardless of real build year "
+            f"(range {year_lo}\u2013{year_hi}), consistent with a single OSM mapping "
+            "campaign rather than a building boom. Changeset timestamps therefore\n"
+            f"measure OpenStreetMap, not {state_name}. A real construction year is "
+            f"known for only {int(n_facilities_with_year)} of {n_facilities} "
+            "facilities, so neither facility counts nor load can be honestly "
+            "plotted against time.",
             transform=ax2.transAxes, fontsize=8.8, va="top", color="#40484F",
             linespacing=1.5,
         )
@@ -607,7 +642,7 @@ def provenance_timeline(history: pd.DataFrame, validation: pd.DataFrame, outdir:
     _footnote(
         fig,
         "Source: OpenStreetMap element version history via the OSM API, "
-        f"{len(history)} California data-center elements.",
+        f"{len(history)} {state_name} data-center elements.",
     )
     return _save(fig, "08_provenance_timeline", outdir)
 
@@ -617,42 +652,75 @@ def provenance_timeline(history: pd.DataFrame, validation: pd.DataFrame, outdir:
 # --------------------------------------------------------------------------
 
 
-def build_all(outdir: Path | None = None, history: pd.DataFrame | None = None) -> list[Path]:
-    """Render every figure. Returns the paths written."""
+def build_all(
+    outdir: Path | None = None,
+    history: pd.DataFrame | None = None,
+    *,
+    state: str = "CA",
+    processed_dir: Path | None = None,
+) -> list[Path]:
+    """Render every figure for ``state``. Returns the paths written."""
     _apply_style()
-    outdir = outdir or FIGURE_DIR
-    fac, est = _load()
+    profile = get_state_profile(state)
+    processed_dir = processed_dir or PROCESSED_DIR
+    outdir = outdir or (processed_dir / "figures")
+    fac, est = _load(processed_dir)
 
     written: list[Path] = []
-    written += top_operators_by_load(fac, outdir)
-    written += load_by_utility(fac, outdir)
-    written += rank_size_curve(fac, outdir)
+    written += top_operators_by_load(fac, outdir, profile.name)
+
+    if profile.has_utility_layer and fac.utility.notna().any():
+        written += load_by_utility(fac, outdir, profile.name)
+    else:
+        log.info(
+            "%s has no free statewide utility-territory layer; skipping the "
+            "utility chart rather than plotting an all-null column",
+            profile.name,
+        )
+
+    written += rank_size_curve(fac, outdir, profile.name)
     written += evidence_composition(fac, outdir)
     written += tier_agreement(est, outdir)
     written += completeness(fac, outdir)
     written += interconnection_vs_load(fac, outdir)
 
     if history is None:
-        history = _load_history()
+        history = _load_history(state)
     if history is not None and not history.empty:
         from .sources.osm_history import start_date_validation
 
         validation = start_date_validation(history)
         if validation is not None and not validation.empty:
             validation.to_csv(outdir / "osm_date_refutation.csv", index=False)
-        written += provenance_timeline(history, validation, outdir)
+            written += provenance_timeline(
+                history,
+                validation,
+                outdir,
+                profile.name,
+                len(fac),
+                int(fac.year_built.notna().sum()),
+            )
+        else:
+            log.warning(
+                "no elements with a real start_date tag; skipping the provenance "
+                "refutation figure (nothing to refute against)"
+            )
     else:
         log.warning("no OSM history snapshot; skipping the provenance figure")
 
     return written
 
 
-def _load_history() -> pd.DataFrame | None:
+def _load_history(state: str = "CA") -> pd.DataFrame | None:
     import glob
 
     from .config import RAW_DIR
 
-    paths = sorted(glob.glob(str(RAW_DIR / "osm_history" / "*" / "osm_element_history.csv")))
+    paths = sorted(
+        glob.glob(
+            str(RAW_DIR / "osm_history" / state.upper() / "*" / "osm_element_history.csv")
+        )
+    )
     if not paths:
         return None
     return pd.read_csv(paths[-1])

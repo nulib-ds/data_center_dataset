@@ -54,7 +54,7 @@ def test_out_of_state_coordinates_are_rejected(source_records):
     assert "QTS Charlotte (CTL1)" not in set(in_scope.name)
     assert (
         excluded.loc[excluded.name == "QTS Charlotte (CTL1)", "exclusion_rule"].iloc[0]
-        == "outside_california"
+        == "outside_state"
     )
 
 

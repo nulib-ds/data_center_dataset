@@ -1,17 +1,57 @@
-# California Data Center Dataset
+# US Data Center Dataset
 
-A reproducible pipeline that assembles a registry of **commercial data centers in
-California** — colocation, wholesale and hyperscale — from public sources, and
-attaches **power estimates that carry an explicit evidence tier and confidence
-interval**.
+A reproducible pipeline that assembles a registry of **commercial data centers**
+— colocation, wholesale and hyperscale — from public sources, and attaches
+**power estimates that carry an explicit evidence tier and confidence
+interval**. Originally built for California; now generalised to any US state
+via `--state`.
 
 > **Read this first.** No figure in this dataset is a metered electricity
 > reading. Per-facility consumption is confidential utility data and is not
-> publicly available for any California data center. Every power number here is
+> publicly available for any US data center. Every power number here is
 > either a *cited third-party claim* or a *model output*, and each is labelled as
 > such. See [LIMITATIONS.md](LIMITATIONS.md).
 
-## Current output
+## Supported states
+
+```bash
+uv run data-center-dataset build --state TX   # or GA, AZ, IL, VA, CA
+uv run data-center-dataset build-all          # every supported state, one after another
+```
+
+Each state writes to its own `data/processed/<STATE>/` directory. Two
+enrichments are California-only because no free nationwide equivalent exists
+(see `states.py` for the reasoning): CEC electric-utility territories, and the
+CEQAnet attested-MW crawl. Every other source (OSM, PeeringDB, EPA NEI) is
+queried per state.
+
+| State | Facilities | With power est. | Sum IT MW | Bottom-up TWh/yr | vs. anchor |
+| --- | --- | --- | --- | --- | --- |
+| California (CA) | 221 | 118 | ~1,473 | ~13.3 | within [12, 26] |
+| Texas (TX) | 271 | 185 | ~5,298 | ~46.8 | **outside** [12, 34] |
+| Georgia (GA) | 70 | 34 | ~3,009 | ~26.2 | **outside** [4, 14] |
+| Arizona (AZ) | 67 | 38 | ~1,303 | ~11.6 | within [4, 16] |
+| Illinois (IL) | 100 | 52 | ~1,333 | ~12.0 | within [4, 15] |
+| Virginia (VA) | 390 | 335 | ~9,225 | ~81.4 | **outside** [18, 48] |
+
+The "outside anchor" cases are not treated as bugs to fix by tuning: the
+anchors are crude population/market-share heuristics (see
+`states.STATES[...].annual_twh_anchor`, documented as order-of-magnitude only),
+and Texas, Georgia and Virginia specifically host some of the largest
+hyperscale campuses in the country (Meta Newton County GA, Microsoft/Google/Meta
+TX megasites, AWS's ~111 mapped Northern Virginia buildings). A bottom-up total
+several times the anchor is at least as likely to mean *the anchor is too low*
+as *the model is too high* — which is exactly why calibration is off by default
+and, when enabled, never touches attested figures. See
+[LIMITATIONS.md](LIMITATIONS.md) for the full discussion.
+
+## California detail
+
+The rest of this document describes the California build in depth, which
+received the most validation; the same pipeline and caveats apply to every
+other state.
+
+## Current output (California)
 
 | Metric | Value |
 | --- | --- |

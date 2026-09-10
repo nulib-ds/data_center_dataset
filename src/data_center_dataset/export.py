@@ -16,6 +16,7 @@ from __future__ import annotations
 
 import json
 import logging
+from pathlib import Path
 
 import geopandas as gpd
 import pandas as pd
@@ -23,6 +24,7 @@ from shapely import wkt as shapely_wkt
 from shapely.geometry import Point
 
 from .config import PROCESSED_DIR, WGS84, ensure_dirs
+from .states import get as get_state_profile
 
 log = logging.getLogger(__name__)
 
@@ -106,32 +108,41 @@ FIELD_DOCS = {
 }
 
 
-def _write_table(df: pd.DataFrame, stem: str, columns: list[str] | None = None) -> None:
+def _write_table(
+    df: pd.DataFrame, stem: str, outdir: Path, columns: list[str] | None = None
+) -> None:
     out = df.copy()
     if columns:
         for col in columns:
             if col not in out.columns:
                 out[col] = pd.NA
         out = out[columns]
-    out.to_csv(PROCESSED_DIR / f"{stem}.csv", index=False)
+    out.to_csv(outdir / f"{stem}.csv", index=False)
     try:
-        out.to_parquet(PROCESSED_DIR / f"{stem}.parquet", index=False)
+        out.to_parquet(outdir / f"{stem}.parquet", index=False)
     except Exception as exc:  # pragma: no cover - mixed dtypes
         log.warning("parquet write failed for %s (%s); CSV still written", stem, exc)
     log.info("wrote %s (%d rows)", stem, len(out))
 
 
-def write_all(built: dict) -> None:
+def write_all(built: dict, outdir: Path | None = None) -> None:
+    """Write every published table to ``outdir`` (default: ``data/processed``).
+
+    Pass ``outdir=config.processed_dir(state)`` to write to the per-state
+    directory used by the multi-state pipeline.
+    """
+    outdir = outdir or PROCESSED_DIR
+    outdir.mkdir(parents=True, exist_ok=True)
     ensure_dirs()
 
     facilities = built["facilities"]
-    _write_table(facilities, "facilities", FACILITY_COLUMNS)
-    _write_table(built["power_estimates"], "power_estimates", POWER_COLUMNS)
-    _write_table(built["crosswalk"], "facility_sources")
-    _write_table(built["excluded"], "exclusions")
-    _write_table(built["review_queue"], "dedupe_review")
+    _write_table(facilities, "facilities", outdir, FACILITY_COLUMNS)
+    _write_table(built["power_estimates"], "power_estimates", outdir, POWER_COLUMNS)
+    _write_table(built["crosswalk"], "facility_sources", outdir)
+    _write_table(built["excluded"], "exclusions", outdir)
+    _write_table(built["review_queue"], "dedupe_review", outdir)
     if built.get("tier_agreement") is not None and not built["tier_agreement"].empty:
-        _write_table(built["tier_agreement"], "tier_agreement")
+        _write_table(built["tier_agreement"], "tier_agreement", outdir)
 
     # -- GeoJSON ---------------------------------------------------------
     geo_cols = [c for c in FACILITY_COLUMNS if c in facilities.columns]
@@ -140,20 +151,20 @@ def write_all(built: dict) -> None:
         geometry=[Point(xy) for xy in zip(facilities.lon, facilities.lat)],
         crs=WGS84,
     )
-    geo_path = PROCESSED_DIR / "facilities.geojson"
+    geo_path = outdir / "facilities.geojson"
     gdf.to_file(geo_path, driver="GeoJSON")
     log.info("wrote facilities.geojson (%d features)", len(gdf))
 
-    _write_footprints(facilities, geo_cols)
+    _write_footprints(facilities, geo_cols, outdir)
 
-    (PROCESSED_DIR / "reconciliation.json").write_text(
+    (outdir / "reconciliation.json").write_text(
         json.dumps(built["reconciliation"], indent=2, sort_keys=True)
     )
 
-    _write_datapackage(built)
+    _write_datapackage(built, outdir)
 
 
-def _write_footprints(facilities: pd.DataFrame, geo_cols: list[str]) -> None:
+def _write_footprints(facilities: pd.DataFrame, geo_cols: list[str], outdir: Path) -> None:
     """Publish building footprint polygons as their own layer.
 
     Kept separate from ``facilities.geojson`` (which is points) because the two
@@ -165,7 +176,7 @@ def _write_footprints(facilities: pd.DataFrame, geo_cols: list[str]) -> None:
         return
 
     subset = facilities[facilities.geometry_wkt.notna()].copy()
-    path = PROCESSED_DIR / "facility_footprints.geojson"
+    path = outdir / "facility_footprints.geojson"
     if subset.empty:
         log.info("no footprint polygons to write")
         return
@@ -243,13 +254,14 @@ def _datapackage_sources() -> list[dict]:
     ]
 
 
-def _write_datapackage(built: dict) -> None:
+def _write_datapackage(built: dict, outdir: Path) -> None:
+    profile = get_state_profile(built.get("state", "CA"))
     facilities = built["facilities"]
     resources = [
         _resource(
             "facilities",
             facilities[[c for c in FACILITY_COLUMNS if c in facilities.columns]],
-            "One row per resolved commercial data center site in California.",
+            f"One row per resolved commercial data center site in {profile.name}.",
         ),
         _resource(
             "power_estimates",
@@ -268,15 +280,22 @@ def _write_datapackage(built: dict) -> None:
         ),
     ]
 
+    sources = _datapackage_sources()
+    if not profile.has_utility_layer:
+        sources = [s for s in sources if s["title"] != "California Energy Commission GIS"]
+    if not profile.supports_ceqanet:
+        sources = [s for s in sources if s["title"] != "CEQAnet"]
+
     descriptor = {
         "profile": "tabular-data-package",
-        "name": "california-data-center-dataset",
-        "title": "California Data Centers with Tiered Power Estimates",
+        "name": f"{profile.name.lower().replace(' ', '-')}-data-center-dataset",
+        "title": f"{profile.name} Data Centers with Tiered Power Estimates",
         "description": (
-            "Registry of commercial (colocation, wholesale, hyperscale) data "
-            "centers in California, assembled from OpenStreetMap, PeeringDB, the "
-            "EPA National Emissions Inventory and California Energy Commission "
-            "GIS. Power figures are ESTIMATES carrying an explicit evidence tier "
+            f"Registry of commercial (colocation, wholesale, hyperscale) data "
+            f"centers in {profile.name}, assembled from OpenStreetMap, PeeringDB, "
+            "and the EPA National Emissions Inventory"
+            + (", and California Energy Commission GIS" if profile.has_utility_layer else "")
+            + ". Power figures are ESTIMATES carrying an explicit evidence tier "
             "and confidence interval; none is a metered consumption reading. "
             "See LIMITATIONS.md before use."
         ),
@@ -288,12 +307,12 @@ def _write_datapackage(built: dict) -> None:
                 "path": "https://opendatacommons.org/licenses/odbl/1-0/",
             }
         ],
-        "sources": _datapackage_sources(),
+        "sources": sources,
         "resources": resources,
         "reconciliation": built["reconciliation"],
     }
 
-    (PROCESSED_DIR / "datapackage.json").write_text(
+    (outdir / "datapackage.json").write_text(
         json.dumps(descriptor, indent=2, sort_keys=True, default=str)
     )
     log.info("wrote datapackage.json")

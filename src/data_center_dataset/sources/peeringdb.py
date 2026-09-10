@@ -27,10 +27,15 @@ API_URL = "https://www.peeringdb.com/api/fac"
 PAGE_SIZE = 250
 
 
-def fetch(client: CachedClient, snapshot: str | None = None, refresh: bool = False) -> list[dict]:
-    """Page through all California facilities and snapshot the raw payload."""
+def fetch(
+    client: CachedClient,
+    state: str = "CA",
+    snapshot: str | None = None,
+    refresh: bool = False,
+) -> list[dict]:
+    """Page through all facilities in ``state`` and snapshot the raw payload."""
     snapshot = snapshot or date.today().isoformat()
-    dest = raw_dir(SOURCE, snapshot) / "peeringdb_fac_ca.json"
+    dest = raw_dir(SOURCE, snapshot, state=state) / "peeringdb_fac.json"
 
     if dest.exists() and not refresh:
         return json.loads(dest.read_text())
@@ -41,7 +46,7 @@ def fetch(client: CachedClient, snapshot: str | None = None, refresh: bool = Fal
         payload = client.fetch_json(
             API_URL,
             params={
-                "state": "CA",
+                "state": state.upper(),
                 "country": "US",
                 "limit": PAGE_SIZE,
                 "skip": offset,

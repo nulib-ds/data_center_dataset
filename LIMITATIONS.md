@@ -186,7 +186,46 @@ total is compatible with large offsetting per-facility errors.
 falsification. Calibration is off by default and its application is recorded in
 the output.
 
-## 11. Licensing constrains redistribution
+## 11. Multi-state generalisation carries its own caveats
+
+The pipeline now runs for any state in `states.STATES` via `--state`, but two
+things do not travel automatically:
+
+* **Two enrichments are California-only.** No free, nationwide, per-state
+  electric-utility-territory API was found, so `utility` is `null` for every
+  state except CA (`states.StateProfile.has_utility_layer`). CEQAnet is a
+  California-specific environmental-review database with no equivalent
+  elsewhere, so `--with-ceqanet` is silently a no-op outside CA.
+* **Every anchor for a non-CA state is a rougher guess than CA's.** CA's anchor
+  was set from a national report apportioned by rough population/market share;
+  the other five states' anchors (`states.py`) are the same kind of heuristic
+  but were not independently cross-checked against a published state-level
+  estimate. Texas, Georgia and Virginia's bottom-up totals landed **outside**
+  their anchor ranges on the first run (see the README table). Two explanations
+  are equally plausible and neither was investigated further:
+
+  1. The anchors are simply too low for these states. Virginia in particular is
+     widely reported as the single largest concentration of hyperscale capacity
+     in the world (Loudoun County "Data Center Alley"); a bottom-up figure of
+     ~81 TWh/yr against a rough 30 TWh/yr guess is not obviously wrong.
+  2. The Tier C floor-area model, calibrated on California building stock and
+     California power-density priors, may not transfer cleanly to a different
+     mix of building typologies (Virginia and Texas both show enormous
+     single-storey hyperscale campuses that are individually much larger than
+     any facility recorded in California).
+
+  No calibration was applied to force agreement in either direction. This is
+  reported as an open question, not resolved by adjusting a prior until the
+  numbers looked right.
+* **The Tier B generator-count prior (median 2,116 kW/unit) was calibrated on
+  California NEI records only** and applied unchanged to every other state's
+  generator fleets. It was not re-derived per state, because most other states
+  contributed too few parseable nameplate ratings to support a separate
+  calibration (Texas contributed exactly one Tier B facility on this run).
+* **The NEI-only generator-count scope gate (≥4 units)** was likewise derived
+  from California's fleet-size distribution and applied unchanged elsewhere.
+
+## 12. Licensing constrains redistribution
 
 OpenStreetMap geometry makes this a derived database under **ODbL-1.0**:
 attribution *and* share-alike apply. Rebuilding without the OSM source removes

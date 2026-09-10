@@ -123,22 +123,31 @@ def agreement_report(estimates: pd.DataFrame) -> pd.DataFrame:
 
 
 def reconcile(
-    facilities: pd.DataFrame, *, apply_calibration: bool = False
+    facilities: pd.DataFrame,
+    *,
+    apply_calibration: bool = False,
+    annual_twh_anchor: float = CA_ANNUAL_TWH_ANCHOR,
+    annual_twh_anchor_range: tuple[float, float] = CA_ANNUAL_TWH_ANCHOR_RANGE,
 ) -> tuple[pd.DataFrame, dict]:
-    """Compare the bottom-up statewide total against the top-down anchor."""
+    """Compare the bottom-up statewide total against the top-down anchor.
+
+    ``annual_twh_anchor``/``annual_twh_anchor_range`` come from the target
+    state's :class:`~data_center_dataset.states.StateProfile`. Defaults to the
+    California values for backward compatibility when called without them.
+    """
     total_gwh = pd.to_numeric(facilities.get("est_annual_gwh"), errors="coerce").sum()
     total_twh = float(total_gwh) / 1000.0
     total_mw = float(pd.to_numeric(facilities.get("best_power_mw"), errors="coerce").sum())
 
-    low, high = CA_ANNUAL_TWH_ANCHOR_RANGE
+    low, high = annual_twh_anchor_range
     within = low <= total_twh <= high
-    factor = (CA_ANNUAL_TWH_ANCHOR / total_twh) if total_twh > 0 else None
+    factor = (annual_twh_anchor / total_twh) if total_twh > 0 else None
 
     report = {
         "bottom_up_it_load_mw": round(total_mw, 1),
         "bottom_up_annual_twh": round(total_twh, 2),
-        "top_down_anchor_twh": CA_ANNUAL_TWH_ANCHOR,
-        "top_down_range_twh": list(CA_ANNUAL_TWH_ANCHOR_RANGE),
+        "top_down_anchor_twh": annual_twh_anchor,
+        "top_down_range_twh": list(annual_twh_anchor_range),
         "within_anchor_range": bool(within),
         "implied_calibration_factor": round(factor, 3) if factor else None,
         "calibration_applied": False,
@@ -167,7 +176,7 @@ def reconcile(
         "reconcile: bottom-up %.1f MW IT / %.2f TWh-yr vs anchor %.1f TWh (%s)",
         total_mw,
         total_twh,
-        CA_ANNUAL_TWH_ANCHOR,
+        annual_twh_anchor,
         "within range" if within else "OUTSIDE range",
     )
     return out, report

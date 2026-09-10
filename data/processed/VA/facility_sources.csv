@@ -1,0 +1,473 @@
+facility_id,source,source_id,source_url,source_name
+lumos-networks-07de64,osm,node/5225685660,https://www.openstreetmap.org/node/5225685660,Lumos Networks
+8100-boone-boulevard-687b8b,osm,node/7985753364,https://www.openstreetmap.org/node/7985753364,8100 Boone Boulevard
+amazon-web-services-iad69-e7b844,osm,node/9092482804,https://www.openstreetmap.org/node/9092482804,Amazon Web Services IAD69
+ntt-va11-data-center-cd54b0,osm,node/13154826379,https://www.openstreetmap.org/node/13154826379,NTT VA11 Data Center
+qts-richmond-ric1-79bc8e,osm,node/13685576464,https://www.openstreetmap.org/node/13685576464,RIC1 DC1
+qts-richmond-ric1-79bc8e,osm,node/13685576465,https://www.openstreetmap.org/node/13685576465,RIC1 DC2
+qts-richmond-ric1-79bc8e,osm,node/13685576466,https://www.openstreetmap.org/node/13685576466,RIC1 DC3
+qts-richmond-ric1-79bc8e,peeringdb,2365,https://www.peeringdb.com/fac/2365,QTS Richmond (RIC1)
+vantage-va16-157b5c,osm,node/13891340203,https://www.openstreetmap.org/node/13891340203,Vantage VA16
+cloudhq-lc10-be7a1b,osm,node/14045039387,https://www.openstreetmap.org/node/14045039387,CloudHQ LC10
+cloudhq-lc9-d6aae5,osm,node/14045039388,https://www.openstreetmap.org/node/14045039388,CloudHQ LC9
+cloudhq-lc8-2015ec,osm,node/14045039389,https://www.openstreetmap.org/node/14045039389,CloudHQ LC8
+cloudhq-lc14-a2e907,osm,node/14045039390,https://www.openstreetmap.org/node/14045039390,CloudHQ LC14
+cloudhq-lc13-77bae7,osm,node/14045039391,https://www.openstreetmap.org/node/14045039391,CloudHQ LC13
+cloudhq-lc12-180ce6,osm,node/14045039392,https://www.openstreetmap.org/node/14045039392,CloudHQ LC12
+cloudhq-lc11-c304f3,osm,node/14045039393,https://www.openstreetmap.org/node/14045039393,CloudHQ LC11
+cloudhq-lc5-25af05,osm,node/14045039394,https://www.openstreetmap.org/node/14045039394,CloudHQ LC5
+cologix-ash2-59627f,osm,node/14045039395,https://www.openstreetmap.org/node/14045039395,Cologix ASH2
+sabey-data-centers-ashburn-building-a-511d5b,osm,node/14045092726,https://www.openstreetmap.org/node/14045092726,Sabey Data Centers Ashburn - Building A
+ntt-ashburn-va8-data-center-718174,osm,node/14045092727,https://www.openstreetmap.org/node/14045092727,NTT Ashburn VA8 Data Center
+edgecore-ashburn-as02-4e5b84,osm,node/14152612201,https://www.openstreetmap.org/node/14152612201,EdgeCore Ashburn AS02
+equinix-ashburn-dc18-c2d5f1,osm,node/14156477686,https://www.openstreetmap.org/node/14156477686,Equinix Ashburn DC18
+unnamed-data-center-1c84cd,osm,way/45583050,https://www.openstreetmap.org/way/45583050,
+amazon-iad11-92bed2,osm,way/45776978,https://www.openstreetmap.org/way/45776978,Amazon IAD11
+amazon-iad24-6655c7,osm,way/45776979,https://www.openstreetmap.org/way/45776979,Amazon IAD24
+amazon-iad7-a820bb,osm,way/45776988,https://www.openstreetmap.org/way/45776988,Amazon IAD7
+digital-realty-gnv-8217-linton-hall-5c8684,osm,way/46831933,https://www.openstreetmap.org/way/46831933,VA 4
+digital-realty-gnv-8217-linton-hall-5c8684,peeringdb,4760,https://www.peeringdb.com/fac/4760,Digital Realty GNV (8217 Linton Hall)
+amazon-iad10-a53a44,osm,way/48242814,https://www.openstreetmap.org/way/48242814,Amazon IAD10
+amazon-iad32-0fc315,osm,way/48242816,https://www.openstreetmap.org/way/48242816,Amazon IAD32
+centersquare-iad1-b-b12a13,osm,way/52094269,https://www.openstreetmap.org/way/52094269,Centersquare IAD1-B
+centersquare-northern-virginia-iad1-a-f-9a9df6,osm,way/52094270,https://www.openstreetmap.org/way/52094270,Centersquare IAD1-A
+centersquare-northern-virginia-iad1-a-f-9a9df6,peeringdb,2596,https://www.peeringdb.com/fac/2596,Centersquare Northern Virginia (IAD1-A/F)
+centersquare-northern-virginia-iad1-c-e-7f73fd,osm,way/52094294,https://www.openstreetmap.org/way/52094294,Centersquare IAD1-C
+centersquare-northern-virginia-iad1-c-e-7f73fd,peeringdb,2615,https://www.peeringdb.com/fac/2615,Centersquare Northern Virginia (IAD1-C/E)
+stack-nva01a-northern-virginia-ddbea9,osm,way/59294476,https://www.openstreetmap.org/way/59294476,STACK NVA01A - Northern Virginia
+digital-realty-iad-1780-business-center-dded6e,osm,way/79158387,https://www.openstreetmap.org/way/79158387,VA3
+digital-realty-iad-1780-business-center-dded6e,peeringdb,4759,https://www.peeringdb.com/fac/4759,Digital Realty IAD (1780 Business Center)
+iad1-59a180,osm,way/79159494,https://www.openstreetmap.org/way/79159494,IAD1
+coresite-reston-va1-50a84e,osm,way/79298926,https://www.openstreetmap.org/way/79298926,CoreSite Reston Campus VA1
+coresite-reston-va1-50a84e,peeringdb,668,https://www.peeringdb.com/fac/668,CoreSite - Reston (VA1)
+coresite-reston-va3-0d7685,osm,way/79818498,https://www.openstreetmap.org/way/79818498,CoreSite Reston VA3
+coresite-reston-va3-0d7685,peeringdb,5467,https://www.peeringdb.com/fac/5467,CoreSite - Reston (VA3)
+unnamed-data-center-b1e61f,osm,way/156468497,https://www.openstreetmap.org/way/156468497,
+equinix-dc97-e83faa,osm,way/221897579,https://www.openstreetmap.org/way/221897579,Equinix DC97
+amazon-iad-55-71ab45,osm,way/222672860,https://www.openstreetmap.org/way/222672860,Amazon IAD-55
+copt-dc-6-9c133f,osm,way/224100721,https://www.openstreetmap.org/way/224100721,COPT Data Center
+copt-dc-6-9c133f,peeringdb,6090,https://www.peeringdb.com/fac/6090,COPT DC-6
+ovh-us-east-vint-hill-139b39,osm,way/225745958,https://www.openstreetmap.org/way/225745958,OVH US East Vint Hill
+equinix-ashburn-dc2-478f24,osm,way/234722029,https://www.openstreetmap.org/way/234722029,Equinix Ashburn DC2
+h5-data-centers-ashburn-37e6c7,osm,way/234722720,https://www.openstreetmap.org/way/234722720,H5 Data Centers Ashburn
+h5-data-centers-ashburn-37e6c7,peeringdb,3080,https://www.peeringdb.com/fac/3080,H5 Data Centers Ashburn
+databank-mclean-iad2-6c38fe,osm,way/239147724,https://www.openstreetmap.org/way/239147724,DataBank McLean IAD2
+unnamed-data-center-d24793,osm,way/251716311,https://www.openstreetmap.org/way/251716311,
+digital-realty-2b5d39,osm,way/251716328,https://www.openstreetmap.org/way/251716328,Digital Realty
+flexential-richmond-ric01-02-8bb44c,osm,way/257581364,https://www.openstreetmap.org/way/257581364,Flexential - Richmond
+flexential-richmond-ric01-02-8bb44c,peeringdb,5008,https://www.peeringdb.com/fac/5008,Flexential - Richmond (RIC01/02)
+amazon-iad-9-b4be72,osm,way/258343744,https://www.openstreetmap.org/way/258343744,Amazon IAD-9
+amazon-iad-9-b4be72,osm,way/258343748,https://www.openstreetmap.org/way/258343748,Amazon IAD22
+amazon-iad-1-4909af,osm,way/258343749,https://www.openstreetmap.org/way/258343749,Amazon IAD-1
+unnamed-data-center-579a60,osm,way/258519934,https://www.openstreetmap.org/way/258519934,
+unnamed-data-center-a12e0c,osm,way/258519959,https://www.openstreetmap.org/way/258519959,
+unnamed-data-center-2eeec5,osm,way/258520532,https://www.openstreetmap.org/way/258520532,
+unnamed-data-center-ef5c99,osm,way/260996040,https://www.openstreetmap.org/way/260996040,
+menlo-digital-md-dc1-22bed7,osm,way/262058094,https://www.openstreetmap.org/way/262058094,Menlo Digital MD-DC1
+centersquare-northern-virginia-iad3-3bcb24,osm,way/273895868,https://www.openstreetmap.org/way/273895868,Centersquare IAD3
+centersquare-northern-virginia-iad3-3bcb24,peeringdb,2618,https://www.peeringdb.com/fac/2618,Centersquare Northern Virginia (IAD3)
+centersquare-northern-virginia-iad2-c8291f,osm,way/273896089,https://www.openstreetmap.org/way/273896089,Centersquare IAD2-A
+centersquare-northern-virginia-iad2-c8291f,peeringdb,2616,https://www.peeringdb.com/fac/2616,Centersquare Northern Virginia (IAD2)
+cyrusone-nva4-4f32da,osm,way/273896096,https://www.openstreetmap.org/way/273896096,CyrusOne NVA4
+centersquare-iad2-b-4e6b7d,osm,way/273896102,https://www.openstreetmap.org/way/273896102,Centersquare IAD2-B
+digital-realty-iad-44480-hastings-0c8167,osm,way/298126010,https://www.openstreetmap.org/way/298126010,Digital Realty ACC4
+digital-realty-iad-44480-hastings-0c8167,peeringdb,408,https://www.peeringdb.com/fac/408,Digital Realty IAD (44480 Hastings)
+equinix-ashburn-dc1-3f4670,osm,way/298127059,https://www.openstreetmap.org/way/298127059,Equinix Ashburn DC1
+equinix-ashburn-dc5-fb30fd,osm,way/298127361,https://www.openstreetmap.org/way/298127361,Equinix Ashburn DC5
+equinix-ashburn-dc11-7c55a2,osm,way/298127420,https://www.openstreetmap.org/way/298127420,Equinix Ashburn DC11
+equinix-ashburn-dc3-456ec7,osm,way/298242260,https://www.openstreetmap.org/way/298242260,Equinix Ashburn DC3
+digital-realty-iad-44520-hastings-d6aceb,osm,way/298242335,https://www.openstreetmap.org/way/298242335,Digital Realty ACC3
+digital-realty-iad-44520-hastings-d6aceb,peeringdb,4756,https://www.peeringdb.com/fac/4756,Digital Realty IAD (44520 Hastings)
+amazon-iad76-519c1d,osm,way/299927846,https://www.openstreetmap.org/way/299927846,Amazon IAD76
+amazon-iad12-3f1181,osm,way/299929061,https://www.openstreetmap.org/way/299929061,Amazon IAD12
+digital-realty-iad-44521-hastings-82d8bf,osm,way/300162674,https://www.openstreetmap.org/way/300162674,Digital Realty ACC5
+digital-realty-iad-44521-hastings-82d8bf,peeringdb,1380,https://www.peeringdb.com/fac/1380,Digital Realty IAD (44521 Hastings)
+digital-realty-iad-44521-hastings-82d8bf,peeringdb,3772,https://www.peeringdb.com/fac/3772,Anexio ACC5
+digital-realty-iad-44461-chilum-99504b,osm,way/300162675,https://www.openstreetmap.org/way/300162675,Digital Realty ACC6
+digital-realty-iad-44461-chilum-99504b,peeringdb,1381,https://www.peeringdb.com/fac/1381,Digital Realty IAD (44461 Chilum)
+centersquare-northern-virginia-iad4-6bc74b,osm,way/300163074,https://www.openstreetmap.org/way/300163074,Centersquare IAD4-B
+centersquare-northern-virginia-iad4-6bc74b,osm,way/1317915930,https://www.openstreetmap.org/way/1317915930,Centersquare Ashburn IAD4 Data Center
+centersquare-northern-virginia-iad4-6bc74b,peeringdb,6684,https://www.peeringdb.com/fac/6684,Centersquare Northern Virginia (IAD4)
+ragingwire-va1-ntt-a0a1f6,osm,way/300163083,https://www.openstreetmap.org/way/300163083,NTT Ashburn VA1 Data Center
+ragingwire-va1-ntt-a0a1f6,peeringdb,1112,https://www.peeringdb.com/fac/1112,RagingWire VA1 - NTT
+equinix-dc13-68289d,osm,way/300969250,https://www.openstreetmap.org/way/300969250,Equinix DC13
+digital-realty-iad-43791-devin-shafron-df1cb3,osm,way/300969614,https://www.openstreetmap.org/way/300969614,Digital Realty Northern Virginia IAD14
+digital-realty-iad-43791-devin-shafron-df1cb3,osm,way/1020953454,https://www.openstreetmap.org/way/1020953454,Digital Loudoun Plaza
+digital-realty-iad-43791-devin-shafron-df1cb3,peeringdb,4752,https://www.peeringdb.com/fac/4752,Digital Realty IAD (43791 Devin Shafron)
+amazon-web-services-building-c-d2f666,osm,way/300969615,https://www.openstreetmap.org/way/300969615,Amazon Web Services Building C
+digital-realty-iad-43881-devin-shafron-7fb0ac,osm,way/300969616,https://www.openstreetmap.org/way/300969616,Digital Realty Northern Virginia IAD12
+digital-realty-iad-43881-devin-shafron-7fb0ac,osm,way/1020953461,https://www.openstreetmap.org/way/1020953461,Digital Loudoun Plaza
+digital-realty-iad-43881-devin-shafron-7fb0ac,peeringdb,4751,https://www.peeringdb.com/fac/4751,Digital Realty IAD (43881 Devin Shafron)
+digital-realty-iad-43881-devin-shafron-7fb0ac,epa_nei,17632111,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=17632111,Digital Loudoun II Limited Liability Corporation
+digital-realty-building-a-4c3cf5,osm,way/300969617,https://www.openstreetmap.org/way/300969617,Digital Realty Building A
+digital-realty-iad-43830-devin-shafron-89a12c,osm,way/300969619,https://www.openstreetmap.org/way/300969619,Digital Realty Northern Virginia IAD24
+digital-realty-iad-43830-devin-shafron-89a12c,peeringdb,4753,https://www.peeringdb.com/fac/4753,Digital Realty IAD (43830 Devin Shafron)
+databank-ashburn-iad1-478508,osm,way/300970759,https://www.openstreetmap.org/way/300970759,Databank Ashburn IAD1
+databank-ashburn-iad1-478508,peeringdb,1223,https://www.peeringdb.com/fac/1223,DataBank Ashburn (IAD1)
+databank-ashburn-iad4-1016f6,osm,way/300970761,https://www.openstreetmap.org/way/300970761,DataBank Ashburn IAD4
+equinix-dc7-ashburn-vienna-7d6a40,osm,way/368724474,https://www.openstreetmap.org/way/368724474,Equinix DC7
+equinix-dc7-ashburn-vienna-7d6a40,peeringdb,88,https://www.peeringdb.com/fac/88,"Equinix DC7 - Ashburn, Vienna"
+element-critical-va1-051c5b,osm,way/368724479,https://www.openstreetmap.org/way/368724479,Element Critical VA1
+visa-data-center-4079cb,osm,way/380282154,https://www.openstreetmap.org/way/380282154,VISA Data Center
+bank-of-america-35c742,osm,way/429040021,https://www.openstreetmap.org/way/429040021,Bank of America
+cyrusone-sterling-6faa55,osm,way/435324552,https://www.openstreetmap.org/way/435324552,"CyrusOne NVA1, NVA2 & NVA3"
+cyrusone-sterling-6faa55,peeringdb,2302,https://www.peeringdb.com/fac/2302,CyrusOne Sterling
+cyrusone-sterling-v-73988c,osm,way/435817145,https://www.openstreetmap.org/way/435817145,CyrusOne NVA5
+cyrusone-sterling-v-73988c,peeringdb,4600,https://www.peeringdb.com/fac/4600,CyrusOne Sterling V
+virginia-information-technologies-agency-cda7dd,osm,way/439365340,https://www.openstreetmap.org/way/439365340,Virginia Information Technologies Agency
+equinix-cu1-cu2-cu3-cu4-culpeper-5dbf78,osm,way/450078003,https://www.openstreetmap.org/way/450078003,Equinix CU2
+equinix-cu1-cu2-cu3-cu4-culpeper-5dbf78,peeringdb,710,https://www.peeringdb.com/fac/710,Equinix CU1/CU2/CU3/CU4 - Culpeper
+equinix-ashburn-dc10-fe9c55,osm,way/460050155,https://www.openstreetmap.org/way/460050155,Equinix Ashburn DC10
+amazon-web-services-datacenter-complex-ab1be4,osm,way/460053028,https://www.openstreetmap.org/way/460053028,Amazon Web Services Datacenter Complex
+amazon-web-services-datacenter-complex-ab1be4,osm,way/463571876,https://www.openstreetmap.org/way/463571876,Amazon IAD79
+amazon-web-services-b66b5b,osm,way/460053030,https://www.openstreetmap.org/way/460053030,Amazon Web Services
+amazon-web-services-b66b5b,osm,way/556599694,https://www.openstreetmap.org/way/556599694,Amazon IAD50
+amazon-iad-61-98520f,osm,way/460056017,https://www.openstreetmap.org/way/460056017,Amazon IAD-61
+amazon-iad-61-98520f,osm,way/701931819,https://www.openstreetmap.org/way/701931819,Amazon IAD65
+amazon-iad-61-98520f,osm,way/1252196799,https://www.openstreetmap.org/way/1252196799,Amazon Web Services
+amazon-iad-61-98520f,osm,way/1252196800,https://www.openstreetmap.org/way/1252196800,Amazon Web Services
+unnamed-data-center-c58719,osm,way/460056018,https://www.openstreetmap.org/way/460056018,
+amazon-iad51-7d007f,osm,way/460056019,https://www.openstreetmap.org/way/460056019,Amazon IAD51
+amazon-iad56-8d786c,osm,way/460056020,https://www.openstreetmap.org/way/460056020,Amazon IAD56
+amazon-iad16-74aae4,osm,way/460056023,https://www.openstreetmap.org/way/460056023,Amazon IAD16
+amazon-iad15-bd1858,osm,way/460056024,https://www.openstreetmap.org/way/460056024,Amazon IAD15
+amazon-iad14-f2c329,osm,way/460059465,https://www.openstreetmap.org/way/460059465,Amazon IAD14
+amazon-iad59-166898,osm,way/460060340,https://www.openstreetmap.org/way/460060340,Amazon IAD59
+amazon-iad52-3b7028,osm,way/460060341,https://www.openstreetmap.org/way/460060341,Amazon IAD52
+qts-ashburn-moran-7127a1,osm,way/460175664,https://www.openstreetmap.org/way/460175664,QTS Ashburn-Moran
+centersquare-iad4-a-b976cc,osm,way/460175666,https://www.openstreetmap.org/way/460175666,Centersquare IAD4-A
+aws-building-e-f5bd4a,osm,way/460175672,https://www.openstreetmap.org/way/460175672,AWS Building E
+amazon-iad78-1971a9,osm,way/463571875,https://www.openstreetmap.org/way/463571875,Amazon IAD78
+amazon-iad87-acd906,osm,way/465062052,https://www.openstreetmap.org/way/465062052,Amazon IAD87
+amazon-iad88-19db6f,osm,way/465062053,https://www.openstreetmap.org/way/465062053,Amazon IAD88
+amazon-iad73-e03e3a,osm,way/490997243,https://www.openstreetmap.org/way/490997243,Amazon IAD73
+amazon-iad74-0ef4c2,osm,way/490997244,https://www.openstreetmap.org/way/490997244,Amazon IAD74
+amazon-iad63-4ce434,osm,way/544596573,https://www.openstreetmap.org/way/544596573,Amazon IAD63
+amazon-iad62-df4d1f,osm,way/545396372,https://www.openstreetmap.org/way/545396372,Amazon IAD62
+amazon-iad62-df4d1f,osm,way/1280340212,https://www.openstreetmap.org/way/1280340212,Amazon Web Services
+digital-fortress-richmond-163e1c,osm,way/550355261,https://www.openstreetmap.org/way/550355261,Digital Fortress: Richmond
+amazon-iad71-d84f22,osm,way/556599693,https://www.openstreetmap.org/way/556599693,Amazon IAD71
+amazon-iad60-e5141a,osm,way/556599695,https://www.openstreetmap.org/way/556599695,Amazon IAD60
+amazon-iad80-06d8fc,osm,way/596690174,https://www.openstreetmap.org/way/596690174,Amazon IAD80
+equinix-ashburn-dc12-746762,osm,way/596690175,https://www.openstreetmap.org/way/596690175,Equinix Ashburn DC12
+digital-realty-northern-virginia-iad36-10f8b1,osm,way/597970806,https://www.openstreetmap.org/way/597970806,Digital Realty Northern Virginia IAD36
+digital-realty-iad-43940-digital-loudoun-9f09b6,osm,way/597970809,https://www.openstreetmap.org/way/597970809,Digital Realty Northern Virginia IAD35
+digital-realty-iad-43940-digital-loudoun-9f09b6,peeringdb,1878,https://www.peeringdb.com/fac/1878,Digital Realty IAD (43940 Digital Loudoun)
+digital-realty-iad-44060-digital-loudoun-6540b3,osm,way/597970811,https://www.openstreetmap.org/way/597970811,Digital Realty Northern Virginia IAD37
+digital-realty-iad-44060-digital-loudoun-6540b3,peeringdb,4754,https://www.peeringdb.com/fac/4754,Digital Realty IAD (44060 Digital Loudoun)
+digital-realty-iad-44100-digital-loudoun-9bff30,osm,way/597970813,https://www.openstreetmap.org/way/597970813,Digital Realty Northern Virginia IAD38
+digital-realty-iad-44100-digital-loudoun-9bff30,peeringdb,4745,https://www.peeringdb.com/fac/4745,Digital Realty IAD (44100 Digital Loudoun)
+ragingwire-va2-ntt-5bb9af,osm,way/610977485,https://www.openstreetmap.org/way/610977485,NTT Ashburn VA2 Data Center
+ragingwire-va2-ntt-5bb9af,peeringdb,6556,https://www.peeringdb.com/fac/6556,RagingWire VA2 - NTT
+digital-realty-iad-21625-gresham-07a92a,osm,way/649319778,https://www.openstreetmap.org/way/649319778,Digital Realty ACC7
+digital-realty-iad-21625-gresham-07a92a,peeringdb,4757,https://www.peeringdb.com/fac/4757,Digital Realty IAD (21625 Gresham)
+ntt-ashburn-va3-data-center-4e33ea,osm,way/649365751,https://www.openstreetmap.org/way/649365751,NTT Ashburn VA3 Data Center
+digital-realty-iad-21745-sir-timothy-19624a,osm,way/649365764,https://www.openstreetmap.org/way/649365764,Digital Realty ACC9
+digital-realty-iad-21745-sir-timothy-19624a,peeringdb,4758,https://www.peeringdb.com/fac/4758,Digital Realty IAD (21745 Sir Timothy)
+amazon-web-services-3f7312,osm,way/667573133,https://www.openstreetmap.org/way/667573133,Amazon Web Services
+amazon-web-services-3f7312,osm,way/996723587,https://www.openstreetmap.org/way/996723587,Amazon Web Services
+amazon-web-services-3f7312,osm,way/996723588,https://www.openstreetmap.org/way/996723588,Amazon Web Services
+amazon-web-services-3f7312,osm,way/996723589,https://www.openstreetmap.org/way/996723589,Amazon Web Services
+amazon-iad68-4e604d,osm,way/693381106,https://www.openstreetmap.org/way/693381106,Amazon IAD68
+amazon-iad68-4e604d,osm,way/1222134968,https://www.openstreetmap.org/way/1222134968,Amazon Web Services
+amazon-iad81-4820e9,osm,way/693381107,https://www.openstreetmap.org/way/693381107,Amazon IAD81
+amazon-iad81-4820e9,osm,way/990537821,https://www.openstreetmap.org/way/990537821,Amazon Web Services
+google-01d397,osm,way/693385812,https://www.openstreetmap.org/way/693385812,Google
+google-01d397,osm,way/714622339,https://www.openstreetmap.org/way/714622339,Google Data Center
+google-01d397,osm,way/1173770902,https://www.openstreetmap.org/way/1173770902,Google: Arcola 2
+amazon-iad120-383d03,osm,way/693390022,https://www.openstreetmap.org/way/693390022,Amazon IAD120
+amazon-iad121-a9ae75,osm,way/693390023,https://www.openstreetmap.org/way/693390023,Amazon IAD121
+unnamed-data-center-644194,osm,way/696978351,https://www.openstreetmap.org/way/696978351,
+unnamed-data-center-8a27f7,osm,way/696985482,https://www.openstreetmap.org/way/696985482,
+unnamed-data-center-715097,osm,way/696992451,https://www.openstreetmap.org/way/696992451,
+amazon-iad58-c0fceb,osm,way/697020849,https://www.openstreetmap.org/way/697020849,Amazon IAD58
+amazon-iad57-49cb9e,osm,way/697020850,https://www.openstreetmap.org/way/697020850,Amazon IAD57
+amazon-iad64-c47846,osm,way/697021948,https://www.openstreetmap.org/way/697021948,Amazon IAD64
+amazon-iad64-c47846,osm,way/697021949,https://www.openstreetmap.org/way/697021949,Amazon
+amazon-iad64-c47846,osm,way/1280340216,https://www.openstreetmap.org/way/1280340216,Amazon Web Services
+amazon-iad64-c47846,osm,way/1280340217,https://www.openstreetmap.org/way/1280340217,Amazon Web Services
+qts-ashburn-ash1-a81dac,osm,way/701923200,https://www.openstreetmap.org/way/701923200,QTS Ashburn 1
+qts-ashburn-ash1-a81dac,peeringdb,5150,https://www.peeringdb.com/fac/5150,QTS Ashburn (ASH1)
+digital-realty-northern-virginia-iad73-c9b549,osm,way/701923202,https://www.openstreetmap.org/way/701923202,Digital Realty Northern Virginia IAD73
+digital-realty-northern-virginia-iad39-ba91a7,osm,way/701923203,https://www.openstreetmap.org/way/701923203,Digital Realty Northern Virginia IAD39
+digital-realty-acc10-9f5026,osm,way/701923204,https://www.openstreetmap.org/way/701923204,Digital Realty ACC10
+sentinel-ashburn-nexus-data-center-34e1be,osm,way/701924664,https://www.openstreetmap.org/way/701924664,Sentinel Ashburn Nexus Data Center
+vantage-va11-a6af72,osm,way/701924665,https://www.openstreetmap.org/way/701924665,Vantage VA11
+amazon-iad90-cbdd6a,osm,way/701924667,https://www.openstreetmap.org/way/701924667,Amazon IAD90
+amazon-iad91-727423,osm,way/701924668,https://www.openstreetmap.org/way/701924668,Amazon IAD91
+amazon-iad92-93587a,osm,way/701924669,https://www.openstreetmap.org/way/701924669,Amazon IAD92
+amazon-iad144-f097e6,osm,way/701929066,https://www.openstreetmap.org/way/701929066,Amazon IAD144
+cyrusone-nva8-803a5b,osm,way/701930919,https://www.openstreetmap.org/way/701930919,CyrusOne NVA8
+amazon-iad98-34b8cd,osm,way/701930920,https://www.openstreetmap.org/way/701930920,Amazon IAD98
+amazon-iad99-8428b8,osm,way/701930921,https://www.openstreetmap.org/way/701930921,Amazon IAD99
+amazon-iad114-9805ca,osm,way/701930929,https://www.openstreetmap.org/way/701930929,Amazon IAD114
+amazon-iad115-6edb94,osm,way/701930930,https://www.openstreetmap.org/way/701930930,Amazon IAD115
+amazon-iad150-f40b01,osm,way/701931820,https://www.openstreetmap.org/way/701931820,Amazon IAD150
+stonewall-creek-business-park-e0959f,osm,way/706726088,https://www.openstreetmap.org/way/706726088,Stonewall Creek Business Park
+stonewall-creek-business-park-e0959f,osm,way/710070925,https://www.openstreetmap.org/way/710070925,Google Data Center
+sabey-intergate-ashburn-cb2375,osm,way/708916484,https://www.openstreetmap.org/way/708916484,Sabey Data Centers Ashburn - Building C
+sabey-intergate-ashburn-cb2375,peeringdb,7359,https://www.peeringdb.com/fac/7359,Sabey Intergate.Ashburn
+amazon-iad145-9132f5,osm,way/744491691,https://www.openstreetmap.org/way/744491691,Amazon IAD145
+amazon-web-services-iad117-eb8e75,osm,way/744496741,https://www.openstreetmap.org/way/744496741,Amazon Web Services IAD117
+amazon-web-services-iad116-f66707,osm,way/744496750,https://www.openstreetmap.org/way/744496750,Amazon Web Services IAD116
+meta-henrico-data-center-98d816,osm,way/762116506,https://www.openstreetmap.org/way/762116506,Meta Henrico Data Center
+digital-realty-iad41-building-p-f0957e,osm,way/793087858,https://www.openstreetmap.org/way/793087858,Digital Realty IAD41 (Building P)
+amazon-iad118-aece52,osm,way/793087859,https://www.openstreetmap.org/way/793087859,Amazon IAD118
+aligned-ashburn-iad-01-41cc4a,osm,way/793622740,https://www.openstreetmap.org/way/793622740,Aligned Ashburn IAD-01
+aligned-ashburn-iad-01-41cc4a,peeringdb,7861,https://www.peeringdb.com/fac/7861,Aligned Ashburn (IAD-01)
+equinix-ashburn-dc15-e14d61,osm,way/793888408,https://www.openstreetmap.org/way/793888408,Equinix Ashburn DC15
+sabey-data-centers-ashburn-building-b-a909ab,osm,way/793888427,https://www.openstreetmap.org/way/793888427,Sabey Data Centers Ashburn - Building B
+ntt-ashburn-va5-data-center-f4dc5a,osm,way/793888429,https://www.openstreetmap.org/way/793888429,NTT Ashburn VA5 Data Center
+ragingwire-va4-ntt-1a7a9f,osm,way/793888430,https://www.openstreetmap.org/way/793888430,NTT Ashburn VA4 Data Center
+ragingwire-va4-ntt-1a7a9f,peeringdb,7671,https://www.peeringdb.com/fac/7671,RagingWire VA4 - NTT
+cloudhq-lc1-6fdfff,osm,way/794147654,https://www.openstreetmap.org/way/794147654,CloudHQ LC1
+cloudhq-lc2-e80423,osm,way/794147655,https://www.openstreetmap.org/way/794147655,CloudHQ LC2
+amazon-iad146-35c9fb,osm,way/794147657,https://www.openstreetmap.org/way/794147657,Amazon IAD146
+equinix-ashburn-dc21-553bd4,osm,way/796933516,https://www.openstreetmap.org/way/796933516,Equinix Ashburn DC21
+amazon-iad140-362df1,osm,way/817338831,https://www.openstreetmap.org/way/817338831,Amazon IAD140
+amazon-iad141-fd0164,osm,way/817338832,https://www.openstreetmap.org/way/817338832,Amazon IAD141
+amazon-iad84-0abdb0,osm,way/828135845,https://www.openstreetmap.org/way/828135845,Amazon IAD84
+middletown-data-center-88a874,osm,way/840582927,https://www.openstreetmap.org/way/840582927,Middletown Data Center
+unnamed-data-center-ef8180,osm,way/844374689,https://www.openstreetmap.org/way/844374689,
+amazon-iad119-927f37,osm,way/852039781,https://www.openstreetmap.org/way/852039781,Amazon IAD119
+dbt-data-harrisonburg-center-13f320,osm,way/876120402,https://www.openstreetmap.org/way/876120402,DBT Data - Harrisonburg Center
+cloudhq-mcc1-522926,osm,way/882977350,https://www.openstreetmap.org/way/882977350,CloudHQ MCC1
+cloudhq-mcc1-522926,peeringdb,6436,https://www.peeringdb.com/fac/6436,CloudHQ MCC1
+amazon-iad129-17e598,osm,way/886028872,https://www.openstreetmap.org/way/886028872,Amazon IAD129
+microsoft-8f03b9,osm,way/886330269,https://www.openstreetmap.org/way/886330269,Microsoft
+microsoft-data-center-7b74c7,osm,way/897226569,https://www.openstreetmap.org/way/897226569,Microsoft Data Center
+arcola-tech-park-354ad2,osm,way/897226573,https://www.openstreetmap.org/way/897226573,Arcola Tech Park
+amazon-iad125-af074b,osm,way/897226574,https://www.openstreetmap.org/way/897226574,Amazon IAD125
+amazon-iad124-f42444,osm,way/897226575,https://www.openstreetmap.org/way/897226575,Amazon IAD124
+42310-thunderball-dr-0888ad,osm,way/909455922,https://www.openstreetmap.org/way/909455922,42310 THUNDERBALL DR
+amazon-iad163-f0dd96,osm,way/930849744,https://www.openstreetmap.org/way/930849744,Amazon IAD163
+amazon-iad175-6897f8,osm,way/954433119,https://www.openstreetmap.org/way/954433119,Amazon IAD175
+amazon-iad147-90c3aa,osm,way/958662382,https://www.openstreetmap.org/way/958662382,Amazon IAD147
+cyrusone-nva7-10615b,osm,way/983627455,https://www.openstreetmap.org/way/983627455,CyrusOne NVA7
+amazon-iad174-a22757,osm,way/984953813,https://www.openstreetmap.org/way/984953813,Amazon IAD174
+amazon-iad164-7c0238,osm,way/984953814,https://www.openstreetmap.org/way/984953814,Amazon IAD164
+vantage-va12-65993c,osm,way/985207884,https://www.openstreetmap.org/way/985207884,Vantage VA12
+microsoft-3d0b62,osm,way/986829280,https://www.openstreetmap.org/way/986829280,Microsoft
+amazon-iad152-391474,osm,way/989735623,https://www.openstreetmap.org/way/989735623,Amazon IAD152
+amazon-iad151-f76062,osm,way/989735624,https://www.openstreetmap.org/way/989735624,Amazon IAD151
+amazon-iad83-b6cc63,osm,way/990537813,https://www.openstreetmap.org/way/990537813,Amazon IAD83
+amazon-iad122-b40c1e,osm,way/990537857,https://www.openstreetmap.org/way/990537857,Amazon IAD122
+cyrusone-sterling-ix-681ee1,osm,way/990537858,https://www.openstreetmap.org/way/990537858,CyrusOne Sterling IX
+iron-mountain-data-center-manassas-va-1-48aae9,osm,way/996723585,https://www.openstreetmap.org/way/996723585,Iron Mountain VA-2
+iron-mountain-data-center-manassas-va-1-48aae9,osm,way/996723586,https://www.openstreetmap.org/way/996723586,Iron Mountain VA-1
+iron-mountain-data-center-manassas-va-1-48aae9,osm,way/1283698132,https://www.openstreetmap.org/way/1283698132,Iron Mountain VA-3
+iron-mountain-data-center-manassas-va-1-48aae9,peeringdb,5373,https://www.peeringdb.com/fac/5373,Iron Mountain Data Center - Manassas (VA-1)
+amazon-iad102-91afea,osm,way/996899486,https://www.openstreetmap.org/way/996899486,Amazon IAD102
+amazon-iad101-7bae95,osm,way/996899487,https://www.openstreetmap.org/way/996899487,Amazon IAD101
+amazon-iad100-f72a16,osm,way/996899488,https://www.openstreetmap.org/way/996899488,Amazon IAD100
+cloudhq-mcc2-0fd3e3,osm,way/996899489,https://www.openstreetmap.org/way/996899489,CloudHQ MCC2
+cloudhq-mcc2-0fd3e3,peeringdb,7187,https://www.peeringdb.com/fac/7187,CloudHQ MCC2
+amazon-web-services-82f116,osm,way/1000784035,https://www.openstreetmap.org/way/1000784035,Amazon Web Services
+amazon-web-services-82f116,osm,way/1280340215,https://www.openstreetmap.org/way/1280340215,Amazon Web Services
+qts-ashburn-shellhorn-dc1-522c65,osm,way/1003348567,https://www.openstreetmap.org/way/1003348567,QTS Ashburn-Shellhorn DC1
+amazon-iad601-83424a,osm,way/1015995259,https://www.openstreetmap.org/way/1015995259,Amazon IAD601
+amazon-web-services-19e8c0,osm,way/1020877488,https://www.openstreetmap.org/way/1020877488,Amazon Web Services
+amazon-web-services-19e8c0,osm,way/1020877489,https://www.openstreetmap.org/way/1020877489,Amazon Web Services
+amazon-web-services-19e8c0,osm,way/1253282099,https://www.openstreetmap.org/way/1253282099,Amazon Web Services
+unnamed-data-center-a476db,osm,way/1022757170,https://www.openstreetmap.org/way/1022757170,
+digital-realty-iad42-building-r-517944,osm,way/1025002889,https://www.openstreetmap.org/way/1025002889,Digital Realty IAD42 (Building R)
+meta-henrico-data-center-dcf101,osm,way/1030970564,https://www.openstreetmap.org/way/1030970564,Meta Henrico Data Center
+amazon-iad601-bc46a3,osm,way/1037871048,https://www.openstreetmap.org/way/1037871048,Amazon IAD601
+amazon-web-services-4dc3a2,osm,way/1059030596,https://www.openstreetmap.org/way/1059030596,Amazon Web Services
+unnamed-data-center-f499e4,osm,way/1059036248,https://www.openstreetmap.org/way/1059036248,
+copt-innovation-park-data-center-783658,osm,way/1059037050,https://www.openstreetmap.org/way/1059037050,COPT Innovation Park Data Center
+copt-innovation-park-data-center-783658,osm,way/1059037051,https://www.openstreetmap.org/way/1059037051,COPT Data Center Bldg 2
+qts-ashburn-lockridge-5e6630,osm,way/1064211366,https://www.openstreetmap.org/way/1064211366,QTS Ashburn Lockridge
+qts-ashburn-lockridge-5e6630,osm,way/1188680254,https://www.openstreetmap.org/way/1188680254,QTS Ashburn Lockridge
+unnamed-data-center-db337e,osm,way/1074588578,https://www.openstreetmap.org/way/1074588578,
+unnamed-data-center-8033b6,osm,way/1074588579,https://www.openstreetmap.org/way/1074588579,
+unnamed-data-center-7ca61a,osm,way/1074588580,https://www.openstreetmap.org/way/1074588580,
+unnamed-data-center-06f50f,osm,way/1074588582,https://www.openstreetmap.org/way/1074588582,
+unnamed-data-center-36d343,osm,way/1074588583,https://www.openstreetmap.org/way/1074588583,
+unnamed-data-center-4cc96f,osm,way/1074588584,https://www.openstreetmap.org/way/1074588584,
+unnamed-data-center-7c3916,osm,way/1074588585,https://www.openstreetmap.org/way/1074588585,
+unnamed-data-center-2913d1,osm,way/1074588586,https://www.openstreetmap.org/way/1074588586,
+unnamed-data-center-ffd5ee,osm,way/1074591450,https://www.openstreetmap.org/way/1074591450,
+unnamed-data-center-5fb57a,osm,way/1074591451,https://www.openstreetmap.org/way/1074591451,
+unnamed-data-center-3e1623,osm,way/1074591452,https://www.openstreetmap.org/way/1074591452,
+unnamed-data-center-ed9262,osm,way/1074591453,https://www.openstreetmap.org/way/1074591453,
+unnamed-data-center-015282,osm,way/1074591454,https://www.openstreetmap.org/way/1074591454,
+unnamed-data-center-8f9b04,osm,way/1074591455,https://www.openstreetmap.org/way/1074591455,
+unnamed-data-center-9a88be,osm,way/1074595308,https://www.openstreetmap.org/way/1074595308,
+unnamed-data-center-476ebe,osm,way/1074595309,https://www.openstreetmap.org/way/1074595309,
+unnamed-data-center-58bd02,osm,way/1074595310,https://www.openstreetmap.org/way/1074595310,
+amazon-iad-169-c13e1c,osm,way/1088203906,https://www.openstreetmap.org/way/1088203906,Amazon IAD-169
+amazon-iad-179-93d785,osm,way/1088203907,https://www.openstreetmap.org/way/1088203907,Amazon IAD-179
+aligned-ashburn-iad-02-ff9d35,osm,way/1088241977,https://www.openstreetmap.org/way/1088241977,Aligned IAD-02
+aligned-ashburn-iad-02-ff9d35,peeringdb,12877,https://www.peeringdb.com/fac/12877,Aligned Ashburn (IAD-02)
+unnamed-data-center-f38634,osm,way/1088241982,https://www.openstreetmap.org/way/1088241982,
+qts-manassas-dc5-da621f,osm,way/1090837713,https://www.openstreetmap.org/way/1090837713,QTS Manassas DC5
+amazon-iad143-963819,osm,way/1106454555,https://www.openstreetmap.org/way/1106454555,Amazon IAD143
+equinix-dc16-b7bc04,osm,way/1123249721,https://www.openstreetmap.org/way/1123249721,Equinix Ashburn DC16
+equinix-dc16-b7bc04,peeringdb,15438,https://www.peeringdb.com/fac/15438,Equinix DC16
+microsoft-iad11-cbaade,osm,way/1124864831,https://www.openstreetmap.org/way/1124864831,Microsoft IAD11
+unnamed-data-center-e50a05,osm,way/1128589933,https://www.openstreetmap.org/way/1128589933,
+unnamed-data-center-6188b8,osm,way/1128589934,https://www.openstreetmap.org/way/1128589934,
+meta-henrico-data-center-d6c417,osm,way/1132541700,https://www.openstreetmap.org/way/1132541700,Meta Henrico Data Center
+coresite-reston-va2-566f10,osm,way/1134104431,https://www.openstreetmap.org/way/1134104431,CoreSite Reston Campus VA2
+coresite-reston-va2-566f10,peeringdb,2763,https://www.peeringdb.com/fac/2763,CoreSite - Reston (VA2)
+aws-iad105-d6f442,osm,way/1134911640,https://www.openstreetmap.org/way/1134911640,AWS IAD105
+aws-iad104-0a8ea0,osm,way/1134911641,https://www.openstreetmap.org/way/1134911641,AWS IAD104
+qts-manassas-dc1-22f6dd,osm,way/1134911642,https://www.openstreetmap.org/way/1134911642,QTS Manassas DC1
+qts-manassas-dc1-22f6dd,osm,way/1464257784,https://www.openstreetmap.org/way/1464257784,QTS Manassas DC1
+amazon-iad142-0d758a,osm,way/1161094246,https://www.openstreetmap.org/way/1161094246,Amazon IAD142
+unnamed-data-center-edd0f4,osm,way/1161730862,https://www.openstreetmap.org/way/1161730862,
+amazon-iad603-34e59a,osm,way/1177893426,https://www.openstreetmap.org/way/1177893426,Amazon IAD603
+amazon-iad86-5a93f2,osm,way/1181391920,https://www.openstreetmap.org/way/1181391920,Amazon IAD86
+amazon-iad130-fc3917,osm,way/1181391921,https://www.openstreetmap.org/way/1181391921,Amazon IAD130
+amazon-iad131-235bdb,osm,way/1181391922,https://www.openstreetmap.org/way/1181391922,Amazon IAD131
+qts-ashburn-shellhorn-dc2-b3a80a,osm,way/1188680247,https://www.openstreetmap.org/way/1188680247,QTS Ashburn-Shellhorn DC2
+qts-ashburn-lockridge-ceccdd,osm,way/1188680253,https://www.openstreetmap.org/way/1188680253,QTS Ashburn Lockridge
+amazon-iad192-a98679,osm,way/1188680255,https://www.openstreetmap.org/way/1188680255,Amazon IAD192
+ntt-ashburn-va6-data-center-9ce310,osm,way/1188691867,https://www.openstreetmap.org/way/1188691867,NTT Ashburn VA6 Data Center
+ntt-ashburn-va9-data-center-43d052,osm,way/1188691868,https://www.openstreetmap.org/way/1188691868,NTT Ashburn VA9 Data Center
+databank-ashburn-iad3-89e0bb,osm,way/1188691869,https://www.openstreetmap.org/way/1188691869,DataBank Ashburn IAD3
+cyrusone-nva14-7ca1fd,osm,way/1188715508,https://www.openstreetmap.org/way/1188715508,CyrusOne NVA14
+cologix-ash1-af9a7e,osm,way/1188715510,https://www.openstreetmap.org/way/1188715510,Cologix ASH1
+aws-iad106-d12090,osm,way/1221862807,https://www.openstreetmap.org/way/1221862807,AWS IAD106
+aws-iad106-d12090,osm,way/1252196825,https://www.openstreetmap.org/way/1252196825,Amazon Web Services
+equinix-dc14-c98220,osm,way/1227539675,https://www.openstreetmap.org/way/1227539675,Equinix DC14
+amazon-iad103-3db019,osm,way/1227612684,https://www.openstreetmap.org/way/1227612684,Amazon IAD103
+cloudhq-mcc3-db6ce2,osm,way/1227614670,https://www.openstreetmap.org/way/1227614670,CloudHQ MCC3
+vantage-va13-55214d,osm,way/1227777116,https://www.openstreetmap.org/way/1227777116,Vantage VA13
+amazon-web-services-6d0aef,osm,way/1252196797,https://www.openstreetmap.org/way/1252196797,Amazon Web Services
+amazon-web-services-6d0aef,osm,way/1252196798,https://www.openstreetmap.org/way/1252196798,Amazon Web Services
+google-d11de0,osm,way/1252196815,https://www.openstreetmap.org/way/1252196815,Google
+amazon-web-services-5f5a53,osm,way/1252196826,https://www.openstreetmap.org/way/1252196826,Amazon Web Services
+unnamed-data-center-2d71f4,osm,way/1269259655,https://www.openstreetmap.org/way/1269259655,
+amazon-iad214-f0469c,osm,way/1276518679,https://www.openstreetmap.org/way/1276518679,Amazon IAD214
+aligned-iad03-c1119b,osm,way/1276518684,https://www.openstreetmap.org/way/1276518684,Aligned IAD03
+digital-realty-iad55-f0427b,osm,way/1276518687,https://www.openstreetmap.org/way/1276518687,Digital Realty IAD55
+amazon-iad608-08b536,osm,way/1280340213,https://www.openstreetmap.org/way/1280340213,Amazon IAD608
+amazon-web-services-7211e3,osm,way/1280340214,https://www.openstreetmap.org/way/1280340214,Amazon Web Services
+google-f98da4,osm,way/1287260553,https://www.openstreetmap.org/way/1287260553,Google
+amazon-web-services-0c6143,osm,way/1287260554,https://www.openstreetmap.org/way/1287260554,Amazon Web Services
+amazon-web-services-1f1be5,osm,way/1287260555,https://www.openstreetmap.org/way/1287260555,Amazon Web Services
+iron-mountain-va-4-66a57c,osm,way/1287260556,https://www.openstreetmap.org/way/1287260556,Iron Mountain VA-4
+iron-mountain-va-4-66a57c,osm,way/1287260557,https://www.openstreetmap.org/way/1287260557,Iron Mountain VA-5
+qts-manassas-dc2-f48f97,osm,way/1287260558,https://www.openstreetmap.org/way/1287260558,QTS Manassas DC2
+unnamed-data-center-a19686,osm,way/1287260559,https://www.openstreetmap.org/way/1287260559,
+42311-thunderball-dr-3f7f7a,osm,way/1292897241,https://www.openstreetmap.org/way/1292897241,42311 THUNDERBALL DR
+42255-thunderball-dr-0600b8,osm,way/1292897242,https://www.openstreetmap.org/way/1292897242,42255 THUNDERBALL DR
+42254-thunderball-dr-097103,osm,way/1292897243,https://www.openstreetmap.org/way/1292897243,42254 THUNDERBALL DR
+unnamed-data-center-ed7511,osm,way/1301654223,https://www.openstreetmap.org/way/1301654223,
+unnamed-data-center-596471,osm,way/1301654224,https://www.openstreetmap.org/way/1301654224,
+iron-mountain-va-6-2628d3,osm,way/1304357577,https://www.openstreetmap.org/way/1304357577,Iron Mountain VA-6
+unnamed-data-center-959bd2,osm,way/1307454847,https://www.openstreetmap.org/way/1307454847,
+equinix-ashburn-dc6-fbd9d9,osm,way/1309123033,https://www.openstreetmap.org/way/1309123033,Equinix Ashburn DC6
+equinix-ashburn-dc4-4ab3d9,osm,way/1309123034,https://www.openstreetmap.org/way/1309123034,Equinix Ashburn DC4
+digital-realty-northern-virginia-iad44-7a7e03,osm,way/1317733642,https://www.openstreetmap.org/way/1317733642,Digital Realty Northern Virginia IAD44
+digital-realty-northern-virginia-iad44-7a7e03,osm,way/1543296494,https://www.openstreetmap.org/way/1543296494,Digital Realty Northern Virginia IAD44
+unnamed-data-center-0c4faa,osm,way/1319637945,https://www.openstreetmap.org/way/1319637945,
+unnamed-data-center-c0bb3a,osm,way/1333205263,https://www.openstreetmap.org/way/1333205263,
+amazon-iad-165-8d2ec0,osm,way/1343764880,https://www.openstreetmap.org/way/1343764880,Amazon IAD-165
+amazon-iad-166-03573e,osm,way/1343764881,https://www.openstreetmap.org/way/1343764881,Amazon IAD-166
+amazon-iad-167-68b669,osm,way/1343764882,https://www.openstreetmap.org/way/1343764882,Amazon IAD-167
+unnamed-data-center-7884f3,osm,way/1344901567,https://www.openstreetmap.org/way/1344901567,
+unnamed-data-center-2862cb,osm,way/1344901568,https://www.openstreetmap.org/way/1344901568,
+digital-realty-iad43-building-s-67688d,osm,way/1344901569,https://www.openstreetmap.org/way/1344901569,Digital Realty IAD43 (Building S)
+vantage-va2-0e9705,osm,way/1344901575,https://www.openstreetmap.org/way/1344901575,Vantage VA2
+unnamed-data-center-6b2313,osm,way/1380114462,https://www.openstreetmap.org/way/1380114462,
+unnamed-data-center-d04cb8,osm,way/1380114463,https://www.openstreetmap.org/way/1380114463,
+cloudhq-lc4-b1ed40,osm,way/1381994242,https://www.openstreetmap.org/way/1381994242,CloudHQ LC4
+true-north-data-centers-b2a311,osm,way/1387391200,https://www.openstreetmap.org/way/1387391200,True North Data Centers
+tiktok-data-center-27e5db,osm,way/1387391201,https://www.openstreetmap.org/way/1387391201,TikTok Data Center
+amazon-iad-168-301b0c,osm,way/1426663252,https://www.openstreetmap.org/way/1426663252,Amazon IAD-168
+amazon-iad-500-04b011,osm,way/1426663253,https://www.openstreetmap.org/way/1426663253,Amazon IAD-500
+cloudhq-lc3-e41748,osm,way/1443187163,https://www.openstreetmap.org/way/1443187163,CloudHQ LC3
+unnamed-data-center-a2ebb6,osm,way/1443922527,https://www.openstreetmap.org/way/1443922527,
+unnamed-data-center-e224f3,osm,way/1443922528,https://www.openstreetmap.org/way/1443922528,
+unnamed-data-center-08ca6b,osm,way/1443922535,https://www.openstreetmap.org/way/1443922535,
+microsoft-data-center-2-c052ee,osm,way/1447029365,https://www.openstreetmap.org/way/1447029365,Microsoft Data Center 2
+powerhouse-ctp-02-895756,osm,way/1449347339,https://www.openstreetmap.org/way/1449347339,PowerHouse CTP-02
+unnamed-data-center-009ae4,osm,way/1460776170,https://www.openstreetmap.org/way/1460776170,
+unnamed-data-center-4718a6,osm,way/1460776171,https://www.openstreetmap.org/way/1460776171,
+unnamed-data-center-38fae5,osm,way/1460776174,https://www.openstreetmap.org/way/1460776174,
+google-46264b,osm,way/1464257783,https://www.openstreetmap.org/way/1464257783,Google
+unnamed-data-center-ede157,osm,way/1482076328,https://www.openstreetmap.org/way/1482076328,
+amazon-iad230-fd2583,osm,way/1482076330,https://www.openstreetmap.org/way/1482076330,Amazon IAD230
+dc6-e37484,osm,way/1493516619,https://www.openstreetmap.org/way/1493516619,DC6
+dc5-8bd7d7,osm,way/1493516620,https://www.openstreetmap.org/way/1493516620,DC5
+dc4-4ebe7a,osm,way/1493516621,https://www.openstreetmap.org/way/1493516621,DC4
+ric2-dc1-d41138,osm,way/1493516623,https://www.openstreetmap.org/way/1493516623,RIC2 DC1
+ric2-dc2-609f78,osm,way/1493516624,https://www.openstreetmap.org/way/1493516624,RIC2 DC2
+ric2-dc3-41ef8a,osm,way/1493516625,https://www.openstreetmap.org/way/1493516625,RIC2 DC3
+ric2-dc5-ba1e0c,osm,way/1493516626,https://www.openstreetmap.org/way/1493516626,RIC2 DC5
+ric2-dc6-328544,osm,way/1493516628,https://www.openstreetmap.org/way/1493516628,RIC2 DC6
+ric3-dc1-ff9d10,osm,way/1493516629,https://www.openstreetmap.org/way/1493516629,RIC3 DC1
+ric3-dc2-ad1537,osm,way/1493516630,https://www.openstreetmap.org/way/1493516630,RIC3 DC2
+ric3-dc3-21e5a5,osm,way/1493516631,https://www.openstreetmap.org/way/1493516631,RIC3 DC3
+ric3-dc5-f9c8f6,osm,way/1493516632,https://www.openstreetmap.org/way/1493516632,RIC3 DC5
+ric3-dc4-4e92de,osm,way/1493516633,https://www.openstreetmap.org/way/1493516633,RIC3 DC4
+unnamed-data-center-f99a43,osm,way/1509985717,https://www.openstreetmap.org/way/1509985717,
+unnamed-data-center-6643aa,osm,way/1510517637,https://www.openstreetmap.org/way/1510517637,
+amazon-web-services-b1fac9,osm,way/1510517638,https://www.openstreetmap.org/way/1510517638,Amazon Web Services
+amazon-web-services-b1fac9,osm,way/1510517639,https://www.openstreetmap.org/way/1510517639,Amazon Web Services
+amazon-web-services-089645,osm,way/1510517640,https://www.openstreetmap.org/way/1510517640,Amazon Web Services
+amazon-web-services-089645,osm,way/1510517641,https://www.openstreetmap.org/way/1510517641,Amazon Web Services
+amazon-web-services-9122c1,osm,way/1510517642,https://www.openstreetmap.org/way/1510517642,Amazon Web Services
+digital-realty-northern-virginia-iad40-36680b,osm,way/1518717349,https://www.openstreetmap.org/way/1518717349,Digital Realty Northern Virginia IAD40
+vantage-va14-c3ab80,osm,way/1518761569,https://www.openstreetmap.org/way/1518761569,Vantage VA14
+unnamed-data-center-591aa3,osm,way/1521913706,https://www.openstreetmap.org/way/1521913706,
+unnamed-data-center-98171a,osm,way/1521913707,https://www.openstreetmap.org/way/1521913707,
+equinix-ashburn-dc22-847493,osm,way/1522636324,https://www.openstreetmap.org/way/1522636324,Equinix Ashburn DC22
+unnamed-data-center-2722d5,osm,way/1534356804,https://www.openstreetmap.org/way/1534356804,
+unnamed-data-center-5900eb,osm,way/1534356805,https://www.openstreetmap.org/way/1534356805,
+amazon-web-services-400c5a,osm,way/1536981894,https://www.openstreetmap.org/way/1536981894,Amazon Web Services
+digital-realty-iad-44490-chilum-d887eb,osm,way/1543931282,https://www.openstreetmap.org/way/1543931282,Digital Realty ACC2
+digital-realty-iad-44490-chilum-d887eb,peeringdb,4755,https://www.peeringdb.com/fac/4755,Digital Realty IAD (44490 Chilum)
+equinix-ashburn-dc17-14eb1c,osm,way/1543931283,https://www.openstreetmap.org/way/1543931283,Equinix Ashburn DC17
+unnamed-data-center-79c5cf,osm,way/1544103415,https://www.openstreetmap.org/way/1544103415,
+unnamed-data-center-7c1154,osm,way/1544103416,https://www.openstreetmap.org/way/1544103416,
+unnamed-data-center-4ceb6a,osm,way/1544104138,https://www.openstreetmap.org/way/1544104138,
+unnamed-data-center-12c068,osm,way/1544360246,https://www.openstreetmap.org/way/1544360246,
+unnamed-data-center-e7e060,osm,way/1544360247,https://www.openstreetmap.org/way/1544360247,
+vantage-va15-c665a4,osm,way/1544360248,https://www.openstreetmap.org/way/1544360248,Vantage VA15
+qts-ashburn-2-05e22e,osm,way/1544360249,https://www.openstreetmap.org/way/1544360249,QTS Ashburn 2
+unnamed-data-center-c70669,osm,way/1544360250,https://www.openstreetmap.org/way/1544360250,
+edgecore-ashburn-as01-5baf82,osm,way/1555352690,https://www.openstreetmap.org/way/1555352690,EdgeCore Ashburn AS01
+amazon-web-services-iad128-6a7146,osm,way/1555352691,https://www.openstreetmap.org/way/1555352691,Amazon Web Services IAD128
+ntt-ashburn-va7-data-center-9b13f8,osm,way/1556781864,https://www.openstreetmap.org/way/1556781864,NTT Ashburn VA7 Data Center
+equinix-dc1-dc15-dc21-dc22-ashburn-cefbed,peeringdb,1,https://www.peeringdb.com/fac/1,"Equinix DC1-DC15,DC21-DC22 - Ashburn"
+equinix-dc8-ashburn-vienna-3238ec,peeringdb,144,https://www.peeringdb.com/fac/144,"Equinix DC8 - Ashburn, Vienna"
+flex-data-center-4b41cf,peeringdb,941,https://www.peeringdb.com/fac/941,Flex Data Center
+evoswitch-wdc1-efb511,peeringdb,1348,https://www.peeringdb.com/fac/1348,EvoSwitch WDC1
+level-3-herndon-75d3cd,peeringdb,1732,https://www.peeringdb.com/fac/1732,Level(3) Herndon
+level-3-mclean-45eda4,peeringdb,1733,https://www.peeringdb.com/fac/1733,Level(3) McLean
+edgeconnex-norfolk-edcnor01-8aac7d,peeringdb,1921,https://www.peeringdb.com/fac/1921,EdgeConneX Norfolk (EDCNOR01)
+pixel-factory-data-center-8a427d,peeringdb,2071,https://www.peeringdb.com/fac/2071,Pixel Factory Data Center
+edgeconnex-richmond-edcric01-120972,peeringdb,2075,https://www.peeringdb.com/fac/2075,EdgeConneX Richmond (EDCRIC01)
+gosnell-international-gateway-1-8100-boone-04e2c9,peeringdb,2988,https://www.peeringdb.com/fac/2988,Gosnell - International Gateway 1 (8100 Boone)
+evocative-virginia-va1-774103,peeringdb,2989,https://www.peeringdb.com/fac/2989,Evocative Virginia (VA1)
+hosted-backbone-richmond1-61936f,peeringdb,3672,https://www.peeringdb.com/fac/3672,Hosted Backbone Richmond1
+h5-data-centers-virginia-4030-c92adb,peeringdb,4747,https://www.peeringdb.com/fac/4747,H5 Data Centers Virginia (4030)
+h5-data-centers-virginia-4040-d69460,peeringdb,4748,https://www.peeringdb.com/fac/4748,H5 Data Centers Virginia (4040)
+h5-data-centers-virginia-4050-1587a1,peeringdb,4749,https://www.peeringdb.com/fac/4749,H5 Data Centers Virginia (4050)
+43915-devin-shafron-d6cc18,peeringdb,4750,https://www.peeringdb.com/fac/4750,43915 Devin Shafron
+cogent-herndon-ebdd03,peeringdb,4966,https://www.peeringdb.com/fac/4966,Cogent Herndon
+element-critical-northern-virginia-va1-62bf81,peeringdb,6273,https://www.peeringdb.com/fac/6273,Element Critical Northern Virginia VA1
+365-data-centers-herndon-va1-94ce0c,peeringdb,6338,https://www.peeringdb.com/fac/6338,365 Data Centers Herndon (VA1)
+iron-mountain-data-center-manassas-va-2-86e007,peeringdb,6344,https://www.peeringdb.com/fac/6344,Iron Mountain Data Center - Manassas (VA-2)
+ati-solutions-9f6945,peeringdb,6453,https://www.peeringdb.com/fac/6453,ATI Solutions
+ragingwire-va3-ntt-7790f2,peeringdb,6555,https://www.peeringdb.com/fac/6555,RagingWire VA3 - NTT
+lumen-norfolk-8593d0,peeringdb,7047,https://www.peeringdb.com/fac/7047,Lumen Norfolk
+globalinx-virginia-beach-cls-407231,peeringdb,7073,https://www.peeringdb.com/fac/7073,Globalinx Virginia Beach CLS
+qts-manassas-man1-66b6ec,peeringdb,7874,https://www.peeringdb.com/fac/7874,QTS Manassas (MAN1)
+phoenixnap-ashburn-6afffb,peeringdb,8340,https://www.peeringdb.com/fac/8340,PhoenixNAP ASHBURN
+mindshift-ashburn-447c65,peeringdb,8780,https://www.peeringdb.com/fac/8780,mindSHIFT Ashburn
+qts-ashburn-ash3-4ffa27,peeringdb,9415,https://www.peeringdb.com/fac/9415,QTS Ashburn (ASH3)
+4120-lafayette-center-drive-7f2514,peeringdb,9856,https://www.peeringdb.com/fac/9856,4120 Lafayette Center Drive
+databank-mclean-iad2-90c41e,peeringdb,10915,https://www.peeringdb.com/fac/10915,DataBank McLean (IAD2)
+cologix-ash1-8632f9,peeringdb,11651,https://www.peeringdb.com/fac/11651,Cologix ASH1
+edgecore-va1-623e85,peeringdb,13479,https://www.peeringdb.com/fac/13479,EdgeCore VA1
+edgecore-va2-c43d8a,peeringdb,13480,https://www.peeringdb.com/fac/13480,EdgeCore VA2
+rc-solutions-c4d2ba,peeringdb,14869,https://www.peeringdb.com/fac/14869,RC Solutions
+rc-facility-e5799b,peeringdb,14952,https://www.peeringdb.com/fac/14952,RC-Facility
+qts-richmond-ric5-9d0ad7,peeringdb,16565,https://www.peeringdb.com/fac/16565,QTS Richmond - (RIC5)
+dupont-fabros-tech-ashburn-corp-ctr-64ce73,epa_nei,15410111,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15410111,DuPont Fabros Tech - Ashburn Corp Ctr
+microsoft-corporation-east-coast-data-center-237d2d,epa_nei,17626111,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=17626111,Microsoft Corporation - East Coast Data Center

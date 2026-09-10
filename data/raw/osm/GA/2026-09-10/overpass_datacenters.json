@@ -1,0 +1,3086 @@
+{
+ "elements": [
+  {
+   "id": 4879481820,
+   "lat": 33.7715677,
+   "lon": -84.3668585,
+   "tags": {
+    "building": "yes",
+    "name": "Google Fiber",
+    "operator": "Google",
+    "operator:wikidata": "Q95",
+    "operator:wikipedia": "en:Google",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 8109664813,
+   "lat": 33.7555186,
+   "lon": -84.3914814,
+   "tags": {
+    "addr:city": "Atlanta",
+    "addr:housenumber": "56",
+    "addr:postcode": "30303",
+    "addr:state": "GA",
+    "addr:street": "Marietta Street",
+    "name": "Atlanta ATL13",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "ATL13",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/atlanta/atl13"
+   },
+   "type": "node"
+  },
+  {
+   "id": 12331366645,
+   "lat": 33.7559857,
+   "lon": -84.3911712,
+   "tags": {
+    "addr:city": "Atlanta",
+    "addr:housenumber": "55",
+    "addr:postcode": "30303",
+    "addr:state": "GA",
+    "addr:street": "Marietta Street",
+    "name": "CoreSite AT1",
+    "operator": "CoreSite",
+    "operator:wikidata": "Q5170140",
+    "ref": "AT1",
+    "telecom": "data_center",
+    "website": "https://www.coresite.com/data-center/at1-atlanta-ga"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0840445,
+    "maxlon": -84.2648716,
+    "minlat": 34.0800711,
+    "minlon": -84.2697126
+   },
+   "geometry": [
+    {
+     "lat": 34.0821551,
+     "lon": -84.265498
+    },
+    {
+     "lat": 34.0800711,
+     "lon": -84.2664059
+    },
+    {
+     "lat": 34.0810411,
+     "lon": -84.2692375
+    },
+    {
+     "lat": 34.082063,
+     "lon": -84.2688944
+    },
+    {
+     "lat": 34.0821951,
+     "lon": -84.26885
+    },
+    {
+     "lat": 34.0824757,
+     "lon": -84.2697126
+    },
+    {
+     "lat": 34.0840445,
+     "lon": -84.269271
+    },
+    {
+     "lat": 34.0837975,
+     "lon": -84.267601
+    },
+    {
+     "lat": 34.0833121,
+     "lon": -84.2656506
+    },
+    {
+     "lat": 34.0831259,
+     "lon": -84.2648716
+    },
+    {
+     "lat": 34.0830498,
+     "lon": -84.2650375
+    },
+    {
+     "lat": 34.0821551,
+     "lon": -84.265498
+    }
+   ],
+   "id": 34770750,
+   "tags": {
+    "landuse": "industrial",
+    "name": "Hewlett-Packard",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0955108,
+    "maxlon": -84.2349347,
+    "minlat": 34.0941143,
+    "minlon": -84.2365142
+   },
+   "geometry": [
+    {
+     "lat": 34.0941143,
+     "lon": -84.2357738
+    },
+    {
+     "lat": 34.0945759,
+     "lon": -84.2365142
+    },
+    {
+     "lat": 34.0955108,
+     "lon": -84.2356907
+    },
+    {
+     "lat": 34.0954376,
+     "lon": -84.2355723
+    },
+    {
+     "lat": 34.0950434,
+     "lon": -84.2349347
+    },
+    {
+     "lat": 34.0949376,
+     "lon": -84.2350302
+    },
+    {
+     "lat": 34.0947872,
+     "lon": -84.235166
+    },
+    {
+     "lat": 34.0946706,
+     "lon": -84.2350224
+    },
+    {
+     "lat": 34.0945984,
+     "lon": -84.2350747
+    },
+    {
+     "lat": 34.0944398,
+     "lon": -84.2353316
+    },
+    {
+     "lat": 34.0943533,
+     "lon": -84.2354056
+    },
+    {
+     "lat": 34.0944177,
+     "lon": -84.2354998
+    },
+    {
+     "lat": 34.0941143,
+     "lon": -84.2357738
+    }
+   ],
+   "id": 39083541,
+   "tags": {
+    "addr:city": "Alpharetta",
+    "addr:housenumber": "1650",
+    "addr:postcode": "30005",
+    "addr:state": "GA",
+    "addr:street": "Union Hill Road",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Strategic Datasphere",
+    "telecom": "data_center",
+    "wheelchair": "yes"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0873135,
+    "maxlon": -84.2510167,
+    "minlat": 34.0866593,
+    "minlon": -84.2526201
+   },
+   "geometry": [
+    {
+     "lat": 34.0872126,
+     "lon": -84.2526201
+    },
+    {
+     "lat": 34.0872261,
+     "lon": -84.2524198
+    },
+    {
+     "lat": 34.0872672,
+     "lon": -84.2524238
+    },
+    {
+     "lat": 34.087282,
+     "lon": -84.2522045
+    },
+    {
+     "lat": 34.0872404,
+     "lon": -84.2522004
+    },
+    {
+     "lat": 34.0872669,
+     "lon": -84.251809
+    },
+    {
+     "lat": 34.0872804,
+     "lon": -84.2518103
+    },
+    {
+     "lat": 34.0873135,
+     "lon": -84.2513198
+    },
+    {
+     "lat": 34.0870611,
+     "lon": -84.251295
+    },
+    {
+     "lat": 34.0870776,
+     "lon": -84.2510516
+    },
+    {
+     "lat": 34.0867233,
+     "lon": -84.2510167
+    },
+    {
+     "lat": 34.0866593,
+     "lon": -84.2519642
+    },
+    {
+     "lat": 34.086922,
+     "lon": -84.25199
+    },
+    {
+     "lat": 34.0869163,
+     "lon": -84.2520742
+    },
+    {
+     "lat": 34.0869766,
+     "lon": -84.2520802
+    },
+    {
+     "lat": 34.0869419,
+     "lon": -84.2525933
+    },
+    {
+     "lat": 34.0872126,
+     "lon": -84.2526201
+    }
+   ],
+   "id": 39083797,
+   "tags": {
+    "addr:city": "Alpharetta",
+    "addr:housenumber": "12655",
+    "addr:postcode": "30022",
+    "addr:state": "GA",
+    "addr:street": "Edison Drive",
+    "building": "industrial",
+    "name": "Flexential Atlanta - Alpharetta Data Center",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/ga/atlanta/alpharetta-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0945103,
+    "maxlon": -84.2497207,
+    "minlat": 34.0929106,
+    "minlon": -84.2520289
+   },
+   "geometry": [
+    {
+     "lat": 34.0938457,
+     "lon": -84.2520289
+    },
+    {
+     "lat": 34.0945103,
+     "lon": -84.2515272
+    },
+    {
+     "lat": 34.0935755,
+     "lon": -84.2497207
+    },
+    {
+     "lat": 34.0929106,
+     "lon": -84.2502225
+    },
+    {
+     "lat": 34.0936873,
+     "lon": -84.251723
+    },
+    {
+     "lat": 34.0938457,
+     "lon": -84.2520289
+    }
+   ],
+   "id": 39083830,
+   "tags": {
+    "building": "yes",
+    "name": "Secure Data Center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0367203,
+    "maxlon": -84.3187669,
+    "minlat": 34.0357933,
+    "minlon": -84.3202573
+   },
+   "geometry": [
+    {
+     "lat": 34.0357933,
+     "lon": -84.3187769
+    },
+    {
+     "lat": 34.0358084,
+     "lon": -84.3202573
+    },
+    {
+     "lat": 34.036483,
+     "lon": -84.3202472
+    },
+    {
+     "lat": 34.036482,
+     "lon": -84.3201479
+    },
+    {
+     "lat": 34.0367203,
+     "lon": -84.3201443
+    },
+    {
+     "lat": 34.0367134,
+     "lon": -84.3194695
+    },
+    {
+     "lat": 34.0364751,
+     "lon": -84.319473
+    },
+    {
+     "lat": 34.0364679,
+     "lon": -84.3187669
+    },
+    {
+     "lat": 34.0357933,
+     "lon": -84.3187769
+    }
+   ],
+   "id": 269166415,
+   "tags": {
+    "building": "yes",
+    "name": "Cox Data Center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.7794989,
+    "maxlon": -84.4201134,
+    "minlat": 33.7758806,
+    "minlon": -84.4221954
+   },
+   "geometry": [
+    {
+     "lat": 33.7794943,
+     "lon": -84.4203358
+    },
+    {
+     "lat": 33.7794207,
+     "lon": -84.4203361
+    },
+    {
+     "lat": 33.7794203,
+     "lon": -84.4201879
+    },
+    {
+     "lat": 33.7769739,
+     "lon": -84.4201985
+    },
+    {
+     "lat": 33.7769737,
+     "lon": -84.4201188
+    },
+    {
+     "lat": 33.7769122,
+     "lon": -84.4201191
+    },
+    {
+     "lat": 33.7769124,
+     "lon": -84.4201775
+    },
+    {
+     "lat": 33.7760938,
+     "lon": -84.420181
+    },
+    {
+     "lat": 33.7760936,
+     "lon": -84.4201134
+    },
+    {
+     "lat": 33.7759499,
+     "lon": -84.420114
+    },
+    {
+     "lat": 33.7759501,
+     "lon": -84.420186
+    },
+    {
+     "lat": 33.7759004,
+     "lon": -84.4201862
+    },
+    {
+     "lat": 33.7759007,
+     "lon": -84.4203084
+    },
+    {
+     "lat": 33.7758806,
+     "lon": -84.4203085
+    },
+    {
+     "lat": 33.775881,
+     "lon": -84.4204167
+    },
+    {
+     "lat": 33.775902,
+     "lon": -84.4204166
+    },
+    {
+     "lat": 33.7759029,
+     "lon": -84.4207101
+    },
+    {
+     "lat": 33.7759476,
+     "lon": -84.4207099
+    },
+    {
+     "lat": 33.7759503,
+     "lon": -84.421592
+    },
+    {
+     "lat": 33.7758838,
+     "lon": -84.4215923
+    },
+    {
+     "lat": 33.7758844,
+     "lon": -84.4217688
+    },
+    {
+     "lat": 33.7759083,
+     "lon": -84.4217687
+    },
+    {
+     "lat": 33.7759085,
+     "lon": -84.4218525
+    },
+    {
+     "lat": 33.7759512,
+     "lon": -84.4218523
+    },
+    {
+     "lat": 33.7759519,
+     "lon": -84.4221018
+    },
+    {
+     "lat": 33.7769199,
+     "lon": -84.4220977
+    },
+    {
+     "lat": 33.7769197,
+     "lon": -84.4220305
+    },
+    {
+     "lat": 33.7770043,
+     "lon": -84.4220291
+    },
+    {
+     "lat": 33.7770046,
+     "lon": -84.4220363
+    },
+    {
+     "lat": 33.7770251,
+     "lon": -84.4220355
+    },
+    {
+     "lat": 33.7770243,
+     "lon": -84.4221951
+    },
+    {
+     "lat": 33.7770556,
+     "lon": -84.4221954
+    },
+    {
+     "lat": 33.7770563,
+     "lon": -84.4221311
+    },
+    {
+     "lat": 33.7770669,
+     "lon": -84.4220652
+    },
+    {
+     "lat": 33.7770668,
+     "lon": -84.4220342
+    },
+    {
+     "lat": 33.7770754,
+     "lon": -84.4220342
+    },
+    {
+     "lat": 33.7770752,
+     "lon": -84.4219637
+    },
+    {
+     "lat": 33.777066,
+     "lon": -84.4219638
+    },
+    {
+     "lat": 33.7770655,
+     "lon": -84.4218279
+    },
+    {
+     "lat": 33.7772697,
+     "lon": -84.421827
+    },
+    {
+     "lat": 33.7772702,
+     "lon": -84.4219938
+    },
+    {
+     "lat": 33.7794278,
+     "lon": -84.4219845
+    },
+    {
+     "lat": 33.7794275,
+     "lon": -84.4218773
+    },
+    {
+     "lat": 33.7794989,
+     "lon": -84.421877
+    },
+    {
+     "lat": 33.7794943,
+     "lon": -84.4203358
+    }
+   ],
+   "id": 269847438,
+   "tags": {
+    "addr:city": "Atlanta",
+    "addr:housenumber": "1033",
+    "addr:postcode": "30318",
+    "addr:state": "GA",
+    "addr:street": "Jefferson Street Northwest",
+    "building": "yes",
+    "name": "QTS Atlanta Data Center 1",
+    "note": "former Sears-Roebuck building",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "operator:wikipedia": "en:Quality Technology Services",
+    "telecom": "data_center",
+    "website": "https://www.qtsdatacenters.com/data-centers/atlanta"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.657652,
+    "maxlon": -84.4142553,
+    "minlat": 33.6563669,
+    "minlon": -84.4161838
+   },
+   "geometry": [
+    {
+     "lat": 33.657652,
+     "lon": -84.4158382
+    },
+    {
+     "lat": 33.657543,
+     "lon": -84.4156321
+    },
+    {
+     "lat": 33.6576306,
+     "lon": -84.415566
+    },
+    {
+     "lat": 33.6575922,
+     "lon": -84.4154934
+    },
+    {
+     "lat": 33.6575684,
+     "lon": -84.4155114
+    },
+    {
+     "lat": 33.657527,
+     "lon": -84.4154331
+    },
+    {
+     "lat": 33.657542,
+     "lon": -84.4154218
+    },
+    {
+     "lat": 33.6570453,
+     "lon": -84.414482
+    },
+    {
+     "lat": 33.6570612,
+     "lon": -84.41447
+    },
+    {
+     "lat": 33.6570233,
+     "lon": -84.4143985
+    },
+    {
+     "lat": 33.6569365,
+     "lon": -84.4144641
+    },
+    {
+     "lat": 33.6568262,
+     "lon": -84.4142553
+    },
+    {
+     "lat": 33.6566243,
+     "lon": -84.4144078
+    },
+    {
+     "lat": 33.6566105,
+     "lon": -84.4143816
+    },
+    {
+     "lat": 33.6565473,
+     "lon": -84.4144293
+    },
+    {
+     "lat": 33.6565604,
+     "lon": -84.4144539
+    },
+    {
+     "lat": 33.6563669,
+     "lon": -84.4146002
+    },
+    {
+     "lat": 33.6564437,
+     "lon": -84.4147454
+    },
+    {
+     "lat": 33.656421,
+     "lon": -84.4147625
+    },
+    {
+     "lat": 33.6564575,
+     "lon": -84.4148315
+    },
+    {
+     "lat": 33.6564787,
+     "lon": -84.4148156
+    },
+    {
+     "lat": 33.656736,
+     "lon": -84.4153024
+    },
+    {
+     "lat": 33.6566557,
+     "lon": -84.4153631
+    },
+    {
+     "lat": 33.6567468,
+     "lon": -84.4155355
+    },
+    {
+     "lat": 33.6568212,
+     "lon": -84.4154793
+    },
+    {
+     "lat": 33.6570765,
+     "lon": -84.4159623
+    },
+    {
+     "lat": 33.6570545,
+     "lon": -84.4159789
+    },
+    {
+     "lat": 33.6570927,
+     "lon": -84.4160512
+    },
+    {
+     "lat": 33.6571099,
+     "lon": -84.4160382
+    },
+    {
+     "lat": 33.6571869,
+     "lon": -84.4161838
+    },
+    {
+     "lat": 33.6573796,
+     "lon": -84.4160381
+    },
+    {
+     "lat": 33.6573936,
+     "lon": -84.4160645
+    },
+    {
+     "lat": 33.6574625,
+     "lon": -84.4160124
+    },
+    {
+     "lat": 33.6574508,
+     "lon": -84.4159902
+    },
+    {
+     "lat": 33.657652,
+     "lon": -84.4158382
+    }
+   ],
+   "id": 278560778,
+   "tags": {
+    "addr:city": "Atlanta",
+    "addr:housenumber": "760",
+    "addr:postcode": "30354",
+    "addr:street": "Doug Davis Drive",
+    "building": "yes",
+    "name": "Digital Realty Data Center",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "operator:wikipedia": "en:Digital Realty",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.9260471,
+    "maxlon": -84.4812674,
+    "minlat": 33.9249819,
+    "minlon": -84.4820002
+   },
+   "geometry": [
+    {
+     "lat": 33.9254374,
+     "lon": -84.4819732
+    },
+    {
+     "lat": 33.925437,
+     "lon": -84.4819457
+    },
+    {
+     "lat": 33.9249913,
+     "lon": -84.4819548
+    },
+    {
+     "lat": 33.9249819,
+     "lon": -84.4812878
+    },
+    {
+     "lat": 33.9259818,
+     "lon": -84.4812674
+    },
+    {
+     "lat": 33.925984,
+     "lon": -84.4814203
+    },
+    {
+     "lat": 33.9260458,
+     "lon": -84.481419
+    },
+    {
+     "lat": 33.9260471,
+     "lon": -84.4815064
+    },
+    {
+     "lat": 33.9259838,
+     "lon": -84.4815077
+    },
+    {
+     "lat": 33.9259898,
+     "lon": -84.4819353
+    },
+    {
+     "lat": 33.9255544,
+     "lon": -84.4819442
+    },
+    {
+     "lat": 33.9255548,
+     "lon": -84.481972
+    },
+    {
+     "lat": 33.9255368,
+     "lon": -84.4819878
+    },
+    {
+     "lat": 33.9255131,
+     "lon": -84.4819983
+    },
+    {
+     "lat": 33.9254896,
+     "lon": -84.4820002
+    },
+    {
+     "lat": 33.9254641,
+     "lon": -84.481993
+    },
+    {
+     "lat": 33.9254374,
+     "lon": -84.4819732
+    }
+   ],
+   "id": 284044002,
+   "tags": {
+    "addr:housenumber": "1130",
+    "addr:street": "Powers Ferry Place Southeast",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "CoreSite AT2 - Marietta Data Center",
+    "operator": "CoreSite",
+    "ref": "Atlanta",
+    "telecom": "data_center",
+    "website": "https://www.coresite.com/data-center/at2-atlanta-ga"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0364112,
+    "maxlon": -84.0593291,
+    "minlat": 34.0343799,
+    "minlon": -84.0628822
+   },
+   "geometry": [
+    {
+     "lat": 34.0364112,
+     "lon": -84.0598289
+    },
+    {
+     "lat": 34.0356791,
+     "lon": -84.0593291
+    },
+    {
+     "lat": 34.0348656,
+     "lon": -84.0610646
+    },
+    {
+     "lat": 34.0349822,
+     "lon": -84.0611443
+    },
+    {
+     "lat": 34.0343799,
+     "lon": -84.0624291
+    },
+    {
+     "lat": 34.0350438,
+     "lon": -84.0628822
+    },
+    {
+     "lat": 34.0355147,
+     "lon": -84.0618777
+    },
+    {
+     "lat": 34.0354896,
+     "lon": -84.0618605
+    },
+    {
+     "lat": 34.0359615,
+     "lon": -84.0608539
+    },
+    {
+     "lat": 34.0359381,
+     "lon": -84.0608379
+    },
+    {
+     "lat": 34.0364112,
+     "lon": -84.0598289
+    }
+   ],
+   "id": 387378765,
+   "tags": {
+    "addr:housenumber": "300",
+    "addr:street": "Satellite Boulevard Northwest",
+    "building": "yes",
+    "name": "QTS Suwanee Data Center 1",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0381423,
+    "maxlon": -84.0560216,
+    "minlat": 34.035982,
+    "minlon": -84.05937
+   },
+   "geometry": [
+    {
+     "lat": 34.0373198,
+     "lon": -84.0560216
+    },
+    {
+     "lat": 34.035982,
+     "lon": -84.0587795
+    },
+    {
+     "lat": 34.0368179,
+     "lon": -84.05937
+    },
+    {
+     "lat": 34.037291,
+     "lon": -84.0583946
+    },
+    {
+     "lat": 34.0373975,
+     "lon": -84.0584699
+    },
+    {
+     "lat": 34.0379486,
+     "lon": -84.0573337
+    },
+    {
+     "lat": 34.0379306,
+     "lon": -84.057321
+    },
+    {
+     "lat": 34.0380105,
+     "lon": -84.0571563
+    },
+    {
+     "lat": 34.0379086,
+     "lon": -84.0570843
+    },
+    {
+     "lat": 34.0381423,
+     "lon": -84.0566026
+    },
+    {
+     "lat": 34.0373198,
+     "lon": -84.0560216
+    }
+   ],
+   "id": 387379196,
+   "tags": {
+    "addr:housenumber": "120",
+    "addr:street": "Satellite Boulevard Northwest",
+    "building": "yes",
+    "name": "QTS Suwanee Data Center 2",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.9550712,
+    "maxlon": -84.198126,
+    "minlat": 33.9544079,
+    "minlon": -84.1989231
+   },
+   "geometry": [
+    {
+     "lat": 33.9548592,
+     "lon": -84.1989135
+    },
+    {
+     "lat": 33.9550712,
+     "lon": -84.1986053
+    },
+    {
+     "lat": 33.9550474,
+     "lon": -84.1985815
+    },
+    {
+     "lat": 33.9550674,
+     "lon": -84.1985525
+    },
+    {
+     "lat": 33.9550429,
+     "lon": -84.198528
+    },
+    {
+     "lat": 33.9550627,
+     "lon": -84.1984991
+    },
+    {
+     "lat": 33.9550356,
+     "lon": -84.1984719
+    },
+    {
+     "lat": 33.9550569,
+     "lon": -84.198441
+    },
+    {
+     "lat": 33.9547417,
+     "lon": -84.198126
+    },
+    {
+     "lat": 33.9546451,
+     "lon": -84.1982663
+    },
+    {
+     "lat": 33.9546795,
+     "lon": -84.1983006
+    },
+    {
+     "lat": 33.9545408,
+     "lon": -84.1985023
+    },
+    {
+     "lat": 33.9545065,
+     "lon": -84.198468
+    },
+    {
+     "lat": 33.9544079,
+     "lon": -84.1986113
+    },
+    {
+     "lat": 33.9547199,
+     "lon": -84.1989231
+    },
+    {
+     "lat": 33.9547408,
+     "lon": -84.1988927
+    },
+    {
+     "lat": 33.9547667,
+     "lon": -84.1989186
+    },
+    {
+     "lat": 33.9547872,
+     "lon": -84.1988887
+    },
+    {
+     "lat": 33.9548122,
+     "lon": -84.1989137
+    },
+    {
+     "lat": 33.9548314,
+     "lon": -84.1988858
+    },
+    {
+     "lat": 33.9548592,
+     "lon": -84.1989135
+    }
+   ],
+   "id": 392324240,
+   "tags": {
+    "addr:city": "Norcross",
+    "addr:housenumber": "2775",
+    "addr:postcode": "30071",
+    "addr:state": "GA",
+    "addr:street": "Northwoods Parkway",
+    "building": "yes",
+    "name": "Flexential Atlanta - Norcross",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/ga/atlanta/norcross-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.7653816,
+    "maxlon": -84.3835126,
+    "minlat": 33.7648972,
+    "minlon": -84.3839661
+   },
+   "geometry": [
+    {
+     "lat": 33.7653756,
+     "lon": -84.3835126
+    },
+    {
+     "lat": 33.7653816,
+     "lon": -84.3839574
+    },
+    {
+     "lat": 33.7649346,
+     "lon": -84.3839661
+    },
+    {
+     "lat": 33.7649327,
+     "lon": -84.3838236
+    },
+    {
+     "lat": 33.7649013,
+     "lon": -84.3838243
+    },
+    {
+     "lat": 33.7648972,
+     "lon": -84.3835219
+    },
+    {
+     "lat": 33.7653756,
+     "lon": -84.3835126
+    }
+   ],
+   "id": 536784688,
+   "tags": {
+    "brand": "CenturyLink",
+    "brand:wikidata": "Q110391616",
+    "building": "yes",
+    "name": "CenturyLink",
+    "ref": "CenturyLink",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0708763,
+    "maxlon": -84.6756558,
+    "minlat": 34.0705245,
+    "minlon": -84.6761505
+   },
+   "geometry": [
+    {
+     "lat": 34.070874,
+     "lon": -84.6761505
+    },
+    {
+     "lat": 34.0705245,
+     "lon": -84.6761481
+    },
+    {
+     "lat": 34.0705288,
+     "lon": -84.6756999
+    },
+    {
+     "lat": 34.0705371,
+     "lon": -84.6757002
+    },
+    {
+     "lat": 34.0706006,
+     "lon": -84.6757027
+    },
+    {
+     "lat": 34.0705996,
+     "lon": -84.6756558
+    },
+    {
+     "lat": 34.0708763,
+     "lon": -84.6756577
+    },
+    {
+     "lat": 34.070874,
+     "lon": -84.6761505
+    }
+   ],
+   "id": 545704217,
+   "tags": {
+    "addr:city": "Acworth",
+    "addr:housenumber": "4745",
+    "addr:state": "GA",
+    "addr:street": "Logan Road",
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.7538977,
+    "maxlon": -84.5826781,
+    "minlat": 33.7469957,
+    "minlon": -84.5886852
+   },
+   "geometry": [
+    {
+     "lat": 33.752623,
+     "lon": -84.5886852
+    },
+    {
+     "lat": 33.7530324,
+     "lon": -84.5882437
+    },
+    {
+     "lat": 33.7533781,
+     "lon": -84.587718
+    },
+    {
+     "lat": 33.7538977,
+     "lon": -84.5860469
+    },
+    {
+     "lat": 33.751875,
+     "lon": -84.5834613
+    },
+    {
+     "lat": 33.7513286,
+     "lon": -84.5830482
+    },
+    {
+     "lat": 33.7489334,
+     "lon": -84.5827746
+    },
+    {
+     "lat": 33.7480502,
+     "lon": -84.5826781
+    },
+    {
+     "lat": 33.7473232,
+     "lon": -84.5826995
+    },
+    {
+     "lat": 33.7469974,
+     "lon": -84.583118
+    },
+    {
+     "lat": 33.7469957,
+     "lon": -84.5842432
+    },
+    {
+     "lat": 33.7477184,
+     "lon": -84.5851522
+    },
+    {
+     "lat": 33.7511162,
+     "lon": -84.5876589
+    },
+    {
+     "lat": 33.7520852,
+     "lon": -84.5883096
+    },
+    {
+     "lat": 33.7523158,
+     "lon": -84.5884644
+    },
+    {
+     "lat": 33.752623,
+     "lon": -84.5886852
+    }
+   ],
+   "id": 578435601,
+   "tags": {
+    "landuse": "industrial",
+    "name": "Google Datacenter - Douglas County",
+    "operator": "Google",
+    "operator:wikidata": "Q95",
+    "start_date": "2003",
+    "telecom": "data_center",
+    "website": "https://www.google.com/about/datacenters/locations/douglas-county/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0973843,
+    "maxlon": -84.2366147,
+    "minlat": 34.0960317,
+    "minlon": -84.2383436
+   },
+   "geometry": [
+    {
+     "lat": 34.0964402,
+     "lon": -84.2383151
+    },
+    {
+     "lat": 34.0964104,
+     "lon": -84.2382915
+    },
+    {
+     "lat": 34.0963831,
+     "lon": -84.2383366
+    },
+    {
+     "lat": 34.0963234,
+     "lon": -84.2383436
+    },
+    {
+     "lat": 34.0962687,
+     "lon": -84.2383353
+    },
+    {
+     "lat": 34.0962166,
+     "lon": -84.2383162
+    },
+    {
+     "lat": 34.0961646,
+     "lon": -84.2382847
+    },
+    {
+     "lat": 34.0961176,
+     "lon": -84.2382409
+    },
+    {
+     "lat": 34.0960808,
+     "lon": -84.2381848
+    },
+    {
+     "lat": 34.0960504,
+     "lon": -84.2381241
+    },
+    {
+     "lat": 34.0960327,
+     "lon": -84.238051
+    },
+    {
+     "lat": 34.0960574,
+     "lon": -84.238012
+    },
+    {
+     "lat": 34.0960317,
+     "lon": -84.2379916
+    },
+    {
+     "lat": 34.096159,
+     "lon": -84.2377572
+    },
+    {
+     "lat": 34.0962611,
+     "lon": -84.237838
+    },
+    {
+     "lat": 34.096371,
+     "lon": -84.2376354
+    },
+    {
+     "lat": 34.096057,
+     "lon": -84.2373868
+    },
+    {
+     "lat": 34.096462,
+     "lon": -84.2366407
+    },
+    {
+     "lat": 34.096665,
+     "lon": -84.2368013
+    },
+    {
+     "lat": 34.0967663,
+     "lon": -84.2366147
+    },
+    {
+     "lat": 34.0969696,
+     "lon": -84.2367757
+    },
+    {
+     "lat": 34.0969481,
+     "lon": -84.2368153
+    },
+    {
+     "lat": 34.0970837,
+     "lon": -84.2369228
+    },
+    {
+     "lat": 34.0970738,
+     "lon": -84.2369411
+    },
+    {
+     "lat": 34.0971699,
+     "lon": -84.2370173
+    },
+    {
+     "lat": 34.097148,
+     "lon": -84.2370577
+    },
+    {
+     "lat": 34.0973181,
+     "lon": -84.2371925
+    },
+    {
+     "lat": 34.0972712,
+     "lon": -84.2372865
+    },
+    {
+     "lat": 34.0973843,
+     "lon": -84.2373252
+    },
+    {
+     "lat": 34.0972728,
+     "lon": -84.2375411
+    },
+    {
+     "lat": 34.0971819,
+     "lon": -84.2374688
+    },
+    {
+     "lat": 34.0972656,
+     "lon": -84.2373069
+    },
+    {
+     "lat": 34.097185,
+     "lon": -84.2372383
+    },
+    {
+     "lat": 34.0970491,
+     "lon": -84.2374889
+    },
+    {
+     "lat": 34.0968712,
+     "lon": -84.2373492
+    },
+    {
+     "lat": 34.0965999,
+     "lon": -84.2378487
+    },
+    {
+     "lat": 34.0965624,
+     "lon": -84.237819
+    },
+    {
+     "lat": 34.0964687,
+     "lon": -84.2379916
+    },
+    {
+     "lat": 34.0965716,
+     "lon": -84.2380731
+    },
+    {
+     "lat": 34.0964402,
+     "lon": -84.2383151
+    }
+   ],
+   "id": 615593145,
+   "tags": {
+    "addr:city": "Alpharetta",
+    "addr:housenumber": "1001",
+    "addr:postcode": "30005",
+    "addr:state": "GA",
+    "addr:street": "Windward Concourse",
+    "building": "commercial",
+    "name": "Mapletree Industrial",
+    "telecom": "data_center",
+    "website": "https://www.mapletreeindustrialtrust.com/property/1001-windward-concourse-alpharetta/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0583938,
+    "maxlon": -84.2713742,
+    "minlat": 34.0557905,
+    "minlon": -84.2746317
+   },
+   "geometry": [
+    {
+     "lat": 34.0583271,
+     "lon": -84.2741503
+    },
+    {
+     "lat": 34.0583938,
+     "lon": -84.2738941
+    },
+    {
+     "lat": 34.0576327,
+     "lon": -84.2714426
+    },
+    {
+     "lat": 34.057465,
+     "lon": -84.2713742
+    },
+    {
+     "lat": 34.0560005,
+     "lon": -84.2719723
+    },
+    {
+     "lat": 34.055875,
+     "lon": -84.2725477
+    },
+    {
+     "lat": 34.0557905,
+     "lon": -84.273001
+    },
+    {
+     "lat": 34.0558261,
+     "lon": -84.2731056
+    },
+    {
+     "lat": 34.0562928,
+     "lon": -84.2731833
+    },
+    {
+     "lat": 34.0563683,
+     "lon": -84.2733175
+    },
+    {
+     "lat": 34.0563839,
+     "lon": -84.2737332
+    },
+    {
+     "lat": 34.0565639,
+     "lon": -84.2738459
+    },
+    {
+     "lat": 34.0567128,
+     "lon": -84.2745164
+    },
+    {
+     "lat": 34.056955,
+     "lon": -84.2746317
+    },
+    {
+     "lat": 34.0571305,
+     "lon": -84.2746183
+    },
+    {
+     "lat": 34.0572883,
+     "lon": -84.2745915
+    },
+    {
+     "lat": 34.0583271,
+     "lon": -84.2741503
+    }
+   ],
+   "id": 635022480,
+   "tags": {
+    "landuse": "industrial",
+    "name": "Ascent - Atlanta Data Center",
+    "operator": "Ascent",
+    "telecom": "data_center",
+    "website": "https://www.ascentcorp.com/DataCenters/AtlantaDataCenter-ATL1.aspx"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.7452955,
+    "maxlon": -84.5802899,
+    "minlat": 33.7431548,
+    "minlon": -84.5821255
+   },
+   "geometry": [
+    {
+     "lat": 33.7452955,
+     "lon": -84.5813836
+    },
+    {
+     "lat": 33.7449836,
+     "lon": -84.5802899
+    },
+    {
+     "lat": 33.7431548,
+     "lon": -84.5810443
+    },
+    {
+     "lat": 33.7434632,
+     "lon": -84.5821255
+    },
+    {
+     "lat": 33.7446406,
+     "lon": -84.5816397
+    },
+    {
+     "lat": 33.7446638,
+     "lon": -84.5817209
+    },
+    {
+     "lat": 33.7449827,
+     "lon": -84.5815893
+    },
+    {
+     "lat": 33.7449631,
+     "lon": -84.5815207
+    },
+    {
+     "lat": 33.7452955,
+     "lon": -84.5813836
+    }
+   ],
+   "id": 713410334,
+   "tags": {
+    "addr:city": "Lithia Springs",
+    "addr:housenumber": "375",
+    "addr:postcode": "30122",
+    "addr:state": "GA",
+    "addr:street": "Riverside Parkway",
+    "addr:unit": "Suite 150",
+    "building": "yes",
+    "name": "Centersquare Atlanta ATL1",
+    "operator": "Centersquare",
+    "operator:wikidata": "Q127304226",
+    "phone": "+1-855-699-8372",
+    "ref": "ATL1",
+    "telecom": "data_center",
+    "website": "https://centersquaredc.com/hubfs/CenterSquare/docs/Centersquare-ATL-SpecSheet.pdf"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0761847,
+    "maxlon": -84.2634115,
+    "minlat": 34.0753984,
+    "minlon": -84.2651225
+   },
+   "geometry": [
+    {
+     "lat": 34.0759453,
+     "lon": -84.2651225
+    },
+    {
+     "lat": 34.0753984,
+     "lon": -84.2650024
+    },
+    {
+     "lat": 34.0756381,
+     "lon": -84.2634115
+    },
+    {
+     "lat": 34.0761847,
+     "lon": -84.2635315
+    },
+    {
+     "lat": 34.0759453,
+     "lon": -84.2651225
+    }
+   ],
+   "id": 891031651,
+   "tags": {
+    "addr:city": "Alpharetta",
+    "addr:housenumber": "3200",
+    "addr:postcode": "30005",
+    "addr:state": "GA",
+    "addr:street": "Webb Bridge Road",
+    "building": "yes",
+    "name": "T5 Data Center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 32.4993987,
+    "maxlon": -84.8821648,
+    "minlat": 32.4970106,
+    "minlon": -84.8850827
+   },
+   "geometry": [
+    {
+     "lat": 32.4970787,
+     "lon": -84.8832173
+    },
+    {
+     "lat": 32.4971604,
+     "lon": -84.8833934
+    },
+    {
+     "lat": 32.4971924,
+     "lon": -84.8834624
+    },
+    {
+     "lat": 32.4972026,
+     "lon": -84.8834844
+    },
+    {
+     "lat": 32.4975264,
+     "lon": -84.8841827
+    },
+    {
+     "lat": 32.4976237,
+     "lon": -84.8844096
+    },
+    {
+     "lat": 32.4977145,
+     "lon": -84.8848519
+    },
+    {
+     "lat": 32.4977632,
+     "lon": -84.8850788
+    },
+    {
+     "lat": 32.4978119,
+     "lon": -84.8850827
+    },
+    {
+     "lat": 32.4979319,
+     "lon": -84.8850558
+    },
+    {
+     "lat": 32.498107,
+     "lon": -84.8848981
+    },
+    {
+     "lat": 32.4992229,
+     "lon": -84.8841058
+    },
+    {
+     "lat": 32.4993987,
+     "lon": -84.883982
+    },
+    {
+     "lat": 32.4992985,
+     "lon": -84.8839317
+    },
+    {
+     "lat": 32.4991964,
+     "lon": -84.8837218
+    },
+    {
+     "lat": 32.4991164,
+     "lon": -84.8835574
+    },
+    {
+     "lat": 32.498907,
+     "lon": -84.8830356
+    },
+    {
+     "lat": 32.498822,
+     "lon": -84.8829241
+    },
+    {
+     "lat": 32.498643,
+     "lon": -84.8828269
+    },
+    {
+     "lat": 32.4983121,
+     "lon": -84.8826974
+    },
+    {
+     "lat": 32.4980997,
+     "lon": -84.8825714
+    },
+    {
+     "lat": 32.497608,
+     "lon": -84.8821648
+    },
+    {
+     "lat": 32.4970106,
+     "lon": -84.8825019
+    },
+    {
+     "lat": 32.4970268,
+     "lon": -84.8826058
+    },
+    {
+     "lat": 32.4972604,
+     "lon": -84.8831173
+    },
+    {
+     "lat": 32.4972766,
+     "lon": -84.883225
+    },
+    {
+     "lat": 32.4971566,
+     "lon": -84.8832481
+    },
+    {
+     "lat": 32.4970787,
+     "lon": -84.8832173
+    }
+   ],
+   "id": 958153769,
+   "tags": {
+    "addr:city": "columbus",
+    "addr:housenumber": "8",
+    "addr:postcode": "31907",
+    "addr:state": "GA",
+    "addr:street": "Corporate Ridge Parkway",
+    "landuse": "industrial",
+    "name": "DLI ONE",
+    "operator": "DLI ONE",
+    "telecom": "data_center",
+    "website": "https://dlione.net/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 32.4988657,
+    "maxlon": -84.8828667,
+    "minlat": 32.4976432,
+    "minlon": -84.8843155
+   },
+   "geometry": [
+    {
+     "lat": 32.4976432,
+     "lon": -84.8833163
+    },
+    {
+     "lat": 32.4983182,
+     "lon": -84.8828667
+    },
+    {
+     "lat": 32.4984656,
+     "lon": -84.8831797
+    },
+    {
+     "lat": 32.4984862,
+     "lon": -84.883166
+    },
+    {
+     "lat": 32.4984915,
+     "lon": -84.8831625
+    },
+    {
+     "lat": 32.4984969,
+     "lon": -84.8831589
+    },
+    {
+     "lat": 32.498502,
+     "lon": -84.8831556
+    },
+    {
+     "lat": 32.4986062,
+     "lon": -84.8830864
+    },
+    {
+     "lat": 32.4986746,
+     "lon": -84.8830409
+    },
+    {
+     "lat": 32.4988657,
+     "lon": -84.8834432
+    },
+    {
+     "lat": 32.4986871,
+     "lon": -84.8835627
+    },
+    {
+     "lat": 32.4988302,
+     "lon": -84.8838649
+    },
+    {
+     "lat": 32.4981532,
+     "lon": -84.8843155
+    },
+    {
+     "lat": 32.497977,
+     "lon": -84.8839427
+    },
+    {
+     "lat": 32.4978612,
+     "lon": -84.8840196
+    },
+    {
+     "lat": 32.4977985,
+     "lon": -84.8838879
+    },
+    {
+     "lat": 32.497747,
+     "lon": -84.8837802
+    },
+    {
+     "lat": 32.4978353,
+     "lon": -84.8837215
+    },
+    {
+     "lat": 32.4976432,
+     "lon": -84.8833163
+    }
+   ],
+   "id": 958153770,
+   "tags": {
+    "addr:city": "columbus",
+    "addr:housenumber": "8",
+    "addr:postcode": "31907",
+    "addr:state": "GA",
+    "addr:street": "Corporate Ridge Parkway",
+    "building": "data_center",
+    "building:levels": "1",
+    "height": "11",
+    "source": "microsoft/BuildingFootprints"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.7470326,
+    "maxlon": -84.5780072,
+    "minlat": 33.7460884,
+    "minlon": -84.5814742
+   },
+   "geometry": [
+    {
+     "lat": 33.7470326,
+     "lon": -84.5814329
+    },
+    {
+     "lat": 33.746207,
+     "lon": -84.5814742
+    },
+    {
+     "lat": 33.7460884,
+     "lon": -84.5780484
+    },
+    {
+     "lat": 33.7469145,
+     "lon": -84.5780072
+    },
+    {
+     "lat": 33.7470326,
+     "lon": -84.5814329
+    }
+   ],
+   "id": 975064000,
+   "tags": {
+    "addr:city": "Austell",
+    "addr:housenumber": "101",
+    "addr:postcode": "30122",
+    "addr:state": "GA",
+    "addr:street": "Aquila Way",
+    "building": "yes",
+    "name": "Digital Realty Atlanta ATL11",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "ATL11",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/atlanta/101-aquila-way-austell-ga"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.7559569,
+    "maxlon": -84.5861992,
+    "minlat": 33.7540932,
+    "minlon": -84.5883378
+   },
+   "geometry": [
+    {
+     "lat": 33.7559569,
+     "lon": -84.5868041
+    },
+    {
+     "lat": 33.7555016,
+     "lon": -84.5861992
+    },
+    {
+     "lat": 33.7540932,
+     "lon": -84.5877327
+    },
+    {
+     "lat": 33.7545487,
+     "lon": -84.5883378
+    },
+    {
+     "lat": 33.7559569,
+     "lon": -84.5868041
+    }
+   ],
+   "id": 975064004,
+   "tags": {
+    "addr:city": "Lithia Springs",
+    "addr:housenumber": "1",
+    "addr:postcode": "30122",
+    "addr:state": "GA",
+    "addr:street": "Switch Way",
+    "building": "yes",
+    "name": "Switch Data Center",
+    "operator": "Switch",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.7792745,
+    "maxlon": -84.4189371,
+    "minlat": 33.7759282,
+    "minlon": -84.4199555
+   },
+   "geometry": [
+    {
+     "lat": 33.7792745,
+     "lon": -84.4199303
+    },
+    {
+     "lat": 33.7759551,
+     "lon": -84.4199555
+    },
+    {
+     "lat": 33.7759282,
+     "lon": -84.4189371
+    },
+    {
+     "lat": 33.7762121,
+     "lon": -84.4189445
+    },
+    {
+     "lat": 33.7762149,
+     "lon": -84.419145
+    },
+    {
+     "lat": 33.7781713,
+     "lon": -84.4191567
+    },
+    {
+     "lat": 33.7781664,
+     "lon": -84.4192851
+    },
+    {
+     "lat": 33.7792674,
+     "lon": -84.419257
+    },
+    {
+     "lat": 33.7792745,
+     "lon": -84.4199303
+    }
+   ],
+   "id": 1007825570,
+   "tags": {
+    "addr:city": "Atlanta",
+    "addr:housenumber": "1025",
+    "addr:postcode": "30318",
+    "addr:state": "GA",
+    "addr:street": "Jefferson Street Northwest",
+    "building": "yes",
+    "name": "QTS Atlanta Data Center 2",
+    "note": "QTS Standardized Freedom Building design",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "operator:wikipedia": "en:Quality Technology Services",
+    "telecom": "data_center",
+    "website": "https://www.qtsdatacenters.com/data-centers/atlanta"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0618412,
+    "maxlon": -84.2731397,
+    "minlat": 34.0601548,
+    "minlon": -84.2749134
+   },
+   "geometry": [
+    {
+     "lat": 34.061421,
+     "lon": -84.2731397
+    },
+    {
+     "lat": 34.0609814,
+     "lon": -84.2731699
+    },
+    {
+     "lat": 34.0610059,
+     "lon": -84.2734247
+    },
+    {
+     "lat": 34.0609481,
+     "lon": -84.2737091
+    },
+    {
+     "lat": 34.0601548,
+     "lon": -84.2743179
+    },
+    {
+     "lat": 34.0604992,
+     "lon": -84.2749134
+    },
+    {
+     "lat": 34.0609798,
+     "lon": -84.2745991
+    },
+    {
+     "lat": 34.0618412,
+     "lon": -84.2739409
+    },
+    {
+     "lat": 34.061421,
+     "lon": -84.2731397
+    }
+   ],
+   "id": 1012918195,
+   "tags": {
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.6051522,
+    "maxlon": -83.6916708,
+    "minlat": 33.5957844,
+    "minlon": -83.7090455
+   },
+   "geometry": [
+    {
+     "lat": 33.6009592,
+     "lon": -83.7089795
+    },
+    {
+     "lat": 33.6016345,
+     "lon": -83.7083479
+    },
+    {
+     "lat": 33.6019957,
+     "lon": -83.7081593
+    },
+    {
+     "lat": 33.6022391,
+     "lon": -83.708197
+    },
+    {
+     "lat": 33.6026631,
+     "lon": -83.708395
+    },
+    {
+     "lat": 33.6029065,
+     "lon": -83.7084987
+    },
+    {
+     "lat": 33.603252,
+     "lon": -83.7082725
+    },
+    {
+     "lat": 33.6034719,
+     "lon": -83.7081593
+    },
+    {
+     "lat": 33.6038016,
+     "lon": -83.7081688
+    },
+    {
+     "lat": 33.6039979,
+     "lon": -83.7081782
+    },
+    {
+     "lat": 33.6042413,
+     "lon": -83.7079708
+    },
+    {
+     "lat": 33.6044848,
+     "lon": -83.7076408
+    },
+    {
+     "lat": 33.6044612,
+     "lon": -83.7069998
+    },
+    {
+     "lat": 33.6038802,
+     "lon": -83.7052085
+    },
+    {
+     "lat": 33.6040765,
+     "lon": -83.7046995
+    },
+    {
+     "lat": 33.6045005,
+     "lon": -83.7040584
+    },
+    {
+     "lat": 33.6051522,
+     "lon": -83.7033891
+    },
+    {
+     "lat": 33.6048852,
+     "lon": -83.7020032
+    },
+    {
+     "lat": 33.604579,
+     "lon": -83.7017675
+    },
+    {
+     "lat": 33.6043905,
+     "lon": -83.7015319
+    },
+    {
+     "lat": 33.6043984,
+     "lon": -83.7013716
+    },
+    {
+     "lat": 33.604791,
+     "lon": -83.7010888
+    },
+    {
+     "lat": 33.6045319,
+     "lon": -83.7005137
+    },
+    {
+     "lat": 33.6041,
+     "lon": -83.6992127
+    },
+    {
+     "lat": 33.603833,
+     "lon": -83.6980531
+    },
+    {
+     "lat": 33.6037074,
+     "lon": -83.6968087
+    },
+    {
+     "lat": 33.6036996,
+     "lon": -83.6961299
+    },
+    {
+     "lat": 33.6029458,
+     "lon": -83.695932
+    },
+    {
+     "lat": 33.6018936,
+     "lon": -83.6951778
+    },
+    {
+     "lat": 33.5985407,
+     "lon": -83.6919913
+    },
+    {
+     "lat": 33.5981795,
+     "lon": -83.6917179
+    },
+    {
+     "lat": 33.5978182,
+     "lon": -83.6916708
+    },
+    {
+     "lat": 33.5976298,
+     "lon": -83.6920102
+    },
+    {
+     "lat": 33.5958865,
+     "lon": -83.695932
+    },
+    {
+     "lat": 33.5957844,
+     "lon": -83.6965165
+    },
+    {
+     "lat": 33.5959886,
+     "lon": -83.6968181
+    },
+    {
+     "lat": 33.5961928,
+     "lon": -83.6971104
+    },
+    {
+     "lat": 33.5960436,
+     "lon": -83.6974969
+    },
+    {
+     "lat": 33.5962006,
+     "lon": -83.6977797
+    },
+    {
+     "lat": 33.5967424,
+     "lon": -83.6986094
+    },
+    {
+     "lat": 33.596821,
+     "lon": -83.6992881
+    },
+    {
+     "lat": 33.5971037,
+     "lon": -83.6995332
+    },
+    {
+     "lat": 33.5973471,
+     "lon": -83.6995332
+    },
+    {
+     "lat": 33.5975277,
+     "lon": -83.6994295
+    },
+    {
+     "lat": 33.5978575,
+     "lon": -83.6989016
+    },
+    {
+     "lat": 33.5980617,
+     "lon": -83.6987413
+    },
+    {
+     "lat": 33.5983444,
+     "lon": -83.6987225
+    },
+    {
+     "lat": 33.5996086,
+     "lon": -83.6997406
+    },
+    {
+     "lat": 33.5997892,
+     "lon": -83.7000423
+    },
+    {
+     "lat": 33.6001347,
+     "lon": -83.700278
+    },
+    {
+     "lat": 33.6005038,
+     "lon": -83.7003063
+    },
+    {
+     "lat": 33.6007001,
+     "lon": -83.700146
+    },
+    {
+     "lat": 33.6008336,
+     "lon": -83.6998349
+    },
+    {
+     "lat": 33.6008885,
+     "lon": -83.6994861
+    },
+    {
+     "lat": 33.6011948,
+     "lon": -83.6992221
+    },
+    {
+     "lat": 33.6015167,
+     "lon": -83.699241
+    },
+    {
+     "lat": 33.6019643,
+     "lon": -83.699439
+    },
+    {
+     "lat": 33.60198,
+     "lon": -83.6996747
+    },
+    {
+     "lat": 33.6020428,
+     "lon": -83.7001177
+    },
+    {
+     "lat": 33.6022155,
+     "lon": -83.7003629
+    },
+    {
+     "lat": 33.6024118,
+     "lon": -83.7003723
+    },
+    {
+     "lat": 33.602671,
+     "lon": -83.7003346
+    },
+    {
+     "lat": 33.602671,
+     "lon": -83.7006551
+    },
+    {
+     "lat": 33.6025296,
+     "lon": -83.7012679
+    },
+    {
+     "lat": 33.6020035,
+     "lon": -83.7016921
+    },
+    {
+     "lat": 33.6011398,
+     "lon": -83.7022201
+    },
+    {
+     "lat": 33.5998206,
+     "lon": -83.7028705
+    },
+    {
+     "lat": 33.5995615,
+     "lon": -83.7029083
+    },
+    {
+     "lat": 33.5993338,
+     "lon": -83.7028611
+    },
+    {
+     "lat": 33.5984229,
+     "lon": -83.7031628
+    },
+    {
+     "lat": 33.5980852,
+     "lon": -83.7036436
+    },
+    {
+     "lat": 33.5979517,
+     "lon": -83.7044072
+    },
+    {
+     "lat": 33.5979046,
+     "lon": -83.7052557
+    },
+    {
+     "lat": 33.5981638,
+     "lon": -83.7055008
+    },
+    {
+     "lat": 33.5986113,
+     "lon": -83.7056988
+    },
+    {
+     "lat": 33.5989569,
+     "lon": -83.7055291
+    },
+    {
+     "lat": 33.5991453,
+     "lon": -83.7058496
+    },
+    {
+     "lat": 33.599216,
+     "lon": -83.7062361
+    },
+    {
+     "lat": 33.5997578,
+     "lon": -83.7066981
+    },
+    {
+     "lat": 33.6000248,
+     "lon": -83.7073957
+    },
+    {
+     "lat": 33.6004488,
+     "lon": -83.708593
+    },
+    {
+     "lat": 33.6006294,
+     "lon": -83.7089041
+    },
+    {
+     "lat": 33.6007707,
+     "lon": -83.7090455
+    },
+    {
+     "lat": 33.6009592,
+     "lon": -83.7089795
+    }
+   ],
+   "id": 1054387470,
+   "tags": {
+    "addr:city": "Social Circle",
+    "addr:housenumber": "100",
+    "addr:state": "GA",
+    "addr:street": "Move Fast Way",
+    "contact:facebook": "https://www.facebook.com/StantonSpringsDataCenter/",
+    "landuse": "industrial",
+    "name": "Meta Stanton Springs Data Center",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.6032159,
+    "maxlon": -83.7029267,
+    "minlat": 33.5995563,
+    "minlon": -83.7079249
+   },
+   "geometry": [
+    {
+     "lat": 33.6019907,
+     "lon": -83.7053664
+    },
+    {
+     "lat": 33.6011009,
+     "lon": -83.7059677
+    },
+    {
+     "lat": 33.6018399,
+     "lon": -83.7075438
+    },
+    {
+     "lat": 33.6012761,
+     "lon": -83.7079249
+    },
+    {
+     "lat": 33.5995563,
+     "lon": -83.7042588
+    },
+    {
+     "lat": 33.6001444,
+     "lon": -83.7038612
+    },
+    {
+     "lat": 33.6008164,
+     "lon": -83.7052935
+    },
+    {
+     "lat": 33.6017226,
+     "lon": -83.7046808
+    },
+    {
+     "lat": 33.6010558,
+     "lon": -83.7032593
+    },
+    {
+     "lat": 33.6015479,
+     "lon": -83.7029267
+    },
+    {
+     "lat": 33.6032159,
+     "lon": -83.7064843
+    },
+    {
+     "lat": 33.6026835,
+     "lon": -83.7068441
+    },
+    {
+     "lat": 33.6019907,
+     "lon": -83.7053664
+    }
+   ],
+   "id": 1054387471,
+   "tags": {
+    "building": "industrial",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.6021118,
+    "maxlon": -83.6942856,
+    "minlat": 33.5980367,
+    "minlon": -83.6994088
+   },
+   "geometry": [
+    {
+     "lat": 33.6021118,
+     "lon": -83.6959953
+    },
+    {
+     "lat": 33.6015052,
+     "lon": -83.6954509
+    },
+    {
+     "lat": 33.6006537,
+     "lon": -83.6968182
+    },
+    {
+     "lat": 33.5998851,
+     "lon": -83.6961283
+    },
+    {
+     "lat": 33.6007205,
+     "lon": -83.6947873
+    },
+    {
+     "lat": 33.6001619,
+     "lon": -83.6942856
+    },
+    {
+     "lat": 33.5980367,
+     "lon": -83.697696
+    },
+    {
+     "lat": 33.5985859,
+     "lon": -83.6981893
+    },
+    {
+     "lat": 33.5994723,
+     "lon": -83.6967663
+    },
+    {
+     "lat": 33.6002803,
+     "lon": -83.6974917
+    },
+    {
+     "lat": 33.5994093,
+     "lon": -83.6988904
+    },
+    {
+     "lat": 33.5999868,
+     "lon": -83.6994088
+    },
+    {
+     "lat": 33.6021118,
+     "lon": -83.6959953
+    }
+   ],
+   "id": 1070895993,
+   "tags": {
+    "building": "industrial",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.5993783,
+    "maxlon": -83.693135,
+    "minlat": 33.596765,
+    "minlon": -83.6969075
+   },
+   "geometry": [
+    {
+     "lat": 33.5973256,
+     "lon": -83.6969075
+    },
+    {
+     "lat": 33.5993783,
+     "lon": -83.6935946
+    },
+    {
+     "lat": 33.5988638,
+     "lon": -83.693135
+    },
+    {
+     "lat": 33.5981366,
+     "lon": -83.6943083
+    },
+    {
+     "lat": 33.5979235,
+     "lon": -83.6941179
+    },
+    {
+     "lat": 33.5972245,
+     "lon": -83.6952457
+    },
+    {
+     "lat": 33.5973918,
+     "lon": -83.6953952
+    },
+    {
+     "lat": 33.596765,
+     "lon": -83.6964069
+    },
+    {
+     "lat": 33.5973256,
+     "lon": -83.6969075
+    }
+   ],
+   "id": 1070895994,
+   "tags": {
+    "building": "industrial",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.7321716,
+    "maxlon": -84.6147774,
+    "minlat": 33.7299432,
+    "minlon": -84.6173844
+   },
+   "geometry": [
+    {
+     "lat": 33.7303951,
+     "lon": -84.6173844
+    },
+    {
+     "lat": 33.7321716,
+     "lon": -84.6153475
+    },
+    {
+     "lat": 33.7317194,
+     "lon": -84.6147774
+    },
+    {
+     "lat": 33.7299432,
+     "lon": -84.6168146
+    },
+    {
+     "lat": 33.7303951,
+     "lon": -84.6173844
+    }
+   ],
+   "id": 1097502168,
+   "tags": {
+    "addr:city": "Douglasville",
+    "addr:housenumber": "1700",
+    "addr:postcode": "30122",
+    "addr:state": "GA",
+    "addr:street": "N River Rd",
+    "building": "yes",
+    "name": "Flexential Atlanta - Douglasville 1",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/ga/atlanta/douglasville-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.0384932,
+    "maxlon": -84.0554512,
+    "minlat": 34.0338158,
+    "minlon": -84.0632425
+   },
+   "geometry": [
+    {
+     "lat": 34.037073,
+     "lon": -84.0554512
+    },
+    {
+     "lat": 34.0384932,
+     "lon": -84.056499
+    },
+    {
+     "lat": 34.0382694,
+     "lon": -84.0574118
+    },
+    {
+     "lat": 34.0375593,
+     "lon": -84.0588788
+    },
+    {
+     "lat": 34.0364749,
+     "lon": -84.0605414
+    },
+    {
+     "lat": 34.035923,
+     "lon": -84.061524
+    },
+    {
+     "lat": 34.0351743,
+     "lon": -84.0632425
+    },
+    {
+     "lat": 34.0338158,
+     "lon": -84.0623157
+    },
+    {
+     "lat": 34.037073,
+     "lon": -84.0554512
+    }
+   ],
+   "id": 1207052719,
+   "tags": {
+    "area": "yes",
+    "name": "QTS Suwanee",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.7317332,
+    "maxlon": -84.6095526,
+    "minlat": 33.7296723,
+    "minlon": -84.6129269
+   },
+   "geometry": [
+    {
+     "lat": 33.730424,
+     "lon": -84.6129269
+    },
+    {
+     "lat": 33.7296723,
+     "lon": -84.612433
+    },
+    {
+     "lat": 33.7309811,
+     "lon": -84.6095526
+    },
+    {
+     "lat": 33.7317332,
+     "lon": -84.6100468
+    },
+    {
+     "lat": 33.730424,
+     "lon": -84.6129269
+    }
+   ],
+   "id": 1258702591,
+   "tags": {
+    "addr:city": "Douglasville",
+    "addr:housenumber": "1750",
+    "addr:postcode": "30122",
+    "addr:state": "GA",
+    "addr:street": "N River Rd",
+    "building": "yes",
+    "name": "Flexential Atlanta - Douglasville 2",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/ga/atlanta/douglasville-2-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.1041874,
+    "maxlon": -84.2142824,
+    "minlat": 34.1025798,
+    "minlon": -84.2156579
+   },
+   "geometry": [
+    {
+     "lat": 34.1040443,
+     "lon": -84.2156579
+    },
+    {
+     "lat": 34.1025798,
+     "lon": -84.2153363
+    },
+    {
+     "lat": 34.1027384,
+     "lon": -84.2142824
+    },
+    {
+     "lat": 34.1040352,
+     "lon": -84.2145671
+    },
+    {
+     "lat": 34.1040196,
+     "lon": -84.2146709
+    },
+    {
+     "lat": 34.1041874,
+     "lon": -84.2147077
+    },
+    {
+     "lat": 34.1040443,
+     "lon": -84.2156579
+    }
+   ],
+   "id": 1282332209,
+   "tags": {
+    "addr:city": "Alpharetta",
+    "addr:housenumber": "1865",
+    "addr:postcode": "30005",
+    "addr:state": "GA",
+    "addr:street": "McFarland Parkway",
+    "building": "industrial",
+    "building:levels": "1",
+    "name": "UPS Data Center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.4488517,
+    "maxlon": -84.5206382,
+    "minlat": 33.4479544,
+    "minlon": -84.5243392
+   },
+   "geometry": [
+    {
+     "lat": 33.4479544,
+     "lon": -84.5243372
+    },
+    {
+     "lat": 33.4488511,
+     "lon": -84.5243392
+    },
+    {
+     "lat": 33.4488517,
+     "lon": -84.5239499
+    },
+    {
+     "lat": 33.4486019,
+     "lon": -84.5239493
+    },
+    {
+     "lat": 33.4486067,
+     "lon": -84.5208017
+    },
+    {
+     "lat": 33.4487456,
+     "lon": -84.520802
+    },
+    {
+     "lat": 33.4487458,
+     "lon": -84.5206394
+    },
+    {
+     "lat": 33.4481273,
+     "lon": -84.5206382
+    },
+    {
+     "lat": 33.4481237,
+     "lon": -84.5234181
+    },
+    {
+     "lat": 33.4479558,
+     "lon": -84.5234178
+    },
+    {
+     "lat": 33.4479544,
+     "lon": -84.5243372
+    }
+   ],
+   "id": 1472128597,
+   "tags": {
+    "building": "yes",
+    "name": "QTS",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.4519851,
+    "maxlon": -84.5228802,
+    "minlat": 33.4497852,
+    "minlon": -84.5243703
+   },
+   "geometry": [
+    {
+     "lat": 33.4497852,
+     "lon": -84.523793
+    },
+    {
+     "lat": 33.4497904,
+     "lon": -84.5231285
+    },
+    {
+     "lat": 33.4499786,
+     "lon": -84.5231306
+    },
+    {
+     "lat": 33.4499806,
+     "lon": -84.5228802
+    },
+    {
+     "lat": 33.4519851,
+     "lon": -84.522903
+    },
+    {
+     "lat": 33.4519735,
+     "lon": -84.5243703
+    },
+    {
+     "lat": 33.4499657,
+     "lon": -84.5243475
+    },
+    {
+     "lat": 33.44997,
+     "lon": -84.5237951
+    },
+    {
+     "lat": 33.4497852,
+     "lon": -84.523793
+    }
+   ],
+   "id": 1472128598,
+   "tags": {
+    "building": "yes",
+    "name": "QTS",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.4634361,
+    "maxlon": -84.5223338,
+    "minlat": 33.4611499,
+    "minlon": -84.5250191
+   },
+   "geometry": [
+    {
+     "lat": 33.4611499,
+     "lon": -84.5243336
+    },
+    {
+     "lat": 33.4613082,
+     "lon": -84.5241467
+    },
+    {
+     "lat": 33.4611849,
+     "lon": -84.5239966
+    },
+    {
+     "lat": 33.4625943,
+     "lon": -84.5223338
+    },
+    {
+     "lat": 33.4634361,
+     "lon": -84.5233589
+    },
+    {
+     "lat": 33.4620289,
+     "lon": -84.5250191
+    },
+    {
+     "lat": 33.4617289,
+     "lon": -84.5246538
+    },
+    {
+     "lat": 33.4615685,
+     "lon": -84.5248431
+    },
+    {
+     "lat": 33.4611499,
+     "lon": -84.5243336
+    }
+   ],
+   "id": 1510517635,
+   "tags": {
+    "building": "yes",
+    "name": "QTS",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.4653507,
+    "maxlon": -84.528403,
+    "minlat": 33.462636,
+    "minlon": -84.5299645
+   },
+   "geometry": [
+    {
+     "lat": 33.462636,
+     "lon": -84.5289054
+    },
+    {
+     "lat": 33.4629221,
+     "lon": -84.5288346
+    },
+    {
+     "lat": 33.4629682,
+     "lon": -84.5291023
+    },
+    {
+     "lat": 33.4651094,
+     "lon": -84.5285725
+    },
+    {
+     "lat": 33.465086,
+     "lon": -84.5284369
+    },
+    {
+     "lat": 33.465223,
+     "lon": -84.528403
+    },
+    {
+     "lat": 33.4653507,
+     "lon": -84.5291448
+    },
+    {
+     "lat": 33.4635068,
+     "lon": -84.5296012
+    },
+    {
+     "lat": 33.4635387,
+     "lon": -84.5297861
+    },
+    {
+     "lat": 33.4628186,
+     "lon": -84.5299645
+    },
+    {
+     "lat": 33.462636,
+     "lon": -84.5289054
+    }
+   ],
+   "id": 1510517636,
+   "tags": {
+    "building": "yes",
+    "name": "QTS",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-09-10T02:11:45Z",
+  "timestamp_osm_base": "2026-09-10T16:10:02Z"
+ },
+ "version": 0.6
+}
