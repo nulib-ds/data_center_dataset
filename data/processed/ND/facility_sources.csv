@@ -1,0 +1,19 @@
+facility_id,source,source_id,source_url,source_name
+applied-digital-593ffc,osm,node/13639231258,https://www.openstreetmap.org/node/13639231258,Applied Digital
+unnamed-data-center-e6bea2,osm,way/1422191468,https://www.openstreetmap.org/way/1422191468,
+unnamed-data-center-0c88c0,osm,way/1422191469,https://www.openstreetmap.org/way/1422191469,
+unnamed-data-center-879ae2,osm,way/1422191470,https://www.openstreetmap.org/way/1422191470,
+unnamed-data-center-c333b0,osm,way/1422191471,https://www.openstreetmap.org/way/1422191471,
+unnamed-data-center-cd1e2b,osm,way/1422191472,https://www.openstreetmap.org/way/1422191472,
+unnamed-data-center-48b0f2,osm,way/1422191473,https://www.openstreetmap.org/way/1422191473,
+unnamed-data-center-d35804,osm,way/1422191474,https://www.openstreetmap.org/way/1422191474,
+unnamed-data-center-4c5bf8,osm,way/1422191475,https://www.openstreetmap.org/way/1422191475,
+unnamed-data-center-36fa00,osm,way/1422191476,https://www.openstreetmap.org/way/1422191476,
+unnamed-data-center-8a27c2,osm,way/1422191477,https://www.openstreetmap.org/way/1422191477,
+atlas-powr-williston-datacenter-6f2710,osm,way/1545814424,https://www.openstreetmap.org/way/1545814424,Atlas Powr Williston Datacenter
+702-communications-fargo-nd-fbecdb,peeringdb,7345,https://www.peeringdb.com/fac/7345,"702 Communications - Fargo, ND"
+midco-fargo-febb4f,peeringdb,13222,https://www.peeringdb.com/fac/13222,Midco Fargo
+midco-grand-forks-b9fff8,peeringdb,13223,https://www.peeringdb.com/fac/13223,Midco Grand Forks
+eln02-cb63e5,peeringdb,14920,https://www.peeringdb.com/fac/14920,ELN02
+dcn-dakota-carrier-networks-1858aa,peeringdb,16395,https://www.peeringdb.com/fac/16395,DCN Dakota Carrier Networks
+dcn-dakota-carrier-networks-bismarck-1d7b61,peeringdb,16396,https://www.peeringdb.com/fac/16396,DCN Dakota Carrier Networks Bismarck

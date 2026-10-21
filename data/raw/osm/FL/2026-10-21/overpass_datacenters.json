@@ -1,0 +1,793 @@
+{
+ "elements": [
+  {
+   "id": 3406467087,
+   "lat": 25.7915453,
+   "lon": -80.3177484,
+   "tags": {
+    "check_date:currency:XBT": "2022-12-23",
+    "currency:XBT": "yes",
+    "name": "NocRoom Miami IT Services",
+    "telecom": "data_center",
+    "website": "https://nocroom.com"
+   },
+   "type": "node"
+  },
+  {
+   "id": 3406476814,
+   "lat": 25.6465617,
+   "lon": -80.4234346,
+   "tags": {
+    "check_date:currency:XBT": "2022-12-23",
+    "currency:XBT": "yes",
+    "name": "NocRoom Miami IT Services",
+    "telecom": "data_center",
+    "website": "https://nocroom.com"
+   },
+   "type": "node"
+  },
+  {
+   "id": 8017899486,
+   "lat": 29.6728187,
+   "lon": -82.2997617,
+   "tags": {
+    "access": "private",
+    "check_date": "2023-08-06",
+    "description": "The most powerful university supercomputer in the Southern United States",
+    "level": "0",
+    "manufacturer": "NVIDIA",
+    "manufacturer:type": "DGX A10 SuperPOD\u2122",
+    "manufacturer:wikidata": "Q182477",
+    "name": "HiPerGator",
+    "office": "research",
+    "operator": "University of Florida",
+    "ref": "Version 3.0",
+    "research": "computer_science",
+    "telecom": "data_center",
+    "website": "https://www.rc.ufl.edu/services/hipergator/"
+   },
+   "type": "node"
+  },
+  {
+   "id": 12112266917,
+   "lat": 30.2457482,
+   "lon": -81.5817226,
+   "tags": {
+    "addr:city": "Jacksonville",
+    "addr:full": "4905 Belfort Road, Suite 145 Jacksonville, FL 32256 United States",
+    "addr:housenumber": "4905",
+    "addr:postcode": "32256",
+    "addr:state": "FL",
+    "addr:street": "Belfort Road",
+    "addr:unit": "145",
+    "name": "Flexential Jacksonville",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/fl/jacksonville/data-center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 12112380995,
+   "lat": 28.0372991,
+   "lon": -82.5399781,
+   "tags": {
+    "addr:city": "Tampa",
+    "addr:housenumber": "9417",
+    "addr:postcode": "33634",
+    "addr:state": "FL",
+    "addr:street": "Corporate Lake Drive",
+    "name": "Flexential Tampa - West",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 29.673018,
+    "maxlon": -82.2995151,
+    "minlat": 29.6721638,
+    "minlon": -82.3003425
+   },
+   "geometry": [
+    {
+     "lat": 29.673018,
+     "lon": -82.2998509
+    },
+    {
+     "lat": 29.672827,
+     "lon": -82.2995151
+    },
+    {
+     "lat": 29.6726396,
+     "lon": -82.2996581
+    },
+    {
+     "lat": 29.6725612,
+     "lon": -82.299716
+    },
+    {
+     "lat": 29.6721638,
+     "lon": -82.3000095
+    },
+    {
+     "lat": 29.6721778,
+     "lon": -82.3000341
+    },
+    {
+     "lat": 29.6723401,
+     "lon": -82.3003194
+    },
+    {
+     "lat": 29.672354,
+     "lon": -82.3003425
+    },
+    {
+     "lat": 29.673018,
+     "lon": -82.2998509
+    }
+   ],
+   "id": 429782814,
+   "tags": {
+    "access": "private",
+    "addr:city": "Gainesville",
+    "addr:housenumber": "2060",
+    "addr:postcode": "32609",
+    "addr:state": "FL",
+    "addr:street": "Northeast Waldo Road",
+    "building": "university",
+    "building:levels": "1",
+    "building:material": "brick",
+    "building:use": "office",
+    "name": "UF Research Computing Center",
+    "operator": "University of Florida",
+    "ref": "1635",
+    "telecom": "data_center",
+    "website": "https://www.rc.ufl.edu/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 25.7827937,
+    "maxlon": -80.1923694,
+    "minlat": 25.7819834,
+    "minlon": -80.1937901
+   },
+   "geometry": [
+    {
+     "lat": 25.7827937,
+     "lon": -80.1923892
+    },
+    {
+     "lat": 25.7826491,
+     "lon": -80.1923841
+    },
+    {
+     "lat": 25.7826483,
+     "lon": -80.1924095
+    },
+    {
+     "lat": 25.7821398,
+     "lon": -80.1923917
+    },
+    {
+     "lat": 25.7821403,
+     "lon": -80.1923735
+    },
+    {
+     "lat": 25.7820231,
+     "lon": -80.1923694
+    },
+    {
+     "lat": 25.7819834,
+     "lon": -80.1937546
+    },
+    {
+     "lat": 25.7821175,
+     "lon": -80.1937593
+    },
+    {
+     "lat": 25.7821182,
+     "lon": -80.193732
+    },
+    {
+     "lat": 25.7822961,
+     "lon": -80.1937382
+    },
+    {
+     "lat": 25.782295,
+     "lon": -80.1937757
+    },
+    {
+     "lat": 25.7824219,
+     "lon": -80.1937801
+    },
+    {
+     "lat": 25.7824228,
+     "lon": -80.1937508
+    },
+    {
+     "lat": 25.7826069,
+     "lon": -80.1937572
+    },
+    {
+     "lat": 25.7826061,
+     "lon": -80.1937856
+    },
+    {
+     "lat": 25.7827368,
+     "lon": -80.1937901
+    },
+    {
+     "lat": 25.7827409,
+     "lon": -80.1936573
+    },
+    {
+     "lat": 25.7827337,
+     "lon": -80.193657
+    },
+    {
+     "lat": 25.7827662,
+     "lon": -80.192524
+    },
+    {
+     "lat": 25.7827898,
+     "lon": -80.1925249
+    },
+    {
+     "lat": 25.7827937,
+     "lon": -80.1923892
+    }
+   ],
+   "id": 435518280,
+   "tags": {
+    "addr:city": "Miami",
+    "addr:housenumber": "50",
+    "addr:postcode": "33132",
+    "addr:state": "FL",
+    "addr:street": "Northeast 9th Street",
+    "alt_name": "Equinix MI1",
+    "building": "yes",
+    "building:levels": "6",
+    "clli": "MIAUFL",
+    "ele": "32 ft",
+    "height": "57.7",
+    "name": "NAP of the Americas",
+    "ref:miabldg": "19866",
+    "short_name": "NOTA",
+    "telecom": "data_center",
+    "wikidata": "Q6952344",
+    "wikipedia": "en:NAP of the Americas"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 25.7976746,
+    "maxlon": -80.2297499,
+    "minlat": 25.7974144,
+    "minlon": -80.2303177
+   },
+   "geometry": [
+    {
+     "lat": 25.7974358,
+     "lon": -80.2297499
+    },
+    {
+     "lat": 25.7974144,
+     "lon": -80.2303065
+    },
+    {
+     "lat": 25.7976528,
+     "lon": -80.2303177
+    },
+    {
+     "lat": 25.7976746,
+     "lon": -80.2297611
+    },
+    {
+     "lat": 25.7974358,
+     "lon": -80.2297499
+    }
+   ],
+   "id": 435531451,
+   "tags": {
+    "addr:city": "Miami",
+    "addr:housenumber": "2115",
+    "addr:postcode": "33142",
+    "addr:street": "Northwest 22nd Street",
+    "building": "yes",
+    "clli": "MIASFLVR",
+    "height": "22.9",
+    "ref:miabldg": "23187",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 30.3316642,
+    "maxlon": -81.6619024,
+    "minlat": 30.3311954,
+    "minlon": -81.662949
+   },
+   "geometry": [
+    {
+     "lat": 30.3316642,
+     "lon": -81.6628736
+    },
+    {
+     "lat": 30.3314498,
+     "lon": -81.6619024
+    },
+    {
+     "lat": 30.3311954,
+     "lon": -81.6619778
+    },
+    {
+     "lat": 30.3314099,
+     "lon": -81.662949
+    },
+    {
+     "lat": 30.3316642,
+     "lon": -81.6628736
+    }
+   ],
+   "id": 497151852,
+   "tags": {
+    "building": "apartments",
+    "building:levels": "9",
+    "name": "Cologix Jacksonville JAX1",
+    "roof:levels": "0",
+    "telecom": "data_center",
+    "website": "https://cologix.com/data-centers/jacksonville/jax1/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 27.9463638,
+    "maxlon": -82.3507865,
+    "minlat": 27.9447068,
+    "minlon": -82.3514174
+   },
+   "geometry": [
+    {
+     "lat": 27.9455837,
+     "lon": -82.3509178
+    },
+    {
+     "lat": 27.9455783,
+     "lon": -82.3507865
+    },
+    {
+     "lat": 27.9454831,
+     "lon": -82.3507884
+    },
+    {
+     "lat": 27.9454836,
+     "lon": -82.3509101
+    },
+    {
+     "lat": 27.9447068,
+     "lon": -82.3509225
+    },
+    {
+     "lat": 27.9447159,
+     "lon": -82.3514174
+    },
+    {
+     "lat": 27.9463638,
+     "lon": -82.3514107
+    },
+    {
+     "lat": 27.9463555,
+     "lon": -82.3509249
+    },
+    {
+     "lat": 27.9455837,
+     "lon": -82.3509178
+    }
+   ],
+   "id": 523886201,
+   "tags": {
+    "addr:city": "Tampa",
+    "addr:housenumber": "9310",
+    "addr:postcode": "33619",
+    "addr:state": "FL",
+    "addr:street": "Florida Palm Drive",
+    "building": "yes",
+    "height": "13.36",
+    "name": "Cyxtera Tampa TP1",
+    "operator": "Cyxtera",
+    "operator:wikidata": "Q111143924",
+    "ref": "TPA1",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 28.6180299,
+    "maxlon": -81.3930133,
+    "minlat": 28.6168688,
+    "minlon": -81.3939078
+   },
+   "geometry": [
+    {
+     "lat": 28.6168688,
+     "lon": -81.393052
+    },
+    {
+     "lat": 28.6168887,
+     "lon": -81.3938142
+    },
+    {
+     "lat": 28.6175679,
+     "lon": -81.3937911
+    },
+    {
+     "lat": 28.617571,
+     "lon": -81.3939078
+    },
+    {
+     "lat": 28.6180299,
+     "lon": -81.3938922
+    },
+    {
+     "lat": 28.6180069,
+     "lon": -81.3930133
+    },
+    {
+     "lat": 28.6168688,
+     "lon": -81.393052
+    }
+   ],
+   "id": 609126465,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 26.1905093,
+    "maxlon": -80.1929151,
+    "minlat": 26.1896621,
+    "minlon": -80.1936783
+   },
+   "geometry": [
+    {
+     "lat": 26.1904939,
+     "lon": -80.1936783
+    },
+    {
+     "lat": 26.1905093,
+     "lon": -80.1929365
+    },
+    {
+     "lat": 26.1896775,
+     "lon": -80.1929151
+    },
+    {
+     "lat": 26.1896621,
+     "lon": -80.1936567
+    },
+    {
+     "lat": 26.1904939,
+     "lon": -80.1936783
+    }
+   ],
+   "id": 741629998,
+   "tags": {
+    "addr:city": "Fort Lauderdale",
+    "addr:housenumber": "5301",
+    "addr:postcode": "33309",
+    "addr:state": "FL",
+    "addr:street": "Northwest 33rd Avenue",
+    "building": "yes",
+    "name": "Flexential Fort Lauderdale",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/fl/fort-lauderdale/data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 28.5780963,
+    "maxlon": -81.5643894,
+    "minlat": 28.5777872,
+    "minlon": -81.564709
+   },
+   "geometry": [
+    {
+     "lat": 28.5780963,
+     "lon": -81.5646189
+    },
+    {
+     "lat": 28.578028,
+     "lon": -81.5646305
+    },
+    {
+     "lat": 28.5780361,
+     "lon": -81.5646821
+    },
+    {
+     "lat": 28.5778961,
+     "lon": -81.564709
+    },
+    {
+     "lat": 28.5778893,
+     "lon": -81.5646613
+    },
+    {
+     "lat": 28.5778203,
+     "lon": -81.5646728
+    },
+    {
+     "lat": 28.5777872,
+     "lon": -81.5644441
+    },
+    {
+     "lat": 28.5780611,
+     "lon": -81.5643894
+    },
+    {
+     "lat": 28.5780963,
+     "lon": -81.5646189
+    }
+   ],
+   "id": 958728802,
+   "tags": {
+    "addr:city": "Winter Garden",
+    "addr:housenumber": "550",
+    "addr:postcode": "34787",
+    "addr:state": "FL",
+    "addr:street": "Susan B. Britt Court",
+    "building": "yes",
+    "name": "E-Foam",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 26.1853191,
+    "maxlon": -80.2865018,
+    "minlat": 26.1846683,
+    "minlon": -80.2872527
+   },
+   "geometry": [
+    {
+     "lat": 26.1853165,
+     "lon": -80.2872527
+    },
+    {
+     "lat": 26.1846683,
+     "lon": -80.2872484
+    },
+    {
+     "lat": 26.1846706,
+     "lon": -80.2868203
+    },
+    {
+     "lat": 26.1847884,
+     "lon": -80.2868211
+    },
+    {
+     "lat": 26.1847902,
+     "lon": -80.2865018
+    },
+    {
+     "lat": 26.1851952,
+     "lon": -80.2865045
+    },
+    {
+     "lat": 26.1851937,
+     "lon": -80.2867745
+    },
+    {
+     "lat": 26.1853191,
+     "lon": -80.2867753
+    },
+    {
+     "lat": 26.1853165,
+     "lon": -80.2872527
+    }
+   ],
+   "id": 1017518460,
+   "tags": {
+    "addr:city": "Sunrise",
+    "addr:housenumber": "4850",
+    "addr:postcode": "33351",
+    "addr:state": "FL",
+    "addr:street": "Northwest 103rd Avenue",
+    "building": "yes",
+    "name": "T-Mobile Everglades MSO Data Center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 28.2943407,
+    "maxlon": -81.834557,
+    "minlat": 28.2937967,
+    "minlon": -81.8351733
+   },
+   "geometry": [
+    {
+     "lat": 28.2941544,
+     "lon": -81.8351733
+    },
+    {
+     "lat": 28.2940859,
+     "lon": -81.8351342
+    },
+    {
+     "lat": 28.2940953,
+     "lon": -81.835113
+    },
+    {
+     "lat": 28.2939665,
+     "lon": -81.8350397
+    },
+    {
+     "lat": 28.2939577,
+     "lon": -81.8350596
+    },
+    {
+     "lat": 28.2938031,
+     "lon": -81.8349717
+    },
+    {
+     "lat": 28.2938418,
+     "lon": -81.8348839
+    },
+    {
+     "lat": 28.2937967,
+     "lon": -81.8348582
+    },
+    {
+     "lat": 28.2938219,
+     "lon": -81.834801
+    },
+    {
+     "lat": 28.2938682,
+     "lon": -81.8348274
+    },
+    {
+     "lat": 28.2939041,
+     "lon": -81.834746
+    },
+    {
+     "lat": 28.2939131,
+     "lon": -81.8347483
+    },
+    {
+     "lat": 28.2939966,
+     "lon": -81.8345596
+    },
+    {
+     "lat": 28.294118,
+     "lon": -81.8346288
+    },
+    {
+     "lat": 28.2941498,
+     "lon": -81.834557
+    },
+    {
+     "lat": 28.2942719,
+     "lon": -81.8346267
+    },
+    {
+     "lat": 28.2942414,
+     "lon": -81.8346956
+    },
+    {
+     "lat": 28.2943407,
+     "lon": -81.8347522
+    },
+    {
+     "lat": 28.2941544,
+     "lon": -81.8351733
+    }
+   ],
+   "id": 1034230196,
+   "tags": {
+    "addr:city": "Polk City",
+    "addr:housenumber": "16182",
+    "addr:postcode": "33868",
+    "addr:state": "FL",
+    "addr:street": "Commonwealth Avenue North",
+    "building": "yes",
+    "roof:shape": "flat",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 28.0741073,
+    "maxlon": -82.3680208,
+    "minlat": 28.0736322,
+    "minlon": -82.368703
+   },
+   "geometry": [
+    {
+     "lat": 28.0736342,
+     "lon": -82.3681645
+    },
+    {
+     "lat": 28.0737026,
+     "lon": -82.3681648
+    },
+    {
+     "lat": 28.0737029,
+     "lon": -82.3680906
+    },
+    {
+     "lat": 28.0737714,
+     "lon": -82.3680909
+    },
+    {
+     "lat": 28.0737716,
+     "lon": -82.3680208
+    },
+    {
+     "lat": 28.0741073,
+     "lon": -82.3680224
+    },
+    {
+     "lat": 28.0741055,
+     "lon": -82.3684749
+    },
+    {
+     "lat": 28.0739047,
+     "lon": -82.3684739
+    },
+    {
+     "lat": 28.0739038,
+     "lon": -82.368703
+    },
+    {
+     "lat": 28.0736322,
+     "lon": -82.3687017
+    },
+    {
+     "lat": 28.0736342,
+     "lon": -82.3681645
+    }
+   ],
+   "id": 1085608797,
+   "tags": {
+    "addr:city": "Tampa",
+    "addr:housenumber": "8350",
+    "addr:postcode": "33637",
+    "addr:state": "FL",
+    "addr:street": "Parkedge Drive",
+    "building": "yes",
+    "name": "Flexential Tampa - North",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/fl/tampa/north-data-center"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:16:04Z",
+  "timestamp_osm_base": "2026-10-21T16:51:20Z"
+ },
+ "version": 0.6
+}

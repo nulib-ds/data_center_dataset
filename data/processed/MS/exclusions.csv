@@ -1,0 +1,1 @@
+source,source_id,source_url,name,operator_raw,lat,lon,address,city,state,postcode,status_raw,year_built,building_levels,footprint_sqm,geometry_wkt,is_building,clli,website,pdb_net_count,pdb_ix_count,pdb_carrier_count,campus_raw,raw_json,footprint_sqft,facility_class,exclusion_rule,operator,operator_confidence

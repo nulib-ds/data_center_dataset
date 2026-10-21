@@ -1,0 +1,5 @@
+eis facility id,company name,site name,primary naics code,site latitude,site longitude,address,city,zip code,eis unit id,unit type,unit description,process description,scc
+19058711,"SILVER SLATE, LLC",TRIC SITE,518210,39.5001,-119.43069,7400 USA Parkway,McCarran,89434,138335213,Reciprocating IC Engine,SYSTEM 1 - GROUP 1 EMERGENCY GENERATORS [Multiple stack source emission units.],[Multiple stack source emission units.] MULTIPLE DIESEL FIRED BACK-UP GENERATORS,20200401
+19058711,"SILVER SLATE, LLC",TRIC SITE,518210,39.5001,-119.43069,7400 USA Parkway,McCarran,89434,138335413,Reciprocating IC Engine,SYSTEM 4 - FIRE PUMP ENGINES:  S2.001 & S2.002,[S2.001] 259 HP DIESEL FIRE PUMP ENGINE #1,20200102
+19058711,"SILVER SLATE, LLC",TRIC SITE,518210,39.5001,-119.43069,7400 USA Parkway,McCarran,89434,138335613,Reciprocating IC Engine,SYSTEM 2 - GROUP 2 EMERGENCY GENERATORS [Multiple stack source emission units.],[Multiple stack source emission units.] MULTIPLE DIESEL FIRED BACK-UP GENERATORS,20200401
+18122311,,Apple Inc.,518210,39.566156,-119.547974,21505 Reno Technology Pkwy,Washoe County,89510,130124913,Reciprocating IC Engine,Emergency Generators,,20200102

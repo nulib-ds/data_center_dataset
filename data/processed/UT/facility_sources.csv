@@ -1,0 +1,46 @@
+facility_id,source,source_id,source_url,source_name
+flexential-salt-lake-city-lindon-slc03-f9b4d9,osm,node/12112382397,https://www.openstreetmap.org/node/12112382397,Flexential Salt Lake City - Lindon
+flexential-salt-lake-city-lindon-slc03-f9b4d9,peeringdb,2454,https://www.peeringdb.com/fac/2454,Flexential - Salt Lake City/Lindon (SLC03)
+valorc3-66320a,osm,node/14277390413,https://www.openstreetmap.org/node/14277390413,ValorC3
+ebay-071735,osm,way/240724127,https://www.openstreetmap.org/way/240724127,eBay
+ebay-071735,osm,way/931732650,https://www.openstreetmap.org/way/931732650,Ebay
+flexential-salt-lake-city-south-valley-5ed916,osm,way/355926681,https://www.openstreetmap.org/way/355926681,Flexential Salt Lake City - South Valley
+databank-salt-lake-city-slc3-670573,osm,way/592488661,https://www.openstreetmap.org/way/592488661,DataBank SLC3
+databank-salt-lake-city-slc3-670573,peeringdb,4295,https://www.peeringdb.com/fac/4295,DataBank Salt Lake City (SLC3)
+strata-vernal-data-center-e75d46,osm,way/611308188,https://www.openstreetmap.org/way/611308188,Strata Networks
+strata-vernal-data-center-e75d46,peeringdb,13291,https://www.peeringdb.com/fac/13291,STRATA Vernal Data Center
+databank-salt-lake-city-slc2-901102,osm,way/714070441,https://www.openstreetmap.org/way/714070441,DataBank SLC2
+databank-salt-lake-city-slc2-901102,peeringdb,4294,https://www.peeringdb.com/fac/4294,DataBank Salt Lake City (SLC2)
+databank-slc4-e7eda9,osm,way/714072077,https://www.openstreetmap.org/way/714072077,DataBank SLC4
+level-3-salt-lake-city-16e135,osm,way/729696933,https://www.openstreetmap.org/way/729696933,Flexential Salt Lake City - Downtown
+level-3-salt-lake-city-16e135,peeringdb,854,https://www.peeringdb.com/fac/854,Level(3) Salt Lake City
+level-3-salt-lake-city-16e135,peeringdb,2445,https://www.peeringdb.com/fac/2445,Flexential - Salt Lake City/Downtown (SLC04)
+databank-salt-lake-city-slc5-62a30e,osm,way/971762036,https://www.openstreetmap.org/way/971762036,DataBank SLC5
+databank-salt-lake-city-slc5-62a30e,peeringdb,10938,https://www.peeringdb.com/fac/10938,DataBank Salt Lake City (SLC5)
+meta-f33f6d,osm,way/1024051963,https://www.openstreetmap.org/way/1024051963,Meta
+meta-8df35c,osm,way/1024051997,https://www.openstreetmap.org/way/1024051997,Meta
+meta-f77706,osm,way/1035123473,https://www.openstreetmap.org/way/1035123473,Meta
+flexential-salt-lake-city-millcreek-slc10-0e4d9f,osm,way/1056658555,https://www.openstreetmap.org/way/1056658555,Flexential Salt Lake City - Millcreek
+flexential-salt-lake-city-millcreek-slc10-0e4d9f,peeringdb,2458,https://www.peeringdb.com/fac/2458,Flexential - Salt Lake City/Millcreek (SLC10)
+flexential-salt-lake-city-fairpark-slc07-5ebca5,osm,way/1121188409,https://www.openstreetmap.org/way/1121188409,Flexential Salt Lake City - Fair Park
+flexential-salt-lake-city-fairpark-slc07-5ebca5,peeringdb,2456,https://www.peeringdb.com/fac/2456,Flexential - Salt Lake City/Fairpark (SLC07)
+fiberstate-datacenter-8a8451,osm,way/1133047980,https://www.openstreetmap.org/way/1133047980,FiberState Datacenter
+meta-602da6,osm,way/1473440674,https://www.openstreetmap.org/way/1473440674,Meta
+meta-d9e417,osm,way/1473440676,https://www.openstreetmap.org/way/1473440676,Meta
+databank-slc6-5e704b,osm,way/1530196328,https://www.openstreetmap.org/way/1530196328,DataBank SLC6
+xo-salt-lake-city-ip-pop-8a808a,peeringdb,855,https://www.peeringdb.com/fac/855,XO Salt Lake City IP PoP
+tonaquint-data-center-saint-george-8c289e,peeringdb,1001,https://www.peeringdb.com/fac/1001,Tonaquint Data Center - Saint George
+xmission-salt-lake-city-utah-e3d13e,peeringdb,1335,https://www.peeringdb.com/fac/1335,XMission - Salt Lake City - Utah
+edgeconnex-salt-lake-city-edcslc01-2ee602,peeringdb,2077,https://www.peeringdb.com/fac/2077,EdgeConneX Salt Lake City (EDCSLC01)
+ufn-kearns-a5d6dd,peeringdb,2279,https://www.peeringdb.com/fac/2279,UFN Kearns
+flexential-salt-lake-city-cottonwood-slc05-2183e1,peeringdb,2455,https://www.peeringdb.com/fac/2455,Flexential - Salt Lake City/Cottonwood (SLC05)
+flexential-salt-lake-city-south-valley-slc09-63daa0,peeringdb,2457,https://www.peeringdb.com/fac/2457,Flexential - Salt Lake City/South Valley (SLC09)
+voonami-slc2-957bb3,peeringdb,2519,https://www.peeringdb.com/fac/2519,Voonami SLC2
+voonami-slc1-163a7e,peeringdb,2520,https://www.peeringdb.com/fac/2520,Voonami SLC1
+lowest-host-empire-technology-ab7429,peeringdb,2756,https://www.peeringdb.com/fac/2756,Lowest Host/Empire Technology
+databank-salt-lake-city-slc1-87d307,peeringdb,4293,https://www.peeringdb.com/fac/4293,DataBank Salt Lake City (SLC1)
+aligned-salt-lake-slc-02-68bd94,peeringdb,7864,https://www.peeringdb.com/fac/7864,Aligned Salt Lake (SLC-02)
+aligned-salt-lake-slc-02-68bd94,peeringdb,7865,https://www.peeringdb.com/fac/7865,Aligned Salt Lake (SLC-01)
+senawave-ccb7b4,peeringdb,8572,https://www.peeringdb.com/fac/8572,Senawave
+databank-salt-lake-city-slc4-d6ba91,peeringdb,10937,https://www.peeringdb.com/fac/10937,DataBank Salt Lake City (SLC4)
+fiberstate-salt-lake-city-slc1-cbd677,peeringdb,14101,https://www.peeringdb.com/fac/14101,FIBERSTATE Salt Lake City (SLC1)

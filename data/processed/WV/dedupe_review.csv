@@ -1,0 +1,2 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+osm,node/13546262077,Alpha Federal,2020 Union Carbide Drive,peeringdb,9918,Alpha Technologies DC1,2020 Union Carbide Dr,0.7,,14.4,1.0,0.25,1.0,0.4,[]|['dc1']

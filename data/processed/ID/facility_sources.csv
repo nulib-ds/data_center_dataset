@@ -1,0 +1,12 @@
+facility_id,source,source_id,source_url,source_name
+venturedata-7d2e69,osm,way/290101976,https://www.openstreetmap.org/way/290101976,VentureData
+family-history-center-b06904,osm,way/903642490,https://www.openstreetmap.org/way/903642490,Family History Center
+unnamed-data-center-430001,osm,way/1455915217,https://www.openstreetmap.org/way/1455915217,
+unnamed-data-center-eaea06,osm,way/1455915218,https://www.openstreetmap.org/way/1455915218,
+syringa-networks-boise-883ff2,peeringdb,1152,https://www.peeringdb.com/fac/1152,Syringa Networks Boise
+level-3-boise-a34495,peeringdb,1948,https://www.peeringdb.com/fac/1948,Level(3) Boise
+datasite-boise-03685a,peeringdb,2432,https://www.peeringdb.com/fac/2432,"DataSite, Boise"
+neutron-coeur-d-alene-a7f9d1,peeringdb,9515,https://www.peeringdb.com/fac/9515,Neutron - Coeur d'Alene
+tonaquint-data-center-boise-id-084cbc,peeringdb,9846,https://www.peeringdb.com/fac/9846,Tonaquint Data Center - Boise ID
+ark-data-centers-boise-id-271d56,peeringdb,12234,https://www.peeringdb.com/fac/12234,"ark data centers - Boise, ID"
+cralidxx-coeur-d-alene-central-office-a74346,peeringdb,14273,https://www.peeringdb.com/fac/14273,CRALIDXX - Coeur d'Alene Central Office

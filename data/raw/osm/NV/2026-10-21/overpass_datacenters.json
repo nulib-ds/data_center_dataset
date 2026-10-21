@@ -1,0 +1,2056 @@
+{
+ "elements": [
+  {
+   "id": 13311012216,
+   "lat": 36.065929,
+   "lon": -115.13856,
+   "tags": {
+    "addr:city": "Las Vegas",
+    "addr:housenumber": "1110",
+    "addr:postcode": "89119",
+    "addr:state": "NV",
+    "addr:street": "Palms Airport Drive",
+    "addr:unit": "110",
+    "name": "Fiberhub LAS1",
+    "operator": "Fiberhub",
+    "phone": "+1 702-487-3838",
+    "ref": "LAS1",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.0633039,
+    "maxlon": -115.2127122,
+    "minlat": 36.0601739,
+    "minlon": -115.2138721
+   },
+   "geometry": [
+    {
+     "lat": 36.0633039,
+     "lon": -115.2138389
+    },
+    {
+     "lat": 36.0601817,
+     "lon": -115.2138721
+    },
+    {
+     "lat": 36.0601739,
+     "lon": -115.2127455
+    },
+    {
+     "lat": 36.063296,
+     "lon": -115.2127122
+    },
+    {
+     "lat": 36.0633039,
+     "lon": -115.2138389
+    }
+   ],
+   "id": 172739950,
+   "tags": {
+    "building": "warehouse",
+    "name": "Switch12",
+    "operator": "Switch",
+    "telecom": "data_center",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Clark, NV",
+    "tiger:name_base": "Post",
+    "tiger:name_direction_prefix": "W",
+    "tiger:name_type": "Rd"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.0603749,
+    "maxlon": -115.2084274,
+    "minlat": 36.0594634,
+    "minlon": -115.2119665
+   },
+   "geometry": [
+    {
+     "lat": 36.0603749,
+     "lon": -115.2119539
+    },
+    {
+     "lat": 36.0594941,
+     "lon": -115.2119665
+    },
+    {
+     "lat": 36.0594634,
+     "lon": -115.2086462
+    },
+    {
+     "lat": 36.0598905,
+     "lon": -115.2086401
+    },
+    {
+     "lat": 36.0598886,
+     "lon": -115.2084339
+    },
+    {
+     "lat": 36.0603418,
+     "lon": -115.2084274
+    },
+    {
+     "lat": 36.0603749,
+     "lon": -115.2119539
+    }
+   ],
+   "id": 172739953,
+   "tags": {
+    "addr:city": "Enterprise",
+    "addr:country": "US",
+    "addr:housenumber": "7135",
+    "addr:postcode": "89118",
+    "addr:state": "NV",
+    "addr:street": "South Decatur Boulevard",
+    "building": "yes",
+    "name": "Switch Las Vegas 7",
+    "operator": "Switch",
+    "telecom": "data_center",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Clark, NV",
+    "tiger:name_base": "Post",
+    "tiger:name_direction_prefix": "W",
+    "tiger:name_type": "Rd"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.1448824,
+    "maxlon": -115.0775203,
+    "minlat": 36.1445839,
+    "minlon": -115.0783365
+   },
+   "geometry": [
+    {
+     "lat": 36.144879,
+     "lon": -115.078336
+    },
+    {
+     "lat": 36.1445857,
+     "lon": -115.0783365
+    },
+    {
+     "lat": 36.1445839,
+     "lon": -115.0775203
+    },
+    {
+     "lat": 36.1448824,
+     "lon": -115.0775246
+    },
+    {
+     "lat": 36.144879,
+     "lon": -115.078336
+    }
+   ],
+   "id": 254583328,
+   "tags": {
+    "building": "yes",
+    "name": "Verizon",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.1441672,
+    "maxlon": -115.0831257,
+    "minlat": 36.143272,
+    "minlon": -115.0836444
+   },
+   "geometry": [
+    {
+     "lat": 36.143272,
+     "lon": -115.0831284
+    },
+    {
+     "lat": 36.1432731,
+     "lon": -115.0836444
+    },
+    {
+     "lat": 36.1441406,
+     "lon": -115.0836416
+    },
+    {
+     "lat": 36.1441672,
+     "lon": -115.0836407
+    },
+    {
+     "lat": 36.1441573,
+     "lon": -115.083183
+    },
+    {
+     "lat": 36.1441375,
+     "lon": -115.0831448
+    },
+    {
+     "lat": 36.1441154,
+     "lon": -115.0831257
+    },
+    {
+     "lat": 36.143272,
+     "lon": -115.0831284
+    }
+   ],
+   "id": 254756938,
+   "tags": {
+    "building": "no",
+    "name": "CenturyLink",
+    "operator": "Lumen Technologies",
+    "operator:wikidata": "Q5063092",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.5682155,
+    "maxlon": -119.5474348,
+    "minlat": 39.5660045,
+    "minlon": -119.5496322
+   },
+   "geometry": [
+    {
+     "lat": 39.5678725,
+     "lon": -119.5496322
+    },
+    {
+     "lat": 39.5663365,
+     "lon": -119.5489362
+    },
+    {
+     "lat": 39.5663024,
+     "lon": -119.5490629
+    },
+    {
+     "lat": 39.5660045,
+     "lon": -119.5489279
+    },
+    {
+     "lat": 39.5664066,
+     "lon": -119.5474348
+    },
+    {
+     "lat": 39.5667021,
+     "lon": -119.5475687
+    },
+    {
+     "lat": 39.5666772,
+     "lon": -119.5476612
+    },
+    {
+     "lat": 39.5682155,
+     "lon": -119.5483582
+    },
+    {
+     "lat": 39.5678725,
+     "lon": -119.5496322
+    }
+   ],
+   "id": 464097467,
+   "tags": {
+    "building": "data_center",
+    "source": "WC GIS",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.0582401,
+    "maxlon": -115.2124671,
+    "minlat": 36.0574278,
+    "minlon": -115.2160489
+   },
+   "geometry": [
+    {
+     "lat": 36.0581195,
+     "lon": -115.2160489
+    },
+    {
+     "lat": 36.0581496,
+     "lon": -115.2151652
+    },
+    {
+     "lat": 36.0582103,
+     "lon": -115.2133799
+    },
+    {
+     "lat": 36.0582401,
+     "lon": -115.2125031
+    },
+    {
+     "lat": 36.0575483,
+     "lon": -115.2124671
+    },
+    {
+     "lat": 36.0574278,
+     "lon": -115.2160129
+    },
+    {
+     "lat": 36.0581195,
+     "lon": -115.2160489
+    }
+   ],
+   "id": 585998677,
+   "tags": {
+    "building": "yes",
+    "name": "Switch Las Vegas 8",
+    "operator": "Switch",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.0561257,
+    "maxlon": -115.2177322,
+    "minlat": 36.0552892,
+    "minlon": -115.2215231
+   },
+   "geometry": [
+    {
+     "lat": 36.0559966,
+     "lon": -115.2215231
+    },
+    {
+     "lat": 36.0560303,
+     "lon": -115.2205446
+    },
+    {
+     "lat": 36.0560377,
+     "lon": -115.220327
+    },
+    {
+     "lat": 36.0560912,
+     "lon": -115.2187721
+    },
+    {
+     "lat": 36.0560985,
+     "lon": -115.2185592
+    },
+    {
+     "lat": 36.0561257,
+     "lon": -115.2177695
+    },
+    {
+     "lat": 36.0554187,
+     "lon": -115.2177322
+    },
+    {
+     "lat": 36.0552892,
+     "lon": -115.2214859
+    },
+    {
+     "lat": 36.0559966,
+     "lon": -115.2215231
+    }
+   ],
+   "id": 585998678,
+   "tags": {
+    "building": "industrial",
+    "name": "Switch Las Vegas 9",
+    "operator": "Switch",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.0562952,
+    "maxlon": -115.2126095,
+    "minlat": 36.0554754,
+    "minlon": -115.2156644
+   },
+   "geometry": [
+    {
+     "lat": 36.0561834,
+     "lon": -115.2156644
+    },
+    {
+     "lat": 36.0562137,
+     "lon": -115.214848
+    },
+    {
+     "lat": 36.0562177,
+     "lon": -115.2147406
+    },
+    {
+     "lat": 36.0562218,
+     "lon": -115.2146296
+    },
+    {
+     "lat": 36.0562952,
+     "lon": -115.2126496
+    },
+    {
+     "lat": 36.0555867,
+     "lon": -115.2126095
+    },
+    {
+     "lat": 36.0554754,
+     "lon": -115.2156243
+    },
+    {
+     "lat": 36.0561834,
+     "lon": -115.2156644
+    }
+   ],
+   "id": 617194689,
+   "tags": {
+    "building": "yes",
+    "name": "Switch Las Vegas 11",
+    "operator": "Switch",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.2490172,
+    "maxlon": -115.1009274,
+    "minlat": 36.2473095,
+    "minlon": -115.1015831
+   },
+   "geometry": [
+    {
+     "lat": 36.2489692,
+     "lon": -115.1015831
+    },
+    {
+     "lat": 36.2473606,
+     "lon": -115.1015746
+    },
+    {
+     "lat": 36.2473618,
+     "lon": -115.1012064
+    },
+    {
+     "lat": 36.247331,
+     "lon": -115.1012063
+    },
+    {
+     "lat": 36.2473312,
+     "lon": -115.1011556
+    },
+    {
+     "lat": 36.2473187,
+     "lon": -115.1011516
+    },
+    {
+     "lat": 36.247318,
+     "lon": -115.1011135
+    },
+    {
+     "lat": 36.247311,
+     "lon": -115.1011137
+    },
+    {
+     "lat": 36.2473095,
+     "lon": -115.1010247
+    },
+    {
+     "lat": 36.2473172,
+     "lon": -115.1010245
+    },
+    {
+     "lat": 36.2473165,
+     "lon": -115.1009897
+    },
+    {
+     "lat": 36.2473291,
+     "lon": -115.1009893
+    },
+    {
+     "lat": 36.2473281,
+     "lon": -115.1009368
+    },
+    {
+     "lat": 36.2473625,
+     "lon": -115.1009359
+    },
+    {
+     "lat": 36.2473626,
+     "lon": -115.1009419
+    },
+    {
+     "lat": 36.2473759,
+     "lon": -115.1009416
+    },
+    {
+     "lat": 36.2473757,
+     "lon": -115.1009326
+    },
+    {
+     "lat": 36.2474703,
+     "lon": -115.10093
+    },
+    {
+     "lat": 36.2474743,
+     "lon": -115.1009406
+    },
+    {
+     "lat": 36.2474847,
+     "lon": -115.1009406
+    },
+    {
+     "lat": 36.2474847,
+     "lon": -115.1009274
+    },
+    {
+     "lat": 36.2475144,
+     "lon": -115.1009275
+    },
+    {
+     "lat": 36.2475144,
+     "lon": -115.1009555
+    },
+    {
+     "lat": 36.2480675,
+     "lon": -115.1009559
+    },
+    {
+     "lat": 36.2480675,
+     "lon": -115.1009331
+    },
+    {
+     "lat": 36.2481025,
+     "lon": -115.1009331
+    },
+    {
+     "lat": 36.2481025,
+     "lon": -115.1009433
+    },
+    {
+     "lat": 36.2481125,
+     "lon": -115.1009433
+    },
+    {
+     "lat": 36.2481125,
+     "lon": -115.1009299
+    },
+    {
+     "lat": 36.2482114,
+     "lon": -115.1009302
+    },
+    {
+     "lat": 36.2482114,
+     "lon": -115.1009448
+    },
+    {
+     "lat": 36.2482247,
+     "lon": -115.1009448
+    },
+    {
+     "lat": 36.2482248,
+     "lon": -115.1009338
+    },
+    {
+     "lat": 36.2482324,
+     "lon": -115.1009338
+    },
+    {
+     "lat": 36.2482324,
+     "lon": -115.1009404
+    },
+    {
+     "lat": 36.2482548,
+     "lon": -115.1009406
+    },
+    {
+     "lat": 36.2482547,
+     "lon": -115.1009582
+    },
+    {
+     "lat": 36.2488125,
+     "lon": -115.1009628
+    },
+    {
+     "lat": 36.2488126,
+     "lon": -115.1009437
+    },
+    {
+     "lat": 36.2488432,
+     "lon": -115.100944
+    },
+    {
+     "lat": 36.2488432,
+     "lon": -115.1009505
+    },
+    {
+     "lat": 36.2488559,
+     "lon": -115.1009506
+    },
+    {
+     "lat": 36.248856,
+     "lon": -115.1009327
+    },
+    {
+     "lat": 36.2489515,
+     "lon": -115.100934
+    },
+    {
+     "lat": 36.2489514,
+     "lon": -115.100947
+    },
+    {
+     "lat": 36.2489637,
+     "lon": -115.1009472
+    },
+    {
+     "lat": 36.2489638,
+     "lon": -115.1009414
+    },
+    {
+     "lat": 36.2489941,
+     "lon": -115.1009419
+    },
+    {
+     "lat": 36.2489938,
+     "lon": -115.1009727
+    },
+    {
+     "lat": 36.2489861,
+     "lon": -115.1009725
+    },
+    {
+     "lat": 36.2489859,
+     "lon": -115.1009929
+    },
+    {
+     "lat": 36.2490096,
+     "lon": -115.1009933
+    },
+    {
+     "lat": 36.2490093,
+     "lon": -115.1010235
+    },
+    {
+     "lat": 36.2490172,
+     "lon": -115.1010236
+    },
+    {
+     "lat": 36.2490161,
+     "lon": -115.1011222
+    },
+    {
+     "lat": 36.24901,
+     "lon": -115.1011221
+    },
+    {
+     "lat": 36.2490098,
+     "lon": -115.1011529
+    },
+    {
+     "lat": 36.2489916,
+     "lon": -115.1011526
+    },
+    {
+     "lat": 36.2489916,
+     "lon": -115.1011568
+    },
+    {
+     "lat": 36.2490023,
+     "lon": -115.1011569
+    },
+    {
+     "lat": 36.249002,
+     "lon": -115.1012156
+    },
+    {
+     "lat": 36.2489705,
+     "lon": -115.1012155
+    },
+    {
+     "lat": 36.2489692,
+     "lon": -115.1015831
+    }
+   ],
+   "id": 746278786,
+   "tags": {
+    "addr:city": "North Las Vegas",
+    "addr:housenumber": "3330",
+    "addr:postcode": "89081",
+    "addr:state": "NV",
+    "addr:street": "East Lone Mountain Road",
+    "building": "yes",
+    "name": "Flexential Las Vegas - North",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "phone": "+1-888-552-3539",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/nv/las-vegas/north-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.5683198,
+    "maxlon": -119.5417428,
+    "minlat": 39.567109,
+    "minlon": -119.5429827
+   },
+   "geometry": [
+    {
+     "lat": 39.5673232,
+     "lon": -119.5417428
+    },
+    {
+     "lat": 39.567109,
+     "lon": -119.5425214
+    },
+    {
+     "lat": 39.5681056,
+     "lon": -119.5429827
+    },
+    {
+     "lat": 39.5683198,
+     "lon": -119.5422041
+    },
+    {
+     "lat": 39.5673232,
+     "lon": -119.5417428
+    }
+   ],
+   "id": 775412066,
+   "tags": {
+    "building": "data_center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.5681048,
+    "maxlon": -119.5425894,
+    "minlat": 39.5668972,
+    "minlon": -119.5438296
+   },
+   "geometry": [
+    {
+     "lat": 39.5668972,
+     "lon": -119.5433682
+    },
+    {
+     "lat": 39.5678897,
+     "lon": -119.5438296
+    },
+    {
+     "lat": 39.5681048,
+     "lon": -119.5430507
+    },
+    {
+     "lat": 39.5671124,
+     "lon": -119.5425894
+    },
+    {
+     "lat": 39.5668972,
+     "lon": -119.5433682
+    }
+   ],
+   "id": 775412067,
+   "tags": {
+    "building": "data_center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.5677667,
+    "maxlon": -119.5437759,
+    "minlat": 39.5665543,
+    "minlon": -119.5450008
+   },
+   "geometry": [
+    {
+     "lat": 39.5667628,
+     "lon": -119.5437759
+    },
+    {
+     "lat": 39.5665543,
+     "lon": -119.5445395
+    },
+    {
+     "lat": 39.5675581,
+     "lon": -119.5450008
+    },
+    {
+     "lat": 39.5677667,
+     "lon": -119.5442373
+    },
+    {
+     "lat": 39.5667628,
+     "lon": -119.5437759
+    }
+   ],
+   "id": 775412068,
+   "tags": {
+    "building": "data_center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.5675341,
+    "maxlon": -119.544602,
+    "minlat": 39.5663076,
+    "minlon": -119.5458517
+   },
+   "geometry": [
+    {
+     "lat": 39.5675341,
+     "lon": -119.5450634
+    },
+    {
+     "lat": 39.5665209,
+     "lon": -119.544602
+    },
+    {
+     "lat": 39.5663076,
+     "lon": -119.5453904
+    },
+    {
+     "lat": 39.5673208,
+     "lon": -119.5458517
+    },
+    {
+     "lat": 39.5675341,
+     "lon": -119.5450634
+    }
+   ],
+   "id": 775412069,
+   "tags": {
+    "building": "data_center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.5662281,
+    "maxlon": -119.5471877,
+    "minlat": 39.5652886,
+    "minlon": -119.5487605
+   },
+   "geometry": [
+    {
+     "lat": 39.5656215,
+     "lon": -119.5471877
+    },
+    {
+     "lat": 39.5652886,
+     "lon": -119.548502
+    },
+    {
+     "lat": 39.5658952,
+     "lon": -119.5487605
+    },
+    {
+     "lat": 39.5662281,
+     "lon": -119.5474462
+    },
+    {
+     "lat": 39.5656215,
+     "lon": -119.5471877
+    }
+   ],
+   "id": 775412072,
+   "tags": {
+    "building": "data_center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.565576,
+    "maxlon": -119.5469152,
+    "minlat": 39.5646365,
+    "minlon": -119.5484644
+   },
+   "geometry": [
+    {
+     "lat": 39.5652431,
+     "lon": -119.5484644
+    },
+    {
+     "lat": 39.565576,
+     "lon": -119.5471796
+    },
+    {
+     "lat": 39.5649694,
+     "lon": -119.5469152
+    },
+    {
+     "lat": 39.5646365,
+     "lon": -119.5482
+    },
+    {
+     "lat": 39.5652431,
+     "lon": -119.5484644
+    }
+   ],
+   "id": 775412073,
+   "tags": {
+    "building": "data_center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.0568002,
+    "maxlon": -115.0079186,
+    "minlat": 36.0557425,
+    "minlon": -115.0092318
+   },
+   "geometry": [
+    {
+     "lat": 36.0567975,
+     "lon": -115.0079186
+    },
+    {
+     "lat": 36.0557425,
+     "lon": -115.0079219
+    },
+    {
+     "lat": 36.0557428,
+     "lon": -115.0080434
+    },
+    {
+     "lat": 36.0557906,
+     "lon": -115.0080432
+    },
+    {
+     "lat": 36.0557922,
+     "lon": -115.0088828
+    },
+    {
+     "lat": 36.0557586,
+     "lon": -115.0088829
+    },
+    {
+     "lat": 36.0557593,
+     "lon": -115.0092318
+    },
+    {
+     "lat": 36.0568002,
+     "lon": -115.0092285
+    },
+    {
+     "lat": 36.0567975,
+     "lon": -115.0079186
+    }
+   ],
+   "id": 844359206,
+   "tags": {
+    "addr:city": "Henderson",
+    "addr:housenumber": "540",
+    "addr:postcode": "89011",
+    "addr:state": "NV",
+    "addr:street": "West Warm Springs Road",
+    "building": "yes",
+    "name": "Google",
+    "operator": "Google",
+    "operator:wikidata": "Q95",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.0593426,
+    "maxlon": -115.0081538,
+    "minlat": 36.0582884,
+    "minlon": -115.0094498
+   },
+   "geometry": [
+    {
+     "lat": 36.0582884,
+     "lon": -115.0081623
+    },
+    {
+     "lat": 36.0582951,
+     "lon": -115.0094498
+    },
+    {
+     "lat": 36.0593291,
+     "lon": -115.0094415
+    },
+    {
+     "lat": 36.0593286,
+     "lon": -115.0093378
+    },
+    {
+     "lat": 36.059298,
+     "lon": -115.009338
+    },
+    {
+     "lat": 36.0592935,
+     "lon": -115.0085085
+    },
+    {
+     "lat": 36.0593426,
+     "lon": -115.0085081
+    },
+    {
+     "lat": 36.0593407,
+     "lon": -115.0081538
+    },
+    {
+     "lat": 36.0582884,
+     "lon": -115.0081623
+    }
+   ],
+   "id": 844359207,
+   "tags": {
+    "addr:city": "Henderson",
+    "addr:housenumber": "560",
+    "addr:postcode": "89011",
+    "addr:state": "NV",
+    "addr:street": "West Warm Springs Road",
+    "building": "yes",
+    "name": "Google",
+    "operator": "Google",
+    "operator:wikidata": "Q95",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.0559868,
+    "maxlon": -115.2216873,
+    "minlat": 36.0551846,
+    "minlon": -115.2244342
+   },
+   "geometry": [
+    {
+     "lat": 36.0558916,
+     "lon": -115.2244342
+    },
+    {
+     "lat": 36.0551846,
+     "lon": -115.2243961
+    },
+    {
+     "lat": 36.0552803,
+     "lon": -115.2216873
+    },
+    {
+     "lat": 36.0559868,
+     "lon": -115.2217254
+    },
+    {
+     "lat": 36.0559593,
+     "lon": -115.2225088
+    },
+    {
+     "lat": 36.0559552,
+     "lon": -115.2226234
+    },
+    {
+     "lat": 36.0559515,
+     "lon": -115.2227304
+    },
+    {
+     "lat": 36.0558916,
+     "lon": -115.2244342
+    }
+   ],
+   "id": 984796364,
+   "tags": {
+    "building": "industrial",
+    "name": "Switch Las Vegas 10",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.1831254,
+    "maxlon": -115.0624528,
+    "minlat": 36.1828701,
+    "minlon": -115.0628863
+   },
+   "geometry": [
+    {
+     "lat": 36.1828701,
+     "lon": -115.0624565
+    },
+    {
+     "lat": 36.1828742,
+     "lon": -115.0628863
+    },
+    {
+     "lat": 36.1831254,
+     "lon": -115.0628826
+    },
+    {
+     "lat": 36.1831213,
+     "lon": -115.0624528
+    },
+    {
+     "lat": 36.1828701,
+     "lon": -115.0624565
+    }
+   ],
+   "id": 1013396352,
+   "tags": {
+    "building": "yes",
+    "name": "CenturyLink",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.059301,
+    "maxlon": -115.213258,
+    "minlat": 36.058968,
+    "minlon": -115.214118
+   },
+   "geometry": [
+    {
+     "lat": 36.059003,
+     "lon": -115.213381
+    },
+    {
+     "lat": 36.058968,
+     "lon": -115.213381
+    },
+    {
+     "lat": 36.058968,
+     "lon": -115.21326
+    },
+    {
+     "lat": 36.059297,
+     "lon": -115.213258
+    },
+    {
+     "lat": 36.059301,
+     "lon": -115.214116
+    },
+    {
+     "lat": 36.059006,
+     "lon": -115.214118
+    },
+    {
+     "lat": 36.059003,
+     "lon": -115.213381
+    }
+   ],
+   "id": 1017048670,
+   "tags": {
+    "building": "yes",
+    "name": "Switch Edge 1",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.143981,
+    "maxlon": -115.076579,
+    "minlat": 36.143311,
+    "minlon": -115.076979
+   },
+   "geometry": [
+    {
+     "lat": 36.143311,
+     "lon": -115.076967
+    },
+    {
+     "lat": 36.143316,
+     "lon": -115.076579
+    },
+    {
+     "lat": 36.143981,
+     "lon": -115.07659
+    },
+    {
+     "lat": 36.143976,
+     "lon": -115.076979
+    },
+    {
+     "lat": 36.143311,
+     "lon": -115.076967
+    }
+   ],
+   "id": 1017460713,
+   "tags": {
+    "addr:city": "Las Vegas",
+    "addr:housenumber": "4495",
+    "addr:postcode": "89104",
+    "addr:state": "NV",
+    "addr:street": "East Sahara Avenue",
+    "building": "yes",
+    "name": "Switch Las Vegas 4",
+    "operator": "Switch",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.142957,
+    "maxlon": -115.076512,
+    "minlat": 36.14257,
+    "minlon": -115.076881
+   },
+   "geometry": [
+    {
+     "lat": 36.142573,
+     "lon": -115.076881
+    },
+    {
+     "lat": 36.14257,
+     "lon": -115.076517
+    },
+    {
+     "lat": 36.142954,
+     "lon": -115.076512
+    },
+    {
+     "lat": 36.142957,
+     "lon": -115.076876
+    },
+    {
+     "lat": 36.142573,
+     "lon": -115.076881
+    }
+   ],
+   "id": 1017460715,
+   "tags": {
+    "addr:city": "Las Vegas",
+    "addr:housenumber": "4489",
+    "addr:postcode": "89104",
+    "addr:state": "NV",
+    "addr:street": "East Sahara Avenue",
+    "building": "yes",
+    "name": "Switch Las Vegas 5",
+    "operator": "Switch",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.0603347,
+    "maxlon": -115.1466139,
+    "minlat": 36.0591732,
+    "minlon": -115.1477306
+   },
+   "geometry": [
+    {
+     "lat": 36.0602731,
+     "lon": -115.1474383
+    },
+    {
+     "lat": 36.0598984,
+     "lon": -115.1469864
+    },
+    {
+     "lat": 36.0599123,
+     "lon": -115.1469689
+    },
+    {
+     "lat": 36.0598448,
+     "lon": -115.146887
+    },
+    {
+     "lat": 36.0598269,
+     "lon": -115.1469096
+    },
+    {
+     "lat": 36.0596643,
+     "lon": -115.1467114
+    },
+    {
+     "lat": 36.0596733,
+     "lon": -115.1467001
+    },
+    {
+     "lat": 36.0596033,
+     "lon": -115.1466139
+    },
+    {
+     "lat": 36.0595401,
+     "lon": -115.1466925
+    },
+    {
+     "lat": 36.0595588,
+     "lon": -115.1467156
+    },
+    {
+     "lat": 36.0591732,
+     "lon": -115.1471929
+    },
+    {
+     "lat": 36.059175,
+     "lon": -115.1472836
+    },
+    {
+     "lat": 36.0592032,
+     "lon": -115.1473175
+    },
+    {
+     "lat": 36.0593784,
+     "lon": -115.147528
+    },
+    {
+     "lat": 36.0596221,
+     "lon": -115.1472178
+    },
+    {
+     "lat": 36.0599458,
+     "lon": -115.1476068
+    },
+    {
+     "lat": 36.0600459,
+     "lon": -115.1477271
+    },
+    {
+     "lat": 36.0601293,
+     "lon": -115.1477306
+    },
+    {
+     "lat": 36.0602809,
+     "lon": -115.1475376
+    },
+    {
+     "lat": 36.0602902,
+     "lon": -115.1475488
+    },
+    {
+     "lat": 36.0603347,
+     "lon": -115.1474921
+    },
+    {
+     "lat": 36.0602813,
+     "lon": -115.1474279
+    },
+    {
+     "lat": 36.0602731,
+     "lon": -115.1474383
+    }
+   ],
+   "id": 1034475557,
+   "tags": {
+    "addr:city": "Las Vegas",
+    "addr:housenumber": "7185",
+    "addr:postcode": "89119",
+    "addr:state": "NV",
+    "addr:street": "Pollock Drive",
+    "building": "commercial",
+    "name": "DataBank Las Vegas LAS1",
+    "operator": "DataBank",
+    "operator:wikidata": "Q117314439",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.51451,
+    "maxlon": -119.4719158,
+    "minlat": 39.5136261,
+    "minlon": -119.4791132
+   },
+   "geometry": [
+    {
+     "lat": 39.5136261,
+     "lon": -119.4791067
+    },
+    {
+     "lat": 39.5136585,
+     "lon": -119.4719158
+    },
+    {
+     "lat": 39.51451,
+     "lon": -119.4719224
+    },
+    {
+     "lat": 39.5144765,
+     "lon": -119.4791132
+    },
+    {
+     "lat": 39.5136261,
+     "lon": -119.4791067
+    }
+   ],
+   "id": 1116775094,
+   "tags": {
+    "addr:city": "McCarran",
+    "addr:housenumber": "1",
+    "addr:postcode": "89434",
+    "addr:state": "NV",
+    "addr:street": "Superloop Circle",
+    "building": "yes",
+    "name": "Tahoe Reno 1",
+    "operator": "Switch",
+    "operator:wikidata": "Q7659059",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.5142273,
+    "maxlon": -119.4827708,
+    "minlat": 39.513514,
+    "minlon": -119.4869354
+   },
+   "geometry": [
+    {
+     "lat": 39.513514,
+     "lon": -119.4869299
+    },
+    {
+     "lat": 39.5135332,
+     "lon": -119.4827708
+    },
+    {
+     "lat": 39.5142273,
+     "lon": -119.4827763
+    },
+    {
+     "lat": 39.5142074,
+     "lon": -119.4869354
+    },
+    {
+     "lat": 39.513514,
+     "lon": -119.4869299
+    }
+   ],
+   "id": 1116775095,
+   "tags": {
+    "addr:city": "McCarran",
+    "addr:housenumber": "1",
+    "addr:postcode": "89434",
+    "addr:state": "NV",
+    "addr:street": "Superloop Circle",
+    "building": "yes",
+    "name": "Tahoe Reno 2",
+    "operator": "Switch",
+    "operator:wikidata": "Q7659059",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.5703281,
+    "maxlon": -119.5371435,
+    "minlat": 39.5690932,
+    "minlon": -119.538575
+   },
+   "geometry": [
+    {
+     "lat": 39.5694332,
+     "lon": -119.5371435
+    },
+    {
+     "lat": 39.5690932,
+     "lon": -119.5378431
+    },
+    {
+     "lat": 39.5699882,
+     "lon": -119.538575
+    },
+    {
+     "lat": 39.5703281,
+     "lon": -119.5378764
+    },
+    {
+     "lat": 39.5694332,
+     "lon": -119.5371435
+    }
+   ],
+   "id": 1210199365,
+   "tags": {
+    "building": "data_center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.5706701,
+    "maxlon": -119.5363758,
+    "minlat": 39.5694352,
+    "minlon": -119.5378073
+   },
+   "geometry": [
+    {
+     "lat": 39.5697752,
+     "lon": -119.5363758
+    },
+    {
+     "lat": 39.5694352,
+     "lon": -119.5370754
+    },
+    {
+     "lat": 39.5703302,
+     "lon": -119.5378073
+    },
+    {
+     "lat": 39.5706701,
+     "lon": -119.5371087
+    },
+    {
+     "lat": 39.5697752,
+     "lon": -119.5363758
+    }
+   ],
+   "id": 1210199366,
+   "tags": {
+    "building": "data_center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.5712092,
+    "maxlon": -119.5353181,
+    "minlat": 39.5699743,
+    "minlon": -119.5367497
+   },
+   "geometry": [
+    {
+     "lat": 39.5703143,
+     "lon": -119.5353181
+    },
+    {
+     "lat": 39.5699743,
+     "lon": -119.5360177
+    },
+    {
+     "lat": 39.5708693,
+     "lon": -119.5367497
+    },
+    {
+     "lat": 39.5712092,
+     "lon": -119.536051
+    },
+    {
+     "lat": 39.5703143,
+     "lon": -119.5353181
+    }
+   ],
+   "id": 1210199367,
+   "tags": {
+    "building": "data_center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.5716037,
+    "maxlon": -119.5346016,
+    "minlat": 39.5703688,
+    "minlon": -119.5360332
+   },
+   "geometry": [
+    {
+     "lat": 39.5707088,
+     "lon": -119.5346016
+    },
+    {
+     "lat": 39.5703688,
+     "lon": -119.5353013
+    },
+    {
+     "lat": 39.5712638,
+     "lon": -119.5360332
+    },
+    {
+     "lat": 39.5716037,
+     "lon": -119.5353345
+    },
+    {
+     "lat": 39.5707088,
+     "lon": -119.5346016
+    }
+   ],
+   "id": 1210199368,
+   "tags": {
+    "building": "data_center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.2220724,
+    "maxlon": -115.146694,
+    "minlat": 36.2217165,
+    "minlon": -115.1473993
+   },
+   "geometry": [
+    {
+     "lat": 36.2220655,
+     "lon": -115.1473993
+    },
+    {
+     "lat": 36.2217165,
+     "lon": -115.1473906
+    },
+    {
+     "lat": 36.2217259,
+     "lon": -115.1468088
+    },
+    {
+     "lat": 36.2217484,
+     "lon": -115.1468093
+    },
+    {
+     "lat": 36.2217503,
+     "lon": -115.146694
+    },
+    {
+     "lat": 36.2220596,
+     "lon": -115.1467018
+    },
+    {
+     "lat": 36.2220578,
+     "lon": -115.1468117
+    },
+    {
+     "lat": 36.2220426,
+     "lon": -115.1468113
+    },
+    {
+     "lat": 36.22204,
+     "lon": -115.1469722
+    },
+    {
+     "lat": 36.2220724,
+     "lon": -115.146973
+    },
+    {
+     "lat": 36.2220655,
+     "lon": -115.1473993
+    }
+   ],
+   "id": 1235846520,
+   "tags": {
+    "building": "yes",
+    "name": "Verizon North Las Vegas",
+    "operator": "Verizon",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.064988,
+    "maxlon": -115.2195238,
+    "minlat": 36.0630532,
+    "minlon": -115.2226943
+   },
+   "geometry": [
+    {
+     "lat": 36.0636617,
+     "lon": -115.2226943
+    },
+    {
+     "lat": 36.0641501,
+     "lon": -115.2216956
+    },
+    {
+     "lat": 36.064988,
+     "lon": -115.2199822
+    },
+    {
+     "lat": 36.0643834,
+     "lon": -115.2195238
+    },
+    {
+     "lat": 36.0630532,
+     "lon": -115.2222551
+    },
+    {
+     "lat": 36.0636617,
+     "lon": -115.2226943
+    }
+   ],
+   "id": 1263819877,
+   "tags": {
+    "building": "yes",
+    "name": "Switch Las Vegas 15",
+    "operator": "Switch",
+    "ref": "NAP15",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.0588874,
+    "maxlon": -115.2086328,
+    "minlat": 36.0570963,
+    "minlon": -115.2120231
+   },
+   "geometry": [
+    {
+     "lat": 36.0587638,
+     "lon": -115.212007
+    },
+    {
+     "lat": 36.0588874,
+     "lon": -115.2119024
+    },
+    {
+     "lat": 36.0588809,
+     "lon": -115.2086328
+    },
+    {
+     "lat": 36.0571462,
+     "lon": -115.2095206
+    },
+    {
+     "lat": 36.0570963,
+     "lon": -115.2110843
+    },
+    {
+     "lat": 36.0578509,
+     "lon": -115.2110951
+    },
+    {
+     "lat": 36.0578293,
+     "lon": -115.2120231
+    },
+    {
+     "lat": 36.0587638,
+     "lon": -115.212007
+    }
+   ],
+   "id": 1314355599,
+   "tags": {
+    "landuse": "construction",
+    "name": "Switch Las Vegas 12",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.5118757,
+    "maxlon": -119.4805781,
+    "minlat": 39.5111639,
+    "minlon": -119.4860336
+   },
+   "geometry": [
+    {
+     "lat": 39.5111639,
+     "lon": -119.4860306
+    },
+    {
+     "lat": 39.5111777,
+     "lon": -119.4805781
+    },
+    {
+     "lat": 39.5118757,
+     "lon": -119.4805812
+    },
+    {
+     "lat": 39.511861,
+     "lon": -119.4860336
+    },
+    {
+     "lat": 39.5111639,
+     "lon": -119.4860306
+    }
+   ],
+   "id": 1320683840,
+   "tags": {
+    "addr:city": "McCarran",
+    "addr:housenumber": "1",
+    "addr:postcode": "89434",
+    "addr:state": "NV",
+    "addr:street": "Superloop Circle",
+    "building": "yes",
+    "name": "Tahoe Reno 3",
+    "operator": "Switch",
+    "operator:wikidata": "Q7659059",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.1686883,
+    "maxlon": -115.1430987,
+    "minlat": 36.1685993,
+    "minlon": -115.1431904
+   },
+   "geometry": [
+    {
+     "lat": 36.1686685,
+     "lon": -115.1430987
+    },
+    {
+     "lat": 36.1686883,
+     "lon": -115.1431447
+    },
+    {
+     "lat": 36.1686191,
+     "lon": -115.1431904
+    },
+    {
+     "lat": 36.1685993,
+     "lon": -115.1431444
+    },
+    {
+     "lat": 36.1686685,
+     "lon": -115.1430987
+    }
+   ],
+   "id": 1379421123,
+   "tags": {
+    "addr:city": "Las Vegas",
+    "addr:full": "304 East Carson Avenue, Suite 370, Las Vegas, NV 89101 United States",
+    "addr:housenumber": "304",
+    "addr:postcode": "89101",
+    "addr:state": "NV",
+    "addr:street": "East Carson Avenue",
+    "addr:unit": "370",
+    "building": "commercial",
+    "height": "14",
+    "name": "Flexential Las Vegas - Downtown",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/nv/las-vegas/downtown-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.0660324,
+    "maxlon": -115.2205312,
+    "minlat": 36.0643828,
+    "minlon": -115.2235589
+   },
+   "geometry": [
+    {
+     "lat": 36.0650253,
+     "lon": -115.2235589
+    },
+    {
+     "lat": 36.0653495,
+     "lon": -115.2227043
+    },
+    {
+     "lat": 36.0660324,
+     "lon": -115.2209044
+    },
+    {
+     "lat": 36.0653895,
+     "lon": -115.2205312
+    },
+    {
+     "lat": 36.0643828,
+     "lon": -115.223186
+    },
+    {
+     "lat": 36.0650253,
+     "lon": -115.2235589
+    }
+   ],
+   "id": 1421212901,
+   "tags": {
+    "building": "yes",
+    "name": "Switch Las Vegas 14",
+    "operator": "Switch",
+    "ref": "NAP14",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.5103414,
+    "maxlon": -119.4807721,
+    "minlat": 39.5093947,
+    "minlon": -119.4853105
+   },
+   "geometry": [
+    {
+     "lat": 39.5102941,
+     "lon": -119.4853105
+    },
+    {
+     "lat": 39.5103414,
+     "lon": -119.4807832
+    },
+    {
+     "lat": 39.5097146,
+     "lon": -119.4807721
+    },
+    {
+     "lat": 39.5096963,
+     "lon": -119.4824982
+    },
+    {
+     "lat": 39.5093985,
+     "lon": -119.4824929
+    },
+    {
+     "lat": 39.5093947,
+     "lon": -119.4828541
+    },
+    {
+     "lat": 39.5096769,
+     "lon": -119.4828591
+    },
+    {
+     "lat": 39.5096517,
+     "lon": -119.4852993
+    },
+    {
+     "lat": 39.5102941,
+     "lon": -119.4853105
+    }
+   ],
+   "id": 1494498031,
+   "tags": {
+    "addr:city": "McCarran",
+    "addr:housenumber": "1",
+    "addr:postcode": "89434",
+    "addr:state": "NV",
+    "addr:street": "Superloop Circle",
+    "building": "yes",
+    "name": "Tahoe Reno 4",
+    "operator": "Switch",
+    "operator:wikidata": "Q7659059",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.5085561,
+    "maxlon": -119.4809679,
+    "minlat": 39.5076094,
+    "minlon": -119.4855063
+   },
+   "geometry": [
+    {
+     "lat": 39.5085088,
+     "lon": -119.4855063
+    },
+    {
+     "lat": 39.5085561,
+     "lon": -119.480979
+    },
+    {
+     "lat": 39.5079293,
+     "lon": -119.4809679
+    },
+    {
+     "lat": 39.507911,
+     "lon": -119.482694
+    },
+    {
+     "lat": 39.5076132,
+     "lon": -119.4826887
+    },
+    {
+     "lat": 39.5076094,
+     "lon": -119.48305
+    },
+    {
+     "lat": 39.5078916,
+     "lon": -119.4830549
+    },
+    {
+     "lat": 39.5078664,
+     "lon": -119.4854951
+    },
+    {
+     "lat": 39.5085088,
+     "lon": -119.4855063
+    }
+   ],
+   "id": 1494498032,
+   "tags": {
+    "addr:city": "McCarran",
+    "addr:housenumber": "1",
+    "addr:postcode": "89434",
+    "addr:state": "NV",
+    "addr:street": "Superloop Circle",
+    "building": "yes",
+    "name": "Tahoe Reno 5",
+    "operator": "Switch",
+    "operator:wikidata": "Q7659059",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.066066,
+    "maxlon": -115.2177435,
+    "minlat": 36.0656983,
+    "minlon": -115.2198346
+   },
+   "geometry": [
+    {
+     "lat": 36.0656983,
+     "lon": -115.2198134
+    },
+    {
+     "lat": 36.0659763,
+     "lon": -115.2198346
+    },
+    {
+     "lat": 36.066063,
+     "lon": -115.2178399
+    },
+    {
+     "lat": 36.066066,
+     "lon": -115.2177706
+    },
+    {
+     "lat": 36.0657828,
+     "lon": -115.2177435
+    },
+    {
+     "lat": 36.0656983,
+     "lon": -115.2198134
+    }
+   ],
+   "id": 1558897570,
+   "tags": {
+    "building": "yes",
+    "name": "Switch Las Vegas 16",
+    "operator": "Switch",
+    "ref": "NAP16",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:16:04Z",
+  "timestamp_osm_base": "2026-10-21T17:16:36Z"
+ },
+ "version": 0.6
+}

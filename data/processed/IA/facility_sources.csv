@@ -1,0 +1,89 @@
+facility_id,source,source_id,source_url,source_name
+aureon-downtown-0a1d4e,osm,way/104082694,https://www.openstreetmap.org/way/104082694,Aureon
+aureon-downtown-0a1d4e,peeringdb,13101,https://www.peeringdb.com/fac/13101,Aureon Downtown
+unnamed-data-center-712689,osm,way/191655977,https://www.openstreetmap.org/way/191655977,
+geneseo-communications-inc-4b5acf,osm,way/342664739,https://www.openstreetmap.org/way/342664739,Geneseo Communications Inc
+microsoft-d75f7e,osm,way/438077632,https://www.openstreetmap.org/way/438077632,Microsoft
+microsoft-d75f7e,osm,way/871745265,https://www.openstreetmap.org/way/871745265,Microsoft
+microsoft-d75f7e,osm,way/1075278061,https://www.openstreetmap.org/way/1075278061,Microsoft
+microsoft-d75f7e,osm,way/1075278062,https://www.openstreetmap.org/way/1075278062,Microsoft
+facebook-altoona-data-center-1-fee807,osm,way/438078069,https://www.openstreetmap.org/way/438078069,Facebook Altoona Data Center 1
+facebook-altoona-data-center-2-b08447,osm,way/438078070,https://www.openstreetmap.org/way/438078070,Facebook Altoona Data Center 2
+facebook-altoona-data-center-2-b08447,osm,way/556564909,https://www.openstreetmap.org/way/556564909,Facebook Altoona Data Center 3
+facebook-altoona-data-center-4-cf82a0,osm,way/788027103,https://www.openstreetmap.org/way/788027103,Facebook Altoona Data Center 4
+microsoft-f24ba3,osm,way/830881731,https://www.openstreetmap.org/way/830881731,Microsoft
+microsoft-f24ba3,osm,way/830881732,https://www.openstreetmap.org/way/830881732,Microsoft
+microsoft-f24ba3,osm,way/830881744,https://www.openstreetmap.org/way/830881744,Microsoft
+microsoft-f24ba3,osm,way/830881745,https://www.openstreetmap.org/way/830881745,Microsoft
+microsoft-ea1a6f,osm,way/830881733,https://www.openstreetmap.org/way/830881733,Microsoft
+microsoft-ea1a6f,osm,way/830881734,https://www.openstreetmap.org/way/830881734,Microsoft
+microsoft-ea1a6f,osm,way/830881742,https://www.openstreetmap.org/way/830881742,Microsoft
+microsoft-ea1a6f,osm,way/830881743,https://www.openstreetmap.org/way/830881743,Microsoft
+microsoft-8e614b,osm,way/830885773,https://www.openstreetmap.org/way/830885773,Microsoft
+microsoft-8e614b,osm,way/830885774,https://www.openstreetmap.org/way/830885774,Microsoft
+microsoft-8e614b,osm,way/1075278060,https://www.openstreetmap.org/way/1075278060,Microsoft
+microsoft-8e614b,osm,way/1318322071,https://www.openstreetmap.org/way/1318322071,Microsoft
+microsoft-8e614b,osm,way/1318322073,https://www.openstreetmap.org/way/1318322073,Microsoft
+facebook-altoona-data-center-5-fc957c,osm,way/830931210,https://www.openstreetmap.org/way/830931210,Facebook Altoona Data Center 5
+forceamp-com-b66451,osm,way/837139011,https://www.openstreetmap.org/way/837139011,ForceAmp.com
+unnamed-data-center-922940,osm,way/944024849,https://www.openstreetmap.org/way/944024849,
+unnamed-data-center-dddb1b,osm,way/944024851,https://www.openstreetmap.org/way/944024851,
+google-a34abe,osm,way/1073720208,https://www.openstreetmap.org/way/1073720208,Google
+google-a34abe,osm,way/1073720209,https://www.openstreetmap.org/way/1073720209,Google
+google-a34abe,osm,way/1073720210,https://www.openstreetmap.org/way/1073720210,Google
+google-a34abe,osm,way/1073720211,https://www.openstreetmap.org/way/1073720211,Google
+google-a34abe,osm,way/1073720212,https://www.openstreetmap.org/way/1073720212,Google
+google-a34abe,osm,way/1073720213,https://www.openstreetmap.org/way/1073720213,Google
+google-a34abe,osm,way/1073720214,https://www.openstreetmap.org/way/1073720214,Google
+google-a34abe,osm,way/1073720215,https://www.openstreetmap.org/way/1073720215,Google
+google-a34abe,osm,way/1073720216,https://www.openstreetmap.org/way/1073720216,Google
+google-a34abe,osm,way/1073720217,https://www.openstreetmap.org/way/1073720217,Google
+google-a34abe,osm,way/1073720218,https://www.openstreetmap.org/way/1073720218,Google
+google-a34abe,epa_nei,16962311,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=16962311,GABLE CORPORATION
+google-f2d359,osm,way/1073720219,https://www.openstreetmap.org/way/1073720219,Google
+google-f2d359,osm,way/1073720220,https://www.openstreetmap.org/way/1073720220,Google
+google-f2d359,osm,way/1073720221,https://www.openstreetmap.org/way/1073720221,Google
+microsoft-f66d8c,osm,way/1173569101,https://www.openstreetmap.org/way/1173569101,Microsoft
+microsoft-f66d8c,osm,way/1375475071,https://www.openstreetmap.org/way/1375475071,Microsoft
+microsoft-f66d8c,osm,way/1375475072,https://www.openstreetmap.org/way/1375475072,Microsoft
+microsoft-f66d8c,osm,way/1375475073,https://www.openstreetmap.org/way/1375475073,Microsoft
+lightedge-des-moines-2-dsm2-403705,osm,way/1202051225,https://www.openstreetmap.org/way/1202051225,Lightedge Des Moines 2
+lightedge-des-moines-2-dsm2-403705,peeringdb,4547,https://www.peeringdb.com/fac/4547,LightEdge Des Moines 2 (DSM2)
+cyrusone-35c42c,osm,way/1226436454,https://www.openstreetmap.org/way/1226436454,CyrusOne
+lightedge-des-moines-1-dsm1-eecf76,osm,way/1227883682,https://www.openstreetmap.org/way/1227883682,Lightedge Des Moines 1
+lightedge-des-moines-1-dsm1-eecf76,peeringdb,4546,https://www.peeringdb.com/fac/4546,LightEdge Des Moines 1 (DSM1)
+meta-3000d1,osm,way/1253282103,https://www.openstreetmap.org/way/1253282103,Meta
+meta-a350aa,osm,way/1253282104,https://www.openstreetmap.org/way/1253282104,Meta
+google-071207,osm,way/1287260560,https://www.openstreetmap.org/way/1287260560,Google
+google-effdfc,osm,way/1287260561,https://www.openstreetmap.org/way/1287260561,Google
+apple-4efd24,osm,way/1318322780,https://www.openstreetmap.org/way/1318322780,Apple
+unnamed-data-center-f5af48,osm,way/1368776076,https://www.openstreetmap.org/way/1368776076,
+unnamed-data-center-863039,osm,way/1368776077,https://www.openstreetmap.org/way/1368776077,
+unnamed-data-center-d22a13,osm,way/1454813845,https://www.openstreetmap.org/way/1454813845,
+unnamed-data-center-f0c613,osm,way/1454813846,https://www.openstreetmap.org/way/1454813846,
+google-dd137a,osm,way/1565614265,https://www.openstreetmap.org/way/1565614265,Google
+google-e91d2c,osm,way/1565614266,https://www.openstreetmap.org/way/1565614266,Google
+infobunker-b2bf6e,peeringdb,1712,https://www.peeringdb.com/fac/1712,InfoBunker
+long-lines-data-center-6a4ea0,peeringdb,3011,https://www.peeringdb.com/fac/3011,Long Lines Data Center
+enseva-cedar-rapids-94c014,peeringdb,3127,https://www.peeringdb.com/fac/3127,Enseva Cedar Rapids
+ip-pathways-dsm1-55bb53,peeringdb,5804,https://www.peeringdb.com/fac/5804,IP Pathways DSM1
+sfn-ia-emery-a904b2,peeringdb,6480,https://www.peeringdb.com/fac/6480,SFN IA-Emery
+sfn-ia-iowafalls-a5afa4,peeringdb,7332,https://www.peeringdb.com/fac/7332,SFN IA-IowaFalls
+sfn-ia-davenport-d2f7ba,peeringdb,7705,https://www.peeringdb.com/fac/7705,SFN IA-Davenport
+sfn-ia-waterloo-28bd17,peeringdb,7706,https://www.peeringdb.com/fac/7706,SFN IA-Waterloo
+ark-data-centers-cedar-rapids-ia-a94a5e,peeringdb,8338,https://www.peeringdb.com/fac/8338,"ark data centers - Cedar Rapids ,IA"
+connect-des-moines-80a523,peeringdb,9845,https://www.peeringdb.com/fac/9845,Connect Des Moines
+heartland-technology-data-center-f9375c,peeringdb,10202,https://www.peeringdb.com/fac/10202,Heartland Technology Data Center
+bluebird-quad-cities-data-center-4e2b05,peeringdb,10411,https://www.peeringdb.com/fac/10411,Bluebird Quad Cities Data Center
+dartpoints-north-liberty-ia-b3e58a,peeringdb,10791,https://www.peeringdb.com/fac/10791,"DartPoints North Liberty, IA"
+713-nebraska-e90f96,peeringdb,11742,https://www.peeringdb.com/fac/11742,713 Nebraska
+us-signal-ia01-des-moines-c95ec6,peeringdb,12304,https://www.peeringdb.com/fac/12304,US Signal IA01 - Des Moines
+connect-cedar-valley-051785,peeringdb,13001,https://www.peeringdb.com/fac/13001,Connect Cedar Valley
+aureon-west-des-moines-9d4cb7,peeringdb,13103,https://www.peeringdb.com/fac/13103,Aureon West Des Moines
+sfn-ia-urbana-a346a9,peeringdb,13256,https://www.peeringdb.com/fac/13256,SFN IA-Urbana
+router12-brick-and-tile-f6df20,peeringdb,13357,https://www.peeringdb.com/fac/13357,Router12 - Brick and Tile
+cologix-dsm2-5253ed,peeringdb,14982,https://www.peeringdb.com/fac/14982,Cologix DSM2
+cologix-dsm1-332b43,peeringdb,14983,https://www.peeringdb.com/fac/14983,Cologix DSM1
+south-spencer-aureon-hut-757829,peeringdb,15013,https://www.peeringdb.com/fac/15013,South Spencer Aureon hut
+usshc-ac733a,peeringdb,16034,https://www.peeringdb.com/fac/16034,USSHC
+siculus-inc-e28657,epa_nei,17928311,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=17928311,"Siculus, Inc."

@@ -1,0 +1,46 @@
+facility_id,source,source_id,source_url,source_name
+coresite-boston-bo1-5e9c26,osm,way/29827954,https://www.openstreetmap.org/way/29827954,CoreSite BO1
+coresite-boston-bo1-5e9c26,peeringdb,584,https://www.peeringdb.com/fac/584,CoreSite - Boston (BO1)
+tierpoint-boston-andover-43bc40,osm,way/211832626,https://www.openstreetmap.org/way/211832626,TierPoint
+tierpoint-boston-andover-43bc40,peeringdb,8583,https://www.peeringdb.com/fac/8583,TierPoint Boston - Andover
+markley-group-lowell-9e9e5d,osm,way/214321737,https://www.openstreetmap.org/way/214321737,Markley Data Center
+markley-group-lowell-9e9e5d,peeringdb,3096,https://www.peeringdb.com/fac/3096,Markley Group Lowell
+markley-group-one-summer-street-boston-fe5ba6,peeringdb,219,https://www.peeringdb.com/fac/219,Markley Group One Summer Street Boston
+equinix-bo1-boston-waltham-7eccba,peeringdb,281,https://www.peeringdb.com/fac/281,"Equinix BO1 - Boston, Waltham"
+lumen-boston-3b7bc9,peeringdb,519,https://www.peeringdb.com/fac/519,Lumen Boston
+200-quannapowitt-pkwy-a43104,peeringdb,1496,https://www.peeringdb.com/fac/1496,200 Quannapowitt Pkwy
+edgeconnex-boston-edcbos01-5922ce,peeringdb,2073,https://www.peeringdb.com/fac/2073,EdgeConneX Boston (EDCBOS01)
+230-congress-f5ff66,peeringdb,2190,https://www.peeringdb.com/fac/2190,230 Congress
+databank-boston-bos1-cbb158,peeringdb,2250,https://www.peeringdb.com/fac/2250,DataBank Boston (BOS1)
+digital-realty-bos14-boston-f16706,peeringdb,2251,https://www.peeringdb.com/fac/2251,Digital Realty BOS14 - Boston
+digital-realty-bos14-boston-f16706,epa_nei,6595911,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=6595911,DIGITAL 128 FIRST AVENUE LLC & 105 CABOT
+lightboard-massachusetts-e97466,peeringdb,2414,https://www.peeringdb.com/fac/2414,Lightboard ★ Massachusetts
+prov-net-chf1-boston-north-9ec67b,peeringdb,3347,https://www.peeringdb.com/fac/3347,Prov.net CHF1 (Boston North)
+bdc1-34-saint-martin-dr-48ad83,peeringdb,3432,https://www.peeringdb.com/fac/3432,BDC1 - 34 Saint Martin Dr
+colospace-waltham-ma-e8cd20,peeringdb,3458,https://www.peeringdb.com/fac/3458,"ColoSpace - Waltham, MA"
+colospace-rockland-ma-f52dff,peeringdb,3459,https://www.peeringdb.com/fac/3459,"ColoSpace - Rockland, MA"
+colospace-somerville-ma-606259,peeringdb,3460,https://www.peeringdb.com/fac/3460,"ColoSpace - Somerville, MA"
+crown-castle-boston-1-summer-340bf8,peeringdb,3484,https://www.peeringdb.com/fac/3484,Crown Castle Boston (1 Summer)
+crown-castle-springfield-1-federal-4ab960,peeringdb,3485,https://www.peeringdb.com/fac/3485,Crown Castle Springfield (1 Federal)
+crown-castle-marlboro-34-st-martin-3b3fb7,peeringdb,3489,https://www.peeringdb.com/fac/3489,Crown Castle Marlboro (34 St Martin)
+crown-castle-worcester-474-main-581a9f,peeringdb,3490,https://www.peeringdb.com/fac/3490,Crown Castle Worcester (474 Main)
+centersquare-boston-bos1-a-de091f,peeringdb,4049,https://www.peeringdb.com/fac/4049,Centersquare Boston (BOS1-A)
+equinix-bo2-boston-billerica-16ef58,peeringdb,4666,https://www.peeringdb.com/fac/4666,"Equinix BO2 - Boston, Billerica"
+lightwave-networks-b3aff0,peeringdb,5951,https://www.peeringdb.com/fac/5951,LightWave Networks
+iron-mountain-data-center-boston-bos-1-ca1310,peeringdb,6339,https://www.peeringdb.com/fac/6339,Iron Mountain Data Center - Boston (BOS-1)
+centersquare-boston-bos4-a-205b4a,peeringdb,6678,https://www.peeringdb.com/fac/6678,Centersquare Boston (BOS4-A)
+centersquare-boston-bos4-a-205b4a,epa_nei,6557411,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=6557411,EVOQUE DATA CENTER SOLUTIONS
+expedient-boston-39854b,peeringdb,8469,https://www.peeringdb.com/fac/8469,Expedient Boston
+evocative-bos1-dd909a,peeringdb,9460,https://www.peeringdb.com/fac/9460,Evocative BOS1
+cogent-boston-6d840f,peeringdb,10474,https://www.peeringdb.com/fac/10474,Cogent Boston
+navisite-andover-eb8340,peeringdb,10829,https://www.peeringdb.com/fac/10829,Navisite Andover
+tierpoint-boston-marlborough-1f56e8,peeringdb,11364,https://www.peeringdb.com/fac/11364,TierPoint Boston - Marlborough
+lightboard-new-england-4200a8,peeringdb,15080,https://www.peeringdb.com/fac/15080,Lightboard ★ New England
+exa-cls-lynn-a4f168,peeringdb,15090,https://www.peeringdb.com/fac/15090,EXA CLS Lynn
+365-data-centers-marlboro-ma1-db4c70,peeringdb,16129,https://www.peeringdb.com/fac/16129,365 Data Centers Marlboro (MA1)
+cogent-springfield-ma-444b74,peeringdb,16353,https://www.peeringdb.com/fac/16353,Cogent Springfield MA
+hub-express-system-d172b9,peeringdb,16779,https://www.peeringdb.com/fac/16779,Hub Express System
+cyxtera-bo-3-8d883d,epa_nei,5826911,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=5826911,CYXTERA BO-3
+sungard-availability-serviceslp-1c70e7,epa_nei,14520211,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=14520211,SUNGARD AVAILABILITY SERVICESLP
+vdc-i-483756,epa_nei,5245911,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=5245911,VDC I
+cyxtera-bo-2-836375,epa_nei,5826511,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=5826511,CYXTERA-BO-2

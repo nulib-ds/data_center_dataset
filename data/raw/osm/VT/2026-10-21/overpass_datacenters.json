@@ -1,0 +1,49 @@
+{
+ "elements": [
+  {
+   "bounds": {
+    "maxlat": 42.9876488,
+    "maxlon": -72.5517267,
+    "minlat": 42.9876049,
+    "minlon": -72.5517856
+   },
+   "geometry": [
+    {
+     "lat": 42.9876488,
+     "lon": -72.5517605
+    },
+    {
+     "lat": 42.9876321,
+     "lon": -72.5517267
+    },
+    {
+     "lat": 42.9876049,
+     "lon": -72.5517519
+    },
+    {
+     "lat": 42.9876215,
+     "lon": -72.5517856
+    },
+    {
+     "lat": 42.9876488,
+     "lon": -72.5517605
+    }
+   ],
+   "id": 1552427895,
+   "tags": {
+    "building": "shed",
+    "operator": "The Putney School",
+    "telecom": "data_center",
+    "utility": "telecom"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:56:34Z",
+  "timestamp_osm_base": "2026-10-21T17:31:38Z"
+ },
+ "version": 0.6
+}

@@ -1,0 +1,212 @@
+{
+ "elements": [
+  {
+   "bounds": {
+    "maxlat": 43.8254578,
+    "maxlon": -111.7818352,
+    "minlat": 43.8249994,
+    "minlon": -111.7823053
+   },
+   "geometry": [
+    {
+     "lat": 43.8254578,
+     "lon": -111.7823026
+    },
+    {
+     "lat": 43.8254564,
+     "lon": -111.7818352
+    },
+    {
+     "lat": 43.8252219,
+     "lon": -111.7818366
+    },
+    {
+     "lat": 43.8252222,
+     "lon": -111.7819436
+    },
+    {
+     "lat": 43.8249994,
+     "lon": -111.7819449
+    },
+    {
+     "lat": 43.8250005,
+     "lon": -111.7823053
+    },
+    {
+     "lat": 43.8254578,
+     "lon": -111.7823026
+    }
+   ],
+   "id": 290101976,
+   "tags": {
+    "addr:city": "Rexburg",
+    "addr:housenumber": "19",
+    "addr:postcode": "83440",
+    "addr:state": "ID",
+    "addr:street": "College Avenue",
+    "brand": "VentureData",
+    "building": "yes",
+    "name": "VentureData",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.3174067,
+    "maxlon": -111.304105,
+    "minlat": 42.3171417,
+    "minlon": -111.304387
+   },
+   "geometry": [
+    {
+     "lat": 42.3173812,
+     "lon": -111.304387
+    },
+    {
+     "lat": 42.3173066,
+     "lon": -111.3043862
+    },
+    {
+     "lat": 42.3173071,
+     "lon": -111.3042987
+    },
+    {
+     "lat": 42.3171417,
+     "lon": -111.304297
+    },
+    {
+     "lat": 42.3171423,
+     "lon": -111.3041891
+    },
+    {
+     "lat": 42.3172353,
+     "lon": -111.3041896
+    },
+    {
+     "lat": 42.3173073,
+     "lon": -111.3041908
+    },
+    {
+     "lat": 42.3173078,
+     "lon": -111.304105
+    },
+    {
+     "lat": 42.3173828,
+     "lon": -111.3041058
+    },
+    {
+     "lat": 42.3173824,
+     "lon": -111.3041941
+    },
+    {
+     "lat": 42.3174067,
+     "lon": -111.3041943
+    },
+    {
+     "lat": 42.3174065,
+     "lon": -111.304245
+    },
+    {
+     "lat": 42.3174062,
+     "lon": -111.3042967
+    },
+    {
+     "lat": 42.3173817,
+     "lon": -111.3042965
+    },
+    {
+     "lat": 42.3173812,
+     "lon": -111.304387
+    }
+   ],
+   "id": 903642490,
+   "tags": {
+    "building": "yes",
+    "name": "Family History Center",
+    "operator": "The Church of Jesus Christ of Latter-day Saints",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.4644575,
+    "maxlon": -116.2675995,
+    "minlat": 43.4618254,
+    "minlon": -116.2688655
+   },
+   "geometry": [
+    {
+     "lat": 43.4644419,
+     "lon": -116.2688655
+    },
+    {
+     "lat": 43.4644575,
+     "lon": -116.267621
+    },
+    {
+     "lat": 43.4618566,
+     "lon": -116.2675995
+    },
+    {
+     "lat": 43.4618254,
+     "lon": -116.2688226
+    },
+    {
+     "lat": 43.4644419,
+     "lon": -116.2688655
+    }
+   ],
+   "id": 1455915217,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.4648935,
+    "maxlon": -116.2714405,
+    "minlat": 43.4617787,
+    "minlon": -116.2727494
+   },
+   "geometry": [
+    {
+     "lat": 43.4648935,
+     "lon": -116.2727494
+    },
+    {
+     "lat": 43.4648935,
+     "lon": -116.2714834
+    },
+    {
+     "lat": 43.4617943,
+     "lon": -116.2714405
+    },
+    {
+     "lat": 43.4617787,
+     "lon": -116.2726636
+    },
+    {
+     "lat": 43.4648935,
+     "lon": -116.2727494
+    }
+   ],
+   "id": 1455915218,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:56:34Z",
+  "timestamp_osm_base": "2026-10-21T17:02:31Z"
+ },
+ "version": 0.6
+}

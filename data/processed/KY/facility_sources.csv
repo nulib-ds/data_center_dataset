@@ -1,0 +1,18 @@
+facility_id,source,source_id,source_url,source_name
+cyrusone-837624,osm,way/68281408,https://www.openstreetmap.org/way/68281408,CyrusOne
+flexential-louisville-east-lou5-7c2de3,osm,way/329551673,https://www.openstreetmap.org/way/329551673,Flexential Louisville - East
+flexential-louisville-east-lou5-7c2de3,peeringdb,5002,https://www.peeringdb.com/fac/5002,Flexential - Louisville/East (LOU5)
+flexential-louisville-downtown-lou02-03-04-5149e5,osm,way/330276516,https://www.openstreetmap.org/way/330276516,Flexential Louisville - Downtown
+flexential-louisville-downtown-lou02-03-04-5149e5,peeringdb,5001,https://www.peeringdb.com/fac/5001,Flexential - Louisville/Downtown (LOU02/03/04)
+dynamics-mining-6525ac,osm,way/1254161871,https://www.openstreetmap.org/way/1254161871,Dynamics Mining
+east-kentucky-network-data-center-ba3dd3,osm,way/1456953254,https://www.openstreetmap.org/way/1456953254,East Kentucky Network Datacenter
+east-kentucky-network-data-center-ba3dd3,peeringdb,15681,https://www.peeringdb.com/fac/15681,East Kentucky Network Data Center
+cyrusone-florence-1db8e1,peeringdb,1469,https://www.peeringdb.com/fac/1469,CyrusOne Florence
+cyrusone-florence-1db8e1,epa_nei,20224611,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=20224611,CyrusOne LLC - Florence Data Center
+qx-net-lexington-a94cda,peeringdb,5839,https://www.peeringdb.com/fac/5839,QX.Net Lexington
+heyburn-building-f47344,peeringdb,6458,https://www.peeringdb.com/fac/6458,Heyburn Building
+bluegrassnet-louisville-175f48,peeringdb,12212,https://www.peeringdb.com/fac/12212,BluegrassNet Louisville
+quad-state-internet-pah1-colocation-91b9c5,peeringdb,13029,https://www.peeringdb.com/fac/13029,Quad State Internet PAH1 Colocation
+energynet-datacenter-689354,peeringdb,13628,https://www.peeringdb.com/fac/13628,Energynet Datacenter
+lost-river-data-center-10950b,peeringdb,13629,https://www.peeringdb.com/fac/13629,Lost River Data Center
+russellvile-epb-smartnet-f65f1d,peeringdb,13664,https://www.peeringdb.com/fac/13664,Russellvile EPB Smartnet

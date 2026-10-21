@@ -1,0 +1,441 @@
+{
+ "elements": [
+  {
+   "id": 6401035673,
+   "lat": 35.4672049,
+   "lon": -97.6497453,
+   "tags": {
+    "addr:city": "Oklahoma CIty",
+    "addr:housenumber": "7725",
+    "addr:postcode": "73127",
+    "addr:state": "OK",
+    "addr:street": "West Reno Avenue",
+    "addr:unit": "385",
+    "name": "Rack59 Data Center",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 12793428582,
+   "lat": 36.0994735,
+   "lon": -95.8382826,
+   "tags": {
+    "name": "TulsaConnect DC3",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 13720841436,
+   "lat": 36.153294,
+   "lon": -95.989193,
+   "tags": {
+    "branch": "DC1",
+    "name": "TulsaConnect",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 13720841437,
+   "lat": 36.1485011,
+   "lon": -95.990514,
+   "tags": {
+    "branch": "Tulsa",
+    "name": "Windstream",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 13720841438,
+   "lat": 36.1484524,
+   "lon": -95.9908198,
+   "tags": {
+    "branch": "DC5",
+    "name": "TulsaConnect",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 13873419223,
+   "lat": 36.153287,
+   "lon": -95.989191,
+   "tags": {
+    "branch": "321 South Boston",
+    "name": "OCOSA",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.1588396,
+    "maxlon": -95.9883226,
+    "minlat": 36.1583401,
+    "minlon": -95.988936
+   },
+   "geometry": [
+    {
+     "lat": 36.1583401,
+     "lon": -95.9887579
+    },
+    {
+     "lat": 36.1586804,
+     "lon": -95.988936
+    },
+    {
+     "lat": 36.1588396,
+     "lon": -95.9885096
+    },
+    {
+     "lat": 36.1584936,
+     "lon": -95.9883226
+    },
+    {
+     "lat": 36.1583401,
+     "lon": -95.9887579
+    }
+   ],
+   "id": 159959672,
+   "tags": {
+    "addr:city": "Tulsa",
+    "addr:country": "US",
+    "addr:housenumber": "322",
+    "addr:state": "OK",
+    "addr:street": "East Archer Street North",
+    "branch": "Tulsa - Archer",
+    "building": "industrial",
+    "name": "TierPoint",
+    "ref": "TUL",
+    "telecom": "data_center",
+    "website": "https://www.tierpoint.com/data-centers/oklahoma/tulsa-archer/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.2636035,
+    "maxlon": -95.9088545,
+    "minlat": 36.2614957,
+    "minlon": -95.9112281
+   },
+   "geometry": [
+    {
+     "lat": 36.2636035,
+     "lon": -95.9109263
+    },
+    {
+     "lat": 36.2636005,
+     "lon": -95.9095061
+    },
+    {
+     "lat": 36.26305,
+     "lon": -95.9095079
+    },
+    {
+     "lat": 36.26305,
+     "lon": -95.9094921
+    },
+    {
+     "lat": 36.2632423,
+     "lon": -95.9094916
+    },
+    {
+     "lat": 36.2632414,
+     "lon": -95.9089382
+    },
+    {
+     "lat": 36.2626091,
+     "lon": -95.9089397
+    },
+    {
+     "lat": 36.262609,
+     "lon": -95.9088545
+    },
+    {
+     "lat": 36.2624874,
+     "lon": -95.9088548
+    },
+    {
+     "lat": 36.2624876,
+     "lon": -95.9089391
+    },
+    {
+     "lat": 36.261857,
+     "lon": -95.9089405
+    },
+    {
+     "lat": 36.2618578,
+     "lon": -95.9094929
+    },
+    {
+     "lat": 36.2620468,
+     "lon": -95.9094924
+    },
+    {
+     "lat": 36.2620468,
+     "lon": -95.9095076
+    },
+    {
+     "lat": 36.2614957,
+     "lon": -95.9095084
+    },
+    {
+     "lat": 36.2614972,
+     "lon": -95.9109009
+    },
+    {
+     "lat": 36.2615595,
+     "lon": -95.9109312
+    },
+    {
+     "lat": 36.2620831,
+     "lon": -95.9109317
+    },
+    {
+     "lat": 36.2620831,
+     "lon": -95.9109882
+    },
+    {
+     "lat": 36.2621449,
+     "lon": -95.9109882
+    },
+    {
+     "lat": 36.2621449,
+     "lon": -95.9109213
+    },
+    {
+     "lat": 36.2621664,
+     "lon": -95.9109213
+    },
+    {
+     "lat": 36.2621664,
+     "lon": -95.9109548
+    },
+    {
+     "lat": 36.2622255,
+     "lon": -95.9109549
+    },
+    {
+     "lat": 36.2622255,
+     "lon": -95.9109195
+    },
+    {
+     "lat": 36.2622731,
+     "lon": -95.9109195
+    },
+    {
+     "lat": 36.262273,
+     "lon": -95.9112281
+    },
+    {
+     "lat": 36.2625305,
+     "lon": -95.9112281
+    },
+    {
+     "lat": 36.2625305,
+     "lon": -95.9109172
+    },
+    {
+     "lat": 36.262878,
+     "lon": -95.9109172
+    },
+    {
+     "lat": 36.262878,
+     "lon": -95.9109496
+    },
+    {
+     "lat": 36.2629298,
+     "lon": -95.9109495
+    },
+    {
+     "lat": 36.2629298,
+     "lon": -95.9109162
+    },
+    {
+     "lat": 36.2629591,
+     "lon": -95.9109161
+    },
+    {
+     "lat": 36.2629592,
+     "lon": -95.9109856
+    },
+    {
+     "lat": 36.2630155,
+     "lon": -95.9109855
+    },
+    {
+     "lat": 36.2630154,
+     "lon": -95.9109282
+    },
+    {
+     "lat": 36.2636035,
+     "lon": -95.9109263
+    }
+   ],
+   "id": 195664350,
+   "tags": {
+    "addr:city": "Tulsa",
+    "addr:country": "US",
+    "addr:housenumber": "7400",
+    "addr:postcode": "74073",
+    "addr:state": "OK",
+    "addr:street": "North Lakewood Avenue",
+    "building": "industrial",
+    "name": "Cherokee Data Center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.9718664,
+    "maxlon": -96.4026291,
+    "minlat": 33.9715035,
+    "minlon": -96.4030686
+   },
+   "geometry": [
+    {
+     "lat": 33.9718664,
+     "lon": -96.4030658
+    },
+    {
+     "lat": 33.9718632,
+     "lon": -96.4026291
+    },
+    {
+     "lat": 33.9716056,
+     "lon": -96.4026319
+    },
+    {
+     "lat": 33.9716074,
+     "lon": -96.4028779
+    },
+    {
+     "lat": 33.9715035,
+     "lon": -96.402879
+    },
+    {
+     "lat": 33.9715042,
+     "lon": -96.4029757
+    },
+    {
+     "lat": 33.9716108,
+     "lon": -96.4029746
+    },
+    {
+     "lat": 33.9716115,
+     "lon": -96.4030686
+    },
+    {
+     "lat": 33.9718664,
+     "lon": -96.4030658
+    }
+   ],
+   "id": 726150321,
+   "tags": {
+    "addr:city": "Durant",
+    "addr:housenumber": "2053",
+    "addr:postcode": "74701",
+    "addr:state": "OK",
+    "addr:street": "Chukka Hina",
+    "building": "yes",
+    "building:levels": "1",
+    "government": "administrative",
+    "name": "Choctaw Nation of Oklahoma Data Center",
+    "office": "government",
+    "operator": "Choctaw Nation of oklahoma",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 36.0814436,
+    "maxlon": -95.8540447,
+    "minlat": 36.0810593,
+    "minlon": -95.8542537
+   },
+   "geometry": [
+    {
+     "lat": 36.0814432,
+     "lon": -95.8542537
+    },
+    {
+     "lat": 36.0814436,
+     "lon": -95.8540457
+    },
+    {
+     "lat": 36.0810596,
+     "lon": -95.8540447
+    },
+    {
+     "lat": 36.0810593,
+     "lon": -95.8542526
+    },
+    {
+     "lat": 36.0814432,
+     "lon": -95.8542537
+    }
+   ],
+   "id": 946014659,
+   "tags": {
+    "addr:city": "Tulsa",
+    "addr:country": "US",
+    "addr:housenumber": "10920",
+    "addr:postcode": "74146",
+    "addr:state": "OK",
+    "addr:street": "East 56th Street South",
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.5687815,
+    "maxlon": -95.5120006,
+    "minlat": 35.5674883,
+    "minlon": -95.5128326
+   },
+   "geometry": [
+    {
+     "lat": 35.5687719,
+     "lon": -95.5128326
+    },
+    {
+     "lat": 35.5674883,
+     "lon": -95.5128098
+    },
+    {
+     "lat": 35.5674978,
+     "lon": -95.5120006
+    },
+    {
+     "lat": 35.5687815,
+     "lon": -95.5120236
+    },
+    {
+     "lat": 35.5687719,
+     "lon": -95.5128326
+    }
+   ],
+   "id": 1387080629,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:16:04Z",
+  "timestamp_osm_base": "2026-10-21T17:24:40Z"
+ },
+ "version": 0.6
+}

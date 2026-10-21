@@ -1,0 +1,4 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+osm,way/1510517632,Amazon Web Services,,osm,way/1510517634,Amazon Web Services,,0.71,,254.3,0.793,1.0,0.0,1.0,[]|[]
+osm,way/1510517631,Amazon Web Services,,osm,way/1510517633,Amazon Web Services,,0.71,,254.5,0.793,1.0,0.0,1.0,[]|[]
+osm,way/1510517631,Amazon Web Services,,osm,way/1510517634,Amazon Web Services,,0.652,,413.1,0.624,1.0,0.0,1.0,[]|[]

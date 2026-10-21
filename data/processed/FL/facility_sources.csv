@@ -1,0 +1,80 @@
+facility_id,source,source_id,source_url,source_name
+nocroom-miami-it-services-4d092d,osm,node/3406467087,https://www.openstreetmap.org/node/3406467087,NocRoom Miami IT Services
+nocroom-miami-it-services-7fa668,osm,node/3406476814,https://www.openstreetmap.org/node/3406476814,NocRoom Miami IT Services
+hipergator-0cdeea,osm,node/8017899486,https://www.openstreetmap.org/node/8017899486,HiPerGator
+hipergator-0cdeea,osm,way/429782814,https://www.openstreetmap.org/way/429782814,UF Research Computing Center
+flexential-jacksonville-jax1-2-776cf8,osm,node/12112266917,https://www.openstreetmap.org/node/12112266917,Flexential Jacksonville
+flexential-jacksonville-jax1-2-776cf8,peeringdb,5000,https://www.peeringdb.com/fac/5000,Flexential - Jacksonville (JAX1/2)
+flexential-tampa-west-tpa01-02-8bfb1c,osm,node/12112380995,https://www.openstreetmap.org/node/12112380995,Flexential Tampa - West
+flexential-tampa-west-tpa01-02-8bfb1c,peeringdb,5009,https://www.peeringdb.com/fac/5009,Flexential - Tampa/West (TPA01/02)
+nap-of-the-americas-36c87e,osm,way/435518280,https://www.openstreetmap.org/way/435518280,NAP of the Americas
+unnamed-data-center-c4d567,osm,way/435531451,https://www.openstreetmap.org/way/435531451,
+cologix-jax1-7bf480,osm,way/497151852,https://www.openstreetmap.org/way/497151852,Cologix Jacksonville JAX1
+cologix-jax1-7bf480,peeringdb,1946,https://www.peeringdb.com/fac/1946,Cologix JAX1
+cyxtera-tampa-tp1-3d6e64,osm,way/523886201,https://www.openstreetmap.org/way/523886201,Cyxtera Tampa TP1
+unnamed-data-center-5fa400,osm,way/609126465,https://www.openstreetmap.org/way/609126465,
+flexential-fort-lauderdale-fll1-2-f47b23,osm,way/741629998,https://www.openstreetmap.org/way/741629998,Flexential Fort Lauderdale
+flexential-fort-lauderdale-fll1-2-f47b23,peeringdb,4994,https://www.peeringdb.com/fac/4994,Flexential - Fort Lauderdale (FLL1/2)
+e-foam-3c5f5a,osm,way/958728802,https://www.openstreetmap.org/way/958728802,E-Foam
+t-mobile-everglades-mso-data-center-991ce4,osm,way/1017518460,https://www.openstreetmap.org/way/1017518460,T-Mobile Everglades MSO Data Center
+unnamed-data-center-ec9ce9,osm,way/1034230196,https://www.openstreetmap.org/way/1034230196,
+flexential-tampa-north-tpa03-9886f8,osm,way/1085608797,https://www.openstreetmap.org/way/1085608797,Flexential Tampa - North
+flexential-tampa-north-tpa03-9886f8,peeringdb,5010,https://www.peeringdb.com/fac/5010,Flexential - Tampa/North (TPA03)
+equinix-mi1-miami-nota-6dae1a,peeringdb,15,https://www.peeringdb.com/fac/15,"Equinix MI1 - Miami, NOTA"
+im-critical-miami-2c2340,peeringdb,149,https://www.peeringdb.com/fac/149,iM Critical Miami
+wow-business-tampa-datacenter-df2322,peeringdb,397,https://www.peeringdb.com/fac/397,WOW! Business (Tampa Datacenter)
+the-franklin-exchange-tampa-f42e61,peeringdb,420,https://www.peeringdb.com/fac/420,The Franklin Exchange Tampa
+equinix-mi2-miami-d3f14a,peeringdb,558,https://www.peeringdb.com/fac/558,Equinix MI2 - Miami
+qts-miami-mia1-2913b7,peeringdb,582,https://www.peeringdb.com/fac/582,QTS Miami (MIA1)
+365-data-centers-ft-lauderdale-fll-32314c,peeringdb,605,https://www.peeringdb.com/fac/605,365 Data Centers Ft. Lauderdale (FLL)
+coresite-miami-mi1-b69e22,peeringdb,669,https://www.peeringdb.com/fac/669,CoreSite - Miami (MI1)
+colohouse-miami-238cfe,peeringdb,679,https://www.peeringdb.com/fac/679,ColoHouse Miami
+sba-edge-jacksonville-jax-4e37c0,peeringdb,1060,https://www.peeringdb.com/fac/1060,SBA Edge - Jacksonville (JAX)
+500-green-aka-volico-2-0-604543,peeringdb,1080,https://www.peeringdb.com/fac/1080,500 Green (AKA VOLICO 2.0)
+equinix-mi3-miami-boca-raton-825e86,peeringdb,1271,https://www.peeringdb.com/fac/1271,"Equinix MI3 - Miami, Boca Raton"
+hivelocity-71a5e7,peeringdb,1309,https://www.peeringdb.com/fac/1309,Hivelocity
+databank-miami-mia1-8b4def,peeringdb,1718,https://www.peeringdb.com/fac/1718,DataBank Miami (MIA1)
+level-3-miami-5th-st-0b839c,peeringdb,1731,https://www.peeringdb.com/fac/1731,Level(3) Miami (5th St)
+telefonica-keycenter-38f8b1,peeringdb,1841,https://www.peeringdb.com/fac/1841,Telefonica KeyCenter
+edgeconnex-miami-edcmia01-70c493,peeringdb,1923,https://www.peeringdb.com/fac/1923,EdgeConneX Miami (EDCMIA01)
+digital-realty-mia-36-ne-2nd-st-1bbfa7,peeringdb,1947,https://www.peeringdb.com/fac/1947,Digital Realty MIA (36 NE 2nd St)
+south-reach-networks-31a1a0,peeringdb,1955,https://www.peeringdb.com/fac/1955,South Reach Networks
+edgeconnex-tallahassee-edctal01-e0047b,peeringdb,2074,https://www.peeringdb.com/fac/2074,EdgeConneX Tallahassee (EDCTAL01)
+edgeconnex-jacksonville-edcjax01-3d674c,peeringdb,2076,https://www.peeringdb.com/fac/2076,EdgeConneX Jacksonville (EDCJAX01)
+h5-data-centers-tampa-82d720,peeringdb,2086,https://www.peeringdb.com/fac/2086,H5 Data Centers Tampa
+sd-data-center-8f5825,peeringdb,2126,https://www.peeringdb.com/fac/2126,SD Data Center
+cologix-jax2-fcf0d9,peeringdb,2379,https://www.peeringdb.com/fac/2379,Cologix JAX2
+cologix-lak1-2c394b,peeringdb,2380,https://www.peeringdb.com/fac/2380,Cologix LAK1
+centersquare-tampa-tpa1-f7cf7a,peeringdb,2655,https://www.peeringdb.com/fac/2655,Centersquare Tampa (TPA1)
+mdc1-36-ne-2nd-st-f8c5d5,peeringdb,3441,https://www.peeringdb.com/fac/3441,MDC1 - 36 NE 2nd St
+nwt-data-center-91b615,peeringdb,3581,https://www.peeringdb.com/fac/3581,NWT Data Center
+im-datacenter-b2012c,peeringdb,3582,https://www.peeringdb.com/fac/3582,IM Datacenter
+coresite-orlando-or1-16b2a1,peeringdb,3647,https://www.peeringdb.com/fac/3647,CoreSite - Orlando (OR1)
+tierpoint-jacksonville-78f13e,peeringdb,4373,https://www.peeringdb.com/fac/4373,TierPoint Jacksonville
+edgeconnex-miami-edcmia02-c052af,peeringdb,5111,https://www.peeringdb.com/fac/5111,EdgeConneX Miami (EDCMIA02)
+lawton-information-services-llc-e60ee7,peeringdb,5204,https://www.peeringdb.com/fac/5204,"Lawton Information Services, LLC"
+hostdime-orlando-data-center-35a0ce,peeringdb,5211,https://www.peeringdb.com/fac/5211,HostDime Orlando Data Center
+jax-nap-6bd490,peeringdb,5617,https://www.peeringdb.com/fac/5617,JAX NAP
+peer-point-colocation-cdd471,peeringdb,6439,https://www.peeringdb.com/fac/6439,Peer-Point Colocation
+upx-miami-acecff,peeringdb,6529,https://www.peeringdb.com/fac/6529,UPX Miami
+smart-city-telecom-maitland-colo-d9b619,peeringdb,6915,https://www.peeringdb.com/fac/6915,Smart City Telecom Maitland Colo
+frontier-tampa-main-tandem-office-7c8053,peeringdb,8240,https://www.peeringdb.com/fac/8240,Frontier Tampa Main Tandem Office
+nav-galo-data-center-miami-mi1-b0ba46,peeringdb,8257,https://www.peeringdb.com/fac/8257,Navégalo Data Center Miami (MI1)
+cogent-tampa-bcb87e,peeringdb,8566,https://www.peeringdb.com/fac/8566,Cogent Tampa
+equinix-mi6-miami-doral-4ea16c,peeringdb,9067,https://www.peeringdb.com/fac/9067,"Equinix MI6 - Miami, Doral"
+telxius-boca-raton-dc-436aaf,peeringdb,9085,https://www.peeringdb.com/fac/9085,Telxius Boca Raton DC
+colo-solutions-downtown-orlando-2840c7,peeringdb,9416,https://www.peeringdb.com/fac/9416,Colo Solutions Downtown Orlando
+dnsnetworks-idc4-23b5a0,peeringdb,9707,https://www.peeringdb.com/fac/9707,DNSnetworks IDC4
+globenet-boca-raton-cls-5b2f27,peeringdb,9738,https://www.peeringdb.com/fac/9738,Globenet Boca Raton CLS
+acehost-tampa-274abc,peeringdb,9900,https://www.peeringdb.com/fac/9900,AceHost Tampa
+cogent-boca-raton-e0ae69,peeringdb,10473,https://www.peeringdb.com/fac/10473,Cogent Boca Raton
+acw-winter-haven-031272,peeringdb,10960,https://www.peeringdb.com/fac/10960,ACW Winter Haven
+scalematrix-jacksonville-data-center-us-sout-fdea35,peeringdb,11011,https://www.peeringdb.com/fac/11011,ScaleMatrix Jacksonville Data Center US-South 02
+blubroadband-shell-ave-2ce5cf,peeringdb,11255,https://www.peeringdb.com/fac/11255,BluBroadband Shell Ave
+hostdime-orlando-tier-iv-data-center-241322,peeringdb,12749,https://www.peeringdb.com/fac/12749,HostDime Orlando Tier IV Data Center
+lumen-jacksonville-74c92d,peeringdb,13510,https://www.peeringdb.com/fac/13510,Lumen Jacksonville
+skylink-data-centers-c9c376,peeringdb,13975,https://www.peeringdb.com/fac/13975,SKYLINK DATA CENTERS
+coresite-miami-mi2-30f4d0,peeringdb,14327,https://www.peeringdb.com/fac/14327,CoreSite - Miami (MI2)
+carrier-core-tampa-e408ea,peeringdb,14750,https://www.peeringdb.com/fac/14750,Carrier Core - Tampa
+3hcloud-mia-1-80c41b,peeringdb,15282,https://www.peeringdb.com/fac/15282,3HCloud - MIA-1
+3hcloud-mia-2-9b87db,peeringdb,15283,https://www.peeringdb.com/fac/15283,3HCloud - MIA-2

@@ -1,0 +1,28 @@
+{
+ "elements": [
+  {
+   "id": 751881301,
+   "lat": 38.9028879,
+   "lon": -77.0291491,
+   "tags": {
+    "addr:housenumber": "1275",
+    "addr:street": "K Street Northwest",
+    "clli": "WASHDC12",
+    "name": "CoreSite DC1",
+    "operator": "CoreSite",
+    "operator:wikidata": "Q5170140",
+    "source": "dcgis",
+    "telecom": "data_center",
+    "website": "https://www.coresite.com/data-center/dc1-washington-d-c"
+   },
+   "type": "node"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:56:34Z",
+  "timestamp_osm_base": "2026-10-21T16:49:15Z"
+ },
+ "version": 0.6
+}

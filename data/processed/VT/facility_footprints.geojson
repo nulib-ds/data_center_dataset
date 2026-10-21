@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "facility_footprints",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "facility_id": "the-putney-school-33b160", "name": "The Putney School", "operator": "The Putney School", "operator_confidence": "unresolved", "facility_class": "unknown", "lat": 42.987626835663043, "lon": -72.551756170388046, "address": null, "city": null, "postcode": null, "utility": null, "utility_candidates": null, "year_built": null, "building_levels_reported": 1.0, "building_levels_used": 1.0, "partial_occupancy": false, "footprint_sqft": 130.53142141399528, "est_gross_sqft": 130.53142141399528, "est_white_space_sqft": 78.318852848397157, "best_power_mw": 0.014880582041195458, "power_ci_low_mw": 0.0070486967563557455, "power_ci_high_mw": 0.026315134557061446, "power_tier": "C_area", "n_power_methods": 1.0, "est_annual_gwh": 0.1323092071610853, "pdb_net_count": null, "pdb_ix_count": null, "pdb_carrier_count": null, "clli": null, "website": null, "source_list": "osm", "n_sources": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -72.5517605, 42.9876488 ], [ -72.5517267, 42.9876321 ], [ -72.5517519, 42.9876049 ], [ -72.5517856, 42.9876215 ], [ -72.5517605, 42.9876488 ] ] ] } }
+]
+}

@@ -1,0 +1,2768 @@
+{
+ "elements": [
+  {
+   "id": 9736262934,
+   "lat": 42.9902011,
+   "lon": -78.8123836,
+   "tags": {
+    "addr:city": "Amherst",
+    "addr:housenumber": "4033",
+    "addr:postcode": "14226",
+    "addr:state": "NY",
+    "addr:street": "Maple Road",
+    "name": "Frontier Science",
+    "phone": "+1-716-834-0900",
+    "telecom": "data_center",
+    "website": "https://www.frontierscience.org"
+   },
+   "type": "node"
+  },
+  {
+   "id": 12221811811,
+   "lat": 40.719928,
+   "lon": -74.0044583,
+   "tags": {
+    "addr:city": "New York",
+    "addr:housenumber": "32",
+    "addr:postcode": "10013",
+    "addr:state": "NY",
+    "addr:street": "Avenue of the Americas",
+    "name": "Digital Realty New York JFK13",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "JFK13",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/new-york/jfk13"
+   },
+   "type": "node"
+  },
+  {
+   "id": 12221880448,
+   "lat": 40.7176766,
+   "lon": -74.0084414,
+   "tags": {
+    "addr:city": "New York",
+    "addr:housenumber": "60",
+    "addr:postcode": "10013",
+    "addr:state": "NY",
+    "addr:street": "Hudson Street",
+    "name": "Digital Realty New York JFK12",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "JFK12",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/new-york/jfk12"
+   },
+   "type": "node"
+  },
+  {
+   "id": 12682482760,
+   "lat": 42.7356308,
+   "lon": -73.818665,
+   "tags": {
+    "addr:city": "Albany",
+    "addr:housenumber": "10",
+    "addr:postcode": "12205",
+    "addr:state": "NY",
+    "addr:street": "Airline Drive",
+    "name": "Lumen Albany 4",
+    "operator": "Lumen Technologies",
+    "operator:wikidata": "Q5063092",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 12766117170,
+   "lat": 40.6576957,
+   "lon": -74.0048163,
+   "tags": {
+    "addr:city": "Brooklyn",
+    "addr:housenumber": "882",
+    "addr:state": "NY",
+    "addr:street": "3rd Avenue",
+    "name": "Dataverge",
+    "operator": "Dataverge",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 14076988553,
+   "lat": 42.6492566,
+   "lon": -73.7528179,
+   "tags": {
+    "addr:city": "Albany",
+    "addr:housenumber": "80",
+    "addr:postcode": "12207",
+    "addr:state": "NY",
+    "addr:street": "State Street",
+    "clli": "ALBYNY80",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.6683729,
+    "maxlon": -74.980233,
+    "minlat": 44.66784,
+    "minlon": -74.9809309
+   },
+   "geometry": [
+    {
+     "lat": 44.6683674,
+     "lon": -74.9809309
+    },
+    {
+     "lat": 44.6683703,
+     "lon": -74.9807545
+    },
+    {
+     "lat": 44.6682145,
+     "lon": -74.9807495
+    },
+    {
+     "lat": 44.6682192,
+     "lon": -74.980461
+    },
+    {
+     "lat": 44.6683712,
+     "lon": -74.9804438
+    },
+    {
+     "lat": 44.6683729,
+     "lon": -74.9802501
+    },
+    {
+     "lat": 44.6678432,
+     "lon": -74.980233
+    },
+    {
+     "lat": 44.66784,
+     "lon": -74.9804282
+    },
+    {
+     "lat": 44.6680126,
+     "lon": -74.9804338
+    },
+    {
+     "lat": 44.6680108,
+     "lon": -74.9805413
+    },
+    {
+     "lat": 44.667953,
+     "lon": -74.9805395
+    },
+    {
+     "lat": 44.6679513,
+     "lon": -74.9806466
+    },
+    {
+     "lat": 44.6680247,
+     "lon": -74.980649
+    },
+    {
+     "lat": 44.6680228,
+     "lon": -74.9807615
+    },
+    {
+     "lat": 44.6678659,
+     "lon": -74.9807564
+    },
+    {
+     "lat": 44.6678633,
+     "lon": -74.9809146
+    },
+    {
+     "lat": 44.6683674,
+     "lon": -74.9809309
+    }
+   ],
+   "id": 42000820,
+   "tags": {
+    "addr:state": "NY",
+    "amenity": "university",
+    "building": "yes",
+    "building:use": "data_center",
+    "education": "university",
+    "ele": "131",
+    "gnis:feature_id": "2400697",
+    "name": "Old Main",
+    "operator": "Clarkson University",
+    "source": "USGS Geonames",
+    "source:ref": "https://colo.clarkson.edu/",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.6078212,
+    "maxlon": -74.1725971,
+    "minlat": 40.6069378,
+    "minlon": -74.1737366
+   },
+   "geometry": [
+    {
+     "lat": 40.6069378,
+     "lon": -74.1734553
+    },
+    {
+     "lat": 40.6076037,
+     "lon": -74.1737283
+    },
+    {
+     "lat": 40.607624,
+     "lon": -74.1737366
+    },
+    {
+     "lat": 40.6077471,
+     "lon": -74.1732197
+    },
+    {
+     "lat": 40.6077705,
+     "lon": -74.1731214
+    },
+    {
+     "lat": 40.6078212,
+     "lon": -74.1729087
+    },
+    {
+     "lat": 40.6077429,
+     "lon": -74.1728766
+    },
+    {
+     "lat": 40.607735,
+     "lon": -74.1728613
+    },
+    {
+     "lat": 40.6077303,
+     "lon": -74.1728544
+    },
+    {
+     "lat": 40.6077197,
+     "lon": -74.1728422
+    },
+    {
+     "lat": 40.6077077,
+     "lon": -74.1728324
+    },
+    {
+     "lat": 40.6076946,
+     "lon": -74.1728255
+    },
+    {
+     "lat": 40.6076808,
+     "lon": -74.1728214
+    },
+    {
+     "lat": 40.6076667,
+     "lon": -74.1728205
+    },
+    {
+     "lat": 40.6076512,
+     "lon": -74.1728231
+    },
+    {
+     "lat": 40.6076327,
+     "lon": -74.1728314
+    },
+    {
+     "lat": 40.6071926,
+     "lon": -74.172651
+    },
+    {
+     "lat": 40.6071872,
+     "lon": -74.1726488
+    },
+    {
+     "lat": 40.6071838,
+     "lon": -74.1726411
+    },
+    {
+     "lat": 40.6071757,
+     "lon": -74.1726268
+    },
+    {
+     "lat": 40.6071658,
+     "lon": -74.1726145
+    },
+    {
+     "lat": 40.6071545,
+     "lon": -74.1726045
+    },
+    {
+     "lat": 40.6071422,
+     "lon": -74.1725971
+    },
+    {
+     "lat": 40.6069378,
+     "lon": -74.1734553
+    }
+   ],
+   "id": 247427998,
+   "tags": {
+    "addr:housenumber": "10",
+    "addr:postcode": "10314",
+    "addr:street": "Teleport Drive",
+    "building": "data_center",
+    "height": "16.2",
+    "name": "Merrill Lynch Data Center",
+    "nycdoitt:bin": "5146617",
+    "operator": "Merrill Lynch",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.6076303,
+    "maxlon": -74.1743571,
+    "minlat": 40.6064431,
+    "minlon": -74.1754525
+   },
+   "geometry": [
+    {
+     "lat": 40.6066745,
+     "lon": -74.1743571
+    },
+    {
+     "lat": 40.6066567,
+     "lon": -74.1744309
+    },
+    {
+     "lat": 40.6066521,
+     "lon": -74.1744499
+    },
+    {
+     "lat": 40.6066412,
+     "lon": -74.1744953
+    },
+    {
+     "lat": 40.606612,
+     "lon": -74.1744833
+    },
+    {
+     "lat": 40.6065877,
+     "lon": -74.1745843
+    },
+    {
+     "lat": 40.6066184,
+     "lon": -74.174597
+    },
+    {
+     "lat": 40.6065366,
+     "lon": -74.1749371
+    },
+    {
+     "lat": 40.6064454,
+     "lon": -74.1750686
+    },
+    {
+     "lat": 40.6064662,
+     "lon": -74.1750937
+    },
+    {
+     "lat": 40.6064549,
+     "lon": -74.1751099
+    },
+    {
+     "lat": 40.6064431,
+     "lon": -74.1751268
+    },
+    {
+     "lat": 40.6064994,
+     "lon": -74.1751943
+    },
+    {
+     "lat": 40.6065214,
+     "lon": -74.1751617
+    },
+    {
+     "lat": 40.6065476,
+     "lon": -74.1751923
+    },
+    {
+     "lat": 40.6065739,
+     "lon": -74.1752232
+    },
+    {
+     "lat": 40.6065528,
+     "lon": -74.1752541
+    },
+    {
+     "lat": 40.6067178,
+     "lon": -74.1754525
+    },
+    {
+     "lat": 40.6069671,
+     "lon": -74.1750955
+    },
+    {
+     "lat": 40.6072495,
+     "lon": -74.1751533
+    },
+    {
+     "lat": 40.6075694,
+     "lon": -74.1751957
+    },
+    {
+     "lat": 40.6075767,
+     "lon": -74.175162
+    },
+    {
+     "lat": 40.607594,
+     "lon": -74.1751692
+    },
+    {
+     "lat": 40.6076303,
+     "lon": -74.1750181
+    },
+    {
+     "lat": 40.607613,
+     "lon": -74.1750109
+    },
+    {
+     "lat": 40.6076213,
+     "lon": -74.1749765
+    },
+    {
+     "lat": 40.607588,
+     "lon": -74.1749627
+    },
+    {
+     "lat": 40.6075157,
+     "lon": -74.1749328
+    },
+    {
+     "lat": 40.6075225,
+     "lon": -74.1749048
+    },
+    {
+     "lat": 40.6074903,
+     "lon": -74.1748912
+    },
+    {
+     "lat": 40.6075333,
+     "lon": -74.1747124
+    },
+    {
+     "lat": 40.6074065,
+     "lon": -74.1746603
+    },
+    {
+     "lat": 40.6071754,
+     "lon": -74.1745646
+    },
+    {
+     "lat": 40.607155,
+     "lon": -74.1745561
+    },
+    {
+     "lat": 40.6071252,
+     "lon": -74.1745438
+    },
+    {
+     "lat": 40.6069753,
+     "lon": -74.1744817
+    },
+    {
+     "lat": 40.6069499,
+     "lon": -74.1744712
+    },
+    {
+     "lat": 40.6068266,
+     "lon": -74.1744201
+    },
+    {
+     "lat": 40.6067438,
+     "lon": -74.1743858
+    },
+    {
+     "lat": 40.6067053,
+     "lon": -74.1743699
+    },
+    {
+     "lat": 40.6066745,
+     "lon": -74.1743571
+    }
+   ],
+   "id": 247428943,
+   "tags": {
+    "addr:city": "New York City",
+    "addr:housenumber": "7",
+    "addr:postcode": "10314",
+    "addr:state": "NY",
+    "addr:street": "Teleport Drive",
+    "building": "commercial",
+    "height": "15.5",
+    "name": "Telehouse Teleport",
+    "nycdoitt:bin": "5111181",
+    "operator": "Telehouse",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7203951,
+    "maxlon": -74.0041206,
+    "minlat": 40.7195929,
+    "minlon": -74.005016
+   },
+   "geometry": [
+    {
+     "lat": 40.7195929,
+     "lon": -74.0044825
+    },
+    {
+     "lat": 40.7197836,
+     "lon": -74.0048726
+    },
+    {
+     "lat": 40.7198372,
+     "lon": -74.0049852
+    },
+    {
+     "lat": 40.7199426,
+     "lon": -74.0049897
+    },
+    {
+     "lat": 40.7199498,
+     "lon": -74.0050051
+    },
+    {
+     "lat": 40.7199679,
+     "lon": -74.0049908
+    },
+    {
+     "lat": 40.7200101,
+     "lon": -74.0049926
+    },
+    {
+     "lat": 40.7200164,
+     "lon": -74.0050065
+    },
+    {
+     "lat": 40.7200319,
+     "lon": -74.0049935
+    },
+    {
+     "lat": 40.7201463,
+     "lon": -74.0049984
+    },
+    {
+     "lat": 40.7201522,
+     "lon": -74.0050114
+    },
+    {
+     "lat": 40.7201673,
+     "lon": -74.0049993
+    },
+    {
+     "lat": 40.7202063,
+     "lon": -74.005001
+    },
+    {
+     "lat": 40.7202132,
+     "lon": -74.005016
+    },
+    {
+     "lat": 40.7202306,
+     "lon": -74.005002
+    },
+    {
+     "lat": 40.7203467,
+     "lon": -74.005007
+    },
+    {
+     "lat": 40.7203951,
+     "lon": -74.0048818
+    },
+    {
+     "lat": 40.7202903,
+     "lon": -74.0046628
+    },
+    {
+     "lat": 40.7202599,
+     "lon": -74.0045966
+    },
+    {
+     "lat": 40.7201281,
+     "lon": -74.0043093
+    },
+    {
+     "lat": 40.720094,
+     "lon": -74.004235
+    },
+    {
+     "lat": 40.7200415,
+     "lon": -74.0041206
+    },
+    {
+     "lat": 40.7198808,
+     "lon": -74.0042491
+    },
+    {
+     "lat": 40.7198216,
+     "lon": -74.0042964
+    },
+    {
+     "lat": 40.7196483,
+     "lon": -74.0044353
+    },
+    {
+     "lat": 40.7195929,
+     "lon": -74.0044825
+    }
+   ],
+   "id": 250052753,
+   "tags": {
+    "building": "yes",
+    "clli": "NYCMNYAA",
+    "name": "32 Avenue of the Americas",
+    "nycdoitt:bin": "1002192",
+    "start_date": "1932",
+    "telecom": "data_center",
+    "wikidata": "Q4635012",
+    "wikipedia": "en:32 Avenue of the Americas"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.6798477,
+    "maxlon": -76.9473534,
+    "minlat": 42.6788697,
+    "minlon": -76.9498088
+   },
+   "geometry": [
+    {
+     "lat": 42.6794562,
+     "lon": -76.947591
+    },
+    {
+     "lat": 42.6794385,
+     "lon": -76.9475826
+    },
+    {
+     "lat": 42.6790311,
+     "lon": -76.9491692
+    },
+    {
+     "lat": 42.6789623,
+     "lon": -76.9491366
+    },
+    {
+     "lat": 42.6788697,
+     "lon": -76.9494973
+    },
+    {
+     "lat": 42.6790513,
+     "lon": -76.9495835
+    },
+    {
+     "lat": 42.6791337,
+     "lon": -76.9492627
+    },
+    {
+     "lat": 42.6793683,
+     "lon": -76.9493741
+    },
+    {
+     "lat": 42.6792978,
+     "lon": -76.9496487
+    },
+    {
+     "lat": 42.6796349,
+     "lon": -76.9498088
+    },
+    {
+     "lat": 42.6797063,
+     "lon": -76.9495308
+    },
+    {
+     "lat": 42.679431,
+     "lon": -76.9494
+    },
+    {
+     "lat": 42.6798477,
+     "lon": -76.947777
+    },
+    {
+     "lat": 42.6796749,
+     "lon": -76.9476949
+    },
+    {
+     "lat": 42.6797359,
+     "lon": -76.9474573
+    },
+    {
+     "lat": 42.6795172,
+     "lon": -76.9473534
+    },
+    {
+     "lat": 42.6794562,
+     "lon": -76.947591
+    }
+   ],
+   "id": 253670255,
+   "tags": {
+    "building": "industrial",
+    "building:use": "data_center",
+    "generator:source": "gas",
+    "industrial": "data_centre",
+    "name": "Greenidge Power Plant and Data Center",
+    "operator": "Greenidge Generation Holdings Inc.",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7168293,
+    "maxlon": -74.0054281,
+    "minlat": 40.7162121,
+    "minlon": -74.0063754
+   },
+   "geometry": [
+    {
+     "lat": 40.7168293,
+     "lon": -74.0061277
+    },
+    {
+     "lat": 40.7167672,
+     "lon": -74.0061757
+    },
+    {
+     "lat": 40.7167743,
+     "lon": -74.0061919
+    },
+    {
+     "lat": 40.7167888,
+     "lon": -74.0062245
+    },
+    {
+     "lat": 40.7167536,
+     "lon": -74.0062516
+    },
+    {
+     "lat": 40.7167464,
+     "lon": -74.0062352
+    },
+    {
+     "lat": 40.7167301,
+     "lon": -74.0062477
+    },
+    {
+     "lat": 40.7167375,
+     "lon": -74.0062643
+    },
+    {
+     "lat": 40.7167046,
+     "lon": -74.0062897
+    },
+    {
+     "lat": 40.7166989,
+     "lon": -74.0062771
+    },
+    {
+     "lat": 40.7166831,
+     "lon": -74.0062893
+    },
+    {
+     "lat": 40.7166902,
+     "lon": -74.0063053
+    },
+    {
+     "lat": 40.7166537,
+     "lon": -74.0063335
+    },
+    {
+     "lat": 40.7166479,
+     "lon": -74.0063205
+    },
+    {
+     "lat": 40.7166371,
+     "lon": -74.0063289
+    },
+    {
+     "lat": 40.7166425,
+     "lon": -74.0063412
+    },
+    {
+     "lat": 40.7166053,
+     "lon": -74.0063699
+    },
+    {
+     "lat": 40.7165913,
+     "lon": -74.0063383
+    },
+    {
+     "lat": 40.7165845,
+     "lon": -74.0063231
+    },
+    {
+     "lat": 40.7165168,
+     "lon": -74.0063754
+    },
+    {
+     "lat": 40.7164768,
+     "lon": -74.0062851
+    },
+    {
+     "lat": 40.7164519,
+     "lon": -74.0062292
+    },
+    {
+     "lat": 40.7164636,
+     "lon": -74.0062202
+    },
+    {
+     "lat": 40.7164553,
+     "lon": -74.0062017
+    },
+    {
+     "lat": 40.7164438,
+     "lon": -74.0062106
+    },
+    {
+     "lat": 40.7164189,
+     "lon": -74.0061545
+    },
+    {
+     "lat": 40.7164288,
+     "lon": -74.0061468
+    },
+    {
+     "lat": 40.7164206,
+     "lon": -74.0061284
+    },
+    {
+     "lat": 40.7164118,
+     "lon": -74.0061352
+    },
+    {
+     "lat": 40.7163866,
+     "lon": -74.0060785
+    },
+    {
+     "lat": 40.7163977,
+     "lon": -74.0060699
+    },
+    {
+     "lat": 40.7163892,
+     "lon": -74.0060508
+    },
+    {
+     "lat": 40.7163799,
+     "lon": -74.006058
+    },
+    {
+     "lat": 40.7163528,
+     "lon": -74.0059969
+    },
+    {
+     "lat": 40.7163164,
+     "lon": -74.0059149
+    },
+    {
+     "lat": 40.7163069,
+     "lon": -74.0058935
+    },
+    {
+     "lat": 40.7162901,
+     "lon": -74.0058557
+    },
+    {
+     "lat": 40.7162809,
+     "lon": -74.0058349
+    },
+    {
+     "lat": 40.7162933,
+     "lon": -74.0058254
+    },
+    {
+     "lat": 40.7162908,
+     "lon": -74.0058198
+    },
+    {
+     "lat": 40.7162884,
+     "lon": -74.0058144
+    },
+    {
+     "lat": 40.7162757,
+     "lon": -74.0058242
+    },
+    {
+     "lat": 40.7162612,
+     "lon": -74.0057915
+    },
+    {
+     "lat": 40.7162496,
+     "lon": -74.0057654
+    },
+    {
+     "lat": 40.7162291,
+     "lon": -74.0057191
+    },
+    {
+     "lat": 40.7162121,
+     "lon": -74.0056808
+    },
+    {
+     "lat": 40.716268,
+     "lon": -74.0056377
+    },
+    {
+     "lat": 40.7162595,
+     "lon": -74.0056186
+    },
+    {
+     "lat": 40.7162952,
+     "lon": -74.005591
+    },
+    {
+     "lat": 40.7163028,
+     "lon": -74.0056082
+    },
+    {
+     "lat": 40.7163208,
+     "lon": -74.0055943
+    },
+    {
+     "lat": 40.716314,
+     "lon": -74.005579
+    },
+    {
+     "lat": 40.716345,
+     "lon": -74.005555
+    },
+    {
+     "lat": 40.7163515,
+     "lon": -74.0055697
+    },
+    {
+     "lat": 40.7163674,
+     "lon": -74.0055575
+    },
+    {
+     "lat": 40.7163607,
+     "lon": -74.0055424
+    },
+    {
+     "lat": 40.7163951,
+     "lon": -74.0055159
+    },
+    {
+     "lat": 40.7164013,
+     "lon": -74.00553
+    },
+    {
+     "lat": 40.7164146,
+     "lon": -74.0055198
+    },
+    {
+     "lat": 40.7164076,
+     "lon": -74.005504
+    },
+    {
+     "lat": 40.716442,
+     "lon": -74.0054774
+    },
+    {
+     "lat": 40.7164482,
+     "lon": -74.0054916
+    },
+    {
+     "lat": 40.7164616,
+     "lon": -74.0054813
+    },
+    {
+     "lat": 40.716455,
+     "lon": -74.0054666
+    },
+    {
+     "lat": 40.7165049,
+     "lon": -74.0054281
+    },
+    {
+     "lat": 40.7165093,
+     "lon": -74.0054379
+    },
+    {
+     "lat": 40.7165198,
+     "lon": -74.0054297
+    },
+    {
+     "lat": 40.7165637,
+     "lon": -74.0055288
+    },
+    {
+     "lat": 40.7165897,
+     "lon": -74.0055873
+    },
+    {
+     "lat": 40.7165777,
+     "lon": -74.0055966
+    },
+    {
+     "lat": 40.7165826,
+     "lon": -74.0056075
+    },
+    {
+     "lat": 40.7165954,
+     "lon": -74.0055976
+    },
+    {
+     "lat": 40.7166216,
+     "lon": -74.0056566
+    },
+    {
+     "lat": 40.7166663,
+     "lon": -74.0057574
+    },
+    {
+     "lat": 40.7166911,
+     "lon": -74.0058133
+    },
+    {
+     "lat": 40.7166807,
+     "lon": -74.0058213
+    },
+    {
+     "lat": 40.7166889,
+     "lon": -74.0058399
+    },
+    {
+     "lat": 40.7167006,
+     "lon": -74.0058309
+    },
+    {
+     "lat": 40.7167255,
+     "lon": -74.005887
+    },
+    {
+     "lat": 40.7167157,
+     "lon": -74.0058945
+    },
+    {
+     "lat": 40.7167239,
+     "lon": -74.005913
+    },
+    {
+     "lat": 40.7167328,
+     "lon": -74.0059061
+    },
+    {
+     "lat": 40.716758,
+     "lon": -74.0059628
+    },
+    {
+     "lat": 40.716747,
+     "lon": -74.0059713
+    },
+    {
+     "lat": 40.7167555,
+     "lon": -74.0059904
+    },
+    {
+     "lat": 40.7167651,
+     "lon": -74.0059829
+    },
+    {
+     "lat": 40.7167923,
+     "lon": -74.0060442
+    },
+    {
+     "lat": 40.7168293,
+     "lon": -74.0061277
+    }
+   ],
+   "id": 289884123,
+   "tags": {
+    "addr:city": "New York",
+    "addr:housenumber": "33",
+    "addr:postcode": "10007",
+    "addr:state": "NY",
+    "addr:street": "Thomas Street",
+    "building": "yes",
+    "building:colour": "#a2867a",
+    "building:material": "granite",
+    "height": "170",
+    "name": "33 Thomas Street",
+    "nycdoitt:bin": "1085517",
+    "old_name": "AT&T Long Lines Building",
+    "start_date": "1974",
+    "telecom": "data_center",
+    "wikidata": "Q4635219",
+    "wikipedia": "en:33 Thomas Street"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.8440409,
+    "maxlon": -72.8829186,
+    "minlat": 40.8432629,
+    "minlon": -72.8838328
+   },
+   "geometry": [
+    {
+     "lat": 40.8439274,
+     "lon": -72.8835275
+    },
+    {
+     "lat": 40.8440409,
+     "lon": -72.88338
+    },
+    {
+     "lat": 40.8437362,
+     "lon": -72.8829699
+    },
+    {
+     "lat": 40.8436215,
+     "lon": -72.8831188
+    },
+    {
+     "lat": 40.8434728,
+     "lon": -72.8829186
+    },
+    {
+     "lat": 40.8432629,
+     "lon": -72.8831911
+    },
+    {
+     "lat": 40.843397,
+     "lon": -72.8833716
+    },
+    {
+     "lat": 40.8433668,
+     "lon": -72.8834108
+    },
+    {
+     "lat": 40.8434613,
+     "lon": -72.8835381
+    },
+    {
+     "lat": 40.8434924,
+     "lon": -72.8834978
+    },
+    {
+     "lat": 40.8437413,
+     "lon": -72.8838328
+    },
+    {
+     "lat": 40.8439514,
+     "lon": -72.8835599
+    },
+    {
+     "lat": 40.8439274,
+     "lon": -72.8835275
+    }
+   ],
+   "id": 459188725,
+   "tags": {
+    "addr:city": "Shirley",
+    "addr:housenumber": "21",
+    "addr:postcode": "11967",
+    "addr:street": "Ramsey Road",
+    "building": "commercial",
+    "name": "Cable & Wireless Cable Landing Station",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.9514502,
+    "maxlon": -73.8975225,
+    "minlat": 40.9510893,
+    "minlon": -73.8982795
+   },
+   "geometry": [
+    {
+     "lat": 40.9514502,
+     "lon": -73.8981946
+    },
+    {
+     "lat": 40.9512643,
+     "lon": -73.8975225
+    },
+    {
+     "lat": 40.9510893,
+     "lon": -73.8976074
+    },
+    {
+     "lat": 40.9512752,
+     "lon": -73.8982795
+    },
+    {
+     "lat": 40.9514502,
+     "lon": -73.8981946
+    }
+   ],
+   "id": 802054282,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.075026,
+    "maxlon": -78.944434,
+    "minlat": 43.074636,
+    "minlon": -78.945184
+   },
+   "geometry": [
+    {
+     "lat": 43.074806,
+     "lon": -78.945184
+    },
+    {
+     "lat": 43.075026,
+     "lon": -78.945068
+    },
+    {
+     "lat": 43.074928,
+     "lon": -78.944717
+    },
+    {
+     "lat": 43.074957,
+     "lon": -78.944702
+    },
+    {
+     "lat": 43.074935,
+     "lon": -78.944625
+    },
+    {
+     "lat": 43.074961,
+     "lon": -78.944612
+    },
+    {
+     "lat": 43.074911,
+     "lon": -78.944434
+    },
+    {
+     "lat": 43.074636,
+     "lon": -78.944578
+    },
+    {
+     "lat": 43.074806,
+     "lon": -78.945184
+    }
+   ],
+   "id": 832622369,
+   "tags": {
+    "addr:city": "Niagara Falls",
+    "addr:housenumber": "1999",
+    "addr:postcode": "14304",
+    "addr:state": "NY",
+    "addr:street": "Frontier Avenue",
+    "building": "industrial",
+    "building:use": "data_center",
+    "industrial": "mine",
+    "note": "Cryptomining facility",
+    "nysgissam:nysaddresspointid": "NIAG038235",
+    "operator": "Blockfusion",
+    "source:data": "https://gis.ny.gov/gisdata",
+    "source:imagery": "ESRI Sat & NYS Sat Imagery",
+    "source:shape": "Modified MS Footprints https://cugir.library.cornell.edu",
+    "start_date": "2019",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.083513,
+    "maxlon": -79.002876,
+    "minlat": 43.083472,
+    "minlon": -79.003005
+   },
+   "geometry": [
+    {
+     "lat": 43.083472,
+     "lon": -79.002876
+    },
+    {
+     "lat": 43.083472,
+     "lon": -79.003005
+    },
+    {
+     "lat": 43.083513,
+     "lon": -79.003005
+    },
+    {
+     "lat": 43.083513,
+     "lon": -79.002876
+    },
+    {
+     "lat": 43.083472,
+     "lon": -79.002876
+    }
+   ],
+   "id": 832656125,
+   "tags": {
+    "addr:city": "Niagara Falls",
+    "addr:housenumber": "5380",
+    "addr:postcode": "14304",
+    "addr:state": "NY",
+    "addr:street": "Frontier Avenue",
+    "building": "industrial",
+    "building:use": "data_center",
+    "industrial": "data_center",
+    "name": "Blockfusion Niagra Falls",
+    "source:data": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYXJjZ2lzLmNvbS9hcHBzL2luc3RhbnQvc2lkZWJhci9pbmRleC5odG1sP2FwcGlkPWZkYjc2NzhmYjJlMzQ1ZWI4YjBhM2E0OTk3MTI0MGM0&guce_referrer_si",
+    "source:name": "FracTracker Alliance",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.083287,
+    "maxlon": -79.00303,
+    "minlat": 43.083229,
+    "minlon": -79.003092
+   },
+   "geometry": [
+    {
+     "lat": 43.083231,
+     "lon": -79.00303
+    },
+    {
+     "lat": 43.083229,
+     "lon": -79.003088
+    },
+    {
+     "lat": 43.083284,
+     "lon": -79.003092
+    },
+    {
+     "lat": 43.083287,
+     "lon": -79.003035
+    },
+    {
+     "lat": 43.083231,
+     "lon": -79.00303
+    }
+   ],
+   "id": 832656868,
+   "tags": {
+    "addr:city": "Niagara Falls",
+    "addr:housenumber": "5380",
+    "addr:postcode": "14304",
+    "addr:state": "NY",
+    "addr:street": "Frontier Avenue",
+    "building": "industrial",
+    "building:use": "data_center",
+    "industrial": "data_center",
+    "name": "Blockfusion Niagra Falls",
+    "source:data": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYXJjZ2lzLmNvbS9hcHBzL2luc3RhbnQvc2lkZWJhci9pbmRleC5odG1sP2FwcGlkPWZkYjc2NzhmYjJlMzQ1ZWI4YjBhM2E0OTk3MTI0MGM0&guce_referrer_si",
+    "source:name": "FracTracker Alliance",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.083065,
+    "maxlon": -79.003958,
+    "minlat": 43.082998,
+    "minlon": -79.004006
+   },
+   "geometry": [
+    {
+     "lat": 43.082998,
+     "lon": -79.004006
+    },
+    {
+     "lat": 43.083065,
+     "lon": -79.004006
+    },
+    {
+     "lat": 43.083065,
+     "lon": -79.003958
+    },
+    {
+     "lat": 43.082998,
+     "lon": -79.003958
+    },
+    {
+     "lat": 43.082998,
+     "lon": -79.004006
+    }
+   ],
+   "id": 832658041,
+   "tags": {
+    "addr:city": "Niagara Falls",
+    "addr:housenumber": "5380",
+    "addr:postcode": "14304",
+    "addr:state": "NY",
+    "addr:street": "Frontier Avenue",
+    "building": "industrial",
+    "building:use": "data_center",
+    "industrial": "data_center",
+    "name": "Blockfusion Niagra Falls",
+    "source:data": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYXJjZ2lzLmNvbS9hcHBzL2luc3RhbnQvc2lkZWJhci9pbmRleC5odG1sP2FwcGlkPWZkYjc2NzhmYjJlMzQ1ZWI4YjBhM2E0OTk3MTI0MGM0&guce_referrer_si",
+    "source:name": "FracTracker Alliance",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.7456097,
+    "maxlon": -73.758916,
+    "minlat": 42.7452797,
+    "minlon": -73.7594867
+   },
+   "geometry": [
+    {
+     "lat": 42.7456097,
+     "lon": -73.7593833
+    },
+    {
+     "lat": 42.7454693,
+     "lon": -73.758916
+    },
+    {
+     "lat": 42.7453907,
+     "lon": -73.758957
+    },
+    {
+     "lat": 42.745386,
+     "lon": -73.7589413
+    },
+    {
+     "lat": 42.7452797,
+     "lon": -73.7589968
+    },
+    {
+     "lat": 42.7452864,
+     "lon": -73.7590192
+    },
+    {
+     "lat": 42.7454034,
+     "lon": -73.7594867
+    },
+    {
+     "lat": 42.7456097,
+     "lon": -73.7593833
+    }
+   ],
+   "id": 871694597,
+   "tags": {
+    "addr:city": "Latham",
+    "addr:housenumber": "175",
+    "addr:postcode": "12110",
+    "addr:state": "NY",
+    "addr:street": "Old Loudon Road",
+    "building": "yes",
+    "name": "Turnkey Internet",
+    "telecom": "data_center",
+    "website": "https://www.turnkeyinternet.net/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.0453548,
+    "maxlon": -78.748806,
+    "minlat": 43.044533,
+    "minlon": -78.7496006
+   },
+   "geometry": [
+    {
+     "lat": 43.0445443,
+     "lon": -78.7494615
+    },
+    {
+     "lat": 43.0447452,
+     "lon": -78.7494534
+    },
+    {
+     "lat": 43.0447462,
+     "lon": -78.7494333
+    },
+    {
+     "lat": 43.0451529,
+     "lon": -78.7494226
+    },
+    {
+     "lat": 43.0451534,
+     "lon": -78.7495765
+    },
+    {
+     "lat": 43.0452965,
+     "lon": -78.7495751
+    },
+    {
+     "lat": 43.045297,
+     "lon": -78.7496006
+    },
+    {
+     "lat": 43.0453509,
+     "lon": -78.7496006
+    },
+    {
+     "lat": 43.0453548,
+     "lon": -78.748806
+    },
+    {
+     "lat": 43.0452852,
+     "lon": -78.7488107
+    },
+    {
+     "lat": 43.0452852,
+     "lon": -78.7488395
+    },
+    {
+     "lat": 43.0451456,
+     "lon": -78.7488449
+    },
+    {
+     "lat": 43.045148,
+     "lon": -78.7489958
+    },
+    {
+     "lat": 43.0448471,
+     "lon": -78.7489991
+    },
+    {
+     "lat": 43.0448457,
+     "lon": -78.7489099
+    },
+    {
+     "lat": 43.0448265,
+     "lon": -78.7488861
+    },
+    {
+     "lat": 43.0447631,
+     "lon": -78.7489777
+    },
+    {
+     "lat": 43.0445559,
+     "lon": -78.7489837
+    },
+    {
+     "lat": 43.0445572,
+     "lon": -78.7490249
+    },
+    {
+     "lat": 43.044533,
+     "lon": -78.7490259
+    },
+    {
+     "lat": 43.0445384,
+     "lon": -78.7492997
+    },
+    {
+     "lat": 43.0445573,
+     "lon": -78.7492987
+    },
+    {
+     "lat": 43.0445585,
+     "lon": -78.7493272
+    },
+    {
+     "lat": 43.0445442,
+     "lon": -78.7493299
+    },
+    {
+     "lat": 43.0445443,
+     "lon": -78.7494615
+    }
+   ],
+   "id": 916148870,
+   "tags": {
+    "addr:city": "Getzville",
+    "addr:housenumber": "350",
+    "addr:postcode": "14068",
+    "addr:state": "NY",
+    "addr:street": "Crosspoint Parkway",
+    "building": "data_center",
+    "nysgissam:nysaddresspointid": "ERIE197102",
+    "nysgissam:review": "no matching street nearby",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.0122834,
+    "maxlon": -76.1156321,
+    "minlat": 43.0118689,
+    "minlon": -76.1162185
+   },
+   "geometry": [
+    {
+     "lat": 43.0122834,
+     "lon": -76.1158451
+    },
+    {
+     "lat": 43.0120556,
+     "lon": -76.1156321
+    },
+    {
+     "lat": 43.0118689,
+     "lon": -76.1160054
+    },
+    {
+     "lat": 43.0120968,
+     "lon": -76.1162185
+    },
+    {
+     "lat": 43.0122834,
+     "lon": -76.1158451
+    }
+   ],
+   "id": 930043986,
+   "tags": {
+    "addr:city": "Onondaga",
+    "addr:housenumber": "623",
+    "addr:postcode": "13210",
+    "addr:state": "NY",
+    "addr:street": "Skytop Road",
+    "building": "yes",
+    "name": "SU Green Data Center",
+    "nysgissam:nysaddresspointid": "ONON158204",
+    "operator": "Syracuse University",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.0533119,
+    "maxlon": -73.9707988,
+    "minlat": 41.0513531,
+    "minlon": -73.9727503
+   },
+   "geometry": [
+    {
+     "lat": 41.053281,
+     "lon": -73.9724808
+    },
+    {
+     "lat": 41.0532803,
+     "lon": -73.9723286
+    },
+    {
+     "lat": 41.0532441,
+     "lon": -73.9723289
+    },
+    {
+     "lat": 41.0532419,
+     "lon": -73.9718556
+    },
+    {
+     "lat": 41.0533119,
+     "lon": -73.971855
+    },
+    {
+     "lat": 41.0533093,
+     "lon": -73.971301
+    },
+    {
+     "lat": 41.0528525,
+     "lon": -73.9713047
+    },
+    {
+     "lat": 41.0528523,
+     "lon": -73.9712561
+    },
+    {
+     "lat": 41.0525687,
+     "lon": -73.9712584
+    },
+    {
+     "lat": 41.0525665,
+     "lon": -73.9707988
+    },
+    {
+     "lat": 41.0520907,
+     "lon": -73.9708028
+    },
+    {
+     "lat": 41.0520929,
+     "lon": -73.9712627
+    },
+    {
+     "lat": 41.0518069,
+     "lon": -73.9712651
+    },
+    {
+     "lat": 41.0518071,
+     "lon": -73.9713123
+    },
+    {
+     "lat": 41.0513531,
+     "lon": -73.9713162
+    },
+    {
+     "lat": 41.0513558,
+     "lon": -73.9718657
+    },
+    {
+     "lat": 41.051424,
+     "lon": -73.9718651
+    },
+    {
+     "lat": 41.0514264,
+     "lon": -73.9723437
+    },
+    {
+     "lat": 41.0513883,
+     "lon": -73.9723441
+    },
+    {
+     "lat": 41.051389,
+     "lon": -73.9724961
+    },
+    {
+     "lat": 41.0518566,
+     "lon": -73.9724919
+    },
+    {
+     "lat": 41.0518563,
+     "lon": -73.9724241
+    },
+    {
+     "lat": 41.0519952,
+     "lon": -73.9724229
+    },
+    {
+     "lat": 41.0519968,
+     "lon": -73.9727342
+    },
+    {
+     "lat": 41.0520948,
+     "lon": -73.9727333
+    },
+    {
+     "lat": 41.0520949,
+     "lon": -73.9727503
+    },
+    {
+     "lat": 41.052218,
+     "lon": -73.9727493
+    },
+    {
+     "lat": 41.0522178,
+     "lon": -73.9727035
+    },
+    {
+     "lat": 41.052602,
+     "lon": -73.9727004
+    },
+    {
+     "lat": 41.0526006,
+     "lon": -73.9724156
+    },
+    {
+     "lat": 41.0528148,
+     "lon": -73.9724139
+    },
+    {
+     "lat": 41.0528152,
+     "lon": -73.9724846
+    },
+    {
+     "lat": 41.053281,
+     "lon": -73.9724808
+    }
+   ],
+   "id": 1092283612,
+   "tags": {
+    "addr:city": "Orangeburg",
+    "addr:housenumber": "65",
+    "addr:postcode": "10962",
+    "addr:state": "NY",
+    "addr:street": "3rd Avenue",
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.0828838,
+    "maxlon": -79.0301957,
+    "minlat": 43.0814735,
+    "minlon": -79.0313597
+   },
+   "geometry": [
+    {
+     "lat": 43.0823238,
+     "lon": -79.0310564
+    },
+    {
+     "lat": 43.0822743,
+     "lon": -79.0304522
+    },
+    {
+     "lat": 43.0828838,
+     "lon": -79.0303585
+    },
+    {
+     "lat": 43.0828704,
+     "lon": -79.0301957
+    },
+    {
+     "lat": 43.0822077,
+     "lon": -79.0302976
+    },
+    {
+     "lat": 43.0816826,
+     "lon": -79.0303784
+    },
+    {
+     "lat": 43.0817455,
+     "lon": -79.0311453
+    },
+    {
+     "lat": 43.0814735,
+     "lon": -79.0311871
+    },
+    {
+     "lat": 43.0814877,
+     "lon": -79.0313597
+    },
+    {
+     "lat": 43.08196,
+     "lon": -79.0312871
+    },
+    {
+     "lat": 43.0819459,
+     "lon": -79.0311145
+    },
+    {
+     "lat": 43.0823238,
+     "lon": -79.0310564
+    }
+   ],
+   "id": 1109643936,
+   "tags": {
+    "building": "industrial",
+    "building:use": "data_center",
+    "description": "Cryptomining facility",
+    "industrial": "factory",
+    "operator": "US Bitcoin",
+    "start_date": "2020",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.0821131,
+    "maxlon": -79.0033639,
+    "minlat": 43.0819444,
+    "minlon": -79.0034708
+   },
+   "geometry": [
+    {
+     "lat": 43.0819476,
+     "lon": -79.0034708
+    },
+    {
+     "lat": 43.0819444,
+     "lon": -79.0033744
+    },
+    {
+     "lat": 43.0821098,
+     "lon": -79.0033639
+    },
+    {
+     "lat": 43.0821131,
+     "lon": -79.0034602
+    },
+    {
+     "lat": 43.0819476,
+     "lon": -79.0034708
+    }
+   ],
+   "id": 1229749890,
+   "tags": {
+    "addr:city": "Niagara Falls",
+    "addr:housenumber": "5380",
+    "addr:postcode": "14304",
+    "addr:state": "NY",
+    "addr:street": "Frontier Avenue",
+    "building": "industrial",
+    "building:use": "data_center",
+    "industrial": "data_center",
+    "name": "Blockfusion Niagra Falls",
+    "source:data": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYXJjZ2lzLmNvbS9hcHBzL2luc3RhbnQvc2lkZWJhci9pbmRleC5odG1sP2FwcGlkPWZkYjc2NzhmYjJlMzQ1ZWI4YjBhM2E0OTk3MTI0MGM0&guce_referrer_si",
+    "source:name": "FracTracker Alliance",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.0822128,
+    "maxlon": -79.0034583,
+    "minlat": 43.0821438,
+    "minlon": -79.0035599
+   },
+   "geometry": [
+    {
+     "lat": 43.0821438,
+     "lon": -79.0035512
+    },
+    {
+     "lat": 43.0821507,
+     "lon": -79.0034583
+    },
+    {
+     "lat": 43.0822128,
+     "lon": -79.0034669
+    },
+    {
+     "lat": 43.0822059,
+     "lon": -79.0035599
+    },
+    {
+     "lat": 43.0821438,
+     "lon": -79.0035512
+    }
+   ],
+   "id": 1229749891,
+   "tags": {
+    "addr:city": "Niagara Falls",
+    "addr:housenumber": "5380",
+    "addr:postcode": "14304",
+    "addr:state": "NY",
+    "addr:street": "Frontier Avenue",
+    "building": "industrial",
+    "building:use": "data_center",
+    "industrial": "data_center",
+    "name": "Blockfusion Niagra Falls",
+    "source:data": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYXJjZ2lzLmNvbS9hcHBzL2luc3RhbnQvc2lkZWJhci9pbmRleC5odG1sP2FwcGlkPWZkYjc2NzhmYjJlMzQ1ZWI4YjBhM2E0OTk3MTI0MGM0&guce_referrer_si",
+    "source:name": "FracTracker Alliance",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.083066,
+    "maxlon": -79.0030648,
+    "minlat": 43.0825497,
+    "minlon": -79.0034961
+   },
+   "geometry": [
+    {
+     "lat": 43.0829892,
+     "lon": -79.0030648
+    },
+    {
+     "lat": 43.0829894,
+     "lon": -79.0032353
+    },
+    {
+     "lat": 43.0830129,
+     "lon": -79.0032353
+    },
+    {
+     "lat": 43.0830128,
+     "lon": -79.0031977
+    },
+    {
+     "lat": 43.0830657,
+     "lon": -79.0031977
+    },
+    {
+     "lat": 43.083066,
+     "lon": -79.0034954
+    },
+    {
+     "lat": 43.08255,
+     "lon": -79.0034961
+    },
+    {
+     "lat": 43.0825499,
+     "lon": -79.0033906
+    },
+    {
+     "lat": 43.0825497,
+     "lon": -79.0030654
+    },
+    {
+     "lat": 43.0829892,
+     "lon": -79.0030648
+    }
+   ],
+   "id": 1229749892,
+   "tags": {
+    "addr:city": "Niagara Falls",
+    "addr:housenumber": "5380",
+    "addr:postcode": "14304",
+    "addr:state": "NY",
+    "addr:street": "Frontier Avenue",
+    "building": "industrial",
+    "building:use": "data_center",
+    "industrial": "data_center",
+    "name": "Blockfusion Niagra Falls",
+    "source:data": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYXJjZ2lzLmNvbS9hcHBzL2luc3RhbnQvc2lkZWJhci9pbmRleC5odG1sP2FwcGlkPWZkYjc2NzhmYjJlMzQ1ZWI4YjBhM2E0OTk3MTI0MGM0&guce_referrer_si",
+    "source:name": "FracTracker Alliance",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.0832202,
+    "maxlon": -79.0030375,
+    "minlat": 43.0830399,
+    "minlon": -79.0031847
+   },
+   "geometry": [
+    {
+     "lat": 43.0830399,
+     "lon": -79.0031796
+    },
+    {
+     "lat": 43.083042,
+     "lon": -79.0030375
+    },
+    {
+     "lat": 43.0832202,
+     "lon": -79.0030426
+    },
+    {
+     "lat": 43.0832181,
+     "lon": -79.0031847
+    },
+    {
+     "lat": 43.0830399,
+     "lon": -79.0031796
+    }
+   ],
+   "id": 1229749893,
+   "tags": {
+    "addr:city": "Niagara Falls",
+    "addr:housenumber": "5380",
+    "addr:postcode": "14304",
+    "addr:state": "NY",
+    "addr:street": "Frontier Avenue",
+    "building": "industrial",
+    "building:use": "data_center",
+    "industrial": "data_center",
+    "name": "Blockfusion Niagra Falls",
+    "source:data": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYXJjZ2lzLmNvbS9hcHBzL2luc3RhbnQvc2lkZWJhci9pbmRleC5odG1sP2FwcGlkPWZkYjc2NzhmYjJlMzQ1ZWI4YjBhM2E0OTk3MTI0MGM0&guce_referrer_si",
+    "source:name": "FracTracker Alliance",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.0832985,
+    "maxlon": -79.0032682,
+    "minlat": 43.083111,
+    "minlon": -79.0034161
+   },
+   "geometry": [
+    {
+     "lat": 43.0832971,
+     "lon": -79.0032682
+    },
+    {
+     "lat": 43.0832985,
+     "lon": -79.0034157
+    },
+    {
+     "lat": 43.0832782,
+     "lon": -79.0034161
+    },
+    {
+     "lat": 43.083278,
+     "lon": -79.0033973
+    },
+    {
+     "lat": 43.0831123,
+     "lon": -79.0034004
+    },
+    {
+     "lat": 43.083111,
+     "lon": -79.0032717
+    },
+    {
+     "lat": 43.0832971,
+     "lon": -79.0032682
+    }
+   ],
+   "id": 1229749894,
+   "tags": {
+    "addr:city": "Niagara Falls",
+    "addr:housenumber": "5380",
+    "addr:postcode": "14304",
+    "addr:state": "NY",
+    "addr:street": "Frontier Avenue",
+    "building": "industrial",
+    "building:use": "data_center",
+    "industrial": "data_center",
+    "name": "Blockfusion Niagra Falls",
+    "source:data": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYXJjZ2lzLmNvbS9hcHBzL2luc3RhbnQvc2lkZWJhci9pbmRleC5odG1sP2FwcGlkPWZkYjc2NzhmYjJlMzQ1ZWI4YjBhM2E0OTk3MTI0MGM0&guce_referrer_si",
+    "source:name": "FracTracker Alliance",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.0832184,
+    "maxlon": -79.0038289,
+    "minlat": 43.0831107,
+    "minlon": -79.0039772
+   },
+   "geometry": [
+    {
+     "lat": 43.0831326,
+     "lon": -79.0039627
+    },
+    {
+     "lat": 43.0831206,
+     "lon": -79.0039458
+    },
+    {
+     "lat": 43.083113,
+     "lon": -79.0039246
+    },
+    {
+     "lat": 43.0831107,
+     "lon": -79.0039013
+    },
+    {
+     "lat": 43.0831138,
+     "lon": -79.0038781
+    },
+    {
+     "lat": 43.0831221,
+     "lon": -79.0038574
+    },
+    {
+     "lat": 43.0831347,
+     "lon": -79.0038413
+    },
+    {
+     "lat": 43.0831504,
+     "lon": -79.0038315
+    },
+    {
+     "lat": 43.0831675,
+     "lon": -79.0038289
+    },
+    {
+     "lat": 43.0831856,
+     "lon": -79.0038345
+    },
+    {
+     "lat": 43.0832012,
+     "lon": -79.003848
+    },
+    {
+     "lat": 43.0832126,
+     "lon": -79.003868
+    },
+    {
+     "lat": 43.0832184,
+     "lon": -79.003892
+    },
+    {
+     "lat": 43.083218,
+     "lon": -79.0039174
+    },
+    {
+     "lat": 43.0832114,
+     "lon": -79.003941
+    },
+    {
+     "lat": 43.0831993,
+     "lon": -79.0039603
+    },
+    {
+     "lat": 43.0831832,
+     "lon": -79.0039728
+    },
+    {
+     "lat": 43.083165,
+     "lon": -79.0039772
+    },
+    {
+     "lat": 43.0831479,
+     "lon": -79.0039735
+    },
+    {
+     "lat": 43.0831326,
+     "lon": -79.0039627
+    }
+   ],
+   "id": 1229749895,
+   "tags": {
+    "addr:city": "Niagara Falls",
+    "addr:housenumber": "5380",
+    "addr:postcode": "14304",
+    "addr:state": "NY",
+    "addr:street": "Frontier Avenue",
+    "building": "industrial",
+    "building:use": "data_center",
+    "industrial": "data_center",
+    "name": "Blockfusion Niagra Falls",
+    "source:data": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYXJjZ2lzLmNvbS9hcHBzL2luc3RhbnQvc2lkZWJhci9pbmRleC5odG1sP2FwcGlkPWZkYjc2NzhmYjJlMzQ1ZWI4YjBhM2E0OTk3MTI0MGM0&guce_referrer_si",
+    "source:name": "FracTracker Alliance",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.0833379,
+    "maxlon": -79.0038311,
+    "minlat": 43.0832299,
+    "minlon": -79.0039782
+   },
+   "geometry": [
+    {
+     "lat": 43.0832435,
+     "lon": -79.003855
+    },
+    {
+     "lat": 43.0832581,
+     "lon": -79.0038392
+    },
+    {
+     "lat": 43.0832758,
+     "lon": -79.0038311
+    },
+    {
+     "lat": 43.0832945,
+     "lon": -79.0038317
+    },
+    {
+     "lat": 43.0833119,
+     "lon": -79.003841
+    },
+    {
+     "lat": 43.0833259,
+     "lon": -79.0038578
+    },
+    {
+     "lat": 43.083335,
+     "lon": -79.0038802
+    },
+    {
+     "lat": 43.0833379,
+     "lon": -79.0039054
+    },
+    {
+     "lat": 43.0833349,
+     "lon": -79.0039283
+    },
+    {
+     "lat": 43.083327,
+     "lon": -79.0039488
+    },
+    {
+     "lat": 43.0833147,
+     "lon": -79.003965
+    },
+    {
+     "lat": 43.0832994,
+     "lon": -79.0039751
+    },
+    {
+     "lat": 43.0832825,
+     "lon": -79.0039782
+    },
+    {
+     "lat": 43.0832658,
+     "lon": -79.0039739
+    },
+    {
+     "lat": 43.0832509,
+     "lon": -79.0039628
+    },
+    {
+     "lat": 43.0832392,
+     "lon": -79.0039459
+    },
+    {
+     "lat": 43.083232,
+     "lon": -79.0039248
+    },
+    {
+     "lat": 43.0832299,
+     "lon": -79.0039018
+    },
+    {
+     "lat": 43.0832337,
+     "lon": -79.0038767
+    },
+    {
+     "lat": 43.0832435,
+     "lon": -79.003855
+    }
+   ],
+   "id": 1229749896,
+   "tags": {
+    "addr:city": "Niagara Falls",
+    "addr:housenumber": "5380",
+    "addr:postcode": "14304",
+    "addr:state": "NY",
+    "addr:street": "Frontier Avenue",
+    "building": "industrial",
+    "building:use": "data_center",
+    "industrial": "data_center",
+    "name": "Blockfusion Niagra Falls",
+    "source:data": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYXJjZ2lzLmNvbS9hcHBzL2luc3RhbnQvc2lkZWJhci9pbmRleC5odG1sP2FwcGlkPWZkYjc2NzhmYjJlMzQ1ZWI4YjBhM2E0OTk3MTI0MGM0&guce_referrer_si",
+    "source:name": "FracTracker Alliance",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.0369147,
+    "maxlon": -73.9863416,
+    "minlat": 41.0354738,
+    "minlon": -73.9889105
+   },
+   "geometry": [
+    {
+     "lat": 41.0364696,
+     "lon": -73.9889105
+    },
+    {
+     "lat": 41.0354738,
+     "lon": -73.9866463
+    },
+    {
+     "lat": 41.0358416,
+     "lon": -73.986362
+    },
+    {
+     "lat": 41.0359499,
+     "lon": -73.9866081
+    },
+    {
+     "lat": 41.0362945,
+     "lon": -73.9863416
+    },
+    {
+     "lat": 41.0368973,
+     "lon": -73.9877114
+    },
+    {
+     "lat": 41.0366296,
+     "lon": -73.9879184
+    },
+    {
+     "lat": 41.0369147,
+     "lon": -73.9885664
+    },
+    {
+     "lat": 41.0364696,
+     "lon": -73.9889105
+    }
+   ],
+   "id": 1238955720,
+   "tags": {
+    "addr:city": "Orangeburg",
+    "addr:housenumber": "155",
+    "addr:postcode": "10962",
+    "addr:state": "NY",
+    "addr:street": "Corporate Drive",
+    "building": "yes",
+    "name": "Bloomberg Data Center",
+    "operator": "Bloomberg",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.0350134,
+    "maxlon": -73.9748635,
+    "minlat": 41.0339718,
+    "minlon": -73.9767095
+   },
+   "geometry": [
+    {
+     "lat": 41.0348689,
+     "lon": -73.9766085
+    },
+    {
+     "lat": 41.0350134,
+     "lon": -73.9750055
+    },
+    {
+     "lat": 41.034117,
+     "lon": -73.9748635
+    },
+    {
+     "lat": 41.0339718,
+     "lon": -73.9764757
+    },
+    {
+     "lat": 41.0341146,
+     "lon": -73.9764984
+    },
+    {
+     "lat": 41.0340994,
+     "lon": -73.9766667
+    },
+    {
+     "lat": 41.0343694,
+     "lon": -73.9767095
+    },
+    {
+     "lat": 41.0343854,
+     "lon": -73.9765319
+    },
+    {
+     "lat": 41.0348689,
+     "lon": -73.9766085
+    }
+   ],
+   "id": 1238955733,
+   "tags": {
+    "addr:city": "Orangeburg",
+    "addr:housenumber": "1",
+    "addr:postcode": "10962",
+    "addr:state": "NY",
+    "addr:street": "Ramland Road",
+    "building": "yes",
+    "name": "fifteenfortyseven CSR ORNY1",
+    "operator": "fifteenfortyseven Critical Systems Realty",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.0406956,
+    "maxlon": -73.9887168,
+    "minlat": 41.0392057,
+    "minlon": -73.9904282
+   },
+   "geometry": [
+    {
+     "lat": 41.040634,
+     "lon": -73.9904282
+    },
+    {
+     "lat": 41.0406956,
+     "lon": -73.9891955
+    },
+    {
+     "lat": 41.0393497,
+     "lon": -73.9887168
+    },
+    {
+     "lat": 41.0392057,
+     "lon": -73.9902693
+    },
+    {
+     "lat": 41.040634,
+     "lon": -73.9904282
+    }
+   ],
+   "id": 1383913490,
+   "tags": {
+    "addr:city": "Orangeburg",
+    "addr:housenumber": "2000",
+    "addr:postcode": "10962",
+    "addr:state": "NY",
+    "addr:street": "Corporate Drive",
+    "building": "yes",
+    "layer": "1",
+    "name": "Databank LGA3",
+    "operator": "Databank",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.0825499,
+    "maxlon": -79.0030654,
+    "minlat": 43.08226,
+    "minlon": -79.0033906
+   },
+   "geometry": [
+    {
+     "lat": 43.0825499,
+     "lon": -79.0033906
+    },
+    {
+     "lat": 43.0823372,
+     "lon": -79.0033867
+    },
+    {
+     "lat": 43.082264,
+     "lon": -79.0032105
+    },
+    {
+     "lat": 43.08226,
+     "lon": -79.0030711
+    },
+    {
+     "lat": 43.0825497,
+     "lon": -79.0030654
+    },
+    {
+     "lat": 43.0825499,
+     "lon": -79.0033906
+    }
+   ],
+   "id": 1442054199,
+   "tags": {
+    "addr:city": "Niagara Falls",
+    "addr:housenumber": "5380",
+    "addr:postcode": "14304",
+    "addr:state": "NY",
+    "addr:street": "Frontier Avenue",
+    "building": "industrial",
+    "building:use": "data_center",
+    "industrial": "data_center",
+    "name": "Blockfusion Niagra Falls",
+    "source:data": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYXJjZ2lzLmNvbS9hcHBzL2luc3RhbnQvc2lkZWJhci9pbmRleC5odG1sP2FwcGlkPWZkYjc2NzhmYjJlMzQ1ZWI4YjBhM2E0OTk3MTI0MGM0&guce_referrer_si",
+    "source:name": "FracTracker Alliance",
+    "substation": "industrial",
+    "telecom": "data_center",
+    "voltage": "115000"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.8940599,
+    "maxlon": -74.0703198,
+    "minlat": 44.8919525,
+    "minlon": -74.0754428
+   },
+   "geometry": [
+    {
+     "lat": 44.89361,
+     "lon": -74.0754428
+    },
+    {
+     "lat": 44.8940599,
+     "lon": -74.0704226
+    },
+    {
+     "lat": 44.8936761,
+     "lon": -74.0703198
+    },
+    {
+     "lat": 44.893653,
+     "lon": -74.0707868
+    },
+    {
+     "lat": 44.8931336,
+     "lon": -74.0707681
+    },
+    {
+     "lat": 44.8925877,
+     "lon": -74.0707962
+    },
+    {
+     "lat": 44.8923892,
+     "lon": -74.071053
+    },
+    {
+     "lat": 44.8923826,
+     "lon": -74.0711231
+    },
+    {
+     "lat": 44.8921907,
+     "lon": -74.0712912
+    },
+    {
+     "lat": 44.8920418,
+     "lon": -74.071478
+    },
+    {
+     "lat": 44.8919525,
+     "lon": -74.0717021
+    },
+    {
+     "lat": 44.8919955,
+     "lon": -74.0721318
+    },
+    {
+     "lat": 44.8923561,
+     "lon": -74.0736075
+    },
+    {
+     "lat": 44.8926142,
+     "lon": -74.0745181
+    },
+    {
+     "lat": 44.892902,
+     "lon": -74.0750832
+    },
+    {
+     "lat": 44.8931005,
+     "lon": -74.0754148
+    },
+    {
+     "lat": 44.8934082,
+     "lon": -74.0753868
+    },
+    {
+     "lat": 44.89361,
+     "lon": -74.0754428
+    }
+   ],
+   "id": 1501825871,
+   "tags": {
+    "industrial": "data_centre",
+    "landuse": "industrial",
+    "name": "NYGC Chateaugay",
+    "operator": "2CRSi",
+    "source:address": "https://nygc.ai/locations",
+    "source:name": "operator website",
+    "telecom": "data_center",
+    "was:building:use": "Biomass plant"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.9973005,
+    "maxlon": -77.6457613,
+    "minlat": 42.997133,
+    "minlon": -77.6458977
+   },
+   "geometry": [
+    {
+     "lat": 42.9973005,
+     "lon": -77.6458531
+    },
+    {
+     "lat": 42.997148,
+     "lon": -77.6458977
+    },
+    {
+     "lat": 42.997133,
+     "lon": -77.6458025
+    },
+    {
+     "lat": 42.9972867,
+     "lon": -77.6457613
+    },
+    {
+     "lat": 42.9973005,
+     "lon": -77.6458531
+    }
+   ],
+   "id": 1528887658,
+   "tags": {
+    "addr:city": "Rush",
+    "addr:housenumber": "5919",
+    "addr:postcode": "14543",
+    "addr:state": "NY",
+    "addr:street": "E Henrietta Rd",
+    "building": "yes",
+    "name": "Landmax Data Systems, Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.5994627,
+    "maxlon": -73.881532,
+    "minlat": 41.5986124,
+    "minlon": -73.8828589
+   },
+   "geometry": [
+    {
+     "lat": 41.5992677,
+     "lon": -73.881845
+    },
+    {
+     "lat": 41.5993518,
+     "lon": -73.8821666
+    },
+    {
+     "lat": 41.5994193,
+     "lon": -73.8824248
+    },
+    {
+     "lat": 41.5994513,
+     "lon": -73.8825473
+    },
+    {
+     "lat": 41.5994627,
+     "lon": -73.8825908
+    },
+    {
+     "lat": 41.5988891,
+     "lon": -73.8828589
+    },
+    {
+     "lat": 41.5987925,
+     "lon": -73.8824893
+    },
+    {
+     "lat": 41.5987544,
+     "lon": -73.8823432
+    },
+    {
+     "lat": 41.5987187,
+     "lon": -73.8822066
+    },
+    {
+     "lat": 41.5986124,
+     "lon": -73.8818
+    },
+    {
+     "lat": 41.5991858,
+     "lon": -73.881532
+    },
+    {
+     "lat": 41.5991963,
+     "lon": -73.8815726
+    },
+    {
+     "lat": 41.5992677,
+     "lon": -73.881845
+    }
+   ],
+   "id": 1556814304,
+   "tags": {
+    "addr:city": "Wappingers Falls",
+    "addr:housenumber": "155",
+    "addr:postcode": "12590",
+    "addr:state": "NY",
+    "addr:street": "Myers Corners Road",
+    "addr:unit": "B",
+    "building": "yes",
+    "nysgissam:nysaddresspointid": "DUTC135425;DUTC076722",
+    "operator": "CyrusOne",
+    "operator:wikidata": "Q16953751",
+    "ref": "NYM7",
+    "telecom": "data_center",
+    "website": "https://www.cyrusone.com/data-centers/north-america/wappingers-falls-ny"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:56:34Z",
+  "timestamp_osm_base": "2026-10-21T17:17:36Z"
+ },
+ "version": 0.6
+}

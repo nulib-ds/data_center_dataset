@@ -1,0 +1,9421 @@
+{
+ "elements": [
+  {
+   "id": 3732415309,
+   "lat": 45.5214248,
+   "lon": -122.680562,
+   "tags": {
+    "addr:city": "Portland",
+    "addr:housenumber": "921",
+    "addr:postcode": "97205",
+    "addr:state": "OR",
+    "addr:street": "Southwest Washington Street",
+    "addr:unit": "100",
+    "name": "The Pittock Internet Exchange",
+    "operator": "Alco Properties",
+    "telecom": "data_center",
+    "website": "http://www.pittock.com/"
+   },
+   "type": "node"
+  },
+  {
+   "id": 13746843366,
+   "lat": 45.5212569,
+   "lon": -122.6817537,
+   "tags": {
+    "addr:city": "Portland",
+    "addr:housenumber": "511",
+    "addr:postcode": "97205",
+    "addr:state": "OR",
+    "addr:street": "Southwest 10th Avenue",
+    "addr:unit": "#300",
+    "name": "Digital Fortress - Portland 1",
+    "operator": "Digital Fortress, Inc",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 13746843367,
+   "lat": 45.4762137,
+   "lon": -122.7760868,
+   "tags": {
+    "addr:city": "Beaverton",
+    "addr:housenumber": "9705",
+    "addr:postcode": "97005",
+    "addr:state": "OR",
+    "addr:street": "Southwest Sunshine Court",
+    "name": "Digital Fortress - Portland 2",
+    "operator": "Digital Fortress, Inc",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 13746843368,
+   "lat": 45.475634,
+   "lon": -122.7764098,
+   "tags": {
+    "addr:city": "Beaverton",
+    "addr:housenumber": "9610",
+    "addr:postcode": "97005",
+    "addr:state": "OR",
+    "addr:street": "Southwest Sunshine Court",
+    "name": "Digital Fortress - Portland 3",
+    "operator": "Digital Fortress, Inc",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 13748555787,
+   "lat": 45.5316902,
+   "lon": -122.6837652,
+   "tags": {
+    "addr:city": "Portland",
+    "addr:housenumber": "1233",
+    "addr:postcode": "97209",
+    "addr:state": "OR",
+    "addr:street": "Northwest 12th Avenue",
+    "addr:unit": "201",
+    "name": "H5 DC - Portland",
+    "operator": "H5 Data Centers",
+    "operator:wikidata": "Q136332488",
+    "telecom": "data_center",
+    "website": "https://h5datacenters.com/portland-data-center.html"
+   },
+   "type": "node"
+  },
+  {
+   "id": 13748859030,
+   "lat": 44.0506071,
+   "lon": -123.0929782,
+   "tags": {
+    "addr:city": "Eugene",
+    "addr:housenumber": "800",
+    "addr:postcode": "97401",
+    "addr:state": "OR",
+    "addr:street": "Willamette Street",
+    "name": "Date Center West - Eugene",
+    "operator": "Data Center West, Inc.",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5500978,
+    "maxlon": -122.9350791,
+    "minlat": 45.5492628,
+    "minlon": -122.9396952
+   },
+   "geometry": [
+    {
+     "lat": 45.5498555,
+     "lon": -122.9396887
+    },
+    {
+     "lat": 45.5492887,
+     "lon": -122.9396952
+    },
+    {
+     "lat": 45.5492684,
+     "lon": -122.9360766
+    },
+    {
+     "lat": 45.5492628,
+     "lon": -122.9350856
+    },
+    {
+     "lat": 45.5498284,
+     "lon": -122.9350791
+    },
+    {
+     "lat": 45.549834,
+     "lon": -122.9360695
+    },
+    {
+     "lat": 45.5498396,
+     "lon": -122.9370671
+    },
+    {
+     "lat": 45.5500563,
+     "lon": -122.9370646
+    },
+    {
+     "lat": 45.5500581,
+     "lon": -122.9373817
+    },
+    {
+     "lat": 45.550097,
+     "lon": -122.9373812
+    },
+    {
+     "lat": 45.5500978,
+     "lon": -122.9375374
+    },
+    {
+     "lat": 45.5500592,
+     "lon": -122.9375379
+    },
+    {
+     "lat": 45.550061,
+     "lon": -122.9378544
+    },
+    {
+     "lat": 45.5498451,
+     "lon": -122.9378568
+    },
+    {
+     "lat": 45.5498555,
+     "lon": -122.9396887
+    }
+   ],
+   "id": 52059176,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4050",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Evergreen Road",
+    "building": "industrial",
+    "name": "NTT RagingWire DC - Hillsboro",
+    "operator": "NTT",
+    "operator:wikidata": "Q1054787",
+    "operator:wikipedia": "en:Nippon Telegraph and Telephone",
+    "ref": "HI1",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.6339187,
+    "maxlon": -121.197815,
+    "minlat": 45.6301107,
+    "minlon": -121.2045892
+   },
+   "geometry": [
+    {
+     "lat": 45.6304359,
+     "lon": -121.2018459
+    },
+    {
+     "lat": 45.6313387,
+     "lon": -121.2018304
+    },
+    {
+     "lat": 45.6313243,
+     "lon": -121.2033311
+    },
+    {
+     "lat": 45.6305314,
+     "lon": -121.2033258
+    },
+    {
+     "lat": 45.6305298,
+     "lon": -121.2040251
+    },
+    {
+     "lat": 45.6316772,
+     "lon": -121.2040509
+    },
+    {
+     "lat": 45.6326269,
+     "lon": -121.2045892
+    },
+    {
+     "lat": 45.632649,
+     "lon": -121.2045341
+    },
+    {
+     "lat": 45.6326649,
+     "lon": -121.2044595
+    },
+    {
+     "lat": 45.6327176,
+     "lon": -121.2044856
+    },
+    {
+     "lat": 45.6329453,
+     "lon": -121.2041708
+    },
+    {
+     "lat": 45.633022,
+     "lon": -121.2040967
+    },
+    {
+     "lat": 45.6331345,
+     "lon": -121.2039574
+    },
+    {
+     "lat": 45.6333286,
+     "lon": -121.2036615
+    },
+    {
+     "lat": 45.6334066,
+     "lon": -121.203508
+    },
+    {
+     "lat": 45.6335709,
+     "lon": -121.2031746
+    },
+    {
+     "lat": 45.6337511,
+     "lon": -121.202778
+    },
+    {
+     "lat": 45.6338771,
+     "lon": -121.2024127
+    },
+    {
+     "lat": 45.633916,
+     "lon": -121.2021809
+    },
+    {
+     "lat": 45.6339187,
+     "lon": -121.2019591
+    },
+    {
+     "lat": 45.633895,
+     "lon": -121.2017305
+    },
+    {
+     "lat": 45.6338253,
+     "lon": -121.2013774
+    },
+    {
+     "lat": 45.6337419,
+     "lon": -121.2010915
+    },
+    {
+     "lat": 45.6336357,
+     "lon": -121.2008201
+    },
+    {
+     "lat": 45.6335544,
+     "lon": -121.2005731
+    },
+    {
+     "lat": 45.6335143,
+     "lon": -121.2004019
+    },
+    {
+     "lat": 45.633443,
+     "lon": -121.1999795
+    },
+    {
+     "lat": 45.6333906,
+     "lon": -121.1997136
+    },
+    {
+     "lat": 45.6333356,
+     "lon": -121.1995538
+    },
+    {
+     "lat": 45.6332694,
+     "lon": -121.1994524
+    },
+    {
+     "lat": 45.633203,
+     "lon": -121.1993788
+    },
+    {
+     "lat": 45.633083,
+     "lon": -121.1992715
+    },
+    {
+     "lat": 45.6329105,
+     "lon": -121.1991803
+    },
+    {
+     "lat": 45.6315638,
+     "lon": -121.1985098
+    },
+    {
+     "lat": 45.631365,
+     "lon": -121.1983811
+    },
+    {
+     "lat": 45.6311474,
+     "lon": -121.198322
+    },
+    {
+     "lat": 45.6301262,
+     "lon": -121.197815
+    },
+    {
+     "lat": 45.6301107,
+     "lon": -121.1982473
+    },
+    {
+     "lat": 45.6302304,
+     "lon": -121.1982688
+    },
+    {
+     "lat": 45.6303175,
+     "lon": -121.198329
+    },
+    {
+     "lat": 45.6303957,
+     "lon": -121.1984654
+    },
+    {
+     "lat": 45.630443,
+     "lon": -121.1986123
+    },
+    {
+     "lat": 45.6304359,
+     "lon": -121.2018459
+    }
+   ],
+   "id": 231769626,
+   "tags": {
+    "landuse": "industrial",
+    "name": "Google Data Center The Dalles Oregon",
+    "operator": "Google",
+    "operator:wikidata": "Q95",
+    "telecom": "data_center",
+    "website": "https://www.google.com/about/datacenters/locations/the-dalles/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.2976829,
+    "maxlon": -120.8862126,
+    "minlat": 44.2942015,
+    "minlon": -120.8883357
+   },
+   "geometry": [
+    {
+     "lat": 44.2976829,
+     "lon": -120.8875547
+    },
+    {
+     "lat": 44.2975344,
+     "lon": -120.888252
+    },
+    {
+     "lat": 44.297295,
+     "lon": -120.8881617
+    },
+    {
+     "lat": 44.2972567,
+     "lon": -120.8883357
+    },
+    {
+     "lat": 44.2969167,
+     "lon": -120.8881953
+    },
+    {
+     "lat": 44.2969489,
+     "lon": -120.8880205
+    },
+    {
+     "lat": 44.2954361,
+     "lon": -120.8873993
+    },
+    {
+     "lat": 44.2953895,
+     "lon": -120.8876221
+    },
+    {
+     "lat": 44.2943751,
+     "lon": -120.8872166
+    },
+    {
+     "lat": 44.2944196,
+     "lon": -120.8869912
+    },
+    {
+     "lat": 44.2942015,
+     "lon": -120.8869006
+    },
+    {
+     "lat": 44.2943492,
+     "lon": -120.8862126
+    },
+    {
+     "lat": 44.2945672,
+     "lon": -120.8863008
+    },
+    {
+     "lat": 44.2976829,
+     "lon": -120.8875547
+    }
+   ],
+   "id": 321385147,
+   "tags": {
+    "building": "industrial",
+    "description": "Meta Prineville Data Center, phase1",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5505135,
+    "maxlon": -122.9306036,
+    "minlat": 45.5498798,
+    "minlon": -122.9327419
+   },
+   "geometry": [
+    {
+     "lat": 45.5505135,
+     "lon": -122.9306037
+    },
+    {
+     "lat": 45.54988,
+     "lon": -122.9306036
+    },
+    {
+     "lat": 45.5498799,
+     "lon": -122.9312109
+    },
+    {
+     "lat": 45.5498798,
+     "lon": -122.9321037
+    },
+    {
+     "lat": 45.5498798,
+     "lon": -122.9322602
+    },
+    {
+     "lat": 45.5499302,
+     "lon": -122.9322602
+    },
+    {
+     "lat": 45.5499301,
+     "lon": -122.9323185
+    },
+    {
+     "lat": 45.54993,
+     "lon": -122.9327417
+    },
+    {
+     "lat": 45.5501089,
+     "lon": -122.9327418
+    },
+    {
+     "lat": 45.550302,
+     "lon": -122.9327419
+    },
+    {
+     "lat": 45.5503021,
+     "lon": -122.9322641
+    },
+    {
+     "lat": 45.5505133,
+     "lon": -122.9322642
+    },
+    {
+     "lat": 45.5505133,
+     "lon": -122.9322475
+    },
+    {
+     "lat": 45.5505135,
+     "lon": -122.9306037
+    }
+   ],
+   "id": 325096144,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4450",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Dawson Creek Drive",
+    "building": "industrial",
+    "description": "Data center to support Adobe, Inc. Creative Cloud services.",
+    "name": "Adobe Data Center",
+    "telecom": "data_center",
+    "wikidata": "Q11463",
+    "wikipedia": "en:Adobe Inc."
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5468148,
+    "maxlon": -122.8935116,
+    "minlat": 45.5462124,
+    "minlon": -122.8940704
+   },
+   "geometry": [
+    {
+     "lat": 45.5462771,
+     "lon": -122.8935873
+    },
+    {
+     "lat": 45.5462124,
+     "lon": -122.8935983
+    },
+    {
+     "lat": 45.5462446,
+     "lon": -122.8939818
+    },
+    {
+     "lat": 45.5463039,
+     "lon": -122.8939716
+    },
+    {
+     "lat": 45.5463122,
+     "lon": -122.8940704
+    },
+    {
+     "lat": 45.5467063,
+     "lon": -122.8940033
+    },
+    {
+     "lat": 45.5468148,
+     "lon": -122.8939849
+    },
+    {
+     "lat": 45.5467937,
+     "lon": -122.8937341
+    },
+    {
+     "lat": 45.5467412,
+     "lon": -122.8937431
+    },
+    {
+     "lat": 45.5467217,
+     "lon": -122.8935116
+    },
+    {
+     "lat": 45.5466685,
+     "lon": -122.8935206
+    },
+    {
+     "lat": 45.5462771,
+     "lon": -122.8935873
+    }
+   ],
+   "id": 328702348,
+   "tags": {
+    "access": "private",
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "8343",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Evergreen Parkway",
+    "building": "industrial",
+    "height": "11.7",
+    "name": "TGN Hillsboro",
+    "operator": "Tata Communications",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5479398,
+    "maxlon": -122.8958257,
+    "minlat": 45.5468118,
+    "minlon": -122.898948
+   },
+   "geometry": [
+    {
+     "lat": 45.5470534,
+     "lon": -122.8970486
+    },
+    {
+     "lat": 45.5469871,
+     "lon": -122.8970425
+    },
+    {
+     "lat": 45.5469863,
+     "lon": -122.8970591
+    },
+    {
+     "lat": 45.5469759,
+     "lon": -122.8970615
+    },
+    {
+     "lat": 45.5469581,
+     "lon": -122.8970687
+    },
+    {
+     "lat": 45.5469411,
+     "lon": -122.8970788
+    },
+    {
+     "lat": 45.546925,
+     "lon": -122.8970916
+    },
+    {
+     "lat": 45.5469101,
+     "lon": -122.897107
+    },
+    {
+     "lat": 45.5468965,
+     "lon": -122.8971248
+    },
+    {
+     "lat": 45.5468845,
+     "lon": -122.8971448
+    },
+    {
+     "lat": 45.5468685,
+     "lon": -122.8971826
+    },
+    {
+     "lat": 45.5468396,
+     "lon": -122.8971835
+    },
+    {
+     "lat": 45.546845,
+     "lon": -122.8974749
+    },
+    {
+     "lat": 45.5468118,
+     "lon": -122.8974766
+    },
+    {
+     "lat": 45.5468132,
+     "lon": -122.8975841
+    },
+    {
+     "lat": 45.5468485,
+     "lon": -122.8975864
+    },
+    {
+     "lat": 45.5468535,
+     "lon": -122.897866
+    },
+    {
+     "lat": 45.5468203,
+     "lon": -122.897869
+    },
+    {
+     "lat": 45.5468229,
+     "lon": -122.8979731
+    },
+    {
+     "lat": 45.5468578,
+     "lon": -122.8979745
+    },
+    {
+     "lat": 45.5468617,
+     "lon": -122.898256
+    },
+    {
+     "lat": 45.546829,
+     "lon": -122.898258
+    },
+    {
+     "lat": 45.5468302,
+     "lon": -122.8983642
+    },
+    {
+     "lat": 45.546866,
+     "lon": -122.8983646
+    },
+    {
+     "lat": 45.5468676,
+     "lon": -122.8986556
+    },
+    {
+     "lat": 45.5469703,
+     "lon": -122.8986532
+    },
+    {
+     "lat": 45.5469967,
+     "lon": -122.8987032
+    },
+    {
+     "lat": 45.5470145,
+     "lon": -122.8987298
+    },
+    {
+     "lat": 45.5470339,
+     "lon": -122.8987542
+    },
+    {
+     "lat": 45.5470546,
+     "lon": -122.8987763
+    },
+    {
+     "lat": 45.5470748,
+     "lon": -122.8987942
+    },
+    {
+     "lat": 45.5470532,
+     "lon": -122.8988493
+    },
+    {
+     "lat": 45.5471615,
+     "lon": -122.898948
+    },
+    {
+     "lat": 45.5471615,
+     "lon": -122.8988857
+    },
+    {
+     "lat": 45.547252,
+     "lon": -122.898883
+    },
+    {
+     "lat": 45.547252,
+     "lon": -122.8988697
+    },
+    {
+     "lat": 45.5473588,
+     "lon": -122.8988657
+    },
+    {
+     "lat": 45.5473584,
+     "lon": -122.8988626
+    },
+    {
+     "lat": 45.5473896,
+     "lon": -122.8988541
+    },
+    {
+     "lat": 45.5473712,
+     "lon": -122.8987081
+    },
+    {
+     "lat": 45.5476571,
+     "lon": -122.8986287
+    },
+    {
+     "lat": 45.5476623,
+     "lon": -122.8986728
+    },
+    {
+     "lat": 45.547734,
+     "lon": -122.8986547
+    },
+    {
+     "lat": 45.5477278,
+     "lon": -122.8986091
+    },
+    {
+     "lat": 45.5476746,
+     "lon": -122.898191
+    },
+    {
+     "lat": 45.5477036,
+     "lon": -122.8981835
+    },
+    {
+     "lat": 45.5476971,
+     "lon": -122.8981327
+    },
+    {
+     "lat": 45.5478799,
+     "lon": -122.8980853
+    },
+    {
+     "lat": 45.5479398,
+     "lon": -122.8979488
+    },
+    {
+     "lat": 45.5478879,
+     "lon": -122.8978967
+    },
+    {
+     "lat": 45.5478699,
+     "lon": -122.8977669
+    },
+    {
+     "lat": 45.5478434,
+     "lon": -122.8977699
+    },
+    {
+     "lat": 45.5478206,
+     "lon": -122.8975778
+    },
+    {
+     "lat": 45.5478793,
+     "lon": -122.8975631
+    },
+    {
+     "lat": 45.5478743,
+     "lon": -122.8975152
+    },
+    {
+     "lat": 45.5478303,
+     "lon": -122.8974734
+    },
+    {
+     "lat": 45.5478157,
+     "lon": -122.8973629
+    },
+    {
+     "lat": 45.5477909,
+     "lon": -122.8973634
+    },
+    {
+     "lat": 45.54777,
+     "lon": -122.8972107
+    },
+    {
+     "lat": 45.5477941,
+     "lon": -122.8972045
+    },
+    {
+     "lat": 45.547784,
+     "lon": -122.8971302
+    },
+    {
+     "lat": 45.5477543,
+     "lon": -122.8971377
+    },
+    {
+     "lat": 45.5477532,
+     "lon": -122.8971298
+    },
+    {
+     "lat": 45.5477521,
+     "lon": -122.8971227
+    },
+    {
+     "lat": 45.5477298,
+     "lon": -122.8971287
+    },
+    {
+     "lat": 45.5477252,
+     "lon": -122.8970984
+    },
+    {
+     "lat": 45.5476879,
+     "lon": -122.8971068
+    },
+    {
+     "lat": 45.5475405,
+     "lon": -122.895993
+    },
+    {
+     "lat": 45.5475341,
+     "lon": -122.8959545
+    },
+    {
+     "lat": 45.5475172,
+     "lon": -122.8959089
+    },
+    {
+     "lat": 45.5474952,
+     "lon": -122.895878
+    },
+    {
+     "lat": 45.5474689,
+     "lon": -122.8958613
+    },
+    {
+     "lat": 45.5474146,
+     "lon": -122.8958475
+    },
+    {
+     "lat": 45.547327,
+     "lon": -122.8958257
+    },
+    {
+     "lat": 45.5473242,
+     "lon": -122.8958707
+    },
+    {
+     "lat": 45.5469131,
+     "lon": -122.895987
+    },
+    {
+     "lat": 45.5470534,
+     "lon": -122.8970486
+    }
+   ],
+   "id": 328702378,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "8135",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Evergreen Parkway",
+    "building": "industrial",
+    "ele": "68.0",
+    "height": "13.2",
+    "name": "Stack Infrastructure - POR02",
+    "operator": "Stack Infrastructure",
+    "operator:wikidata": "Q115477173",
+    "ref": "POR02A",
+    "telecom": "data_center",
+    "website": "https://www.stackinfra.com/locations/americas/portland/por02/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5442672,
+    "maxlon": -122.8958948,
+    "minlat": 45.5435624,
+    "minlon": -122.8970633
+   },
+   "geometry": [
+    {
+     "lat": 45.5442569,
+     "lon": -122.8960652
+    },
+    {
+     "lat": 45.5442568,
+     "lon": -122.8960238
+    },
+    {
+     "lat": 45.5439751,
+     "lon": -122.8960238
+    },
+    {
+     "lat": 45.5439778,
+     "lon": -122.8958948
+    },
+    {
+     "lat": 45.5438289,
+     "lon": -122.8958961
+    },
+    {
+     "lat": 45.5438311,
+     "lon": -122.8960297
+    },
+    {
+     "lat": 45.5435624,
+     "lon": -122.8960342
+    },
+    {
+     "lat": 45.5435779,
+     "lon": -122.8970361
+    },
+    {
+     "lat": 45.5441815,
+     "lon": -122.8970149
+    },
+    {
+     "lat": 45.5441817,
+     "lon": -122.8970633
+    },
+    {
+     "lat": 45.5442578,
+     "lon": -122.8970581
+    },
+    {
+     "lat": 45.5442576,
+     "lon": -122.8970097
+    },
+    {
+     "lat": 45.5442672,
+     "lon": -122.8970088
+    },
+    {
+     "lat": 45.5442569,
+     "lon": -122.8960652
+    }
+   ],
+   "id": 328702401,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "3380",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast 79th Avenue",
+    "building": "industrial",
+    "ele": "62.8",
+    "height": "13.8",
+    "name": "Oracle",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5480162,
+    "maxlon": -122.891253,
+    "minlat": 45.5471967,
+    "minlon": -122.8926505
+   },
+   "geometry": [
+    {
+     "lat": 45.5479291,
+     "lon": -122.8912619
+    },
+    {
+     "lat": 45.5478571,
+     "lon": -122.8912914
+    },
+    {
+     "lat": 45.5478494,
+     "lon": -122.891253
+    },
+    {
+     "lat": 45.5478304,
+     "lon": -122.8912608
+    },
+    {
+     "lat": 45.5478105,
+     "lon": -122.891269
+    },
+    {
+     "lat": 45.547818,
+     "lon": -122.8913066
+    },
+    {
+     "lat": 45.547356,
+     "lon": -122.8914954
+    },
+    {
+     "lat": 45.5473964,
+     "lon": -122.8916967
+    },
+    {
+     "lat": 45.5471967,
+     "lon": -122.8917783
+    },
+    {
+     "lat": 45.5473716,
+     "lon": -122.8926505
+    },
+    {
+     "lat": 45.5479721,
+     "lon": -122.892405
+    },
+    {
+     "lat": 45.5478441,
+     "lon": -122.8917666
+    },
+    {
+     "lat": 45.5480162,
+     "lon": -122.8916962
+    },
+    {
+     "lat": 45.5479291,
+     "lon": -122.8912619
+    }
+   ],
+   "id": 328702750,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "3825;3855",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Aloclek Drive",
+    "building": "industrial",
+    "name": "Digital Realty PDX10 Data Center",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "operator:wikipedia": "en:Digital Realty",
+    "phone": "+1-877-378-3282",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/portland/3825-nw-aloclek-pl-hillsboro-or"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.550204,
+    "maxlon": -122.890271,
+    "minlat": 45.5494466,
+    "minlon": -122.8914197
+   },
+   "geometry": [
+    {
+     "lat": 45.5500573,
+     "lon": -122.8909617
+    },
+    {
+     "lat": 45.5499466,
+     "lon": -122.8906762
+    },
+    {
+     "lat": 45.5500481,
+     "lon": -122.8905964
+    },
+    {
+     "lat": 45.5500109,
+     "lon": -122.8905004
+    },
+    {
+     "lat": 45.5499524,
+     "lon": -122.8905464
+    },
+    {
+     "lat": 45.5498456,
+     "lon": -122.890271
+    },
+    {
+     "lat": 45.5494851,
+     "lon": -122.8905542
+    },
+    {
+     "lat": 45.5494908,
+     "lon": -122.8905689
+    },
+    {
+     "lat": 45.5494466,
+     "lon": -122.8906037
+    },
+    {
+     "lat": 45.5494708,
+     "lon": -122.8906661
+    },
+    {
+     "lat": 45.5494551,
+     "lon": -122.8906784
+    },
+    {
+     "lat": 45.54959,
+     "lon": -122.8910261
+    },
+    {
+     "lat": 45.5496454,
+     "lon": -122.8909825
+    },
+    {
+     "lat": 45.5496986,
+     "lon": -122.8911199
+    },
+    {
+     "lat": 45.5497436,
+     "lon": -122.8912359
+    },
+    {
+     "lat": 45.5498034,
+     "lon": -122.8911889
+    },
+    {
+     "lat": 45.5498714,
+     "lon": -122.8913642
+    },
+    {
+     "lat": 45.5498831,
+     "lon": -122.891355
+    },
+    {
+     "lat": 45.5499081,
+     "lon": -122.8914197
+    },
+    {
+     "lat": 45.5499534,
+     "lon": -122.8913841
+    },
+    {
+     "lat": 45.5499611,
+     "lon": -122.8914039
+    },
+    {
+     "lat": 45.550204,
+     "lon": -122.8912131
+    },
+    {
+     "lat": 45.550095,
+     "lon": -122.8909321
+    },
+    {
+     "lat": 45.5500573,
+     "lon": -122.8909617
+    }
+   ],
+   "id": 328703598,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "3935",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Aloclek Palce",
+    "building": "industrial",
+    "ele": "64.2",
+    "height": "8.9",
+    "name": "Flexential Portland - Hillsboro 1",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/or/portland/hillsboro1-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5507061,
+    "maxlon": -122.89152,
+    "minlat": 45.5500358,
+    "minlon": -122.892782
+   },
+   "geometry": [
+    {
+     "lat": 45.5505265,
+     "lon": -122.8922112
+    },
+    {
+     "lat": 45.5504161,
+     "lon": -122.8919208
+    },
+    {
+     "lat": 45.5505173,
+     "lon": -122.8918428
+    },
+    {
+     "lat": 45.5504813,
+     "lon": -122.8917483
+    },
+    {
+     "lat": 45.5504216,
+     "lon": -122.8917944
+    },
+    {
+     "lat": 45.5503173,
+     "lon": -122.89152
+    },
+    {
+     "lat": 45.5500759,
+     "lon": -122.891706
+    },
+    {
+     "lat": 45.550083,
+     "lon": -122.8917248
+    },
+    {
+     "lat": 45.5500358,
+     "lon": -122.8917612
+    },
+    {
+     "lat": 45.5500593,
+     "lon": -122.8918229
+    },
+    {
+     "lat": 45.5500451,
+     "lon": -122.8918338
+    },
+    {
+     "lat": 45.5501192,
+     "lon": -122.8920289
+    },
+    {
+     "lat": 45.5500742,
+     "lon": -122.8920636
+    },
+    {
+     "lat": 45.550098,
+     "lon": -122.892126
+    },
+    {
+     "lat": 45.5500842,
+     "lon": -122.8921366
+    },
+    {
+     "lat": 45.550151,
+     "lon": -122.8923124
+    },
+    {
+     "lat": 45.55009,
+     "lon": -122.8923594
+    },
+    {
+     "lat": 45.5502205,
+     "lon": -122.8927028
+    },
+    {
+     "lat": 45.5502318,
+     "lon": -122.8926941
+    },
+    {
+     "lat": 45.5502579,
+     "lon": -122.8927629
+    },
+    {
+     "lat": 45.5503047,
+     "lon": -122.8927269
+    },
+    {
+     "lat": 45.5503115,
+     "lon": -122.8927448
+    },
+    {
+     "lat": 45.5503709,
+     "lon": -122.8926991
+    },
+    {
+     "lat": 45.5504024,
+     "lon": -122.892782
+    },
+    {
+     "lat": 45.5507061,
+     "lon": -122.8925481
+    },
+    {
+     "lat": 45.5505664,
+     "lon": -122.8921805
+    },
+    {
+     "lat": 45.5505265,
+     "lon": -122.8922112
+    }
+   ],
+   "id": 328703599,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "3935",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Aloclek Palce",
+    "building": "industrial",
+    "ele": "65.9",
+    "height": "7.9",
+    "name": "Flexential Portland - Hillsboro 1",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/or/portland/hillsboro1-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5450013,
+    "maxlon": -122.8815981,
+    "minlat": 45.5442357,
+    "minlon": -122.8830779
+   },
+   "geometry": [
+    {
+     "lat": 45.544573,
+     "lon": -122.8815981
+    },
+    {
+     "lat": 45.5442395,
+     "lon": -122.8818552
+    },
+    {
+     "lat": 45.5443003,
+     "lon": -122.882015
+    },
+    {
+     "lat": 45.5442357,
+     "lon": -122.8820648
+    },
+    {
+     "lat": 45.5443837,
+     "lon": -122.8824536
+    },
+    {
+     "lat": 45.5443543,
+     "lon": -122.8824763
+    },
+    {
+     "lat": 45.5444362,
+     "lon": -122.8826916
+    },
+    {
+     "lat": 45.5444764,
+     "lon": -122.8826606
+    },
+    {
+     "lat": 45.5446342,
+     "lon": -122.8830779
+    },
+    {
+     "lat": 45.5449923,
+     "lon": -122.8828017
+    },
+    {
+     "lat": 45.5448436,
+     "lon": -122.8824084
+    },
+    {
+     "lat": 45.5448631,
+     "lon": -122.8823934
+    },
+    {
+     "lat": 45.5449078,
+     "lon": -122.8825109
+    },
+    {
+     "lat": 45.5450013,
+     "lon": -122.8824372
+    },
+    {
+     "lat": 45.5448648,
+     "lon": -122.8820786
+    },
+    {
+     "lat": 45.5448473,
+     "lon": -122.8820921
+    },
+    {
+     "lat": 45.5447,
+     "lon": -122.8817049
+    },
+    {
+     "lat": 45.5446332,
+     "lon": -122.8817563
+    },
+    {
+     "lat": 45.544573,
+     "lon": -122.8815981
+    }
+   ],
+   "id": 331132308,
+   "tags": {
+    "access": "private",
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "9450",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Tanasbourne Drive",
+    "building": "industrial",
+    "name": "Verizon Hillsboro (Tanasbourne) Data Center",
+    "operator": "Verizon Business",
+    "operator:wikidata": "Q467752",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5219039,
+    "maxlon": -122.6801898,
+    "minlat": 45.5211833,
+    "minlon": -122.6812183
+   },
+   "geometry": [
+    {
+     "lat": 45.5213825,
+     "lon": -122.6812183
+    },
+    {
+     "lat": 45.5219039,
+     "lon": -122.6809339
+    },
+    {
+     "lat": 45.5217046,
+     "lon": -122.6801898
+    },
+    {
+     "lat": 45.5211833,
+     "lon": -122.6804741
+    },
+    {
+     "lat": 45.5212444,
+     "lon": -122.6807023
+    },
+    {
+     "lat": 45.5213273,
+     "lon": -122.681012
+    },
+    {
+     "lat": 45.5213825,
+     "lon": -122.6812183
+    }
+   ],
+   "id": 369452572,
+   "tags": {
+    "addr:city": "Portland",
+    "addr:housenumber": "921",
+    "addr:postcode": "97205",
+    "addr:state": "OR",
+    "addr:street": "Southwest Washington Street",
+    "building": "office",
+    "building:levels": "2",
+    "clli": "PTLDORPB",
+    "name": "Pittock Block",
+    "telecom": "data_center",
+    "wikidata": "Q7199130",
+    "wikipedia": "en:Pittock Block"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5269303,
+    "maxlon": -122.8751536,
+    "minlat": 45.5264375,
+    "minlon": -122.8758561
+   },
+   "geometry": [
+    {
+     "lat": 45.5268807,
+     "lon": -122.8757162
+    },
+    {
+     "lat": 45.5269097,
+     "lon": -122.8756457
+    },
+    {
+     "lat": 45.5269265,
+     "lon": -122.8755675
+    },
+    {
+     "lat": 45.5269303,
+     "lon": -122.8754858
+    },
+    {
+     "lat": 45.5269207,
+     "lon": -122.8754052
+    },
+    {
+     "lat": 45.5268984,
+     "lon": -122.8753299
+    },
+    {
+     "lat": 45.5268645,
+     "lon": -122.8752639
+    },
+    {
+     "lat": 45.5268209,
+     "lon": -122.8752109
+    },
+    {
+     "lat": 45.5267699,
+     "lon": -122.8751736
+    },
+    {
+     "lat": 45.5267142,
+     "lon": -122.8751542
+    },
+    {
+     "lat": 45.5266569,
+     "lon": -122.8751536
+    },
+    {
+     "lat": 45.5266011,
+     "lon": -122.8751719
+    },
+    {
+     "lat": 45.5265497,
+     "lon": -122.875208
+    },
+    {
+     "lat": 45.5265055,
+     "lon": -122.8752602
+    },
+    {
+     "lat": 45.526471,
+     "lon": -122.8753254
+    },
+    {
+     "lat": 45.5264479,
+     "lon": -122.8754003
+    },
+    {
+     "lat": 45.5264375,
+     "lon": -122.8754807
+    },
+    {
+     "lat": 45.5264404,
+     "lon": -122.8755624
+    },
+    {
+     "lat": 45.5264565,
+     "lon": -122.875641
+    },
+    {
+     "lat": 45.5264848,
+     "lon": -122.8757121
+    },
+    {
+     "lat": 45.5265238,
+     "lon": -122.875772
+    },
+    {
+     "lat": 45.5265714,
+     "lon": -122.8758174
+    },
+    {
+     "lat": 45.5266251,
+     "lon": -122.875846
+    },
+    {
+     "lat": 45.526682,
+     "lon": -122.8758561
+    },
+    {
+     "lat": 45.526739,
+     "lon": -122.8758472
+    },
+    {
+     "lat": 45.526793,
+     "lon": -122.8758197
+    },
+    {
+     "lat": 45.5268411,
+     "lon": -122.8757753
+    },
+    {
+     "lat": 45.5268807,
+     "lon": -122.8757162
+    }
+   ],
+   "id": 369728508,
+   "tags": {
+    "building": "yes",
+    "name": "Data Center",
+    "operator": "Oregon Health & Science University",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.2964177,
+    "maxlon": -120.8830004,
+    "minlat": 44.2935272,
+    "minlon": -120.8849451
+   },
+   "geometry": [
+    {
+     "lat": 44.2962434,
+     "lon": -120.8849451
+    },
+    {
+     "lat": 44.2949043,
+     "lon": -120.8843242
+    },
+    {
+     "lat": 44.2948484,
+     "lon": -120.8845748
+    },
+    {
+     "lat": 44.2937362,
+     "lon": -120.8840651
+    },
+    {
+     "lat": 44.293793,
+     "lon": -120.8838215
+    },
+    {
+     "lat": 44.2935272,
+     "lon": -120.8837109
+    },
+    {
+     "lat": 44.2936858,
+     "lon": -120.8830004
+    },
+    {
+     "lat": 44.2938169,
+     "lon": -120.8830594
+    },
+    {
+     "lat": 44.2962891,
+     "lon": -120.8841714
+    },
+    {
+     "lat": 44.2964177,
+     "lon": -120.8842292
+    },
+    {
+     "lat": 44.2962434,
+     "lon": -120.8849451
+    }
+   ],
+   "id": 373945186,
+   "tags": {
+    "building": "industrial",
+    "description": "Meta Prineville Data Center, phase 2",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.2894886,
+    "maxlon": -120.8747353,
+    "minlat": 44.2893424,
+    "minlon": -120.8754196
+   },
+   "geometry": [
+    {
+     "lat": 44.2894841,
+     "lon": -120.8754196
+    },
+    {
+     "lat": 44.2893424,
+     "lon": -120.8754177
+    },
+    {
+     "lat": 44.289347,
+     "lon": -120.8747353
+    },
+    {
+     "lat": 44.2894886,
+     "lon": -120.8747372
+    },
+    {
+     "lat": 44.2894841,
+     "lon": -120.8754196
+    }
+   ],
+   "id": 397914434,
+   "tags": {
+    "building": "industrial",
+    "name": "Apple",
+    "operator": "Apple Inc.",
+    "operator:wikidata": "Q312",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9159942,
+    "maxlon": -119.2662793,
+    "minlat": 45.915677,
+    "minlon": -119.2663678
+   },
+   "geometry": [
+    {
+     "lat": 45.9159942,
+     "lon": -119.2663678
+    },
+    {
+     "lat": 45.9159942,
+     "lon": -119.2662793
+    },
+    {
+     "lat": 45.915677,
+     "lon": -119.2662793
+    },
+    {
+     "lat": 45.915677,
+     "lon": -119.2663678
+    },
+    {
+     "lat": 45.9159942,
+     "lon": -119.2663678
+    }
+   ],
+   "id": 460070135,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Beach Access Road",
+    "building": "service",
+    "building:prefabricated": "yes",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9159942,
+    "maxlon": -119.2664831,
+    "minlat": 45.915677,
+    "minlon": -119.2665717
+   },
+   "geometry": [
+    {
+     "lat": 45.9159942,
+     "lon": -119.2665717
+    },
+    {
+     "lat": 45.9159942,
+     "lon": -119.2664831
+    },
+    {
+     "lat": 45.915677,
+     "lon": -119.2664831
+    },
+    {
+     "lat": 45.915677,
+     "lon": -119.2665717
+    },
+    {
+     "lat": 45.9159942,
+     "lon": -119.2665717
+    }
+   ],
+   "id": 460070136,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Beach Access Road",
+    "building": "service",
+    "building:prefabricated": "yes",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9159942,
+    "maxlon": -119.2666816,
+    "minlat": 45.915677,
+    "minlon": -119.2667701
+   },
+   "geometry": [
+    {
+     "lat": 45.9159942,
+     "lon": -119.2667701
+    },
+    {
+     "lat": 45.9159942,
+     "lon": -119.2666816
+    },
+    {
+     "lat": 45.915677,
+     "lon": -119.2666816
+    },
+    {
+     "lat": 45.915677,
+     "lon": -119.2667701
+    },
+    {
+     "lat": 45.9159942,
+     "lon": -119.2667701
+    }
+   ],
+   "id": 460070137,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Beach Access Road",
+    "building": "service",
+    "building:prefabricated": "yes",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9159942,
+    "maxlon": -119.2670679,
+    "minlat": 45.915677,
+    "minlon": -119.2671564
+   },
+   "geometry": [
+    {
+     "lat": 45.9159942,
+     "lon": -119.2671564
+    },
+    {
+     "lat": 45.9159942,
+     "lon": -119.2670679
+    },
+    {
+     "lat": 45.915677,
+     "lon": -119.2670679
+    },
+    {
+     "lat": 45.915677,
+     "lon": -119.2671564
+    },
+    {
+     "lat": 45.9159942,
+     "lon": -119.2671564
+    }
+   ],
+   "id": 460070138,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Beach Access Road",
+    "building": "service",
+    "building:prefabricated": "yes",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9160017,
+    "maxlon": -119.2672717,
+    "minlat": 45.9156845,
+    "minlon": -119.2673602
+   },
+   "geometry": [
+    {
+     "lat": 45.9160017,
+     "lon": -119.2673602
+    },
+    {
+     "lat": 45.9160017,
+     "lon": -119.2672717
+    },
+    {
+     "lat": 45.9156845,
+     "lon": -119.2672717
+    },
+    {
+     "lat": 45.9156845,
+     "lon": -119.2673602
+    },
+    {
+     "lat": 45.9160017,
+     "lon": -119.2673602
+    }
+   ],
+   "id": 460070139,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Beach Access Road",
+    "building": "service",
+    "building:prefabricated": "yes",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9159905,
+    "maxlon": -119.2674675,
+    "minlat": 45.9156733,
+    "minlon": -119.267556
+   },
+   "geometry": [
+    {
+     "lat": 45.9159905,
+     "lon": -119.267556
+    },
+    {
+     "lat": 45.9159905,
+     "lon": -119.2674675
+    },
+    {
+     "lat": 45.9156733,
+     "lon": -119.2674675
+    },
+    {
+     "lat": 45.9156733,
+     "lon": -119.267556
+    },
+    {
+     "lat": 45.9159905,
+     "lon": -119.267556
+    }
+   ],
+   "id": 460070140,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Beach Access Road",
+    "building": "service",
+    "building:prefabricated": "yes",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9159942,
+    "maxlon": -119.2676727,
+    "minlat": 45.915677,
+    "minlon": -119.2677612
+   },
+   "geometry": [
+    {
+     "lat": 45.9159942,
+     "lon": -119.2677612
+    },
+    {
+     "lat": 45.9159942,
+     "lon": -119.2676727
+    },
+    {
+     "lat": 45.915677,
+     "lon": -119.2676727
+    },
+    {
+     "lat": 45.915677,
+     "lon": -119.2677612
+    },
+    {
+     "lat": 45.9159942,
+     "lon": -119.2677612
+    }
+   ],
+   "id": 460070141,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Beach Access Road",
+    "building": "service",
+    "building:prefabricated": "yes",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9166483,
+    "maxlon": -119.2662813,
+    "minlat": 45.9160698,
+    "minlon": -119.269221
+   },
+   "geometry": [
+    {
+     "lat": 45.9161706,
+     "lon": -119.2662813
+    },
+    {
+     "lat": 45.9161706,
+     "lon": -119.2688187
+    },
+    {
+     "lat": 45.9160698,
+     "lon": -119.2688187
+    },
+    {
+     "lat": 45.9160698,
+     "lon": -119.2691084
+    },
+    {
+     "lat": 45.9161706,
+     "lon": -119.2691084
+    },
+    {
+     "lat": 45.9161706,
+     "lon": -119.269221
+    },
+    {
+     "lat": 45.9166483,
+     "lon": -119.269221
+    },
+    {
+     "lat": 45.9166483,
+     "lon": -119.2662813
+    },
+    {
+     "lat": 45.9161706,
+     "lon": -119.2662813
+    }
+   ],
+   "id": 460070143,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:housenumber": "2400",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Beach Access Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX2",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8420343,
+    "maxlon": -119.6524137,
+    "minlat": 45.8399721,
+    "minlon": -119.6531238
+   },
+   "geometry": [
+    {
+     "lat": 45.8420275,
+     "lon": -119.6531238
+    },
+    {
+     "lat": 45.8420343,
+     "lon": -119.6524566
+    },
+    {
+     "lat": 45.8399789,
+     "lon": -119.6524137
+    },
+    {
+     "lat": 45.8399721,
+     "lon": -119.6530809
+    },
+    {
+     "lat": 45.8420275,
+     "lon": -119.6531238
+    }
+   ],
+   "id": 460070144,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "79539",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Rippee Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX4",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8526888,
+    "maxlon": -119.6282516,
+    "minlat": 45.8517886,
+    "minlon": -119.6315498
+   },
+   "geometry": [
+    {
+     "lat": 45.8517886,
+     "lon": -119.631541
+    },
+    {
+     "lat": 45.8525864,
+     "lon": -119.6315498
+    },
+    {
+     "lat": 45.852588,
+     "lon": -119.6312564
+    },
+    {
+     "lat": 45.8526727,
+     "lon": -119.6312574
+    },
+    {
+     "lat": 45.8526888,
+     "lon": -119.6282614
+    },
+    {
+     "lat": 45.8518063,
+     "lon": -119.6282516
+    },
+    {
+     "lat": 45.8517886,
+     "lon": -119.631541
+    }
+   ],
+   "id": 460070145,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "73577",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Lewis and Clark Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX50/53",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8512523,
+    "maxlon": -119.6297591,
+    "minlat": 45.8505092,
+    "minlon": -119.6312883
+   },
+   "geometry": [
+    {
+     "lat": 45.8512411,
+     "lon": -119.6312883
+    },
+    {
+     "lat": 45.8512523,
+     "lon": -119.6297702
+    },
+    {
+     "lat": 45.8505204,
+     "lon": -119.6297591
+    },
+    {
+     "lat": 45.8505092,
+     "lon": -119.6312772
+    },
+    {
+     "lat": 45.8512411,
+     "lon": -119.6312883
+    }
+   ],
+   "id": 460070147,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "73575",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Lewis and Clark Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX1",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5498,
+    "maxlon": -122.9271843,
+    "minlat": 45.5488545,
+    "minlon": -122.9284523
+   },
+   "geometry": [
+    {
+     "lat": 45.5498,
+     "lon": -122.9284333
+    },
+    {
+     "lat": 45.549785,
+     "lon": -122.9271843
+    },
+    {
+     "lat": 45.549304,
+     "lon": -122.9271953
+    },
+    {
+     "lat": 45.5493063,
+     "lon": -122.9273923
+    },
+    {
+     "lat": 45.5492912,
+     "lon": -122.9273927
+    },
+    {
+     "lat": 45.5490316,
+     "lon": -122.9273993
+    },
+    {
+     "lat": 45.5490322,
+     "lon": -122.9274503
+    },
+    {
+     "lat": 45.5490204,
+     "lon": -122.9274506
+    },
+    {
+     "lat": 45.5488545,
+     "lon": -122.9274553
+    },
+    {
+     "lat": 45.5488595,
+     "lon": -122.9278653
+    },
+    {
+     "lat": 45.5490371,
+     "lon": -122.9278613
+    },
+    {
+     "lat": 45.5490442,
+     "lon": -122.9284523
+    },
+    {
+     "lat": 45.5494323,
+     "lon": -122.9284425
+    },
+    {
+     "lat": 45.5497301,
+     "lon": -122.928435
+    },
+    {
+     "lat": 45.5498,
+     "lon": -122.9284333
+    }
+   ],
+   "id": 471691757,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "3145",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Brookwood Parkway",
+    "building": "industrial",
+    "name": "Stack Infrastructure - POR01",
+    "old_name": "Comcast",
+    "operator": "Stack Infrastructure",
+    "operator:wikidata": "Q115477173",
+    "ref": "POR01A",
+    "telecom": "data_center",
+    "website": "https://www.stackinfra.com/locations/americas/portland/por01/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5591671,
+    "maxlon": -122.9162912,
+    "minlat": 45.5574368,
+    "minlon": -122.9180382
+   },
+   "geometry": [
+    {
+     "lat": 45.5581725,
+     "lon": -122.9180346
+    },
+    {
+     "lat": 45.5581706,
+     "lon": -122.9176012
+    },
+    {
+     "lat": 45.558402,
+     "lon": -122.9175992
+    },
+    {
+     "lat": 45.558403,
+     "lon": -122.917844
+    },
+    {
+     "lat": 45.5587603,
+     "lon": -122.9178409
+    },
+    {
+     "lat": 45.5587593,
+     "lon": -122.917596
+    },
+    {
+     "lat": 45.5591671,
+     "lon": -122.9175924
+    },
+    {
+     "lat": 45.5591623,
+     "lon": -122.9165047
+    },
+    {
+     "lat": 45.5587545,
+     "lon": -122.9165084
+    },
+    {
+     "lat": 45.5587536,
+     "lon": -122.9162963
+    },
+    {
+     "lat": 45.5583963,
+     "lon": -122.9162995
+    },
+    {
+     "lat": 45.5583972,
+     "lon": -122.9165115
+    },
+    {
+     "lat": 45.558166,
+     "lon": -122.9165136
+    },
+    {
+     "lat": 45.558165,
+     "lon": -122.9162912
+    },
+    {
+     "lat": 45.5577927,
+     "lon": -122.9162945
+    },
+    {
+     "lat": 45.5577937,
+     "lon": -122.9165079
+    },
+    {
+     "lat": 45.5574368,
+     "lon": -122.9165111
+    },
+    {
+     "lat": 45.5574415,
+     "lon": -122.9176001
+    },
+    {
+     "lat": 45.5574931,
+     "lon": -122.9175996
+    },
+    {
+     "lat": 45.5577776,
+     "lon": -122.9175971
+    },
+    {
+     "lat": 45.5577795,
+     "lon": -122.9180382
+    },
+    {
+     "lat": 45.5581725,
+     "lon": -122.9180346
+    }
+   ],
+   "id": 471691760,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "5737",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Huffman Street",
+    "building": "industrial",
+    "name": "Flexential Portland - Hillsboro 2",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/or/portland/hillsboro2-data-center",
+    "wikimedia_commons": "File:Flexential Brookwood Data Center - Hillsboro, Oregon.jpg"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.3189548,
+    "maxlon": -122.7655391,
+    "minlat": 45.3184785,
+    "minlon": -122.7662204
+   },
+   "geometry": [
+    {
+     "lat": 45.3188567,
+     "lon": -122.7657255
+    },
+    {
+     "lat": 45.3188567,
+     "lon": -122.7655391
+    },
+    {
+     "lat": 45.3186021,
+     "lon": -122.7655391
+    },
+    {
+     "lat": 45.3186021,
+     "lon": -122.7655686
+    },
+    {
+     "lat": 45.3184785,
+     "lon": -122.7655686
+    },
+    {
+     "lat": 45.3184785,
+     "lon": -122.7659294
+    },
+    {
+     "lat": 45.3186077,
+     "lon": -122.7659294
+    },
+    {
+     "lat": 45.3186077,
+     "lon": -122.7662204
+    },
+    {
+     "lat": 45.3189548,
+     "lon": -122.7662204
+    },
+    {
+     "lat": 45.3189548,
+     "lon": -122.7657255
+    },
+    {
+     "lat": 45.3188567,
+     "lon": -122.7657255
+    }
+   ],
+   "id": 480762078,
+   "tags": {
+    "addr:city": "Wilsonville",
+    "addr:housenumber": "27930",
+    "addr:postcode": "97070",
+    "addr:state": "OR",
+    "addr:street": "Southwest Parkway Avenue",
+    "brand": "Siemens",
+    "building": "industrial",
+    "name": "Siemens EDA - HDC / Data Center",
+    "operator": "Siemens Digital Industries Software",
+    "ref": "Juniper",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.2894946,
+    "maxlon": -120.8677257,
+    "minlat": 44.2883764,
+    "minlon": -120.8726284
+   },
+   "geometry": [
+    {
+     "lat": 44.2892903,
+     "lon": -120.8724375
+    },
+    {
+     "lat": 44.2892817,
+     "lon": -120.8704447
+    },
+    {
+     "lat": 44.2894946,
+     "lon": -120.8704429
+    },
+    {
+     "lat": 44.2894923,
+     "lon": -120.8699025
+    },
+    {
+     "lat": 44.2893159,
+     "lon": -120.869904
+    },
+    {
+     "lat": 44.2893116,
+     "lon": -120.8689067
+    },
+    {
+     "lat": 44.2893073,
+     "lon": -120.8678921
+    },
+    {
+     "lat": 44.2889238,
+     "lon": -120.8678953
+    },
+    {
+     "lat": 44.288923,
+     "lon": -120.8677257
+    },
+    {
+     "lat": 44.2887698,
+     "lon": -120.867727
+    },
+    {
+     "lat": 44.2887706,
+     "lon": -120.867909
+    },
+    {
+     "lat": 44.2883764,
+     "lon": -120.8679123
+    },
+    {
+     "lat": 44.2883845,
+     "lon": -120.8697884
+    },
+    {
+     "lat": 44.2888065,
+     "lon": -120.8697849
+    },
+    {
+     "lat": 44.2888075,
+     "lon": -120.870017
+    },
+    {
+     "lat": 44.2886254,
+     "lon": -120.8700186
+    },
+    {
+     "lat": 44.2886268,
+     "lon": -120.8703449
+    },
+    {
+     "lat": 44.2888101,
+     "lon": -120.8703434
+    },
+    {
+     "lat": 44.2888113,
+     "lon": -120.8706292
+    },
+    {
+     "lat": 44.2884101,
+     "lon": -120.8706326
+    },
+    {
+     "lat": 44.2884178,
+     "lon": -120.872438
+    },
+    {
+     "lat": 44.2888012,
+     "lon": -120.8724348
+    },
+    {
+     "lat": 44.288802,
+     "lon": -120.8726284
+    },
+    {
+     "lat": 44.2889024,
+     "lon": -120.8726275
+    },
+    {
+     "lat": 44.2889016,
+     "lon": -120.8724407
+    },
+    {
+     "lat": 44.2892903,
+     "lon": -120.8724375
+    }
+   ],
+   "id": 517411076,
+   "tags": {
+    "building": "industrial",
+    "name": "Apple",
+    "operator": "Apple Inc.",
+    "operator:wikidata": "Q312",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8407348,
+    "maxlon": -119.6534427,
+    "minlat": 45.8401523,
+    "minlon": -119.6565162
+   },
+   "geometry": [
+    {
+     "lat": 45.8406866,
+     "lon": -119.6565162
+    },
+    {
+     "lat": 45.8401523,
+     "lon": -119.6564988
+    },
+    {
+     "lat": 45.8402004,
+     "lon": -119.6534427
+    },
+    {
+     "lat": 45.8407348,
+     "lon": -119.65346
+    },
+    {
+     "lat": 45.8406866,
+     "lon": -119.6565162
+    }
+   ],
+   "id": 592171280,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "79536",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Rippee Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX52",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9179027,
+    "maxlon": -119.2661737,
+    "minlat": 45.9169928,
+    "minlon": -119.2692941
+   },
+   "geometry": [
+    {
+     "lat": 45.9178947,
+     "lon": -119.2692941
+    },
+    {
+     "lat": 45.9169928,
+     "lon": -119.2692892
+    },
+    {
+     "lat": 45.9170008,
+     "lon": -119.2661737
+    },
+    {
+     "lat": 45.9179027,
+     "lon": -119.2661785
+    },
+    {
+     "lat": 45.9178947,
+     "lon": -119.2692941
+    }
+   ],
+   "id": 592257327,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:housenumber": "3200",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Beach Access Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX51/54",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8424994,
+    "maxlon": -119.6572206,
+    "minlat": 45.8402465,
+    "minlon": -119.658644
+   },
+   "geometry": [
+    {
+     "lat": 45.8424994,
+     "lon": -119.6572337
+    },
+    {
+     "lat": 45.8424952,
+     "lon": -119.658644
+    },
+    {
+     "lat": 45.8403399,
+     "lon": -119.6586309
+    },
+    {
+     "lat": 45.8403414,
+     "lon": -119.658115
+    },
+    {
+     "lat": 45.8402465,
+     "lon": -119.6581144
+    },
+    {
+     "lat": 45.840247,
+     "lon": -119.6579172
+    },
+    {
+     "lat": 45.8403454,
+     "lon": -119.6579178
+    },
+    {
+     "lat": 45.8403475,
+     "lon": -119.6572206
+    },
+    {
+     "lat": 45.8424994,
+     "lon": -119.6572337
+    }
+   ],
+   "id": 633034071,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Rippee Road",
+    "building": "industrial",
+    "building:levels": "1",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX58/61",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8399344,
+    "maxlon": -119.653374,
+    "minlat": 45.8397171,
+    "minlon": -119.654414
+   },
+   "geometry": [
+    {
+     "lat": 45.8399241,
+     "lon": -119.654414
+    },
+    {
+     "lat": 45.8397171,
+     "lon": -119.6544097
+    },
+    {
+     "lat": 45.8397273,
+     "lon": -119.653374
+    },
+    {
+     "lat": 45.8399344,
+     "lon": -119.6533782
+    },
+    {
+     "lat": 45.8399241,
+     "lon": -119.654414
+    }
+   ],
+   "id": 633034074,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "78531",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Rippee Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.086349,
+    "maxlon": -121.2824407,
+    "minlat": 44.0858607,
+    "minlon": -121.2836415
+   },
+   "geometry": [
+    {
+     "lat": 44.086349,
+     "lon": -121.283537
+    },
+    {
+     "lat": 44.0860836,
+     "lon": -121.2836415
+    },
+    {
+     "lat": 44.0858607,
+     "lon": -121.2825453
+    },
+    {
+     "lat": 44.0861263,
+     "lon": -121.2824407
+    },
+    {
+     "lat": 44.086349,
+     "lon": -121.283537
+    }
+   ],
+   "id": 653416730,
+   "tags": {
+    "addr:city": "Bend",
+    "addr:housenumber": "20845",
+    "addr:postcode": "97701",
+    "addr:state": "OR",
+    "addr:street": "Sockeye Place",
+    "building": "industrial",
+    "name": "US Signal - OR01 Bend",
+    "operator": "US Signal",
+    "telecom": "data_center",
+    "website": "https://ussignal.com/data-centers/or01-bend/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9143565,
+    "maxlon": -119.2660343,
+    "minlat": 45.9134082,
+    "minlon": -119.2692685
+   },
+   "geometry": [
+    {
+     "lat": 45.9143505,
+     "lon": -119.2692685
+    },
+    {
+     "lat": 45.9134082,
+     "lon": -119.2692647
+    },
+    {
+     "lat": 45.9134141,
+     "lon": -119.2661776
+    },
+    {
+     "lat": 45.9139676,
+     "lon": -119.2661798
+    },
+    {
+     "lat": 45.9139678,
+     "lon": -119.2660343
+    },
+    {
+     "lat": 45.9140779,
+     "lon": -119.2660347
+    },
+    {
+     "lat": 45.9140777,
+     "lon": -119.2661775
+    },
+    {
+     "lat": 45.9143565,
+     "lon": -119.2661786
+    },
+    {
+     "lat": 45.9143505,
+     "lon": -119.2692685
+    }
+   ],
+   "id": 697413741,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:housenumber": "1600",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Beach Access Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX57/60",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8414296,
+    "maxlon": -119.6540279,
+    "minlat": 45.8409189,
+    "minlon": -119.6568702
+   },
+   "geometry": [
+    {
+     "lat": 45.8413889,
+     "lon": -119.6568702
+    },
+    {
+     "lat": 45.8414296,
+     "lon": -119.6540418
+    },
+    {
+     "lat": 45.8409596,
+     "lon": -119.6540279
+    },
+    {
+     "lat": 45.8409189,
+     "lon": -119.6568562
+    },
+    {
+     "lat": 45.8413889,
+     "lon": -119.6568702
+    }
+   ],
+   "id": 697415321,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Rippee Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX55",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.854262,
+    "maxlon": -119.6285153,
+    "minlat": 45.8533101,
+    "minlon": -119.6315569
+   },
+   "geometry": [
+    {
+     "lat": 45.8542461,
+     "lon": -119.6315569
+    },
+    {
+     "lat": 45.8533101,
+     "lon": -119.6315468
+    },
+    {
+     "lat": 45.8533177,
+     "lon": -119.6301029
+    },
+    {
+     "lat": 45.853326,
+     "lon": -119.6285153
+    },
+    {
+     "lat": 45.854262,
+     "lon": -119.6285254
+    },
+    {
+     "lat": 45.8542461,
+     "lon": -119.6315569
+    }
+   ],
+   "id": 697415323,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "73579",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Lewis and Clark Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX56/59",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8481955,
+    "maxlon": -119.6033172,
+    "minlat": 45.8451152,
+    "minlon": -119.6041013
+   },
+   "geometry": [
+    {
+     "lat": 45.8481906,
+     "lon": -119.6033172
+    },
+    {
+     "lat": 45.8481955,
+     "lon": -119.6040588
+    },
+    {
+     "lat": 45.8451202,
+     "lon": -119.6041013
+    },
+    {
+     "lat": 45.8451152,
+     "lon": -119.6033596
+    },
+    {
+     "lat": 45.8481906,
+     "lon": -119.6033172
+    }
+   ],
+   "id": 697417726,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "75300",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Lewis and Clark Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX62",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.6403025,
+    "maxlon": -121.1994777,
+    "minlat": 45.6367263,
+    "minlon": -121.2046477
+   },
+   "geometry": [
+    {
+     "lat": 45.6375809,
+     "lon": -121.2040784
+    },
+    {
+     "lat": 45.6369738,
+     "lon": -121.2037813
+    },
+    {
+     "lat": 45.6370246,
+     "lon": -121.2035266
+    },
+    {
+     "lat": 45.6367263,
+     "lon": -121.2033861
+    },
+    {
+     "lat": 45.6371844,
+     "lon": -121.2013569
+    },
+    {
+     "lat": 45.6372323,
+     "lon": -121.2013457
+    },
+    {
+     "lat": 45.6372709,
+     "lon": -121.2013185
+    },
+    {
+     "lat": 45.6372962,
+     "lon": -121.2012937
+    },
+    {
+     "lat": 45.6373175,
+     "lon": -121.2012522
+    },
+    {
+     "lat": 45.6373328,
+     "lon": -121.2012059
+    },
+    {
+     "lat": 45.6377401,
+     "lon": -121.1994777
+    },
+    {
+     "lat": 45.6390016,
+     "lon": -121.2005294
+    },
+    {
+     "lat": 45.6393183,
+     "lon": -121.2009247
+    },
+    {
+     "lat": 45.6394479,
+     "lon": -121.2010479
+    },
+    {
+     "lat": 45.6399081,
+     "lon": -121.2014513
+    },
+    {
+     "lat": 45.6401192,
+     "lon": -121.2015801
+    },
+    {
+     "lat": 45.6402516,
+     "lon": -121.2017417
+    },
+    {
+     "lat": 45.6401992,
+     "lon": -121.2020186
+    },
+    {
+     "lat": 45.6403025,
+     "lon": -121.2022126
+    },
+    {
+     "lat": 45.6402985,
+     "lon": -121.2029166
+    },
+    {
+     "lat": 45.6395197,
+     "lon": -121.2046183
+    },
+    {
+     "lat": 45.638828,
+     "lon": -121.2046477
+    },
+    {
+     "lat": 45.6375809,
+     "lon": -121.2040784
+    }
+   ],
+   "id": 700431553,
+   "tags": {
+    "landuse": "industrial",
+    "name": "Google Taylor Lake Data Center",
+    "operator": "Google",
+    "operator:wikidata": "Q95",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.2876706,
+    "maxlon": -120.8679089,
+    "minlat": 44.2868836,
+    "minlon": -120.8725235
+   },
+   "geometry": [
+    {
+     "lat": 44.2876706,
+     "lon": -120.8725221
+    },
+    {
+     "lat": 44.2868883,
+     "lon": -120.8725235
+    },
+    {
+     "lat": 44.2868836,
+     "lon": -120.8679103
+    },
+    {
+     "lat": 44.2876665,
+     "lon": -120.8679089
+    },
+    {
+     "lat": 44.2876706,
+     "lon": -120.8725221
+    }
+   ],
+   "id": 706759844,
+   "tags": {
+    "building": "industrial",
+    "name": "Apple",
+    "operator": "Apple Inc.",
+    "operator:wikidata": "Q312",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.2954036,
+    "maxlon": -120.8804798,
+    "minlat": 44.2919709,
+    "minlon": -120.8827172
+   },
+   "geometry": [
+    {
+     "lat": 44.2952121,
+     "lon": -120.8827172
+    },
+    {
+     "lat": 44.2937367,
+     "lon": -120.8820634
+    },
+    {
+     "lat": 44.2936876,
+     "lon": -120.8822613
+    },
+    {
+     "lat": 44.2933495,
+     "lon": -120.8821149
+    },
+    {
+     "lat": 44.2933971,
+     "lon": -120.8819149
+    },
+    {
+     "lat": 44.2919709,
+     "lon": -120.8812855
+    },
+    {
+     "lat": 44.292157,
+     "lon": -120.8804798
+    },
+    {
+     "lat": 44.293028,
+     "lon": -120.8808625
+    },
+    {
+     "lat": 44.2931067,
+     "lon": -120.8805092
+    },
+    {
+     "lat": 44.2943492,
+     "lon": -120.881056
+    },
+    {
+     "lat": 44.294268,
+     "lon": -120.8814102
+    },
+    {
+     "lat": 44.2954036,
+     "lon": -120.8819135
+    },
+    {
+     "lat": 44.2952121,
+     "lon": -120.8827172
+    }
+   ],
+   "id": 706759845,
+   "tags": {
+    "building": "industrial",
+    "description": "Meta Prineville Data Center, phase 3",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.798078,
+    "maxlon": -119.3644001,
+    "minlat": 45.7975399,
+    "minlon": -119.3688313
+   },
+   "geometry": [
+    {
+     "lat": 45.798078,
+     "lon": -119.3688279
+    },
+    {
+     "lat": 45.7975539,
+     "lon": -119.3688313
+    },
+    {
+     "lat": 45.7975399,
+     "lon": -119.3644036
+    },
+    {
+     "lat": 45.7980633,
+     "lon": -119.3644001
+    },
+    {
+     "lat": 45.798078,
+     "lon": -119.3688279
+    }
+   ],
+   "id": 706776322,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:housenumber": "77954",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "Cottonwood Bend Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX80",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5598858,
+    "maxlon": -122.9272606,
+    "minlat": 45.5577441,
+    "minlon": -122.9282716
+   },
+   "geometry": [
+    {
+     "lat": 45.5598834,
+     "lon": -122.9274728
+    },
+    {
+     "lat": 45.5598858,
+     "lon": -122.9282201
+    },
+    {
+     "lat": 45.5598069,
+     "lon": -122.9282206
+    },
+    {
+     "lat": 45.5579085,
+     "lon": -122.9282329
+    },
+    {
+     "lat": 45.5579086,
+     "lon": -122.9282705
+    },
+    {
+     "lat": 45.557762,
+     "lon": -122.9282715
+    },
+    {
+     "lat": 45.5577474,
+     "lon": -122.9282716
+    },
+    {
+     "lat": 45.5577441,
+     "lon": -122.9272632
+    },
+    {
+     "lat": 45.5578626,
+     "lon": -122.9272624
+    },
+    {
+     "lat": 45.558128,
+     "lon": -122.9272606
+    },
+    {
+     "lat": 45.5581287,
+     "lon": -122.9274842
+    },
+    {
+     "lat": 45.5598834,
+     "lon": -122.9274728
+    }
+   ],
+   "id": 729192992,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4951",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Huffman Street",
+    "building": "industrial",
+    "name": "QTS Data Center - Hillsboro 1",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "operator:wikipedia": "en:Quality Technology Services",
+    "telecom": "data_center",
+    "website": "https://q.com/data-centers/hillsboro-1/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.9269226,
+    "maxlon": -123.0012538,
+    "minlat": 44.926209,
+    "minlon": -123.0024401
+   },
+   "geometry": [
+    {
+     "lat": 44.9269226,
+     "lon": -123.001508
+    },
+    {
+     "lat": 44.9264831,
+     "lon": -123.0012538
+    },
+    {
+     "lat": 44.9262313,
+     "lon": -123.0021265
+    },
+    {
+     "lat": 44.9262393,
+     "lon": -123.0021321
+    },
+    {
+     "lat": 44.9262411,
+     "lon": -123.00222
+    },
+    {
+     "lat": 44.926209,
+     "lon": -123.002222
+    },
+    {
+     "lat": 44.9262115,
+     "lon": -123.0024401
+    },
+    {
+     "lat": 44.9263576,
+     "lon": -123.002439
+    },
+    {
+     "lat": 44.926358,
+     "lon": -123.0024309
+    },
+    {
+     "lat": 44.9263418,
+     "lon": -123.0024319
+    },
+    {
+     "lat": 44.9263407,
+     "lon": -123.0023338
+    },
+    {
+     "lat": 44.9266401,
+     "lon": -123.0023267
+    },
+    {
+     "lat": 44.9266627,
+     "lon": -123.0022403
+    },
+    {
+     "lat": 44.9267038,
+     "lon": -123.0022632
+    },
+    {
+     "lat": 44.9269226,
+     "lon": -123.001508
+    }
+   ],
+   "id": 733721782,
+   "tags": {
+    "addr:city": "Salem",
+    "addr:housenumber": "530",
+    "addr:postcode": "97301",
+    "addr:state": "OR",
+    "addr:street": "Airport Road Southeast",
+    "building": "yes",
+    "name": "Oregon State Data Center",
+    "operator": "State of Oregon",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5689173,
+    "maxlon": -122.9158851,
+    "minlat": 45.5669911,
+    "minlon": -122.91766
+   },
+   "geometry": [
+    {
+     "lat": 45.5689173,
+     "lon": -122.9176382
+    },
+    {
+     "lat": 45.5669993,
+     "lon": -122.91766
+    },
+    {
+     "lat": 45.5669911,
+     "lon": -122.9162074
+    },
+    {
+     "lat": 45.5680094,
+     "lon": -122.9161957
+    },
+    {
+     "lat": 45.5680075,
+     "lon": -122.9158884
+    },
+    {
+     "lat": 45.5682835,
+     "lon": -122.9158851
+    },
+    {
+     "lat": 45.5682838,
+     "lon": -122.9159369
+    },
+    {
+     "lat": 45.5689078,
+     "lon": -122.9159298
+    },
+    {
+     "lat": 45.5689173,
+     "lon": -122.9176382
+    }
+   ],
+   "id": 734323663,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "6676",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast 62nd Avenue",
+    "building": "yes",
+    "name": "Digital Realty PDX11 Data Center",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "operator:wikipedia": "en:Digital Realty",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.0475188,
+    "maxlon": -121.3282848,
+    "minlat": 44.047296,
+    "minlon": -121.3288145
+   },
+   "geometry": [
+    {
+     "lat": 44.0475188,
+     "lon": -121.3288137
+    },
+    {
+     "lat": 44.0472969,
+     "lon": -121.3288145
+    },
+    {
+     "lat": 44.047296,
+     "lon": -121.3282856
+    },
+    {
+     "lat": 44.0474006,
+     "lon": -121.3282852
+    },
+    {
+     "lat": 44.0475179,
+     "lon": -121.3282848
+    },
+    {
+     "lat": 44.0475188,
+     "lon": -121.3288137
+    }
+   ],
+   "id": 752001022,
+   "tags": {
+    "addr:city": "Bend",
+    "addr:housenumber": "207",
+    "addr:postcode": "97702",
+    "addr:state": "OR",
+    "addr:street": "Southwest Columbia Street",
+    "building": "industrial",
+    "name": "Fort Rock DC",
+    "operator": "Fort Rock Data Center",
+    "telecom": "data_center",
+    "website": "https://www.fortrockdc.com/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.3008098,
+    "maxlon": -120.8778824,
+    "minlat": 44.2973708,
+    "minlon": -120.8810064
+   },
+   "geometry": [
+    {
+     "lat": 44.3008098,
+     "lon": -120.8801707
+    },
+    {
+     "lat": 44.3008095,
+     "lon": -120.8810064
+    },
+    {
+     "lat": 44.2974058,
+     "lon": -120.8810041
+    },
+    {
+     "lat": 44.2974061,
+     "lon": -120.8801564
+    },
+    {
+     "lat": 44.2989038,
+     "lon": -120.8801573
+    },
+    {
+     "lat": 44.2989039,
+     "lon": -120.8800408
+    },
+    {
+     "lat": 44.2987795,
+     "lon": -120.8800408
+    },
+    {
+     "lat": 44.2987797,
+     "lon": -120.8788542
+    },
+    {
+     "lat": 44.2989293,
+     "lon": -120.8788543
+    },
+    {
+     "lat": 44.2989294,
+     "lon": -120.8787361
+    },
+    {
+     "lat": 44.2973708,
+     "lon": -120.8787352
+    },
+    {
+     "lat": 44.2973711,
+     "lon": -120.8778824
+    },
+    {
+     "lat": 44.3007954,
+     "lon": -120.8778846
+    },
+    {
+     "lat": 44.3007951,
+     "lon": -120.8787611
+    },
+    {
+     "lat": 44.2993512,
+     "lon": -120.8787601
+    },
+    {
+     "lat": 44.2993507,
+     "lon": -120.8801697
+    },
+    {
+     "lat": 44.3008098,
+     "lon": -120.8801707
+    }
+   ],
+   "id": 772827597,
+   "tags": {
+    "building": "industrial",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.3029738,
+    "maxlon": -120.8883275,
+    "minlat": 44.2995431,
+    "minlon": -120.8914545
+   },
+   "geometry": [
+    {
+     "lat": 44.3029613,
+     "lon": -120.8906281
+    },
+    {
+     "lat": 44.302958,
+     "lon": -120.8914545
+    },
+    {
+     "lat": 44.2995434,
+     "lon": -120.8914503
+    },
+    {
+     "lat": 44.2995431,
+     "lon": -120.8906313
+    },
+    {
+     "lat": 44.3010674,
+     "lon": -120.8906178
+    },
+    {
+     "lat": 44.3010709,
+     "lon": -120.8904816
+    },
+    {
+     "lat": 44.3009329,
+     "lon": -120.8904791
+    },
+    {
+     "lat": 44.3009322,
+     "lon": -120.8893115
+    },
+    {
+     "lat": 44.3010698,
+     "lon": -120.8893053
+    },
+    {
+     "lat": 44.3010715,
+     "lon": -120.8891718
+    },
+    {
+     "lat": 44.299549,
+     "lon": -120.8891791
+    },
+    {
+     "lat": 44.2995547,
+     "lon": -120.8883303
+    },
+    {
+     "lat": 44.302968,
+     "lon": -120.8883275
+    },
+    {
+     "lat": 44.3029738,
+     "lon": -120.889177
+    },
+    {
+     "lat": 44.3015176,
+     "lon": -120.8891755
+    },
+    {
+     "lat": 44.3015093,
+     "lon": -120.8906216
+    },
+    {
+     "lat": 44.3029613,
+     "lon": -120.8906281
+    }
+   ],
+   "id": 772827601,
+   "tags": {
+    "building": "industrial",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5556409,
+    "maxlon": -122.9386875,
+    "minlat": 45.5549857,
+    "minlon": -122.9415759
+   },
+   "geometry": [
+    {
+     "lat": 45.5556048,
+     "lon": -122.9389128
+    },
+    {
+     "lat": 45.5556408,
+     "lon": -122.9389132
+    },
+    {
+     "lat": 45.5556405,
+     "lon": -122.93887
+    },
+    {
+     "lat": 45.5556407,
+     "lon": -122.9387843
+    },
+    {
+     "lat": 45.5556409,
+     "lon": -122.9386875
+    },
+    {
+     "lat": 45.5555511,
+     "lon": -122.9386902
+    },
+    {
+     "lat": 45.5554671,
+     "lon": -122.9386943
+    },
+    {
+     "lat": 45.5554676,
+     "lon": -122.9387347
+    },
+    {
+     "lat": 45.5553359,
+     "lon": -122.9387388
+    },
+    {
+     "lat": 45.5553357,
+     "lon": -122.9387039
+    },
+    {
+     "lat": 45.5549857,
+     "lon": -122.938715
+    },
+    {
+     "lat": 45.555008,
+     "lon": -122.9415759
+    },
+    {
+     "lat": 45.5552836,
+     "lon": -122.9415702
+    },
+    {
+     "lat": 45.5552762,
+     "lon": -122.9406025
+    },
+    {
+     "lat": 45.555278,
+     "lon": -122.9404365
+    },
+    {
+     "lat": 45.5552697,
+     "lon": -122.9395935
+    },
+    {
+     "lat": 45.5554282,
+     "lon": -122.9395912
+    },
+    {
+     "lat": 45.5554302,
+     "lon": -122.9394502
+    },
+    {
+     "lat": 45.5554274,
+     "lon": -122.9392829
+    },
+    {
+     "lat": 45.5556066,
+     "lon": -122.9392753
+    },
+    {
+     "lat": 45.5556048,
+     "lon": -122.9389128
+    }
+   ],
+   "id": 860433344,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4915",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Starr Boulevard",
+    "building": "telecom",
+    "name": "Flexential Portland - Hillsboro 4",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/portland-hillsboro-5-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5545351,
+    "maxlon": -122.9371502,
+    "minlat": 45.5537292,
+    "minlon": -122.9386635
+   },
+   "geometry": [
+    {
+     "lat": 45.5545228,
+     "lon": -122.9371508
+    },
+    {
+     "lat": 45.5545001,
+     "lon": -122.9371502
+    },
+    {
+     "lat": 45.553831,
+     "lon": -122.9371551
+    },
+    {
+     "lat": 45.5538178,
+     "lon": -122.9373509
+    },
+    {
+     "lat": 45.5538178,
+     "lon": -122.9374851
+    },
+    {
+     "lat": 45.5538991,
+     "lon": -122.937485
+    },
+    {
+     "lat": 45.5539038,
+     "lon": -122.9385069
+    },
+    {
+     "lat": 45.5537317,
+     "lon": -122.9385044
+    },
+    {
+     "lat": 45.5537292,
+     "lon": -122.9386344
+    },
+    {
+     "lat": 45.5537305,
+     "lon": -122.9386622
+    },
+    {
+     "lat": 45.5539073,
+     "lon": -122.9386628
+    },
+    {
+     "lat": 45.5545351,
+     "lon": -122.9386635
+    },
+    {
+     "lat": 45.5545337,
+     "lon": -122.9373795
+    },
+    {
+     "lat": 45.5545192,
+     "lon": -122.9373785
+    },
+    {
+     "lat": 45.5545228,
+     "lon": -122.9371508
+    }
+   ],
+   "id": 899634245,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4735",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Starr Boulevard",
+    "building": "industrial",
+    "name": "Stack Infrastructure - POR03",
+    "note": "Stack Infrastructure Phase 2 expansion",
+    "operator": "Stack Infrastructure",
+    "operator:wikidata": "Q115477173",
+    "ref": "POR03A",
+    "telecom": "data_center",
+    "website": "https://www.stackinfra.com/locations/americas/portland/por03/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5599751,
+    "maxlon": -122.929226,
+    "minlat": 45.5576234,
+    "minlon": -122.9303222
+   },
+   "geometry": [
+    {
+     "lat": 45.5599751,
+     "lon": -122.929226
+    },
+    {
+     "lat": 45.5599732,
+     "lon": -122.9301269
+    },
+    {
+     "lat": 45.5598903,
+     "lon": -122.9301271
+    },
+    {
+     "lat": 45.55989,
+     "lon": -122.9299684
+    },
+    {
+     "lat": 45.5578609,
+     "lon": -122.9299931
+    },
+    {
+     "lat": 45.5578615,
+     "lon": -122.9303215
+    },
+    {
+     "lat": 45.557646,
+     "lon": -122.9303222
+    },
+    {
+     "lat": 45.557646,
+     "lon": -122.9302944
+    },
+    {
+     "lat": 45.5576466,
+     "lon": -122.9302115
+    },
+    {
+     "lat": 45.5576259,
+     "lon": -122.9302093
+    },
+    {
+     "lat": 45.5576234,
+     "lon": -122.9297492
+    },
+    {
+     "lat": 45.5576408,
+     "lon": -122.9297446
+    },
+    {
+     "lat": 45.5576331,
+     "lon": -122.9292333
+    },
+    {
+     "lat": 45.5599751,
+     "lon": -122.929226
+    }
+   ],
+   "id": 909742340,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4755",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Huffman Street",
+    "building": "industrial",
+    "name": "QTS Data Center - Hillsboro 2",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "operator:wikipedia": "en:Quality Technology Services",
+    "telecom": "data_center",
+    "website": "https://q.com/data-centers/hillsboro-2/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.838372,
+    "maxlon": -119.6861207,
+    "minlat": 45.8374756,
+    "minlon": -119.690588
+   },
+   "geometry": [
+    {
+     "lat": 45.8379867,
+     "lon": -119.690588
+    },
+    {
+     "lat": 45.8374756,
+     "lon": -119.6904951
+    },
+    {
+     "lat": 45.8378616,
+     "lon": -119.6861207
+    },
+    {
+     "lat": 45.838372,
+     "lon": -119.6862134
+    },
+    {
+     "lat": 45.8379867,
+     "lon": -119.690588
+    }
+   ],
+   "id": 914613836,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "79388",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Olson Road Southeast",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX91",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8379883,
+    "maxlon": -119.6908946,
+    "minlat": 45.8370919,
+    "minlon": -119.6953626
+   },
+   "geometry": [
+    {
+     "lat": 45.837603,
+     "lon": -119.6953626
+    },
+    {
+     "lat": 45.8370919,
+     "lon": -119.6952696
+    },
+    {
+     "lat": 45.8374779,
+     "lon": -119.6908946
+    },
+    {
+     "lat": 45.8379883,
+     "lon": -119.6909876
+    },
+    {
+     "lat": 45.837603,
+     "lon": -119.6953626
+    }
+   ],
+   "id": 914616809,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "79388",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Olson Road Southeast",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX92",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8481951,
+    "maxlon": -119.6052532,
+    "minlat": 45.8451148,
+    "minlon": -119.6060372
+   },
+   "geometry": [
+    {
+     "lat": 45.8481902,
+     "lon": -119.6052532
+    },
+    {
+     "lat": 45.8481951,
+     "lon": -119.6059942
+    },
+    {
+     "lat": 45.8451198,
+     "lon": -119.6060372
+    },
+    {
+     "lat": 45.8451148,
+     "lon": -119.6052952
+    },
+    {
+     "lat": 45.8481902,
+     "lon": -119.6052532
+    }
+   ],
+   "id": 914616810,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "75294",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Lewis and Clark Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX64",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5599007,
+    "maxlon": -122.9313058,
+    "minlat": 45.5576677,
+    "minlon": -122.9323228
+   },
+   "geometry": [
+    {
+     "lat": 45.5576906,
+     "lon": -122.9313528
+    },
+    {
+     "lat": 45.5576905,
+     "lon": -122.9315508
+    },
+    {
+     "lat": 45.5576677,
+     "lon": -122.9315478
+    },
+    {
+     "lat": 45.5576691,
+     "lon": -122.9320118
+    },
+    {
+     "lat": 45.5576904,
+     "lon": -122.9320128
+    },
+    {
+     "lat": 45.5576903,
+     "lon": -122.9323218
+    },
+    {
+     "lat": 45.5599004,
+     "lon": -122.9323228
+    },
+    {
+     "lat": 45.5599007,
+     "lon": -122.9313058
+    },
+    {
+     "lat": 45.5598157,
+     "lon": -122.9313058
+    },
+    {
+     "lat": 45.5598156,
+     "lon": -122.9315218
+    },
+    {
+     "lat": 45.5579114,
+     "lon": -122.9315198
+    },
+    {
+     "lat": 45.5579115,
+     "lon": -122.9313528
+    },
+    {
+     "lat": 45.5576906,
+     "lon": -122.9313528
+    }
+   ],
+   "id": 918871786,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4425",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Huffman Street",
+    "building": "industrial",
+    "name": "QTS Data Center - Hillsboro 2",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "operator:wikipedia": "en:Quality Technology Services",
+    "telecom": "data_center",
+    "website": "https://q.com/data-centers/hillsboro-2/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5599177,
+    "maxlon": -122.9346793,
+    "minlat": 45.557697,
+    "minlon": -122.9356296
+   },
+   "geometry": [
+    {
+     "lat": 45.5576971,
+     "lon": -122.934692
+    },
+    {
+     "lat": 45.557697,
+     "lon": -122.9356291
+    },
+    {
+     "lat": 45.5599176,
+     "lon": -122.9356296
+    },
+    {
+     "lat": 45.5599177,
+     "lon": -122.9346794
+    },
+    {
+     "lat": 45.5597994,
+     "lon": -122.9346793
+    },
+    {
+     "lat": 45.5597993,
+     "lon": -122.9348374
+    },
+    {
+     "lat": 45.5579044,
+     "lon": -122.9348363
+    },
+    {
+     "lat": 45.5579044,
+     "lon": -122.9346921
+    },
+    {
+     "lat": 45.5576971,
+     "lon": -122.934692
+    }
+   ],
+   "id": 918871787,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4113",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Huffman Street",
+    "building": "industrial",
+    "name": "QTS Data Center - Hillsboro 2",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "operator:wikipedia": "en:Quality Technology Services",
+    "telecom": "data_center",
+    "website": "https://q.com/data-centers/hillsboro-2/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.559909,
+    "maxlon": -122.9325215,
+    "minlat": 45.557682,
+    "minlon": -122.933482
+   },
+   "geometry": [
+    {
+     "lat": 45.5576863,
+     "lon": -122.933482
+    },
+    {
+     "lat": 45.557682,
+     "lon": -122.9325215
+    },
+    {
+     "lat": 45.5599083,
+     "lon": -122.9325317
+    },
+    {
+     "lat": 45.559909,
+     "lon": -122.9334637
+    },
+    {
+     "lat": 45.5598266,
+     "lon": -122.9334589
+    },
+    {
+     "lat": 45.559828,
+     "lon": -122.9333397
+    },
+    {
+     "lat": 45.5579069,
+     "lon": -122.9333529
+    },
+    {
+     "lat": 45.5579065,
+     "lon": -122.9334802
+    },
+    {
+     "lat": 45.5576863,
+     "lon": -122.933482
+    }
+   ],
+   "id": 918871788,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4327",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Huffman Street",
+    "building": "industrial",
+    "name": "QTS Data Center - Hillsboro 2",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "operator:wikipedia": "en:Quality Technology Services",
+    "telecom": "data_center",
+    "website": "https://q.com/data-centers/hillsboro-2/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5602486,
+    "maxlon": -122.9369055,
+    "minlat": 45.5587124,
+    "minlon": -122.9394966
+   },
+   "geometry": [
+    {
+     "lat": 45.5589027,
+     "lon": -122.9394966
+    },
+    {
+     "lat": 45.5600342,
+     "lon": -122.9394813
+    },
+    {
+     "lat": 45.5600326,
+     "lon": -122.9392299
+    },
+    {
+     "lat": 45.5600403,
+     "lon": -122.9392298
+    },
+    {
+     "lat": 45.5601254,
+     "lon": -122.9392286
+    },
+    {
+     "lat": 45.5602185,
+     "lon": -122.9392273
+    },
+    {
+     "lat": 45.5602177,
+     "lon": -122.9391164
+    },
+    {
+     "lat": 45.5602486,
+     "lon": -122.939116
+    },
+    {
+     "lat": 45.5602434,
+     "lon": -122.9384508
+    },
+    {
+     "lat": 45.5602025,
+     "lon": -122.9384515
+    },
+    {
+     "lat": 45.5601998,
+     "lon": -122.9381247
+    },
+    {
+     "lat": 45.5602423,
+     "lon": -122.9381239
+    },
+    {
+     "lat": 45.5602323,
+     "lon": -122.9370079
+    },
+    {
+     "lat": 45.5602156,
+     "lon": -122.9370082
+    },
+    {
+     "lat": 45.5601035,
+     "lon": -122.9370103
+    },
+    {
+     "lat": 45.5601028,
+     "lon": -122.9369333
+    },
+    {
+     "lat": 45.5599999,
+     "lon": -122.9369352
+    },
+    {
+     "lat": 45.5600015,
+     "lon": -122.9371073
+    },
+    {
+     "lat": 45.5592234,
+     "lon": -122.9371221
+    },
+    {
+     "lat": 45.5592218,
+     "lon": -122.9369479
+    },
+    {
+     "lat": 45.5591083,
+     "lon": -122.93695
+    },
+    {
+     "lat": 45.5591086,
+     "lon": -122.9369761
+    },
+    {
+     "lat": 45.5590621,
+     "lon": -122.9369773
+    },
+    {
+     "lat": 45.5590329,
+     "lon": -122.9369667
+    },
+    {
+     "lat": 45.558991,
+     "lon": -122.9369055
+    },
+    {
+     "lat": 45.5588795,
+     "lon": -122.9370619
+    },
+    {
+     "lat": 45.5588388,
+     "lon": -122.9370833
+    },
+    {
+     "lat": 45.558796,
+     "lon": -122.9370914
+    },
+    {
+     "lat": 45.5587499,
+     "lon": -122.9370811
+    },
+    {
+     "lat": 45.5587124,
+     "lon": -122.9370591
+    },
+    {
+     "lat": 45.5587273,
+     "lon": -122.9393788
+    },
+    {
+     "lat": 45.5589019,
+     "lon": -122.9393765
+    },
+    {
+     "lat": 45.5589027,
+     "lon": -122.9394966
+    }
+   ],
+   "id": 918873142,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "5419",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Starr Boulevard",
+    "building": "data_center",
+    "name": "Flexential Portland - Hillsboro 3",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "source": "https://www.hillsboro-oregon.gov/home/showdocument?id=23349",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/or/portland/hillsboro3-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.9384521,
+    "maxlon": -123.0332809,
+    "minlat": 44.9376985,
+    "minlon": -123.0341636
+   },
+   "geometry": [
+    {
+     "lat": 44.9380532,
+     "lon": -123.034051
+    },
+    {
+     "lat": 44.9378329,
+     "lon": -123.0341636
+    },
+    {
+     "lat": 44.9376985,
+     "lon": -123.033639
+    },
+    {
+     "lat": 44.937915,
+     "lon": -123.0335283
+    },
+    {
+     "lat": 44.9383889,
+     "lon": -123.0332809
+    },
+    {
+     "lat": 44.9384521,
+     "lon": -123.0335227
+    },
+    {
+     "lat": 44.9381537,
+     "lon": -123.0336785
+    },
+    {
+     "lat": 44.937979,
+     "lon": -123.0337707
+    },
+    {
+     "lat": 44.9380532,
+     "lon": -123.034051
+    }
+   ],
+   "id": 965755845,
+   "tags": {
+    "addr:housenumber": "740",
+    "addr:street": "State Street",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "CenturyLink",
+    "operator": "CenturyLink",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.3325277,
+    "maxlon": -122.880351,
+    "minlat": 42.3323925,
+    "minlon": -122.880501
+   },
+   "geometry": [
+    {
+     "lat": 42.3325273,
+     "lon": -122.880351
+    },
+    {
+     "lat": 42.3323925,
+     "lon": -122.8803518
+    },
+    {
+     "lat": 42.3323926,
+     "lon": -122.8803814
+    },
+    {
+     "lat": 42.332393,
+     "lon": -122.880501
+    },
+    {
+     "lat": 42.3323954,
+     "lon": -122.8805009
+    },
+    {
+     "lat": 42.3325277,
+     "lon": -122.8804985
+    },
+    {
+     "lat": 42.3325273,
+     "lon": -122.880362
+    },
+    {
+     "lat": 42.3325273,
+     "lon": -122.880351
+    }
+   ],
+   "id": 967131562,
+   "tags": {
+    "addr:city": "Medford",
+    "addr:housenumber": "739",
+    "addr:postcode": "97501",
+    "addr:state": "OR",
+    "addr:street": "Welch Drive",
+    "building": "industrial",
+    "name": "Date Center West - Eugene",
+    "operator": "Data Center West, Inc.",
+    "source": "esri/Jackson_County_OR_Buildings",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5566725,
+    "maxlon": -122.9111344,
+    "minlat": 45.5561727,
+    "minlon": -122.913281
+   },
+   "geometry": [
+    {
+     "lat": 45.5561815,
+     "lon": -122.911138
+    },
+    {
+     "lat": 45.5565932,
+     "lon": -122.9111344
+    },
+    {
+     "lat": 45.5566012,
+     "lon": -122.9130234
+    },
+    {
+     "lat": 45.5566715,
+     "lon": -122.9130228
+    },
+    {
+     "lat": 45.5566725,
+     "lon": -122.9132768
+    },
+    {
+     "lat": 45.5561737,
+     "lon": -122.913281
+    },
+    {
+     "lat": 45.5561727,
+     "lon": -122.9130253
+    },
+    {
+     "lat": 45.5561896,
+     "lon": -122.9130251
+    },
+    {
+     "lat": 45.5561815,
+     "lon": -122.911138
+    }
+   ],
+   "id": 1019812125,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "6501",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Bennett Street",
+    "alt_name": "Portland POR03",
+    "building": "industrial",
+    "name": "EdgeConneX - Portland POR03",
+    "operator": "EdgeConneX",
+    "operator:wikidata": "Q115477226",
+    "source": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/27716",
+    "telecom": "data_center",
+    "website": "https://www.edgeconnex.com/locations/americas/portland-or/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8482083,
+    "maxlon": -119.6066467,
+    "minlat": 45.845128,
+    "minlon": -119.6074307
+   },
+   "geometry": [
+    {
+     "lat": 45.8482034,
+     "lon": -119.6066467
+    },
+    {
+     "lat": 45.8482083,
+     "lon": -119.6073877
+    },
+    {
+     "lat": 45.845133,
+     "lon": -119.6074307
+    },
+    {
+     "lat": 45.845128,
+     "lon": -119.6066887
+    },
+    {
+     "lat": 45.8482034,
+     "lon": -119.6066467
+    }
+   ],
+   "id": 1027471509,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "75288",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Lewis and Clark Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX66",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8481279,
+    "maxlon": -119.608606,
+    "minlat": 45.8453795,
+    "minlon": -119.6095173
+   },
+   "geometry": [
+    {
+     "lat": 45.848123,
+     "lon": -119.608606
+    },
+    {
+     "lat": 45.8481279,
+     "lon": -119.609476
+    },
+    {
+     "lat": 45.8453795,
+     "lon": -119.6095173
+    },
+    {
+     "lat": 45.8453816,
+     "lon": -119.6086502
+    },
+    {
+     "lat": 45.848123,
+     "lon": -119.608606
+    }
+   ],
+   "id": 1027471510,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "75282",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Lewis and Clark Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX68",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8370141,
+    "maxlon": -119.6878594,
+    "minlat": 45.8360857,
+    "minlon": -119.6918877
+   },
+   "geometry": [
+    {
+     "lat": 45.8366772,
+     "lon": -119.6918877
+    },
+    {
+     "lat": 45.8368232,
+     "lon": -119.6901505
+    },
+    {
+     "lat": 45.8366634,
+     "lon": -119.6901229
+    },
+    {
+     "lat": 45.8366984,
+     "lon": -119.6897051
+    },
+    {
+     "lat": 45.8368654,
+     "lon": -119.689734
+    },
+    {
+     "lat": 45.8370141,
+     "lon": -119.687963
+    },
+    {
+     "lat": 45.8364158,
+     "lon": -119.6878594
+    },
+    {
+     "lat": 45.8360857,
+     "lon": -119.6917853
+    },
+    {
+     "lat": 45.8366772,
+     "lon": -119.6918877
+    }
+   ],
+   "id": 1057230915,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "79392",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Olson Road Southeast",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX93",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5555056,
+    "maxlon": -122.9406013,
+    "minlat": 45.5552762,
+    "minlon": -122.9415727
+   },
+   "geometry": [
+    {
+     "lat": 45.5552836,
+     "lon": -122.9415702
+    },
+    {
+     "lat": 45.5555056,
+     "lon": -122.9415727
+    },
+    {
+     "lat": 45.5554968,
+     "lon": -122.9406013
+    },
+    {
+     "lat": 45.5552762,
+     "lon": -122.9406025
+    },
+    {
+     "lat": 45.5552836,
+     "lon": -122.9415702
+    }
+   ],
+   "id": 1080170579,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4915",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Starr Boulevard",
+    "building": "telecom",
+    "description": "Building expansion part",
+    "name": "Flexential Portland - Hillsboro 4 Expansion",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/portland-hillsboro-5-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5566869,
+    "maxlon": -122.9374451,
+    "minlat": 45.5559946,
+    "minlon": -122.9413683
+   },
+   "geometry": [
+    {
+     "lat": 45.5566869,
+     "lon": -122.9413683
+    },
+    {
+     "lat": 45.556682,
+     "lon": -122.9397656
+    },
+    {
+     "lat": 45.5566795,
+     "lon": -122.9392097
+    },
+    {
+     "lat": 45.5566837,
+     "lon": -122.937446
+    },
+    {
+     "lat": 45.556018,
+     "lon": -122.9374451
+    },
+    {
+     "lat": 45.5560186,
+     "lon": -122.9376643
+    },
+    {
+     "lat": 45.556019,
+     "lon": -122.9377838
+    },
+    {
+     "lat": 45.5559946,
+     "lon": -122.9377823
+    },
+    {
+     "lat": 45.556007,
+     "lon": -122.9380531
+    },
+    {
+     "lat": 45.5562367,
+     "lon": -122.9380663
+    },
+    {
+     "lat": 45.5562388,
+     "lon": -122.939732
+    },
+    {
+     "lat": 45.5562439,
+     "lon": -122.9409335
+    },
+    {
+     "lat": 45.5561635,
+     "lon": -122.9409319
+    },
+    {
+     "lat": 45.5561635,
+     "lon": -122.9410125
+    },
+    {
+     "lat": 45.5561624,
+     "lon": -122.9411414
+    },
+    {
+     "lat": 45.5560616,
+     "lon": -122.941141
+    },
+    {
+     "lat": 45.5560637,
+     "lon": -122.9413618
+    },
+    {
+     "lat": 45.5566869,
+     "lon": -122.9413683
+    }
+   ],
+   "id": 1080170580,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4975",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Starr Boulevard",
+    "building": "telecom",
+    "name": "Flexential Portland - Hillsboro 5",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/portland-hillsboro-5-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5543643,
+    "maxlon": -122.9478055,
+    "minlat": 45.5537544,
+    "minlon": -122.9506959
+   },
+   "geometry": [
+    {
+     "lat": 45.5537619,
+     "lon": -122.9506959
+    },
+    {
+     "lat": 45.5543643,
+     "lon": -122.9506923
+    },
+    {
+     "lat": 45.5543561,
+     "lon": -122.9479157
+    },
+    {
+     "lat": 45.5543558,
+     "lon": -122.9478055
+    },
+    {
+     "lat": 45.5538057,
+     "lon": -122.948018
+    },
+    {
+     "lat": 45.5538061,
+     "lon": -122.9481495
+    },
+    {
+     "lat": 45.5537544,
+     "lon": -122.9481498
+    },
+    {
+     "lat": 45.5537619,
+     "lon": -122.9506959
+    }
+   ],
+   "id": 1114969101,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4590",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Sewell Avenue",
+    "building": "industrial",
+    "name": "Aligned DC - PDX-01",
+    "operator": "Aligned Data Centers",
+    "operator:wikidata": "Q136332540",
+    "source": "https://www.hillsboro-oregon.gov/home/showpublisheddocument/29014/638041183593849730;https://www.hillsboro-oregon.gov/Home/Components/News/News/14734/4315;https://www.hillsboro-oregon.gov/Home/Components/News/News/14760/4315",
+    "telecom": "data_center",
+    "website": "https://aligneddc.com/hillsboro-data-centers/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9017504,
+    "maxlon": -119.3183124,
+    "minlat": 45.9011507,
+    "minlon": -119.3227323
+   },
+   "geometry": [
+    {
+     "lat": 45.9011942,
+     "lon": -119.3227323
+    },
+    {
+     "lat": 45.9017504,
+     "lon": -119.3227213
+    },
+    {
+     "lat": 45.9017046,
+     "lon": -119.318317
+    },
+    {
+     "lat": 45.9011507,
+     "lon": -119.3183124
+    },
+    {
+     "lat": 45.9011942,
+     "lon": -119.3227323
+    }
+   ],
+   "id": 1126159710,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:housenumber": "81712",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "Lind Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX63",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9030631,
+    "maxlon": -119.3182917,
+    "minlat": 45.9024683,
+    "minlon": -119.3226918
+   },
+   "geometry": [
+    {
+     "lat": 45.9030631,
+     "lon": -119.3226918
+    },
+    {
+     "lat": 45.9029962,
+     "lon": -119.3182917
+    },
+    {
+     "lat": 45.9024683,
+     "lon": -119.3182967
+    },
+    {
+     "lat": 45.9025246,
+     "lon": -119.3226817
+    },
+    {
+     "lat": 45.9030631,
+     "lon": -119.3226918
+    }
+   ],
+   "id": 1126159711,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:housenumber": "81714",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "Lind Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX65",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9041394,
+    "maxlon": -119.3182534,
+    "minlat": 45.9035682,
+    "minlon": -119.3227013
+   },
+   "geometry": [
+    {
+     "lat": 45.9041394,
+     "lon": -119.3227013
+    },
+    {
+     "lat": 45.9040953,
+     "lon": -119.3182534
+    },
+    {
+     "lat": 45.9035682,
+     "lon": -119.31826
+    },
+    {
+     "lat": 45.9036007,
+     "lon": -119.3227013
+    },
+    {
+     "lat": 45.9041394,
+     "lon": -119.3227013
+    }
+   ],
+   "id": 1126159714,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:housenumber": "81716",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "Lind Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX67",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9054188,
+    "maxlon": -119.3181589,
+    "minlat": 45.9047807,
+    "minlon": -119.3221303
+   },
+   "geometry": [
+    {
+     "lat": 45.9047807,
+     "lon": -119.3182214
+    },
+    {
+     "lat": 45.905371,
+     "lon": -119.3181589
+    },
+    {
+     "lat": 45.9054188,
+     "lon": -119.3221044
+    },
+    {
+     "lat": 45.9048045,
+     "lon": -119.3221303
+    },
+    {
+     "lat": 45.9047807,
+     "lon": -119.3182214
+    }
+   ],
+   "id": 1126159715,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:housenumber": "81718",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "Lind Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX69",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8478731,
+    "maxlon": -119.6025937,
+    "minlat": 45.8473431,
+    "minlon": -119.6029558
+   },
+   "geometry": [
+    {
+     "lat": 45.8478731,
+     "lon": -119.6029506
+    },
+    {
+     "lat": 45.8478714,
+     "lon": -119.6025937
+    },
+    {
+     "lat": 45.8473431,
+     "lon": -119.6025989
+    },
+    {
+     "lat": 45.8473448,
+     "lon": -119.6029558
+    },
+    {
+     "lat": 45.8478731,
+     "lon": -119.6029506
+    }
+   ],
+   "id": 1126386234,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Lewis and Clark Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9159839,
+    "maxlon": -119.269797,
+    "minlat": 45.9154629,
+    "minlon": -119.2701436
+   },
+   "geometry": [
+    {
+     "lat": 45.9154629,
+     "lon": -119.2701418
+    },
+    {
+     "lat": 45.9154633,
+     "lon": -119.2699096
+    },
+    {
+     "lat": 45.9154764,
+     "lon": -119.2699097
+    },
+    {
+     "lat": 45.9154766,
+     "lon": -119.269797
+    },
+    {
+     "lat": 45.9158655,
+     "lon": -119.2697984
+    },
+    {
+     "lat": 45.9158653,
+     "lon": -119.2699084
+    },
+    {
+     "lat": 45.9159839,
+     "lon": -119.2699088
+    },
+    {
+     "lat": 45.9159835,
+     "lon": -119.2701436
+    },
+    {
+     "lat": 45.9154629,
+     "lon": -119.2701418
+    }
+   ],
+   "id": 1127951468,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:housenumber": "3250",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Beach Access Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX132",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.3027551,
+    "maxlon": -120.8930868,
+    "minlat": 44.3005887,
+    "minlon": -120.8960864
+   },
+   "geometry": [
+    {
+     "lat": 44.3006981,
+     "lon": -120.8960864
+    },
+    {
+     "lat": 44.3013096,
+     "lon": -120.8960831
+    },
+    {
+     "lat": 44.301309,
+     "lon": -120.8958746
+    },
+    {
+     "lat": 44.3013741,
+     "lon": -120.8958742
+    },
+    {
+     "lat": 44.3013764,
+     "lon": -120.8958861
+    },
+    {
+     "lat": 44.3014268,
+     "lon": -120.895886
+    },
+    {
+     "lat": 44.301425,
+     "lon": -120.8947791
+    },
+    {
+     "lat": 44.3014671,
+     "lon": -120.894779
+    },
+    {
+     "lat": 44.3014672,
+     "lon": -120.8948843
+    },
+    {
+     "lat": 44.3015261,
+     "lon": -120.8948842
+    },
+    {
+     "lat": 44.3015267,
+     "lon": -120.8952896
+    },
+    {
+     "lat": 44.3018334,
+     "lon": -120.8952888
+    },
+    {
+     "lat": 44.3018329,
+     "lon": -120.8948951
+    },
+    {
+     "lat": 44.3018894,
+     "lon": -120.894895
+    },
+    {
+     "lat": 44.3018892,
+     "lon": -120.8947892
+    },
+    {
+     "lat": 44.301921,
+     "lon": -120.8947892
+    },
+    {
+     "lat": 44.3019217,
+     "lon": -120.895889
+    },
+    {
+     "lat": 44.3019769,
+     "lon": -120.895889
+    },
+    {
+     "lat": 44.3019769,
+     "lon": -120.8958723
+    },
+    {
+     "lat": 44.3020366,
+     "lon": -120.8958725
+    },
+    {
+     "lat": 44.3020363,
+     "lon": -120.8960801
+    },
+    {
+     "lat": 44.3026462,
+     "lon": -120.8960818
+    },
+    {
+     "lat": 44.3026481,
+     "lon": -120.8947841
+    },
+    {
+     "lat": 44.3027545,
+     "lon": -120.8947844
+    },
+    {
+     "lat": 44.3027551,
+     "lon": -120.894378
+    },
+    {
+     "lat": 44.3026558,
+     "lon": -120.8943777
+    },
+    {
+     "lat": 44.3026578,
+     "lon": -120.8930919
+    },
+    {
+     "lat": 44.3020404,
+     "lon": -120.89309
+    },
+    {
+     "lat": 44.3020401,
+     "lon": -120.8932897
+    },
+    {
+     "lat": 44.301975,
+     "lon": -120.8932895
+    },
+    {
+     "lat": 44.3019751,
+     "lon": -120.8932782
+    },
+    {
+     "lat": 44.301925,
+     "lon": -120.8932781
+    },
+    {
+     "lat": 44.3019237,
+     "lon": -120.8943852
+    },
+    {
+     "lat": 44.3017791,
+     "lon": -120.8943849
+    },
+    {
+     "lat": 44.3017793,
+     "lon": -120.8941846
+    },
+    {
+     "lat": 44.3015695,
+     "lon": -120.8941842
+    },
+    {
+     "lat": 44.3015694,
+     "lon": -120.8943792
+    },
+    {
+     "lat": 44.3014247,
+     "lon": -120.8943789
+    },
+    {
+     "lat": 44.3014256,
+     "lon": -120.8932826
+    },
+    {
+     "lat": 44.3013766,
+     "lon": -120.8932826
+    },
+    {
+     "lat": 44.3013766,
+     "lon": -120.8932953
+    },
+    {
+     "lat": 44.301306,
+     "lon": -120.8932956
+    },
+    {
+     "lat": 44.3013055,
+     "lon": -120.8930868
+    },
+    {
+     "lat": 44.3006916,
+     "lon": -120.8930898
+    },
+    {
+     "lat": 44.3006929,
+     "lon": -120.8943766
+    },
+    {
+     "lat": 44.3005887,
+     "lon": -120.8943771
+    },
+    {
+     "lat": 44.30059,
+     "lon": -120.894782
+    },
+    {
+     "lat": 44.3006929,
+     "lon": -120.8947815
+    },
+    {
+     "lat": 44.3006981,
+     "lon": -120.8960864
+    }
+   ],
+   "id": 1152747559,
+   "tags": {
+    "building": "industrial",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.2998342,
+    "maxlon": -120.8930916,
+    "minlat": 44.2986018,
+    "minlon": -120.8960721
+   },
+   "geometry": [
+    {
+     "lat": 44.2997231,
+     "lon": -120.8960699
+    },
+    {
+     "lat": 44.2997208,
+     "lon": -120.8947951
+    },
+    {
+     "lat": 44.2998342,
+     "lon": -120.8947947
+    },
+    {
+     "lat": 44.2998334,
+     "lon": -120.8943685
+    },
+    {
+     "lat": 44.2997159,
+     "lon": -120.8943689
+    },
+    {
+     "lat": 44.2997137,
+     "lon": -120.8930916
+    },
+    {
+     "lat": 44.2990918,
+     "lon": -120.8930937
+    },
+    {
+     "lat": 44.2990921,
+     "lon": -120.8932772
+    },
+    {
+     "lat": 44.2989729,
+     "lon": -120.8932776
+    },
+    {
+     "lat": 44.2989749,
+     "lon": -120.8944719
+    },
+    {
+     "lat": 44.2989156,
+     "lon": -120.8944721
+    },
+    {
+     "lat": 44.2989153,
+     "lon": -120.8942297
+    },
+    {
+     "lat": 44.2986018,
+     "lon": -120.8942306
+    },
+    {
+     "lat": 44.2986033,
+     "lon": -120.8952374
+    },
+    {
+     "lat": 44.2989064,
+     "lon": -120.8952365
+    },
+    {
+     "lat": 44.2989057,
+     "lon": -120.8947777
+    },
+    {
+     "lat": 44.2989897,
+     "lon": -120.8947774
+    },
+    {
+     "lat": 44.2989915,
+     "lon": -120.8958611
+    },
+    {
+     "lat": 44.2991085,
+     "lon": -120.8958608
+    },
+    {
+     "lat": 44.2991089,
+     "lon": -120.8960721
+    },
+    {
+     "lat": 44.2997231,
+     "lon": -120.8960699
+    }
+   ],
+   "id": 1152748037,
+   "tags": {
+    "building": "industrial",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5691325,
+    "maxlon": -122.9185009,
+    "minlat": 45.5678873,
+    "minlon": -122.9212944
+   },
+   "geometry": [
+    {
+     "lat": 45.5678873,
+     "lon": -122.9185009
+    },
+    {
+     "lat": 45.5689011,
+     "lon": -122.9185476
+    },
+    {
+     "lat": 45.5689193,
+     "lon": -122.9199764
+    },
+    {
+     "lat": 45.5691307,
+     "lon": -122.919986
+    },
+    {
+     "lat": 45.5691313,
+     "lon": -122.9204097
+    },
+    {
+     "lat": 45.5691325,
+     "lon": -122.921272
+    },
+    {
+     "lat": 45.5679075,
+     "lon": -122.9212944
+    },
+    {
+     "lat": 45.5678873,
+     "lon": -122.9185009
+    }
+   ],
+   "id": 1153935548,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast 62nd Avenue",
+    "building": "yes",
+    "name": "Digital Realty PDX11 Data Center",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "operator:wikipedia": "en:Digital Realty",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8366563,
+    "maxlon": -119.6920407,
+    "minlat": 45.8357279,
+    "minlon": -119.6960691
+   },
+   "geometry": [
+    {
+     "lat": 45.8363194,
+     "lon": -119.6960691
+    },
+    {
+     "lat": 45.8363923,
+     "lon": -119.6952005
+    },
+    {
+     "lat": 45.8364653,
+     "lon": -119.6943318
+    },
+    {
+     "lat": 45.8363056,
+     "lon": -119.6943042
+    },
+    {
+     "lat": 45.8363406,
+     "lon": -119.6938864
+    },
+    {
+     "lat": 45.8365076,
+     "lon": -119.6939153
+    },
+    {
+     "lat": 45.8366563,
+     "lon": -119.6921443
+    },
+    {
+     "lat": 45.8360579,
+     "lon": -119.6920407
+    },
+    {
+     "lat": 45.8357279,
+     "lon": -119.6959667
+    },
+    {
+     "lat": 45.8363194,
+     "lon": -119.6960691
+    }
+   ],
+   "id": 1226439731,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "79392",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Olson Road Southeast",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX90",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5545707,
+    "maxlon": -122.9386628,
+    "minlat": 45.5537323,
+    "minlon": -122.9401491
+   },
+   "geometry": [
+    {
+     "lat": 45.5545351,
+     "lon": -122.9386635
+    },
+    {
+     "lat": 45.5539073,
+     "lon": -122.9386628
+    },
+    {
+     "lat": 45.5539066,
+     "lon": -122.9398926
+    },
+    {
+     "lat": 45.5537324,
+     "lon": -122.9398924
+    },
+    {
+     "lat": 45.5537323,
+     "lon": -122.9400444
+    },
+    {
+     "lat": 45.5539104,
+     "lon": -122.9400446
+    },
+    {
+     "lat": 45.5539103,
+     "lon": -122.9401484
+    },
+    {
+     "lat": 45.5545339,
+     "lon": -122.9401491
+    },
+    {
+     "lat": 45.554534,
+     "lon": -122.9400292
+    },
+    {
+     "lat": 45.5545706,
+     "lon": -122.9400133
+    },
+    {
+     "lat": 45.5545707,
+     "lon": -122.9395665
+    },
+    {
+     "lat": 45.5545346,
+     "lon": -122.9395664
+    },
+    {
+     "lat": 45.5545351,
+     "lon": -122.9386635
+    }
+   ],
+   "id": 1243089554,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4735",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Starr Boulevard",
+    "building": "industrial",
+    "name": "Stack Infrastructure - POR03",
+    "operator": "Stack Infrastructure",
+    "operator:wikidata": "Q115477173",
+    "ref": "POR03B",
+    "telecom": "data_center",
+    "website": "https://www.stackinfra.com/locations/americas/portland/por03/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5545477,
+    "maxlon": -122.9401484,
+    "minlat": 45.5538412,
+    "minlon": -122.9417029
+   },
+   "geometry": [
+    {
+     "lat": 45.5545367,
+     "lon": -122.9416977
+    },
+    {
+     "lat": 45.554514,
+     "lon": -122.941698
+    },
+    {
+     "lat": 45.5538449,
+     "lon": -122.9417029
+    },
+    {
+     "lat": 45.5538412,
+     "lon": -122.9413725
+    },
+    {
+     "lat": 45.5539106,
+     "lon": -122.9413719
+    },
+    {
+     "lat": 45.5539103,
+     "lon": -122.9401484
+    },
+    {
+     "lat": 45.5545339,
+     "lon": -122.9401491
+    },
+    {
+     "lat": 45.5545477,
+     "lon": -122.9414631
+    },
+    {
+     "lat": 45.5545308,
+     "lon": -122.9414637
+    },
+    {
+     "lat": 45.5545367,
+     "lon": -122.9416977
+    }
+   ],
+   "id": 1243089555,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4735",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Starr Boulevard",
+    "building": "industrial",
+    "name": "Stack Infrastructure - POR03",
+    "operator": "Stack Infrastructure",
+    "operator:wikidata": "Q115477173",
+    "ref": "POR03C",
+    "telecom": "data_center",
+    "website": "https://www.stackinfra.com/locations/americas/portland/por03/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5533503,
+    "maxlon": -122.9373584,
+    "minlat": 45.552446,
+    "minlon": -122.9386025
+   },
+   "geometry": [
+    {
+     "lat": 45.5533464,
+     "lon": -122.9375716
+    },
+    {
+     "lat": 45.5530852,
+     "lon": -122.9375669
+    },
+    {
+     "lat": 45.553084,
+     "lon": -122.9373584
+    },
+    {
+     "lat": 45.5524636,
+     "lon": -122.9373672
+    },
+    {
+     "lat": 45.552467,
+     "lon": -122.9375791
+    },
+    {
+     "lat": 45.552446,
+     "lon": -122.9375796
+    },
+    {
+     "lat": 45.5524558,
+     "lon": -122.9386025
+    },
+    {
+     "lat": 45.5533503,
+     "lon": -122.9385878
+    },
+    {
+     "lat": 45.5533464,
+     "lon": -122.9375716
+    }
+   ],
+   "id": 1243089557,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4565",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Starr Boulevard",
+    "building": "construction",
+    "construction": "industrial",
+    "name": "Stack Infrastructure - POR03",
+    "note": "Stack Infrastructure Phase 3 Proposed Building POR3D",
+    "operator": "Stack Infrastructure",
+    "operator:wikidata": "Q115477173",
+    "ref": "POR03D",
+    "telecom": "data_center",
+    "website": "https://www.stackinfra.com/locations/americas/portland/por03/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8590624,
+    "maxlon": -119.6031061,
+    "minlat": 45.858432,
+    "minlon": -119.6070595
+   },
+   "geometry": [
+    {
+     "lat": 45.858432,
+     "lon": -119.6070538
+    },
+    {
+     "lat": 45.8584519,
+     "lon": -119.6052891
+    },
+    {
+     "lat": 45.8584878,
+     "lon": -119.6052776
+    },
+    {
+     "lat": 45.8584958,
+     "lon": -119.6048766
+    },
+    {
+     "lat": 45.8584559,
+     "lon": -119.6048766
+    },
+    {
+     "lat": 45.8584878,
+     "lon": -119.6031176
+    },
+    {
+     "lat": 45.8590624,
+     "lon": -119.6031061
+    },
+    {
+     "lat": 45.8590624,
+     "lon": -119.6048937
+    },
+    {
+     "lat": 45.8588909,
+     "lon": -119.6048995
+    },
+    {
+     "lat": 45.8588869,
+     "lon": -119.6053177
+    },
+    {
+     "lat": 45.8590505,
+     "lon": -119.6053235
+    },
+    {
+     "lat": 45.8590345,
+     "lon": -119.6070595
+    },
+    {
+     "lat": 45.858432,
+     "lon": -119.6070538
+    }
+   ],
+   "id": 1252196816,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "75242",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Gar Swanson Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX109",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8603912,
+    "maxlon": -119.6031462,
+    "minlat": 45.8597607,
+    "minlon": -119.6070996
+   },
+   "geometry": [
+    {
+     "lat": 45.8597607,
+     "lon": -119.6070882
+    },
+    {
+     "lat": 45.8597727,
+     "lon": -119.6053177
+    },
+    {
+     "lat": 45.8599083,
+     "lon": -119.6053177
+    },
+    {
+     "lat": 45.8599163,
+     "lon": -119.6048937
+    },
+    {
+     "lat": 45.8597926,
+     "lon": -119.6048937
+    },
+    {
+     "lat": 45.8598006,
+     "lon": -119.603152
+    },
+    {
+     "lat": 45.8603912,
+     "lon": -119.6031462
+    },
+    {
+     "lat": 45.8603792,
+     "lon": -119.6049052
+    },
+    {
+     "lat": 45.8603393,
+     "lon": -119.6049109
+    },
+    {
+     "lat": 45.8603353,
+     "lon": -119.6053407
+    },
+    {
+     "lat": 45.8603832,
+     "lon": -119.6053407
+    },
+    {
+     "lat": 45.8603592,
+     "lon": -119.6070996
+    },
+    {
+     "lat": 45.8597607,
+     "lon": -119.6070882
+    }
+   ],
+   "id": 1252196817,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "75246",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Gar Swanson Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX110",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8612969,
+    "maxlon": -119.6031806,
+    "minlat": 45.8606385,
+    "minlon": -119.6070996
+   },
+   "geometry": [
+    {
+     "lat": 45.8606385,
+     "lon": -119.6070882
+    },
+    {
+     "lat": 45.8606625,
+     "lon": -119.6053464
+    },
+    {
+     "lat": 45.8606944,
+     "lon": -119.6053407
+    },
+    {
+     "lat": 45.8607024,
+     "lon": -119.6049339
+    },
+    {
+     "lat": 45.8606625,
+     "lon": -119.6049396
+    },
+    {
+     "lat": 45.8607024,
+     "lon": -119.6031806
+    },
+    {
+     "lat": 45.8612969,
+     "lon": -119.6031806
+    },
+    {
+     "lat": 45.8612809,
+     "lon": -119.6049568
+    },
+    {
+     "lat": 45.8611094,
+     "lon": -119.6049396
+    },
+    {
+     "lat": 45.8611014,
+     "lon": -119.6051802
+    },
+    {
+     "lat": 45.8611533,
+     "lon": -119.6051917
+    },
+    {
+     "lat": 45.8611453,
+     "lon": -119.6053407
+    },
+    {
+     "lat": 45.8612849,
+     "lon": -119.6053235
+    },
+    {
+     "lat": 45.861261,
+     "lon": -119.6070996
+    },
+    {
+     "lat": 45.8606385,
+     "lon": -119.6070882
+    }
+   ],
+   "id": 1252196818,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "75250",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Gar Swanson Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX111",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8417313,
+    "maxlon": -119.6516242,
+    "minlat": 45.8412091,
+    "minlon": -119.6519474
+   },
+   "geometry": [
+    {
+     "lat": 45.8413304,
+     "lon": -119.6519321
+    },
+    {
+     "lat": 45.8413324,
+     "lon": -119.6518583
+    },
+    {
+     "lat": 45.8412091,
+     "lon": -119.6518513
+    },
+    {
+     "lat": 45.8412149,
+     "lon": -119.6516242
+    },
+    {
+     "lat": 45.8417313,
+     "lon": -119.6516381
+    },
+    {
+     "lat": 45.8417255,
+     "lon": -119.651875
+    },
+    {
+     "lat": 45.8417109,
+     "lon": -119.651875
+    },
+    {
+     "lat": 45.8417099,
+     "lon": -119.6519474
+    },
+    {
+     "lat": 45.8413304,
+     "lon": -119.6519321
+    }
+   ],
+   "id": 1252196819,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Rippee Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9219778,
+    "maxlon": -119.2313696,
+    "minlat": 45.9192399,
+    "minlon": -119.2322712
+   },
+   "geometry": [
+    {
+     "lat": 45.9192415,
+     "lon": -119.2322712
+    },
+    {
+     "lat": 45.9204564,
+     "lon": -119.2322712
+    },
+    {
+     "lat": 45.9204582,
+     "lon": -119.23222
+    },
+    {
+     "lat": 45.9207355,
+     "lon": -119.2322179
+    },
+    {
+     "lat": 45.9207374,
+     "lon": -119.2322605
+    },
+    {
+     "lat": 45.9219778,
+     "lon": -119.2322481
+    },
+    {
+     "lat": 45.9219706,
+     "lon": -119.2313696
+    },
+    {
+     "lat": 45.9207469,
+     "lon": -119.2313985
+    },
+    {
+     "lat": 45.9207413,
+     "lon": -119.2316212
+    },
+    {
+     "lat": 45.920451,
+     "lon": -119.2316299
+    },
+    {
+     "lat": 45.9204493,
+     "lon": -119.2314007
+    },
+    {
+     "lat": 45.9192399,
+     "lon": -119.2314162
+    },
+    {
+     "lat": 45.9192415,
+     "lon": -119.2322712
+    }
+   ],
+   "id": 1252196820,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:housenumber": "34820",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Wanapa Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9219633,
+    "maxlon": -119.2295564,
+    "minlat": 45.919214,
+    "minlon": -119.2304484
+   },
+   "geometry": [
+    {
+     "lat": 45.9192219,
+     "lon": -119.2304484
+    },
+    {
+     "lat": 45.9204418,
+     "lon": -119.2304296
+    },
+    {
+     "lat": 45.9204472,
+     "lon": -119.2302377
+    },
+    {
+     "lat": 45.9207214,
+     "lon": -119.2302272
+    },
+    {
+     "lat": 45.9207245,
+     "lon": -119.230432
+    },
+    {
+     "lat": 45.9219629,
+     "lon": -119.2304164
+    },
+    {
+     "lat": 45.9219633,
+     "lon": -119.2295564
+    },
+    {
+     "lat": 45.9207338,
+     "lon": -119.2295665
+    },
+    {
+     "lat": 45.9207357,
+     "lon": -119.2296178
+    },
+    {
+     "lat": 45.920448,
+     "lon": -119.229629
+    },
+    {
+     "lat": 45.9204424,
+     "lon": -119.2295668
+    },
+    {
+     "lat": 45.919214,
+     "lon": -119.2295795
+    },
+    {
+     "lat": 45.9192219,
+     "lon": -119.2304484
+    }
+   ],
+   "id": 1252196821,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:housenumber": "34830",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Wanapa Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.7981059,
+    "maxlon": -119.3599979,
+    "minlat": 45.7974448,
+    "minlon": -119.3639387
+   },
+   "geometry": [
+    {
+     "lat": 45.7975098,
+     "lon": -119.3639309
+    },
+    {
+     "lat": 45.7981059,
+     "lon": -119.3639387
+    },
+    {
+     "lat": 45.7980897,
+     "lon": -119.3621665
+    },
+    {
+     "lat": 45.7979162,
+     "lon": -119.3621743
+    },
+    {
+     "lat": 45.7979271,
+     "lon": -119.3617623
+    },
+    {
+     "lat": 45.7980951,
+     "lon": -119.3617545
+    },
+    {
+     "lat": 45.7980571,
+     "lon": -119.3600134
+    },
+    {
+     "lat": 45.7974448,
+     "lon": -119.3599979
+    },
+    {
+     "lat": 45.7974665,
+     "lon": -119.3617701
+    },
+    {
+     "lat": 45.797499,
+     "lon": -119.3617701
+    },
+    {
+     "lat": 45.7975098,
+     "lon": -119.3621743
+    },
+    {
+     "lat": 45.7974719,
+     "lon": -119.3621976
+    },
+    {
+     "lat": 45.7975098,
+     "lon": -119.3639309
+    }
+   ],
+   "id": 1252196822,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:housenumber": "77954",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "Cottonwood Bend Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX81",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.7994901,
+    "maxlon": -119.3646935,
+    "minlat": 45.7988238,
+    "minlon": -119.3686291
+   },
+   "geometry": [
+    {
+     "lat": 45.7988633,
+     "lon": -119.3668595
+    },
+    {
+     "lat": 45.7990262,
+     "lon": -119.3668525
+    },
+    {
+     "lat": 45.7990114,
+     "lon": -119.3664419
+    },
+    {
+     "lat": 45.7988485,
+     "lon": -119.3664631
+    },
+    {
+     "lat": 45.7988238,
+     "lon": -119.3647148
+    },
+    {
+     "lat": 45.7994456,
+     "lon": -119.3646935
+    },
+    {
+     "lat": 45.7994703,
+     "lon": -119.3664419
+    },
+    {
+     "lat": 45.799416,
+     "lon": -119.3664561
+    },
+    {
+     "lat": 45.7994259,
+     "lon": -119.3668595
+    },
+    {
+     "lat": 45.7994703,
+     "lon": -119.3668666
+    },
+    {
+     "lat": 45.7994901,
+     "lon": -119.3686291
+    },
+    {
+     "lat": 45.7988732,
+     "lon": -119.3686221
+    },
+    {
+     "lat": 45.7988633,
+     "lon": -119.3668595
+    }
+   ],
+   "id": 1252196823,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:housenumber": "77954",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "Cottonwood Bend Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.286124,
+    "maxlon": -120.8679408,
+    "minlat": 44.2853873,
+    "minlon": -120.871903
+   },
+   "geometry": [
+    {
+     "lat": 44.286124,
+     "lon": -120.871903
+    },
+    {
+     "lat": 44.2853917,
+     "lon": -120.8718876
+    },
+    {
+     "lat": 44.2853873,
+     "lon": -120.8679408
+    },
+    {
+     "lat": 44.286113,
+     "lon": -120.8679408
+    },
+    {
+     "lat": 44.286124,
+     "lon": -120.871903
+    }
+   ],
+   "id": 1276373853,
+   "tags": {
+    "building": "industrial",
+    "name": "Apple",
+    "operator": "Apple Inc.",
+    "operator:wikidata": "Q312",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9219588,
+    "maxlon": -119.2284004,
+    "minlat": 45.9192166,
+    "minlon": -119.2293016
+   },
+   "geometry": [
+    {
+     "lat": 45.9192166,
+     "lon": -119.2293016
+    },
+    {
+     "lat": 45.9219588,
+     "lon": -119.2292659
+    },
+    {
+     "lat": 45.9219553,
+     "lon": -119.2284004
+    },
+    {
+     "lat": 45.9207266,
+     "lon": -119.2284174
+    },
+    {
+     "lat": 45.9207285,
+     "lon": -119.2286128
+    },
+    {
+     "lat": 45.9206101,
+     "lon": -119.2286075
+    },
+    {
+     "lat": 45.9206175,
+     "lon": -119.228657
+    },
+    {
+     "lat": 45.920447,
+     "lon": -119.228657
+    },
+    {
+     "lat": 45.920447,
+     "lon": -119.2284146
+    },
+    {
+     "lat": 45.9192185,
+     "lon": -119.2284259
+    },
+    {
+     "lat": 45.9192166,
+     "lon": -119.2293016
+    }
+   ],
+   "id": 1280344149,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:housenumber": "34840",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Wanapa Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9219494,
+    "maxlon": -119.2265567,
+    "minlat": 45.9192139,
+    "minlon": -119.2274645
+   },
+   "geometry": [
+    {
+     "lat": 45.9219494,
+     "lon": -119.2274426
+    },
+    {
+     "lat": 45.9219457,
+     "lon": -119.2265739
+    },
+    {
+     "lat": 45.9207322,
+     "lon": -119.2265567
+    },
+    {
+     "lat": 45.9207155,
+     "lon": -119.2266227
+    },
+    {
+     "lat": 45.9204299,
+     "lon": -119.2266305
+    },
+    {
+     "lat": 45.9204318,
+     "lon": -119.2265861
+    },
+    {
+     "lat": 45.9192139,
+     "lon": -119.2266027
+    },
+    {
+     "lat": 45.919225,
+     "lon": -119.2274645
+    },
+    {
+     "lat": 45.9204298,
+     "lon": -119.2274536
+    },
+    {
+     "lat": 45.9204318,
+     "lon": -119.2272722
+    },
+    {
+     "lat": 45.9205428,
+     "lon": -119.2272726
+    },
+    {
+     "lat": 45.9205428,
+     "lon": -119.2272122
+    },
+    {
+     "lat": 45.9207072,
+     "lon": -119.2272175
+    },
+    {
+     "lat": 45.9207092,
+     "lon": -119.2274591
+    },
+    {
+     "lat": 45.9219494,
+     "lon": -119.2274426
+    }
+   ],
+   "id": 1280344150,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:housenumber": "34850",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Wanapa Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.9197898,
+    "maxlon": -119.2259854,
+    "minlat": 45.9192683,
+    "minlon": -119.2262924
+   },
+   "geometry": [
+    {
+     "lat": 45.9192714,
+     "lon": -119.2262901
+    },
+    {
+     "lat": 45.9196386,
+     "lon": -119.2262924
+    },
+    {
+     "lat": 45.9196377,
+     "lon": -119.2262151
+    },
+    {
+     "lat": 45.9197862,
+     "lon": -119.2262144
+    },
+    {
+     "lat": 45.9197898,
+     "lon": -119.2259922
+    },
+    {
+     "lat": 45.9192683,
+     "lon": -119.2259854
+    },
+    {
+     "lat": 45.9192714,
+     "lon": -119.2262901
+    }
+   ],
+   "id": 1280344151,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Wanapa Road",
+    "building": "data_center",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8839106,
+    "maxlon": -119.3412093,
+    "minlat": 45.8811398,
+    "minlon": -119.3421038
+   },
+   "geometry": [
+    {
+     "lat": 45.8811439,
+     "lon": -119.3420998
+    },
+    {
+     "lat": 45.8811398,
+     "lon": -119.3412211
+    },
+    {
+     "lat": 45.8823736,
+     "lon": -119.3412093
+    },
+    {
+     "lat": 45.8823745,
+     "lon": -119.3414016
+    },
+    {
+     "lat": 45.8826776,
+     "lon": -119.3413987
+    },
+    {
+     "lat": 45.8826729,
+     "lon": -119.341241
+    },
+    {
+     "lat": 45.8839102,
+     "lon": -119.3412507
+    },
+    {
+     "lat": 45.8839106,
+     "lon": -119.3421038
+    },
+    {
+     "lat": 45.8826667,
+     "lon": -119.342089
+    },
+    {
+     "lat": 45.8826665,
+     "lon": -119.3420404
+    },
+    {
+     "lat": 45.8823767,
+     "lon": -119.3420432
+    },
+    {
+     "lat": 45.882377,
+     "lon": -119.3420881
+    },
+    {
+     "lat": 45.8811439,
+     "lon": -119.3420998
+    }
+   ],
+   "id": 1280344153,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:housenumber": "80939",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Powerline Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8625561,
+    "maxlon": -119.6031482,
+    "minlat": 45.8619403,
+    "minlon": -119.6071075
+   },
+   "geometry": [
+    {
+     "lat": 45.8625468,
+     "lon": -119.6071075
+    },
+    {
+     "lat": 45.8625437,
+     "lon": -119.6053345
+    },
+    {
+     "lat": 45.8625035,
+     "lon": -119.6053345
+    },
+    {
+     "lat": 45.8625066,
+     "lon": -119.6049212
+    },
+    {
+     "lat": 45.862553,
+     "lon": -119.6049212
+    },
+    {
+     "lat": 45.8625561,
+     "lon": -119.6031793
+    },
+    {
+     "lat": 45.8619403,
+     "lon": -119.6031482
+    },
+    {
+     "lat": 45.8619434,
+     "lon": -119.6049123
+    },
+    {
+     "lat": 45.8620888,
+     "lon": -119.6049079
+    },
+    {
+     "lat": 45.8620857,
+     "lon": -119.6050767
+    },
+    {
+     "lat": 45.8621259,
+     "lon": -119.6050767
+    },
+    {
+     "lat": 45.8621197,
+     "lon": -119.6053211
+    },
+    {
+     "lat": 45.8619588,
+     "lon": -119.6053211
+    },
+    {
+     "lat": 45.8619495,
+     "lon": -119.6070808
+    },
+    {
+     "lat": 45.8625468,
+     "lon": -119.6071075
+    }
+   ],
+   "id": 1280344154,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:housenumber": "75254",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Gar Swanson Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "ref": "PDX112",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8581447,
+    "maxlon": -119.60447,
+    "minlat": 45.8579427,
+    "minlon": -119.605232
+   },
+   "geometry": [
+    {
+     "lat": 45.8581447,
+     "lon": -119.605232
+    },
+    {
+     "lat": 45.858138,
+     "lon": -119.6046905
+    },
+    {
+     "lat": 45.8580935,
+     "lon": -119.6046963
+    },
+    {
+     "lat": 45.8580962,
+     "lon": -119.60447
+    },
+    {
+     "lat": 45.8579454,
+     "lon": -119.6044796
+    },
+    {
+     "lat": 45.8579427,
+     "lon": -119.6052185
+    },
+    {
+     "lat": 45.8581447,
+     "lon": -119.605232
+    }
+   ],
+   "id": 1280344155,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Gar Swanson Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8409478,
+    "maxlon": -119.6511386,
+    "minlat": 45.8404215,
+    "minlon": -119.6514806
+   },
+   "geometry": [
+    {
+     "lat": 45.8404215,
+     "lon": -119.6514551
+    },
+    {
+     "lat": 45.8407949,
+     "lon": -119.6514806
+    },
+    {
+     "lat": 45.8407949,
+     "lon": -119.6513887
+    },
+    {
+     "lat": 45.8409443,
+     "lon": -119.6513836
+    },
+    {
+     "lat": 45.8409478,
+     "lon": -119.6511692
+    },
+    {
+     "lat": 45.8404393,
+     "lon": -119.6511386
+    },
+    {
+     "lat": 45.8404215,
+     "lon": -119.6514551
+    }
+   ],
+   "id": 1280344156,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Rippee Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8202378,
+    "maxlon": -119.6301254,
+    "minlat": 45.8196224,
+    "minlon": -119.6340456
+   },
+   "geometry": [
+    {
+     "lat": 45.8202378,
+     "lon": -119.6322999
+    },
+    {
+     "lat": 45.8201738,
+     "lon": -119.6322948
+    },
+    {
+     "lat": 45.8201702,
+     "lon": -119.631866
+    },
+    {
+     "lat": 45.8202236,
+     "lon": -119.6318762
+    },
+    {
+     "lat": 45.8202307,
+     "lon": -119.6301356
+    },
+    {
+     "lat": 45.8196295,
+     "lon": -119.6301254
+    },
+    {
+     "lat": 45.8196224,
+     "lon": -119.6318609
+    },
+    {
+     "lat": 45.8197327,
+     "lon": -119.631866
+    },
+    {
+     "lat": 45.8197363,
+     "lon": -119.632259
+    },
+    {
+     "lat": 45.819626,
+     "lon": -119.6322641
+    },
+    {
+     "lat": 45.8196331,
+     "lon": -119.6340303
+    },
+    {
+     "lat": 45.8202307,
+     "lon": -119.6340456
+    },
+    {
+     "lat": 45.8202378,
+     "lon": -119.6322999
+    }
+   ],
+   "id": 1280344157,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Bombing Range Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.7753137,
+    "maxlon": -122.6158524,
+    "minlat": 44.7751333,
+    "minlon": -122.61601
+   },
+   "geometry": [
+    {
+     "lat": 44.7751333,
+     "lon": -122.6160091
+    },
+    {
+     "lat": 44.7752931,
+     "lon": -122.61601
+    },
+    {
+     "lat": 44.7752932,
+     "lon": -122.6159716
+    },
+    {
+     "lat": 44.7753135,
+     "lon": -122.6159717
+    },
+    {
+     "lat": 44.7753137,
+     "lon": -122.6159003
+    },
+    {
+     "lat": 44.7752929,
+     "lon": -122.6159002
+    },
+    {
+     "lat": 44.7752929,
+     "lon": -122.6158896
+    },
+    {
+     "lat": 44.7753048,
+     "lon": -122.6158897
+    },
+    {
+     "lat": 44.7753049,
+     "lon": -122.6158679
+    },
+    {
+     "lat": 44.7752863,
+     "lon": -122.6158678
+    },
+    {
+     "lat": 44.7752864,
+     "lon": -122.6158532
+    },
+    {
+     "lat": 44.7751337,
+     "lon": -122.6158524
+    },
+    {
+     "lat": 44.7751333,
+     "lon": -122.6160091
+    }
+   ],
+   "id": 1365213539,
+   "tags": {
+    "building": "yes",
+    "name": "PTC",
+    "operator": "Stayton Cooperative Telephone Company",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8808997,
+    "maxlon": -119.3411674,
+    "minlat": 45.8781548,
+    "minlon": -119.3420837
+   },
+   "geometry": [
+    {
+     "lat": 45.8781589,
+     "lon": -119.3420837
+    },
+    {
+     "lat": 45.8781548,
+     "lon": -119.3412049
+    },
+    {
+     "lat": 45.8793887,
+     "lon": -119.3411932
+    },
+    {
+     "lat": 45.8793896,
+     "lon": -119.3413854
+    },
+    {
+     "lat": 45.8796926,
+     "lon": -119.3413825
+    },
+    {
+     "lat": 45.8796917,
+     "lon": -119.3411793
+    },
+    {
+     "lat": 45.8808954,
+     "lon": -119.3411674
+    },
+    {
+     "lat": 45.8808997,
+     "lon": -119.3420608
+    },
+    {
+     "lat": 45.8796818,
+     "lon": -119.3420728
+    },
+    {
+     "lat": 45.8796815,
+     "lon": -119.3420242
+    },
+    {
+     "lat": 45.8793918,
+     "lon": -119.342027
+    },
+    {
+     "lat": 45.879392,
+     "lon": -119.342072
+    },
+    {
+     "lat": 45.8781589,
+     "lon": -119.3420837
+    }
+   ],
+   "id": 1374895921,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:housenumber": "80939",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Powerline Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8839058,
+    "maxlon": -119.3392166,
+    "minlat": 45.8811545,
+    "minlon": -119.3401729
+   },
+   "geometry": [
+    {
+     "lat": 45.8839058,
+     "lon": -119.3392908
+    },
+    {
+     "lat": 45.8838947,
+     "lon": -119.3401694
+    },
+    {
+     "lat": 45.8826742,
+     "lon": -119.3401616
+    },
+    {
+     "lat": 45.8826728,
+     "lon": -119.3399426
+    },
+    {
+     "lat": 45.8823978,
+     "lon": -119.3399375
+    },
+    {
+     "lat": 45.8823972,
+     "lon": -119.3401729
+    },
+    {
+     "lat": 45.8811545,
+     "lon": -119.3401099
+    },
+    {
+     "lat": 45.8811655,
+     "lon": -119.3392166
+    },
+    {
+     "lat": 45.8823832,
+     "lon": -119.3392477
+    },
+    {
+     "lat": 45.8823826,
+     "lon": -119.3392963
+    },
+    {
+     "lat": 45.8826723,
+     "lon": -119.3393038
+    },
+    {
+     "lat": 45.8826729,
+     "lon": -119.3392588
+    },
+    {
+     "lat": 45.8839058,
+     "lon": -119.3392908
+    }
+   ],
+   "id": 1374895922,
+   "tags": {
+    "addr:city": "Umatilla",
+    "addr:housenumber": "80939",
+    "addr:postcode": "97882",
+    "addr:state": "OR",
+    "addr:street": "Powerline Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8520448,
+    "maxlon": -119.6176925,
+    "minlat": 45.8514171,
+    "minlon": -119.62163
+   },
+   "geometry": [
+    {
+     "lat": 45.8514395,
+     "lon": -119.62163
+    },
+    {
+     "lat": 45.851432,
+     "lon": -119.6198865
+    },
+    {
+     "lat": 45.8514769,
+     "lon": -119.6198919
+    },
+    {
+     "lat": 45.8514656,
+     "lon": -119.6194627
+    },
+    {
+     "lat": 45.8514171,
+     "lon": -119.6194627
+    },
+    {
+     "lat": 45.8514395,
+     "lon": -119.6177139
+    },
+    {
+     "lat": 45.8520373,
+     "lon": -119.6176925
+    },
+    {
+     "lat": 45.8520373,
+     "lon": -119.6194735
+    },
+    {
+     "lat": 45.8519028,
+     "lon": -119.6194735
+    },
+    {
+     "lat": 45.8518953,
+     "lon": -119.6198865
+    },
+    {
+     "lat": 45.8520336,
+     "lon": -119.6199026
+    },
+    {
+     "lat": 45.8520448,
+     "lon": -119.6216246
+    },
+    {
+     "lat": 45.8514395,
+     "lon": -119.62163
+    }
+   ],
+   "id": 1386017490,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Lewis and Clark Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8534011,
+    "maxlon": -119.6177139,
+    "minlat": 45.8527883,
+    "minlon": -119.6216461
+   },
+   "geometry": [
+    {
+     "lat": 45.8527883,
+     "lon": -119.6216461
+    },
+    {
+     "lat": 45.8527958,
+     "lon": -119.6198704
+    },
+    {
+     "lat": 45.8529714,
+     "lon": -119.6198543
+    },
+    {
+     "lat": 45.8529639,
+     "lon": -119.6196022
+    },
+    {
+     "lat": 45.8529266,
+     "lon": -119.6196022
+    },
+    {
+     "lat": 45.8529266,
+     "lon": -119.619452
+    },
+    {
+     "lat": 45.8527958,
+     "lon": -119.6194466
+    },
+    {
+     "lat": 45.8528107,
+     "lon": -119.6177139
+    },
+    {
+     "lat": 45.8534011,
+     "lon": -119.6177139
+    },
+    {
+     "lat": 45.8533899,
+     "lon": -119.6194627
+    },
+    {
+     "lat": 45.8533525,
+     "lon": -119.6194681
+    },
+    {
+     "lat": 45.8533562,
+     "lon": -119.6198758
+    },
+    {
+     "lat": 45.8533973,
+     "lon": -119.6198758
+    },
+    {
+     "lat": 45.8533936,
+     "lon": -119.6216246
+    },
+    {
+     "lat": 45.8527883,
+     "lon": -119.6216461
+    }
+   ],
+   "id": 1386017491,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Lewis and Clark Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8190176,
+    "maxlon": -119.6300333,
+    "minlat": 45.8184034,
+    "minlon": -119.6339832
+   },
+   "geometry": [
+    {
+     "lat": 45.8190004,
+     "lon": -119.6339832
+    },
+    {
+     "lat": 45.819009,
+     "lon": -119.6321838
+    },
+    {
+     "lat": 45.8188673,
+     "lon": -119.63219
+    },
+    {
+     "lat": 45.8188673,
+     "lon": -119.6320298
+    },
+    {
+     "lat": 45.8188329,
+     "lon": -119.6320298
+    },
+    {
+     "lat": 45.8188372,
+     "lon": -119.6318018
+    },
+    {
+     "lat": 45.8190047,
+     "lon": -119.6318203
+    },
+    {
+     "lat": 45.8190176,
+     "lon": -119.6300394
+    },
+    {
+     "lat": 45.8184206,
+     "lon": -119.6300333
+    },
+    {
+     "lat": 45.818412,
+     "lon": -119.6317587
+    },
+    {
+     "lat": 45.8184593,
+     "lon": -119.6317587
+    },
+    {
+     "lat": 45.8184507,
+     "lon": -119.6322085
+    },
+    {
+     "lat": 45.818412,
+     "lon": -119.6322085
+    },
+    {
+     "lat": 45.8184034,
+     "lon": -119.6339585
+    },
+    {
+     "lat": 45.8190004,
+     "lon": -119.6339832
+    }
+   ],
+   "id": 1386017492,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Bombing Range Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8190133,
+    "maxlon": -119.6342851,
+    "minlat": 45.8183906,
+    "minlon": -119.6382412
+   },
+   "geometry": [
+    {
+     "lat": 45.8184034,
+     "lon": -119.638235
+    },
+    {
+     "lat": 45.8183906,
+     "lon": -119.636485
+    },
+    {
+     "lat": 45.8184335,
+     "lon": -119.6364727
+    },
+    {
+     "lat": 45.8184378,
+     "lon": -119.6360844
+    },
+    {
+     "lat": 45.8183906,
+     "lon": -119.6360844
+    },
+    {
+     "lat": 45.8184034,
+     "lon": -119.6342851
+    },
+    {
+     "lat": 45.8189961,
+     "lon": -119.6343036
+    },
+    {
+     "lat": 45.8190133,
+     "lon": -119.6360968
+    },
+    {
+     "lat": 45.8188415,
+     "lon": -119.6360783
+    },
+    {
+     "lat": 45.8188329,
+     "lon": -119.6363063
+    },
+    {
+     "lat": 45.8188673,
+     "lon": -119.6363063
+    },
+    {
+     "lat": 45.818863,
+     "lon": -119.6364603
+    },
+    {
+     "lat": 45.8189918,
+     "lon": -119.6364727
+    },
+    {
+     "lat": 45.8190133,
+     "lon": -119.6382412
+    },
+    {
+     "lat": 45.8184034,
+     "lon": -119.638235
+    }
+   ],
+   "id": 1386017493,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Bombing Range Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8202544,
+    "maxlon": -119.6342974,
+    "minlat": 45.8196446,
+    "minlon": -119.6382473
+   },
+   "geometry": [
+    {
+     "lat": 45.8196532,
+     "lon": -119.6382227
+    },
+    {
+     "lat": 45.8196446,
+     "lon": -119.6365096
+    },
+    {
+     "lat": 45.8198163,
+     "lon": -119.6365096
+    },
+    {
+     "lat": 45.8198292,
+     "lon": -119.6362508
+    },
+    {
+     "lat": 45.819782,
+     "lon": -119.6362508
+    },
+    {
+     "lat": 45.8197949,
+     "lon": -119.6360783
+    },
+    {
+     "lat": 45.8196532,
+     "lon": -119.6360844
+    },
+    {
+     "lat": 45.8196703,
+     "lon": -119.6342974
+    },
+    {
+     "lat": 45.8202415,
+     "lon": -119.6343221
+    },
+    {
+     "lat": 45.8202501,
+     "lon": -119.6360844
+    },
+    {
+     "lat": 45.8202157,
+     "lon": -119.6360783
+    },
+    {
+     "lat": 45.82022,
+     "lon": -119.6364727
+    },
+    {
+     "lat": 45.8202544,
+     "lon": -119.6364727
+    },
+    {
+     "lat": 45.8202458,
+     "lon": -119.6382473
+    },
+    {
+     "lat": 45.8196532,
+     "lon": -119.6382227
+    }
+   ],
+   "id": 1386017494,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Bombing Range Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8099385,
+    "maxlon": -119.2666503,
+    "minlat": 45.8093291,
+    "minlon": -119.2705717
+   },
+   "geometry": [
+    {
+     "lat": 45.8093365,
+     "lon": -119.2705717
+    },
+    {
+     "lat": 45.8093291,
+     "lon": -119.2688092
+    },
+    {
+     "lat": 45.8094944,
+     "lon": -119.2688021
+    },
+    {
+     "lat": 45.8094944,
+     "lon": -119.2685685
+    },
+    {
+     "lat": 45.8094648,
+     "lon": -119.2685544
+    },
+    {
+     "lat": 45.8094698,
+     "lon": -119.2684093
+    },
+    {
+     "lat": 45.8093365,
+     "lon": -119.2683986
+    },
+    {
+     "lat": 45.8093316,
+     "lon": -119.2666503
+    },
+    {
+     "lat": 45.8099212,
+     "lon": -119.2666503
+    },
+    {
+     "lat": 45.809936,
+     "lon": -119.2683916
+    },
+    {
+     "lat": 45.8099089,
+     "lon": -119.2683916
+    },
+    {
+     "lat": 45.8099064,
+     "lon": -119.2688163
+    },
+    {
+     "lat": 45.8099385,
+     "lon": -119.2688198
+    },
+    {
+     "lat": 45.8099335,
+     "lon": -119.2705611
+    },
+    {
+     "lat": 45.8093365,
+     "lon": -119.2705717
+    }
+   ],
+   "id": 1386017495,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:housenumber": "976",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "East Penney Avenue",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8085816,
+    "maxlon": -119.2666503,
+    "minlat": 45.8079723,
+    "minlon": -119.2705823
+   },
+   "geometry": [
+    {
+     "lat": 45.8079846,
+     "lon": -119.2705823
+    },
+    {
+     "lat": 45.8079772,
+     "lon": -119.2688269
+    },
+    {
+     "lat": 45.8080019,
+     "lon": -119.268834
+    },
+    {
+     "lat": 45.8080019,
+     "lon": -119.2683951
+    },
+    {
+     "lat": 45.8079772,
+     "lon": -119.268388
+    },
+    {
+     "lat": 45.8079723,
+     "lon": -119.2666538
+    },
+    {
+     "lat": 45.8085718,
+     "lon": -119.2666503
+    },
+    {
+     "lat": 45.8085792,
+     "lon": -119.2684305
+    },
+    {
+     "lat": 45.8084336,
+     "lon": -119.2684163
+    },
+    {
+     "lat": 45.8084435,
+     "lon": -119.2688269
+    },
+    {
+     "lat": 45.8085792,
+     "lon": -119.2688304
+    },
+    {
+     "lat": 45.8085816,
+     "lon": -119.2705717
+    },
+    {
+     "lat": 45.8079846,
+     "lon": -119.2705823
+    }
+   ],
+   "id": 1386017496,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:housenumber": "976",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "East Penney Avenue",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.7993385,
+    "maxlon": -119.3597474,
+    "minlat": 45.7986915,
+    "minlon": -119.3637063
+   },
+   "geometry": [
+    {
+     "lat": 45.7987289,
+     "lon": -119.3637063
+    },
+    {
+     "lat": 45.798714,
+     "lon": -119.3619307
+    },
+    {
+     "lat": 45.7988935,
+     "lon": -119.3619146
+    },
+    {
+     "lat": 45.7989047,
+     "lon": -119.3616786
+    },
+    {
+     "lat": 45.7988598,
+     "lon": -119.3616947
+    },
+    {
+     "lat": 45.7988636,
+     "lon": -119.3615284
+    },
+    {
+     "lat": 45.7987177,
+     "lon": -119.3615176
+    },
+    {
+     "lat": 45.7986915,
+     "lon": -119.3597474
+    },
+    {
+     "lat": 45.7992936,
+     "lon": -119.3597527
+    },
+    {
+     "lat": 45.7993198,
+     "lon": -119.3615337
+    },
+    {
+     "lat": 45.7992862,
+     "lon": -119.3615284
+    },
+    {
+     "lat": 45.7992936,
+     "lon": -119.3619575
+    },
+    {
+     "lat": 45.7993273,
+     "lon": -119.3619522
+    },
+    {
+     "lat": 45.7993385,
+     "lon": -119.3636956
+    },
+    {
+     "lat": 45.7987289,
+     "lon": -119.3637063
+    }
+   ],
+   "id": 1386017497,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:housenumber": "77954",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "Cottonwood Bend Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.7997947,
+    "maxlon": -119.3580528,
+    "minlat": 45.7995721,
+    "minlon": -119.3587957
+   },
+   "geometry": [
+    {
+     "lat": 45.7995778,
+     "lon": -119.3587957
+    },
+    {
+     "lat": 45.7995721,
+     "lon": -119.3582217
+    },
+    {
+     "lat": 45.7996339,
+     "lon": -119.358211
+    },
+    {
+     "lat": 45.7996282,
+     "lon": -119.3580608
+    },
+    {
+     "lat": 45.7997835,
+     "lon": -119.3580528
+    },
+    {
+     "lat": 45.7997947,
+     "lon": -119.3587904
+    },
+    {
+     "lat": 45.7995778,
+     "lon": -119.3587957
+    }
+   ],
+   "id": 1386017498,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "Cottonwood Bend Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.7980126,
+    "maxlon": -119.3587662,
+    "minlat": 45.7974908,
+    "minlon": -119.3590827
+   },
+   "geometry": [
+    {
+     "lat": 45.7974908,
+     "lon": -119.3590827
+    },
+    {
+     "lat": 45.7978667,
+     "lon": -119.3590827
+    },
+    {
+     "lat": 45.7978649,
+     "lon": -119.3590023
+    },
+    {
+     "lat": 45.7980088,
+     "lon": -119.3590076
+    },
+    {
+     "lat": 45.7980126,
+     "lon": -119.3587662
+    },
+    {
+     "lat": 45.7974908,
+     "lon": -119.3587823
+    },
+    {
+     "lat": 45.7974908,
+     "lon": -119.3590827
+    }
+   ],
+   "id": 1386017499,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "Cottonwood Bend Road",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.6240529,
+    "maxlon": -121.2048086,
+    "minlat": 45.6222826,
+    "minlon": -121.2085194
+   },
+   "geometry": [
+    {
+     "lat": 45.6222826,
+     "lon": -121.207974
+    },
+    {
+     "lat": 45.6231631,
+     "lon": -121.2085194
+    },
+    {
+     "lat": 45.6232922,
+     "lon": -121.2080936
+    },
+    {
+     "lat": 45.6232229,
+     "lon": -121.2080507
+    },
+    {
+     "lat": 45.6240529,
+     "lon": -121.2053111
+    },
+    {
+     "lat": 45.6232416,
+     "lon": -121.2048086
+    },
+    {
+     "lat": 45.6222826,
+     "lon": -121.207974
+    }
+   ],
+   "id": 1443567519,
+   "tags": {
+    "building": "industrial",
+    "name": "Google",
+    "operator": "Google",
+    "operator:wikidata": "Q95",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5483851,
+    "maxlon": -122.9355192,
+    "minlat": 45.5477734,
+    "minlon": -122.9400559
+   },
+   "geometry": [
+    {
+     "lat": 45.5482594,
+     "lon": -122.9374943
+    },
+    {
+     "lat": 45.5482493,
+     "lon": -122.9355192
+    },
+    {
+     "lat": 45.5477734,
+     "lon": -122.9355241
+    },
+    {
+     "lat": 45.5477964,
+     "lon": -122.9400559
+    },
+    {
+     "lat": 45.5482723,
+     "lon": -122.940051
+    },
+    {
+     "lat": 45.5482609,
+     "lon": -122.9378028
+    },
+    {
+     "lat": 45.5483851,
+     "lon": -122.9378015
+    },
+    {
+     "lat": 45.5483835,
+     "lon": -122.937493
+    },
+    {
+     "lat": 45.5482594,
+     "lon": -122.9374943
+    }
+   ],
+   "id": 1454598380,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "4510",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Dawson Creek Drive",
+    "building": "industrial",
+    "name": "NTT RagingWire DC - Hillsboro",
+    "operator": "NTT",
+    "operator:wikidata": "Q1054787",
+    "operator:wikipedia": "en:Nippon Telegraph and Telephone",
+    "ref": "HI2",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5722919,
+    "maxlon": -122.9165703,
+    "minlat": 45.5715576,
+    "minlon": -122.9203058
+   },
+   "geometry": [
+    {
+     "lat": 45.5722919,
+     "lon": -122.9203016
+    },
+    {
+     "lat": 45.5722793,
+     "lon": -122.9165703
+    },
+    {
+     "lat": 45.5716612,
+     "lon": -122.9165745
+    },
+    {
+     "lat": 45.5716618,
+     "lon": -122.9167529
+    },
+    {
+     "lat": 45.5718045,
+     "lon": -122.9167519
+    },
+    {
+     "lat": 45.5718144,
+     "lon": -122.9198708
+    },
+    {
+     "lat": 45.5715576,
+     "lon": -122.9198725
+    },
+    {
+     "lat": 45.5715584,
+     "lon": -122.9201098
+    },
+    {
+     "lat": 45.5716791,
+     "lon": -122.920109
+    },
+    {
+     "lat": 45.5716798,
+     "lon": -122.9203058
+    },
+    {
+     "lat": 45.5722919,
+     "lon": -122.9203016
+    }
+   ],
+   "id": 1465196735,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Pubols Street",
+    "area": "yes",
+    "name": "QTS Data Center - Hillsboro 3",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "operator:wikipedia": "en:Quality Technology Services",
+    "proposed:building": "industrial",
+    "ref": "North Building",
+    "telecom": "data_center",
+    "website": "https://q.com/data-centers/hillsboro-3/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.570573,
+    "maxlon": -122.9175531,
+    "minlat": 45.5698095,
+    "minlon": -122.9221135
+   },
+   "geometry": [
+    {
+     "lat": 45.5702906,
+     "lon": -122.9177367
+    },
+    {
+     "lat": 45.5704246,
+     "lon": -122.9177357
+    },
+    {
+     "lat": 45.5704239,
+     "lon": -122.9175531
+    },
+    {
+     "lat": 45.5698095,
+     "lon": -122.9175578
+    },
+    {
+     "lat": 45.5698267,
+     "lon": -122.9221135
+    },
+    {
+     "lat": 45.5704646,
+     "lon": -122.9221087
+    },
+    {
+     "lat": 45.5704638,
+     "lon": -122.9218826
+    },
+    {
+     "lat": 45.570573,
+     "lon": -122.9218818
+    },
+    {
+     "lat": 45.5705721,
+     "lon": -122.9216374
+    },
+    {
+     "lat": 45.5703044,
+     "lon": -122.9216393
+    },
+    {
+     "lat": 45.5702906,
+     "lon": -122.9177367
+    }
+   ],
+   "id": 1465196736,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast Schaaf Street",
+    "area": "yes",
+    "name": "QTS Data Center - Hillsboro 3",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "operator:wikipedia": "en:Quality Technology Services",
+    "proposed:building": "industrial",
+    "ref": "South Building",
+    "telecom": "data_center",
+    "website": "https://q.com/data-centers/hillsboro-3/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8541951,
+    "maxlon": -119.6177426,
+    "minlat": 45.8535562,
+    "minlon": -119.6217089
+   },
+   "geometry": [
+    {
+     "lat": 45.8541845,
+     "lon": -119.6217089
+    },
+    {
+     "lat": 45.8535664,
+     "lon": -119.6217047
+    },
+    {
+     "lat": 45.8535722,
+     "lon": -119.6199332
+    },
+    {
+     "lat": 45.8536185,
+     "lon": -119.6199335
+    },
+    {
+     "lat": 45.8536198,
+     "lon": -119.619521
+    },
+    {
+     "lat": 45.8535562,
+     "lon": -119.6195206
+    },
+    {
+     "lat": 45.8535616,
+     "lon": -119.6177426
+    },
+    {
+     "lat": 45.8541951,
+     "lon": -119.6177466
+    },
+    {
+     "lat": 45.8541896,
+     "lon": -119.6195111
+    },
+    {
+     "lat": 45.8539978,
+     "lon": -119.6195099
+    },
+    {
+     "lat": 45.8539963,
+     "lon": -119.6199722
+    },
+    {
+     "lat": 45.8541902,
+     "lon": -119.6199735
+    },
+    {
+     "lat": 45.8541845,
+     "lon": -119.6217089
+    }
+   ],
+   "id": 1501436323,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Lewis and Clark Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8555404,
+    "maxlon": -119.6177587,
+    "minlat": 45.8549268,
+    "minlon": -119.6216957
+   },
+   "geometry": [
+    {
+     "lat": 45.8555309,
+     "lon": -119.6216957
+    },
+    {
+     "lat": 45.8549268,
+     "lon": -119.6216932
+    },
+    {
+     "lat": 45.8549302,
+     "lon": -119.6199227
+    },
+    {
+     "lat": 45.8550876,
+     "lon": -119.6199233
+    },
+    {
+     "lat": 45.8550884,
+     "lon": -119.619508
+    },
+    {
+     "lat": 45.8549307,
+     "lon": -119.6195074
+    },
+    {
+     "lat": 45.8549337,
+     "lon": -119.6177587
+    },
+    {
+     "lat": 45.8555404,
+     "lon": -119.6177608
+    },
+    {
+     "lat": 45.8555374,
+     "lon": -119.6195606
+    },
+    {
+     "lat": 45.8554967,
+     "lon": -119.6195604
+    },
+    {
+     "lat": 45.8554959,
+     "lon": -119.6199683
+    },
+    {
+     "lat": 45.8555343,
+     "lon": -119.6199685
+    },
+    {
+     "lat": 45.8555309,
+     "lon": -119.6216957
+    }
+   ],
+   "id": 1501436324,
+   "tags": {
+    "addr:city": "Boardman",
+    "addr:postcode": "97818",
+    "addr:state": "OR",
+    "addr:street": "Lewis and Clark Drive",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.81205,
+    "maxlon": -119.2667043,
+    "minlat": 45.8114406,
+    "minlon": -119.2706257
+   },
+   "geometry": [
+    {
+     "lat": 45.811448,
+     "lon": -119.2706257
+    },
+    {
+     "lat": 45.8114406,
+     "lon": -119.2688632
+    },
+    {
+     "lat": 45.8116059,
+     "lon": -119.2688561
+    },
+    {
+     "lat": 45.8116059,
+     "lon": -119.2686225
+    },
+    {
+     "lat": 45.8115763,
+     "lon": -119.2686084
+    },
+    {
+     "lat": 45.8115813,
+     "lon": -119.2684633
+    },
+    {
+     "lat": 45.811448,
+     "lon": -119.2684526
+    },
+    {
+     "lat": 45.8114431,
+     "lon": -119.2667043
+    },
+    {
+     "lat": 45.8120327,
+     "lon": -119.2667043
+    },
+    {
+     "lat": 45.8120475,
+     "lon": -119.2684456
+    },
+    {
+     "lat": 45.8120204,
+     "lon": -119.2684456
+    },
+    {
+     "lat": 45.8120179,
+     "lon": -119.2688703
+    },
+    {
+     "lat": 45.81205,
+     "lon": -119.2688738
+    },
+    {
+     "lat": 45.812045,
+     "lon": -119.2706151
+    },
+    {
+     "lat": 45.811448,
+     "lon": -119.2706257
+    }
+   ],
+   "id": 1501455347,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:housenumber": "994",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "East Penney Avenue",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8106858,
+    "maxlon": -119.2667027,
+    "minlat": 45.8100766,
+    "minlon": -119.2706347
+   },
+   "geometry": [
+    {
+     "lat": 45.8100889,
+     "lon": -119.2706347
+    },
+    {
+     "lat": 45.8100815,
+     "lon": -119.2688793
+    },
+    {
+     "lat": 45.8101062,
+     "lon": -119.2688864
+    },
+    {
+     "lat": 45.8101062,
+     "lon": -119.2684475
+    },
+    {
+     "lat": 45.8100815,
+     "lon": -119.2684404
+    },
+    {
+     "lat": 45.8100766,
+     "lon": -119.2667062
+    },
+    {
+     "lat": 45.810676,
+     "lon": -119.2667027
+    },
+    {
+     "lat": 45.8106834,
+     "lon": -119.2684829
+    },
+    {
+     "lat": 45.8105378,
+     "lon": -119.2684687
+    },
+    {
+     "lat": 45.8105477,
+     "lon": -119.2688793
+    },
+    {
+     "lat": 45.8106834,
+     "lon": -119.2688828
+    },
+    {
+     "lat": 45.8106858,
+     "lon": -119.2706241
+    },
+    {
+     "lat": 45.8100889,
+     "lon": -119.2706347
+    }
+   ],
+   "id": 1501455348,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:housenumber": "988",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "East Penney Avenue",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8125754,
+    "maxlon": -119.2778059,
+    "minlat": 45.8098437,
+    "minlon": -119.2786879
+   },
+   "geometry": [
+    {
+     "lat": 45.8098437,
+     "lon": -119.2778059
+    },
+    {
+     "lat": 45.8110706,
+     "lon": -119.2778089
+    },
+    {
+     "lat": 45.8110695,
+     "lon": -119.2779993
+    },
+    {
+     "lat": 45.8112013,
+     "lon": -119.2780057
+    },
+    {
+     "lat": 45.8112681,
+     "lon": -119.2780076
+    },
+    {
+     "lat": 45.8113594,
+     "lon": -119.2780096
+    },
+    {
+     "lat": 45.8113633,
+     "lon": -119.277809
+    },
+    {
+     "lat": 45.8125754,
+     "lon": -119.2778088
+    },
+    {
+     "lat": 45.8125753,
+     "lon": -119.2786687
+    },
+    {
+     "lat": 45.8113829,
+     "lon": -119.2786831
+    },
+    {
+     "lat": 45.8113828,
+     "lon": -119.2786442
+    },
+    {
+     "lat": 45.8110868,
+     "lon": -119.2786418
+    },
+    {
+     "lat": 45.8110844,
+     "lon": -119.2786879
+    },
+    {
+     "lat": 45.8098446,
+     "lon": -119.2786786
+    },
+    {
+     "lat": 45.8098437,
+     "lon": -119.2778059
+    }
+   ],
+   "id": 1501456882,
+   "tags": {
+    "addr:city": "Hermiston",
+    "addr:postcode": "97838",
+    "addr:state": "OR",
+    "addr:street": "East Penney Avenue",
+    "building": "industrial",
+    "name": "Amazon Web Services",
+    "operator": "Amazon Web Services",
+    "operator:short": "AWS",
+    "operator:wikidata": "Q456157",
+    "operator:wikipedia": "en:Amazon Web Services",
+    "owner": "Vadata Inc",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5152426,
+    "maxlon": -123.0779823,
+    "minlat": 45.5143318,
+    "minlon": -123.0796736
+   },
+   "geometry": [
+    {
+     "lat": 45.5152426,
+     "lon": -123.0791992
+    },
+    {
+     "lat": 45.5148856,
+     "lon": -123.0791997
+    },
+    {
+     "lat": 45.5148859,
+     "lon": -123.079673
+    },
+    {
+     "lat": 45.5144723,
+     "lon": -123.0796736
+    },
+    {
+     "lat": 45.5144718,
+     "lon": -123.0790062
+    },
+    {
+     "lat": 45.5143324,
+     "lon": -123.0790064
+    },
+    {
+     "lat": 45.5143318,
+     "lon": -123.0779835
+    },
+    {
+     "lat": 45.5152418,
+     "lon": -123.0779823
+    },
+    {
+     "lat": 45.5152426,
+     "lon": -123.0791992
+    }
+   ],
+   "id": 1501805557,
+   "tags": {
+    "addr:city": "Forest Grove",
+    "addr:housenumber": "3975",
+    "addr:postcode": "97116",
+    "addr:state": "OR",
+    "addr:street": "Heather Street",
+    "area": "yes",
+    "name": "Crane DC - Portland",
+    "operator": "Crane Data Centers Inc.",
+    "proposed:building": "industrial",
+    "telecom": "data_center",
+    "website": "https://www.cranedc.com/data-centers/oregon-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.7126683,
+    "maxlon": -119.8247529,
+    "minlat": 45.7099671,
+    "minlon": -119.8277169
+   },
+   "geometry": [
+    {
+     "lat": 45.7123006,
+     "lon": -119.8277169
+    },
+    {
+     "lat": 45.7099671,
+     "lon": -119.8255732
+    },
+    {
+     "lat": 45.7103345,
+     "lon": -119.8247529
+    },
+    {
+     "lat": 45.7126683,
+     "lon": -119.826896
+    },
+    {
+     "lat": 45.7123006,
+     "lon": -119.8277169
+    }
+   ],
+   "id": 1501824326,
+   "tags": {
+    "area": "yes",
+    "name": "Percheron DC",
+    "operator": "Rowan Green Data LLC",
+    "owner": "Rowan Digital Infrastructure Pty Ltd",
+    "proposed:building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.7132844,
+    "maxlon": -119.8232822,
+    "minlat": 45.7105833,
+    "minlon": -119.8262462
+   },
+   "geometry": [
+    {
+     "lat": 45.7129167,
+     "lon": -119.8262462
+    },
+    {
+     "lat": 45.7105833,
+     "lon": -119.8241025
+    },
+    {
+     "lat": 45.7109506,
+     "lon": -119.8232822
+    },
+    {
+     "lat": 45.7132844,
+     "lon": -119.8254253
+    },
+    {
+     "lat": 45.7129167,
+     "lon": -119.8262462
+    }
+   ],
+   "id": 1501824327,
+   "tags": {
+    "area": "yes",
+    "name": "Percheron DC",
+    "operator": "Rowan Green Data LLC",
+    "owner": "Rowan Digital Infrastructure Pty Ltd",
+    "proposed:building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.7093123,
+    "maxlon": -119.8203423,
+    "minlat": 45.7072321,
+    "minlon": -119.8242035
+   },
+   "geometry": [
+    {
+     "lat": 45.7087411,
+     "lon": -119.8242035
+    },
+    {
+     "lat": 45.7072321,
+     "lon": -119.8208728
+    },
+    {
+     "lat": 45.707803,
+     "lon": -119.8203423
+    },
+    {
+     "lat": 45.7088758,
+     "lon": -119.8227095
+    },
+    {
+     "lat": 45.7093123,
+     "lon": -119.8236727
+    },
+    {
+     "lat": 45.7087411,
+     "lon": -119.8242035
+    }
+   ],
+   "id": 1501824328,
+   "tags": {
+    "area": "yes",
+    "name": "Percheron DC",
+    "operator": "Rowan Green Data LLC",
+    "owner": "Rowan Digital Infrastructure Pty Ltd",
+    "proposed:building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.710361,
+    "maxlon": -119.8192815,
+    "minlat": 45.7082808,
+    "minlon": -119.8231427
+   },
+   "geometry": [
+    {
+     "lat": 45.7097897,
+     "lon": -119.8231427
+    },
+    {
+     "lat": 45.7082808,
+     "lon": -119.8198119
+    },
+    {
+     "lat": 45.7088516,
+     "lon": -119.8192815
+    },
+    {
+     "lat": 45.710361,
+     "lon": -119.8226118
+    },
+    {
+     "lat": 45.7097897,
+     "lon": -119.8231427
+    }
+   ],
+   "id": 1501824329,
+   "tags": {
+    "area": "yes",
+    "name": "Percheron DC",
+    "operator": "Rowan Green Data LLC",
+    "owner": "Rowan Digital Infrastructure Pty Ltd",
+    "proposed:building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.8112047,
+    "maxlon": -119.8584504,
+    "minlat": 45.8084508,
+    "minlon": -119.859357
+   },
+   "geometry": [
+    {
+     "lat": 45.8084508,
+     "lon": -119.859357
+    },
+    {
+     "lat": 45.8084508,
+     "lon": -119.8584933
+    },
+    {
+     "lat": 45.8096885,
+     "lon": -119.8584504
+    },
+    {
+     "lat": 45.8096885,
+     "lon": -119.8584987
+    },
+    {
+     "lat": 45.809938,
+     "lon": -119.8584948
+    },
+    {
+     "lat": 45.8112028,
+     "lon": -119.8584547
+    },
+    {
+     "lat": 45.8112047,
+     "lon": -119.8593117
+    },
+    {
+     "lat": 45.8099795,
+     "lon": -119.8593318
+    },
+    {
+     "lat": 45.8099773,
+     "lon": -119.8591212
+    },
+    {
+     "lat": 45.8096932,
+     "lon": -119.8591309
+    },
+    {
+     "lat": 45.8096861,
+     "lon": -119.8593286
+    },
+    {
+     "lat": 45.8084508,
+     "lon": -119.859357
+    }
+   ],
+   "id": 1510517629,
+   "tags": {
+    "building": "yes",
+    "not:operator:wikidata": "Q456157",
+    "operator": "amazon web services",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.625661,
+    "maxlon": -121.2065717,
+    "minlat": 45.6238923,
+    "minlon": -121.2102842
+   },
+   "geometry": [
+    {
+     "lat": 45.6247755,
+     "lon": -121.2102842
+    },
+    {
+     "lat": 45.6248986,
+     "lon": -121.2098702
+    },
+    {
+     "lat": 45.624831,
+     "lon": -121.2098184
+    },
+    {
+     "lat": 45.625661,
+     "lon": -121.2070789
+    },
+    {
+     "lat": 45.6248503,
+     "lon": -121.2065717
+    },
+    {
+     "lat": 45.6238923,
+     "lon": -121.2097356
+    },
+    {
+     "lat": 45.6247755,
+     "lon": -121.2102842
+    }
+   ],
+   "id": 1510517630,
+   "tags": {
+    "building": "yes",
+    "name": "Google",
+    "operator": "Google",
+    "operator:wikidata": "Q95",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 45.5346809,
+    "maxlon": -122.9551965,
+    "minlat": 45.5334366,
+    "minlon": -122.9565985
+   },
+   "id": 4645970,
+   "tags": {
+    "addr:city": "Hillsboro",
+    "addr:housenumber": "1300",
+    "addr:postcode": "97124",
+    "addr:state": "OR",
+    "addr:street": "Northeast 25th Avenue",
+    "building": "industrial",
+    "ele": "61.4",
+    "height": "9.7",
+    "name": "OVHcloud - Hillsboro",
+    "operator": "OVHcloud",
+    "operator:wikidata": "Q568183",
+    "ref": "HIL1",
+    "telecom": "data_center",
+    "type": "multipolygon",
+    "website": "https://us.ovhcloud.com/"
+   },
+   "type": "relation"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:16:04Z",
+  "timestamp_osm_base": "2026-10-21T17:25:39Z"
+ },
+ "version": 0.6
+}

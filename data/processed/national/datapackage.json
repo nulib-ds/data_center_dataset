@@ -1,0 +1,1283 @@
+{
+  "description": "Registry of commercial (colocation, wholesale, hyperscale) data centers in the United States, assembled per state from OpenStreetMap, PeeringDB and the EPA National Emissions Inventory. Power figures are ESTIMATES carrying an explicit evidence tier and confidence interval; none is a metered consumption reading. See LIMITATIONS.md before use.",
+  "licenses": [
+    {
+      "name": "ODbL-1.0",
+      "path": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "title": "Open Database License 1.0"
+    }
+  ],
+  "name": "us-data-center-dataset",
+  "profile": "tabular-data-package",
+  "reconciliation": {
+    "bottom_up_annual_twh": 248.2,
+    "bottom_up_it_load_mw": 28263.7,
+    "facilities": 2605,
+    "facilities_with_power_estimate": 1435,
+    "note": "The national anchor band is the sum of the per-state bands, each of which is an order-of-magnitude heuristic, so the union is wide by construction. It is a smell test, not a measurement.",
+    "states_built": 51,
+    "states_missing": [],
+    "summary_rows": [
+      {
+        "anchor_high_twh": 48.0,
+        "anchor_low_twh": 18.0,
+        "anchor_twh": 30.0,
+        "facilities": 418,
+        "multi_source": 42,
+        "state": "VA",
+        "state_name": "Virginia",
+        "sum_annual_twh": 64.8,
+        "sum_it_load_mw": 7447.9,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 3,
+        "tier_c_facilities": 362,
+        "with_footprint": 363,
+        "with_power_estimate": 365,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 34.0,
+        "anchor_low_twh": 12.0,
+        "anchor_twh": 20.0,
+        "facilities": 271,
+        "multi_source": 27,
+        "state": "TX",
+        "state_name": "Texas",
+        "sum_annual_twh": 24.86,
+        "sum_it_load_mw": 2805.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 1,
+        "tier_c_facilities": 175,
+        "with_footprint": 175,
+        "with_power_estimate": 176,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 1.92,
+        "anchor_low_twh": 0.72,
+        "anchor_twh": 1.2,
+        "facilities": 116,
+        "multi_source": 16,
+        "state": "OR",
+        "state_name": "Oregon",
+        "sum_annual_twh": 17.16,
+        "sum_it_load_mw": 1977.7,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 8,
+        "tier_c_facilities": 74,
+        "with_footprint": 77,
+        "with_power_estimate": 82,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 11.2,
+        "anchor_low_twh": 4.2,
+        "anchor_twh": 7.0,
+        "facilities": 116,
+        "multi_source": 5,
+        "state": "OH",
+        "state_name": "Ohio",
+        "sum_annual_twh": 16.33,
+        "sum_it_load_mw": 1923.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 1,
+        "tier_c_facilities": 56,
+        "with_footprint": 56,
+        "with_power_estimate": 57,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 26.0,
+        "anchor_low_twh": 12.0,
+        "anchor_twh": 18.0,
+        "facilities": 216,
+        "multi_source": 57,
+        "state": "CA",
+        "state_name": "California",
+        "sum_annual_twh": 12.84,
+        "sum_it_load_mw": 1424.2,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 46,
+        "tier_c_facilities": 70,
+        "with_footprint": 87,
+        "with_power_estimate": 116,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 15.0,
+        "anchor_low_twh": 4.0,
+        "anchor_twh": 9.0,
+        "facilities": 103,
+        "multi_source": 29,
+        "state": "IL",
+        "state_name": "Illinois",
+        "sum_annual_twh": 12.6,
+        "sum_it_load_mw": 1399.9,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 16,
+        "tier_c_facilities": 39,
+        "with_footprint": 48,
+        "with_power_estimate": 55,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 14.0,
+        "anchor_low_twh": 4.0,
+        "anchor_twh": 8.0,
+        "facilities": 80,
+        "multi_source": 11,
+        "state": "GA",
+        "state_name": "Georgia",
+        "sum_annual_twh": 10.83,
+        "sum_it_load_mw": 1226.8,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 39,
+        "with_footprint": 39,
+        "with_power_estimate": 39,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 1.92,
+        "anchor_low_twh": 0.72,
+        "anchor_twh": 1.2,
+        "facilities": 55,
+        "multi_source": 4,
+        "state": "IA",
+        "state_name": "Iowa",
+        "sum_annual_twh": 9.71,
+        "sum_it_load_mw": 1119.6,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 2,
+        "tier_c_facilities": 30,
+        "with_footprint": 31,
+        "with_power_estimate": 32,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 16.0,
+        "anchor_low_twh": 4.0,
+        "anchor_twh": 9.0,
+        "facilities": 67,
+        "multi_source": 15,
+        "state": "AZ",
+        "state_name": "Arizona",
+        "sum_annual_twh": 9.76,
+        "sum_it_load_mw": 1107.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 36,
+        "with_footprint": 36,
+        "with_power_estimate": 36,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 6.4,
+        "anchor_low_twh": 2.4,
+        "anchor_twh": 4.0,
+        "facilities": 84,
+        "multi_source": 16,
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "sum_annual_twh": 7.43,
+        "sum_it_load_mw": 822.9,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 47,
+        "with_footprint": 47,
+        "with_power_estimate": 47,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 1.6,
+        "anchor_low_twh": 0.6,
+        "anchor_twh": 1.0,
+        "facilities": 29,
+        "multi_source": 1,
+        "state": "NE",
+        "state_name": "Nebraska",
+        "sum_annual_twh": 6.62,
+        "sum_it_load_mw": 767.1,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 20,
+        "with_footprint": 20,
+        "with_power_estimate": 20,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 8.0,
+        "anchor_low_twh": 3.0,
+        "anchor_twh": 5.0,
+        "facilities": 102,
+        "multi_source": 6,
+        "state": "WA",
+        "state_name": "Washington",
+        "sum_annual_twh": 6.62,
+        "sum_it_load_mw": 741.2,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 58,
+        "with_footprint": 58,
+        "with_power_estimate": 58,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 3.2,
+        "anchor_low_twh": 1.2,
+        "anchor_twh": 2.0,
+        "facilities": 41,
+        "multi_source": 4,
+        "state": "TN",
+        "state_name": "Tennessee",
+        "sum_annual_twh": 5.41,
+        "sum_it_load_mw": 620.2,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 14,
+        "with_footprint": 14,
+        "with_power_estimate": 14,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 0.64,
+        "anchor_low_twh": 0.24,
+        "anchor_twh": 0.4,
+        "facilities": 37,
+        "multi_source": 0,
+        "state": "WY",
+        "state_name": "Wyoming",
+        "sum_annual_twh": 4.29,
+        "sum_it_load_mw": 485.9,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 1,
+        "tier_c_facilities": 23,
+        "with_footprint": 23,
+        "with_power_estimate": 24,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 2.88,
+        "anchor_low_twh": 1.08,
+        "anchor_twh": 1.8,
+        "facilities": 33,
+        "multi_source": 6,
+        "state": "NV",
+        "state_name": "Nevada",
+        "sum_annual_twh": 4.28,
+        "sum_it_load_mw": 472.2,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 26,
+        "with_footprint": 26,
+        "with_power_estimate": 26,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 2.4,
+        "anchor_low_twh": 0.9,
+        "anchor_twh": 1.5,
+        "facilities": 41,
+        "multi_source": 4,
+        "state": "MO",
+        "state_name": "Missouri",
+        "sum_annual_twh": 3.73,
+        "sum_it_load_mw": 422.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 1,
+        "tier_c_facilities": 17,
+        "with_footprint": 17,
+        "with_power_estimate": 18,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 4.0,
+        "anchor_low_twh": 1.5,
+        "anchor_twh": 2.5,
+        "facilities": 34,
+        "multi_source": 8,
+        "state": "UT",
+        "state_name": "Utah",
+        "sum_annual_twh": 3.56,
+        "sum_it_load_mw": 410.3,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 17,
+        "with_footprint": 17,
+        "with_power_estimate": 17,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 1.92,
+        "anchor_low_twh": 0.72,
+        "anchor_twh": 1.2,
+        "facilities": 15,
+        "multi_source": 2,
+        "state": "AL",
+        "state_name": "Alabama",
+        "sum_annual_twh": 3.18,
+        "sum_it_load_mw": 371.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 10,
+        "with_footprint": 10,
+        "with_power_estimate": 10,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 6.4,
+        "anchor_low_twh": 2.4,
+        "anchor_twh": 4.0,
+        "facilities": 47,
+        "multi_source": 7,
+        "state": "NC",
+        "state_name": "North Carolina",
+        "sum_annual_twh": 3.28,
+        "sum_it_load_mw": 370.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 16,
+        "with_footprint": 16,
+        "with_power_estimate": 16,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 5.6,
+        "anchor_low_twh": 2.1,
+        "anchor_twh": 3.5,
+        "facilities": 47,
+        "multi_source": 14,
+        "state": "CO",
+        "state_name": "Colorado",
+        "sum_annual_twh": 2.9,
+        "sum_it_load_mw": 324.8,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 6,
+        "tier_c_facilities": 20,
+        "with_footprint": 22,
+        "with_power_estimate": 26,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 0.8,
+        "anchor_low_twh": 0.3,
+        "anchor_twh": 0.5,
+        "facilities": 9,
+        "multi_source": 0,
+        "state": "MS",
+        "state_name": "Mississippi",
+        "sum_annual_twh": 2.29,
+        "sum_it_load_mw": 258.6,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 1,
+        "tier_c_facilities": 7,
+        "with_footprint": 7,
+        "with_power_estimate": 8,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 4.0,
+        "anchor_low_twh": 1.5,
+        "anchor_twh": 2.5,
+        "facilities": 47,
+        "multi_source": 3,
+        "state": "MN",
+        "state_name": "Minnesota",
+        "sum_annual_twh": 1.82,
+        "sum_it_load_mw": 203.2,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 2,
+        "tier_c_facilities": 13,
+        "with_footprint": 13,
+        "with_power_estimate": 15,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 3.2,
+        "anchor_low_twh": 1.2,
+        "anchor_twh": 2.0,
+        "facilities": 30,
+        "multi_source": 1,
+        "state": "IN",
+        "state_name": "Indiana",
+        "sum_annual_twh": 1.71,
+        "sum_it_load_mw": 192.2,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 10,
+        "with_footprint": 10,
+        "with_power_estimate": 10,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 2.88,
+        "anchor_low_twh": 1.08,
+        "anchor_twh": 1.8,
+        "facilities": 12,
+        "multi_source": 5,
+        "state": "SC",
+        "state_name": "South Carolina",
+        "sum_annual_twh": 1.51,
+        "sum_it_load_mw": 176.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 6,
+        "with_footprint": 6,
+        "with_power_estimate": 6,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 11.2,
+        "anchor_low_twh": 4.2,
+        "anchor_twh": 7.0,
+        "facilities": 90,
+        "multi_source": 8,
+        "state": "NY",
+        "state_name": "New York",
+        "sum_annual_twh": 1.42,
+        "sum_it_load_mw": 157.4,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 20,
+        "with_footprint": 20,
+        "with_power_estimate": 20,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 5.6,
+        "anchor_low_twh": 2.1,
+        "anchor_twh": 3.5,
+        "facilities": 80,
+        "multi_source": 4,
+        "state": "PA",
+        "state_name": "Pennsylvania",
+        "sum_annual_twh": 1.18,
+        "sum_it_load_mw": 133.1,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 2,
+        "tier_c_facilities": 39,
+        "with_footprint": 41,
+        "with_power_estimate": 41,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 1.28,
+        "anchor_low_twh": 0.48,
+        "anchor_twh": 0.8,
+        "facilities": 14,
+        "multi_source": 4,
+        "state": "NM",
+        "state_name": "New Mexico",
+        "sum_annual_twh": 0.98,
+        "sum_it_load_mw": 113.1,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 5,
+        "with_footprint": 5,
+        "with_power_estimate": 5,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 3.2,
+        "anchor_low_twh": 1.2,
+        "anchor_twh": 2.0,
+        "facilities": 32,
+        "multi_source": 2,
+        "state": "MI",
+        "state_name": "Michigan",
+        "sum_annual_twh": 0.99,
+        "sum_it_load_mw": 111.3,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 1,
+        "tier_c_facilities": 8,
+        "with_footprint": 8,
+        "with_power_estimate": 9,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 9.6,
+        "anchor_low_twh": 3.6,
+        "anchor_twh": 6.0,
+        "facilities": 73,
+        "multi_source": 5,
+        "state": "FL",
+        "state_name": "Florida",
+        "sum_annual_twh": 0.92,
+        "sum_it_load_mw": 102.6,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 11,
+        "with_footprint": 11,
+        "with_power_estimate": 11,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 6.4,
+        "anchor_low_twh": 2.4,
+        "anchor_twh": 4.0,
+        "facilities": 40,
+        "multi_source": 5,
+        "state": "MA",
+        "state_name": "Massachusetts",
+        "sum_annual_twh": 0.92,
+        "sum_it_load_mw": 101.1,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 6,
+        "tier_c_facilities": 3,
+        "with_footprint": 3,
+        "with_power_estimate": 9,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 1.92,
+        "anchor_low_twh": 0.72,
+        "anchor_twh": 1.2,
+        "facilities": 19,
+        "multi_source": 4,
+        "state": "OK",
+        "state_name": "Oklahoma",
+        "sum_annual_twh": 0.75,
+        "sum_it_load_mw": 84.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 1,
+        "tier_c_facilities": 5,
+        "with_footprint": 5,
+        "with_power_estimate": 6,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 1.12,
+        "anchor_low_twh": 0.42,
+        "anchor_twh": 0.7,
+        "facilities": 11,
+        "multi_source": 0,
+        "state": "ID",
+        "state_name": "Idaho",
+        "sum_annual_twh": 0.72,
+        "sum_it_load_mw": 80.7,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 4,
+        "with_footprint": 4,
+        "with_power_estimate": 4,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 4.0,
+        "anchor_low_twh": 1.5,
+        "anchor_twh": 2.5,
+        "facilities": 22,
+        "multi_source": 6,
+        "state": "MD",
+        "state_name": "Maryland",
+        "sum_annual_twh": 0.56,
+        "sum_it_load_mw": 63.1,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 1,
+        "tier_c_facilities": 7,
+        "with_footprint": 7,
+        "with_power_estimate": 8,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 1.6,
+        "anchor_low_twh": 0.6,
+        "anchor_twh": 1.0,
+        "facilities": 15,
+        "multi_source": 1,
+        "state": "KS",
+        "state_name": "Kansas",
+        "sum_annual_twh": 0.49,
+        "sum_it_load_mw": 54.3,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 1,
+        "tier_c_facilities": 7,
+        "with_footprint": 7,
+        "with_power_estimate": 8,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 4.0,
+        "anchor_low_twh": 1.5,
+        "anchor_twh": 2.5,
+        "facilities": 27,
+        "multi_source": 2,
+        "state": "WI",
+        "state_name": "Wisconsin",
+        "sum_annual_twh": 0.46,
+        "sum_it_load_mw": 51.4,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 9,
+        "with_footprint": 9,
+        "with_power_estimate": 9,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 1.28,
+        "anchor_low_twh": 0.48,
+        "anchor_twh": 0.8,
+        "facilities": 13,
+        "multi_source": 4,
+        "state": "KY",
+        "state_name": "Kentucky",
+        "sum_annual_twh": 0.34,
+        "sum_it_load_mw": 36.8,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 1,
+        "tier_c_facilities": 4,
+        "with_footprint": 4,
+        "with_power_estimate": 5,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 0.64,
+        "anchor_low_twh": 0.24,
+        "anchor_twh": 0.4,
+        "facilities": 8,
+        "multi_source": 1,
+        "state": "SD",
+        "state_name": "South Dakota",
+        "sum_annual_twh": 0.31,
+        "sum_it_load_mw": 34.1,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 2,
+        "with_footprint": 2,
+        "with_power_estimate": 2,
+        "within_anchor_range": true
+      },
+      {
+        "anchor_high_twh": 1.44,
+        "anchor_low_twh": 0.54,
+        "anchor_twh": 0.9,
+        "facilities": 20,
+        "multi_source": 0,
+        "state": "CT",
+        "state_name": "Connecticut",
+        "sum_annual_twh": 0.29,
+        "sum_it_load_mw": 31.6,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 4,
+        "with_footprint": 4,
+        "with_power_estimate": 4,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 0.64,
+        "anchor_low_twh": 0.24,
+        "anchor_twh": 0.4,
+        "facilities": 18,
+        "multi_source": 0,
+        "state": "ND",
+        "state_name": "North Dakota",
+        "sum_annual_twh": 0.12,
+        "sum_it_load_mw": 13.8,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 10,
+        "with_footprint": 10,
+        "with_power_estimate": 10,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 1.28,
+        "anchor_low_twh": 0.48,
+        "anchor_twh": 0.8,
+        "facilities": 3,
+        "multi_source": 0,
+        "state": "DE",
+        "state_name": "Delaware",
+        "sum_annual_twh": 0.07,
+        "sum_it_load_mw": 8.2,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 1,
+        "tier_c_facilities": 0,
+        "with_footprint": 0,
+        "with_power_estimate": 1,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 0.64,
+        "anchor_low_twh": 0.24,
+        "anchor_twh": 0.4,
+        "facilities": 7,
+        "multi_source": 0,
+        "state": "ME",
+        "state_name": "Maine",
+        "sum_annual_twh": 0.06,
+        "sum_it_load_mw": 7.3,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 2,
+        "with_footprint": 2,
+        "with_power_estimate": 2,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 1.28,
+        "anchor_low_twh": 0.48,
+        "anchor_twh": 0.8,
+        "facilities": 7,
+        "multi_source": 0,
+        "state": "NH",
+        "state_name": "New Hampshire",
+        "sum_annual_twh": 0.05,
+        "sum_it_load_mw": 5.4,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 3,
+        "with_footprint": 3,
+        "with_power_estimate": 3,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 0.96,
+        "anchor_low_twh": 0.36,
+        "anchor_twh": 0.6,
+        "facilities": 6,
+        "multi_source": 1,
+        "state": "AR",
+        "state_name": "Arkansas",
+        "sum_annual_twh": 0.04,
+        "sum_it_load_mw": 4.2,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 2,
+        "with_footprint": 2,
+        "with_power_estimate": 2,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 0.8,
+        "anchor_low_twh": 0.3,
+        "anchor_twh": 0.5,
+        "facilities": 11,
+        "multi_source": 0,
+        "state": "MT",
+        "state_name": "Montana",
+        "sum_annual_twh": 0.01,
+        "sum_it_load_mw": 1.1,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 2,
+        "with_footprint": 2,
+        "with_power_estimate": 2,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 1.12,
+        "anchor_low_twh": 0.42,
+        "anchor_twh": 0.7,
+        "facilities": 7,
+        "multi_source": 0,
+        "state": "HI",
+        "state_name": "Hawaii",
+        "sum_annual_twh": 0.0,
+        "sum_it_load_mw": 0.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 0,
+        "with_footprint": 0,
+        "with_power_estimate": 0,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 1.44,
+        "anchor_low_twh": 0.54,
+        "anchor_twh": 0.9,
+        "facilities": 4,
+        "multi_source": 1,
+        "state": "DC",
+        "state_name": "District of Columbia",
+        "sum_annual_twh": 0.0,
+        "sum_it_load_mw": 0.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 0,
+        "with_footprint": 0,
+        "with_power_estimate": 0,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 0.96,
+        "anchor_low_twh": 0.36,
+        "anchor_twh": 0.6,
+        "facilities": 4,
+        "multi_source": 0,
+        "state": "AK",
+        "state_name": "Alaska",
+        "sum_annual_twh": 0.0,
+        "sum_it_load_mw": 0.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 0,
+        "with_footprint": 0,
+        "with_power_estimate": 0,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 1.92,
+        "anchor_low_twh": 0.72,
+        "anchor_twh": 1.2,
+        "facilities": 7,
+        "multi_source": 2,
+        "state": "LA",
+        "state_name": "Louisiana",
+        "sum_annual_twh": 0.0,
+        "sum_it_load_mw": 0.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 0,
+        "with_footprint": 0,
+        "with_power_estimate": 0,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 0.64,
+        "anchor_low_twh": 0.24,
+        "anchor_twh": 0.4,
+        "facilities": 5,
+        "multi_source": 0,
+        "state": "RI",
+        "state_name": "Rhode Island",
+        "sum_annual_twh": 0.0,
+        "sum_it_load_mw": 0.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 0,
+        "with_footprint": 0,
+        "with_power_estimate": 0,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 0.48,
+        "anchor_low_twh": 0.18,
+        "anchor_twh": 0.3,
+        "facilities": 6,
+        "multi_source": 0,
+        "state": "VT",
+        "state_name": "Vermont",
+        "sum_annual_twh": 0.0,
+        "sum_it_load_mw": 0.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 1,
+        "with_footprint": 1,
+        "with_power_estimate": 1,
+        "within_anchor_range": false
+      },
+      {
+        "anchor_high_twh": 0.96,
+        "anchor_low_twh": 0.36,
+        "anchor_twh": 0.6,
+        "facilities": 6,
+        "multi_source": 0,
+        "state": "WV",
+        "state_name": "West Virginia",
+        "sum_annual_twh": 0.0,
+        "sum_it_load_mw": 0.0,
+        "tier_a_facilities": 0,
+        "tier_b_facilities": 0,
+        "tier_c_facilities": 0,
+        "with_footprint": 0,
+        "with_power_estimate": 0,
+        "within_anchor_range": false
+      }
+    ],
+    "top_down_anchor_twh_sum": 178.6,
+    "top_down_range_twh": [
+      104.76,
+      288.36
+    ],
+    "within_anchor_range": true
+  },
+  "resources": [
+    {
+      "description": "One row per resolved commercial data center site, all states.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "facilities",
+      "path": "facilities.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "name": "state",
+            "type": "string"
+          },
+          {
+            "description": "Stable slug + hash identifier for the resolved site.",
+            "name": "facility_id",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "operator",
+            "type": "string"
+          },
+          {
+            "description": "How the operator was resolved: alias (curated table) | alias_token (partial token match) | unattributed (known property SPV, operator not public) | unresolved (raw string kept).",
+            "name": "operator_confidence",
+            "type": "string"
+          },
+          {
+            "description": "colocation | wholesale | hyperscale | unknown.",
+            "name": "facility_class",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "lat",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "lon",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "address",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "city",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "postcode",
+            "type": "string"
+          },
+          {
+            "description": "Most specific retail electric utility whose CEC territory contains the site.",
+            "name": "utility",
+            "type": "string"
+          },
+          {
+            "description": "All overlapping CEC territories, including non-retail overlays. Shows attribution ambiguity.",
+            "name": "utility_candidates",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "year_built",
+            "type": "number"
+          },
+          {
+            "description": "Storeys recorded in OSM, uncapped.",
+            "name": "building_levels_reported",
+            "type": "number"
+          },
+          {
+            "description": "Storeys credited by the Tier C model, capped at 3.",
+            "name": "building_levels_used",
+            "type": "number"
+          },
+          {
+            "description": "True where the building exceeds the storey cap, so the facility is one tenant of a larger tower and the footprint overstates its share.",
+            "name": "partial_occupancy",
+            "type": "number"
+          },
+          {
+            "description": "Building footprint from OSM polygon, EPSG:3310. Null if only a point is known.",
+            "name": "footprint_sqft",
+            "type": "number"
+          },
+          {
+            "description": "footprint_sqft x credited storeys (capped at 3). Modelled, not surveyed.",
+            "name": "est_gross_sqft",
+            "type": "number"
+          },
+          {
+            "description": "Modelled raised-floor area. Tier C input, not a measurement.",
+            "name": "est_white_space_sqft",
+            "type": "number"
+          },
+          {
+            "description": "Preferred IT-load estimate in MW, selected by tier precedence. NOT metered consumption.",
+            "name": "best_power_mw",
+            "type": "number"
+          },
+          {
+            "description": "Lower bound of the estimate interval.",
+            "name": "power_ci_low_mw",
+            "type": "number"
+          },
+          {
+            "description": "Upper bound of the estimate interval.",
+            "name": "power_ci_high_mw",
+            "type": "number"
+          },
+          {
+            "description": "Evidence quality: A_attested (cited) > B_generator (permit proxy) > C_area (model).",
+            "name": "power_tier",
+            "type": "string"
+          },
+          {
+            "description": "How many independent methods produced an estimate for this site.",
+            "name": "n_power_methods",
+            "type": "number"
+          },
+          {
+            "description": "Modelled annual electricity use, = IT load x PUE x utilization x 8760.",
+            "name": "est_annual_gwh",
+            "type": "number"
+          },
+          {
+            "description": "Networks present, from PeeringDB. Interconnection density.",
+            "name": "pdb_net_count",
+            "type": "number"
+          },
+          {
+            "description": "Internet exchanges present, from PeeringDB.",
+            "name": "pdb_ix_count",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "pdb_carrier_count",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "clli",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "website",
+            "type": "string"
+          },
+          {
+            "description": "Comma-separated source keys contributing to this record.",
+            "name": "source_list",
+            "type": "string"
+          },
+          {
+            "description": "Number of independent sources contributing to this record.",
+            "name": "n_sources",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "description": "Every power estimate from every method, all states. Not collapsed.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "power_estimates",
+      "path": "power_estimates.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "name": "state",
+            "type": "string"
+          },
+          {
+            "description": "Stable slug + hash identifier for the resolved site.",
+            "name": "facility_id",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "method",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "basis",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "it_load_mw",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "ci_low_mw",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "ci_high_mw",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "annual_gwh",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "pue_used",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "n_generator_units",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "generator_nameplate_mw",
+            "type": "string"
+          },
+          {
+            "description": "True where the building exceeds the storey cap, so the facility is one tenant of a larger tower and the footprint overstates its share.",
+            "name": "partial_occupancy",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "stated_value_mw",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "source_url",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "retrieved_at",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "quote",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "assumptions_json",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "description": "One row per state: facility counts, tier mix, IT MW, TWh/yr, anchor band.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "summary",
+      "path": "summary.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "name": "state",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "state_name",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "facilities",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "with_footprint",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "with_power_estimate",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "multi_source",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "sum_it_load_mw",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "sum_annual_twh",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "tier_a_facilities",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "tier_b_facilities",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "tier_c_facilities",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "anchor_twh",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "anchor_low_twh",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "anchor_high_twh",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "within_anchor_range",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "sources": [
+    {
+      "license": "ODbL-1.0",
+      "path": "https://www.openstreetmap.org/copyright",
+      "role": "Location, building footprint, operator, construction year",
+      "title": "OpenStreetMap (Overpass API)"
+    },
+    {
+      "license": "CC-BY-4.0",
+      "path": "https://www.peeringdb.com/",
+      "role": "Colocation facility registry, interconnection counts",
+      "title": "PeeringDB"
+    },
+    {
+      "license": "US-PD",
+      "path": "https://www.epa.gov/air-emissions-inventories",
+      "role": "Facility recall and backup-generator inventory (Tier B)",
+      "title": "EPA National Emissions Inventory 2020"
+    },
+    {
+      "license": "US-PD",
+      "path": "https://cecgis-caenergy.opendata.arcgis.com/",
+      "role": "Electric utility service territories (California only)",
+      "title": "California Energy Commission GIS"
+    }
+  ],
+  "title": "US Data Centers with Tiered Power Estimates"
+}

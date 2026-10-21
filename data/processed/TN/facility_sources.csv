@@ -1,0 +1,49 @@
+facility_id,source,source_id,source_url,source_name
+frontier-supercomputer-a5f6b2,osm,node/10648552506,https://www.openstreetmap.org/node/10648552506,Frontier (supercomputer)
+flexential-nashville-brentwood-nas01-04-e79e0d,osm,node/12112295055,https://www.openstreetmap.org/node/12112295055,Flexential Nashville - Brentwood
+flexential-nashville-brentwood-nas01-04-e79e0d,osm,way/826001604,https://www.openstreetmap.org/way/826001604,Flexential Brentwood Data Center
+flexential-nashville-brentwood-nas01-04-e79e0d,peeringdb,5003,https://www.peeringdb.com/fac/5003,Flexential - Nashville/Brentwood (NAS01/04)
+dc-blox-chattanooga-3cb2ec,osm,way/525060850,https://www.openstreetmap.org/way/525060850,DC Blox Chattanooga
+unnamed-data-center-f8345d,osm,way/533842335,https://www.openstreetmap.org/way/533842335,
+google-montgomery-data-center-5c2e83,osm,way/708931343,https://www.openstreetmap.org/way/708931343,Google Montgomery Data Center
+tennessee-processing-center-llc-a4a8c8,osm,way/776316726,https://www.openstreetmap.org/way/776316726,Tennessee Processing Center LLC
+unnamed-data-center-3f4dcf,osm,way/819981888,https://www.openstreetmap.org/way/819981888,
+hca-information-technology-services-data-cen-e7993b,osm,way/819981891,https://www.openstreetmap.org/way/819981891,HCA Information Technology & Services Data Center
+tierpoint-nashville-c10dac,osm,way/819981908,https://www.openstreetmap.org/way/819981908,TierPoint
+tierpoint-nashville-c10dac,peeringdb,4374,https://www.peeringdb.com/fac/4374,TierPoint Nashville
+unnamed-data-center-7637fd,osm,way/826001605,https://www.openstreetmap.org/way/826001605,
+google-a99c98,osm,way/844389014,https://www.openstreetmap.org/way/844389014,Google
+google-a99c98,osm,way/1103333136,https://www.openstreetmap.org/way/1103333136,Google
+google-a99c98,osm,way/1103333137,https://www.openstreetmap.org/way/1103333137,SPC3A
+bnym-f4a567,osm,way/894425613,https://www.openstreetmap.org/way/894425613,BNYM
+unnamed-data-center-598fbc,osm,way/904453635,https://www.openstreetmap.org/way/904453635,
+tennessee-south-data-center-ea808c,osm,way/930226814,https://www.openstreetmap.org/way/930226814,Tennessee South Data Center
+flexential-nashville-franklin-nas05-06-0d02fa,osm,way/942604537,https://www.openstreetmap.org/way/942604537,Flexential Nashville - Franklin
+flexential-nashville-franklin-nas05-06-0d02fa,peeringdb,5005,https://www.peeringdb.com/fac/5005,Flexential - Nashville/Franklin (NAS05/06)
+flexential-nashville-cool-springs-nas02-03-d6cf71,osm,way/1210515186,https://www.openstreetmap.org/way/1210515186,Flexential Nashville - Cool Springs
+flexential-nashville-cool-springs-nas02-03-d6cf71,peeringdb,5004,https://www.peeringdb.com/fac/5004,Flexential - Nashville/Cool Springs (NAS02/03)
+gallatin-data-center-0be512,osm,way/1213758201,https://www.openstreetmap.org/way/1213758201,Gallatin Data Center
+meta-gallatin-data-center-8d2d93,osm,way/1294595615,https://www.openstreetmap.org/way/1294595615,Meta Gallatin Data Center
+meta-gallatin-data-center-bedec2,osm,way/1312795639,https://www.openstreetmap.org/way/1312795639,Meta Gallatin Data Center
+meta-gallatin-data-center-3a424a,osm,way/1312795640,https://www.openstreetmap.org/way/1312795640,Meta Gallatin Data Center
+xai-colossus-787af3,osm,way/1381264361,https://www.openstreetmap.org/way/1381264361,xAI Colossus
+xai-macrohard-colossus-2-73ff11,osm,way/1386926534,https://www.openstreetmap.org/way/1386926534,xAI Macrohard Colossus 2
+newrays-two-llc-mining-ad602f,osm,way/1459680304,https://www.openstreetmap.org/way/1459680304,Newrays Two LLC Mining
+spc4a-762a46,osm,way/1470261550,https://www.openstreetmap.org/way/1470261550,SPC4A
+peace-communications-knx1-2052c0,peeringdb,234,https://www.peeringdb.com/fac/234,Peace Communications KNX1
+level-3-nashville-sidco-drive-6296c6,peeringdb,311,https://www.peeringdb.com/fac/311,Level(3) Nashville (Sidco Drive)
+iris-nashville-b31f03,peeringdb,312,https://www.peeringdb.com/fac/312,IRIS - Nashville
+xo-nashville-f585aa,peeringdb,368,https://www.peeringdb.com/fac/368,XO Nashville
+h5-data-centers-nashville-57039b,peeringdb,561,https://www.peeringdb.com/fac/561,H5 Data Centers Nashville
+level-3-memphis-a508db,peeringdb,1294,https://www.peeringdb.com/fac/1294,Level(3) Memphis
+edgeconnex-nashville-edcnas01-333178,peeringdb,1924,https://www.peeringdb.com/fac/1924,EdgeConneX Nashville (EDCNAS01)
+edgeconnex-memphis-edcmem01-a02b54,peeringdb,1930,https://www.peeringdb.com/fac/1930,EdgeConneX Memphis (EDCMEM01)
+level-3-nashville-9th-ave-c237c4,peeringdb,1983,https://www.peeringdb.com/fac/1983,Level(3) Nashville (9th Ave)
+zayo-nashville-209-10th-ave-s-0323c6,peeringdb,2936,https://www.peeringdb.com/fac/2936,Zayo Nashville - 209 10th Ave. S
+databank-memphis-mem1-5b23d1,peeringdb,2958,https://www.peeringdb.com/fac/2958,DataBank Memphis (MEM1)
+h5-data-centers-nashville-tn01-62e4b7,peeringdb,3925,https://www.peeringdb.com/fac/3925,H5 Data Centers Nashville (TN01)
+peace-communications-nsh2-890400,peeringdb,5483,https://www.peeringdb.com/fac/5483,Peace Communications NSH2
+dc-blox-cha1-dcblox-chattanooga-f3252d,peeringdb,7217,https://www.peeringdb.com/fac/7217,DC BLOX CHA1 - DCBLOX Chattanooga
+expedient-memphis-b8e8c2,peeringdb,8473,https://www.peeringdb.com/fac/8473,Expedient Memphis
+peace-communications-cha1-eb0697,peeringdb,14177,https://www.peeringdb.com/fac/14177,Peace Communications CHA1
+lcub-data-center-60879c,peeringdb,17123,https://www.peeringdb.com/fac/17123,LCUB Data Center

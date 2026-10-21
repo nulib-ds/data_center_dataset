@@ -1,0 +1,30 @@
+facility_id,source,source_id,source_url,source_name
+data-holdings-milwaukee-b7c8b9,osm,node/8165754026,https://www.openstreetmap.org/node/8165754026,Data Holdings Data Center
+data-holdings-milwaukee-b7c8b9,peeringdb,14280,https://www.peeringdb.com/fac/14280,Data Holdings Milwaukee
+tierpoint-milwaukee-c5f055,osm,node/9721703993,https://www.openstreetmap.org/node/9721703993,TierPoint Milwaukee
+tierpoint-milwaukee-c5f055,peeringdb,8594,https://www.peeringdb.com/fac/8594,TierPoint Milwaukee
+unnamed-data-center-f164f2,osm,way/447803368,https://www.openstreetmap.org/way/447803368,
+expedient-milwaukee-6c07ea,osm,way/664938835,https://www.openstreetmap.org/way/664938835,Expedient Milwaukee
+involta-c57003,osm,way/766768556,https://www.openstreetmap.org/way/766768556,Involta
+marquette-adams-telephone-coop-01e7d3,osm,way/850342266,https://www.openstreetmap.org/way/850342266,Marquette-Adams Telephone Coop
+unnamed-data-center-ca4d97,osm,way/919948160,https://www.openstreetmap.org/way/919948160,
+pewaukee-data-center-a6b6b0,osm,way/1011125238,https://www.openstreetmap.org/way/1011125238,Pewaukee Data Center
+west-wisconsin-telcom-8f38da,osm,way/1157356188,https://www.openstreetmap.org/way/1157356188,West Wisconsin Telcom
+unnamed-data-center-c67821,osm,way/1211362828,https://www.openstreetmap.org/way/1211362828,
+unnamed-data-center-eee419,osm,way/1510420026,https://www.openstreetmap.org/way/1510420026,
+network-222-04273c,peeringdb,372,https://www.peeringdb.com/fac/372,Network 222
+university-of-wisconsin-madison-713980,peeringdb,411,https://www.peeringdb.com/fac/411,University of Wisconsin-Madison
+324-e-wisconsin-f177c2,peeringdb,507,https://www.peeringdb.com/fac/507,324 E Wisconsin
+5nines-data-d75fb8,peeringdb,559,https://www.peeringdb.com/fac/559,5Nines Data
+supranet-communications-madison-3fc32a,peeringdb,1155,https://www.peeringdb.com/fac/1155,SupraNet Communications Madison
+612-w-main-2713e3,peeringdb,1837,https://www.peeringdb.com/fac/1837,612 W Main
+vaultas-15673f,peeringdb,2338,https://www.peeringdb.com/fac/2338,Vaultas
+edgeconnex-madison-edcmad01-e70d81,peeringdb,2600,https://www.peeringdb.com/fac/2600,EdgeConneX Madison (EDCMAD01)
+tsr-solutions-data-center-1155ad,peeringdb,7173,https://www.peeringdb.com/fac/7173,TSR Solutions Data Center
+us-signal-wi02-madison-c883b7,peeringdb,12303,https://www.peeringdb.com/fac/12303,US Signal WI02 - Madison
+ethoplex-data-center-aa9668,peeringdb,13252,https://www.peeringdb.com/fac/13252,Ethoplex Data Center
+ethoplex-edge-dc-green-bay-873cd9,peeringdb,13493,https://www.peeringdb.com/fac/13493,Ethoplex Edge DC - Green Bay
+ethoplex-edge-dc-fond-du-lac-174c04,peeringdb,13494,https://www.peeringdb.com/fac/13494,Ethoplex Edge DC - Fond du Lac
+901-commerce-dr-2fb7e3,peeringdb,13509,https://www.peeringdb.com/fac/13509,901 Commerce Dr
+ark-data-centers-green-bay-wi-41c680,peeringdb,15252,https://www.peeringdb.com/fac/15252,"ark data centers - Green Bay, WI"
+cyberlynk-mke1-d06965,peeringdb,16659,https://www.peeringdb.com/fac/16659,CyberLynk MKE1

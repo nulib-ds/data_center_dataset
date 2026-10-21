@@ -1,0 +1,25 @@
+facility_id,source,source_id,source_url,source_name
+dartpoints-greenville-sc-gsp1-72ea04,osm,node/8390959153,https://www.openstreetmap.org/node/8390959153,DartPoints Greenville
+dartpoints-greenville-sc-gsp1-72ea04,peeringdb,3669,https://www.peeringdb.com/fac/3669,"DartPoints Greenville, SC - GSP1"
+dartpoints-columbia-sc-cae1-c1ce2f,osm,node/12120745596,https://www.openstreetmap.org/node/12120745596,DartPoints Columbia
+dartpoints-columbia-sc-cae1-c1ce2f,peeringdb,3670,https://www.peeringdb.com/fac/3670,"DartPoints Columbia, SC - CAE1"
+google-39f7a4,osm,way/610827836,https://www.openstreetmap.org/way/610827836,Google
+google-39f7a4,osm,way/626226408,https://www.openstreetmap.org/way/626226408,Google Berkeley County Data Center
+google-39f7a4,osm,way/1069388067,https://www.openstreetmap.org/way/1069388067,Google
+google-39f7a4,osm,way/1069388075,https://www.openstreetmap.org/way/1069388075,Google
+google-39f7a4,osm,way/1069388095,https://www.openstreetmap.org/way/1069388095,Google
+google-39f7a4,osm,way/1069388156,https://www.openstreetmap.org/way/1069388156,Google
+google-39f7a4,osm,way/1069388211,https://www.openstreetmap.org/way/1069388211,Google
+dartpoints-charleston-sc-chs1-a4fe6f,osm,way/648154126,https://www.openstreetmap.org/way/648154126,DartPoints Charleston
+dartpoints-charleston-sc-chs1-a4fe6f,peeringdb,3671,https://www.peeringdb.com/fac/3671,"DartPoints Charleston, SC - CHS1"
+dartpoints-spartanburg-sc-spa1-a0d34b,osm,way/680114725,https://www.openstreetmap.org/way/680114725,DartPoints Spartanburg
+dartpoints-spartanburg-sc-spa1-a0d34b,peeringdb,7736,https://www.peeringdb.com/fac/7736,"DartPoints Spartanburg, SC - SPA1"
+google-c0beca,osm,way/1069388141,https://www.openstreetmap.org/way/1069388141,Google
+google-c0beca,osm,way/1069388147,https://www.openstreetmap.org/way/1069388147,Google
+google-cb5fd8,osm,way/1069388186,https://www.openstreetmap.org/way/1069388186,Google
+dc-blox-myr1-dcblox-myrtle-beach-2ece44,osm,way/1320038649,https://www.openstreetmap.org/way/1320038649,DC BLOX Myrtle Beach Cable Landing Station
+dc-blox-myr1-dcblox-myrtle-beach-2ece44,peeringdb,14341,https://www.peeringdb.com/fac/14341,DC BLOX MYR1 - DCBLOX Myrtle Beach
+hsw-dc1rh-cfa319,peeringdb,1739,https://www.peeringdb.com/fac/1739,HSW-DC1RH
+dc-blox-gsp1-dcblox-greenville-e2baef,peeringdb,14224,https://www.peeringdb.com/fac/14224,DC BLOX GSP1 - DCBLOX Greenville
+qts-charlotte-ctl1-d432f0,peeringdb,16564,https://www.peeringdb.com/fac/16564,QTS Charlotte (CTL1)
+cogent-fairfax-d7dcf5,peeringdb,16624,https://www.peeringdb.com/fac/16624,Cogent Fairfax

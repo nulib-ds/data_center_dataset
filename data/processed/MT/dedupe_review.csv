@@ -1,0 +1,2 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+osm,node/13603878193,Parsec Data Management,,peeringdb,1663,Parsec,3450 Gabel Rd,0.64,,15.0,1.0,0.5,0.0,0.898,[]|[]

@@ -1,0 +1,22 @@
+facility_id,source,source_id,source_url,source_name
+ergonomic-group-8121ba,osm,node/8767284091,https://www.openstreetmap.org/node/8767284091,Ergonomic Group
+digital-realty-new-york-hvn10-6b1ee4,osm,way/122665255,https://www.openstreetmap.org/way/122665255,Digital Realty New York HVN10
+cyrusone-552d48,osm,way/571010571,https://www.openstreetmap.org/way/571010571,CyrusOne
+amnet-data-center-dfaa83,osm,way/878795698,https://www.openstreetmap.org/way/878795698,amnet Data Center
+unnamed-data-center-29da41,osm,way/959969621,https://www.openstreetmap.org/way/959969621,
+cyrusone-norwalk-c382f2,peeringdb,2357,https://www.peeringdb.com/fac/2357,CyrusOne Norwalk
+hdc1-108-bank-st-185df5,peeringdb,3442,https://www.peeringdb.com/fac/3442,HDC1 - 108 Bank St
+crown-castle-hartford-960-main-3bbd23,peeringdb,3483,https://www.peeringdb.com/fac/3483,Crown Castle Hartford (960 Main)
+aphorio-carter-trumbull-data-center-986b63,peeringdb,4804,https://www.peeringdb.com/fac/4804,Aphorio Carter Trumbull Data Center
+cloudpath-ct1-26-fahey-st-38ec7f,peeringdb,6334,https://www.peeringdb.com/fac/6334,Cloudpath CT1 (26 Fahey St)
+cloudpath-ct1-26-fahey-st-38ec7f,peeringdb,16941,https://www.peeringdb.com/fac/16941,Omega CT1
+tierpoint-waterbury-06ae4c,peeringdb,8603,https://www.peeringdb.com/fac/8603,TierPoint Waterbury
+cloudpath-ct2-1351-washington-blvd-63e86c,peeringdb,10444,https://www.peeringdb.com/fac/10444,Cloudpath CT2 (1351 Washington Blvd)
+cloudpath-ct19-5-landmark-sq-057ae0,peeringdb,10445,https://www.peeringdb.com/fac/10445,Cloudpath CT19 (5 Landmark Sq)
+sd-comsat-southbury-ground-station-31bc32,peeringdb,12679,https://www.peeringdb.com/fac/12679,SD / Comsat Southbury Ground Station
+lumen-west-haven-2bfd2a,peeringdb,13692,https://www.peeringdb.com/fac/13692,Lumen West Haven
+lumen-new-haven-6c2173,peeringdb,13693,https://www.peeringdb.com/fac/13693,Lumen New Haven
+lumen-hartford-75e7e8,peeringdb,13694,https://www.peeringdb.com/fac/13694,Lumen Hartford
+lumen-stamford-005a64,peeringdb,13695,https://www.peeringdb.com/fac/13695,Lumen Stamford
+lumen-new-london-1ae215,peeringdb,13696,https://www.peeringdb.com/fac/13696,Lumen New London
+crown-castle-stamford-1178bf,peeringdb,13697,https://www.peeringdb.com/fac/13697,Crown Castle Stamford

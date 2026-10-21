@@ -1,0 +1,6 @@
+facility_id,source,source_id,source_url,source_name
+coresite-washington-dc-dc1-b8ab59,osm,node/751881301,https://www.openstreetmap.org/node/751881301,CoreSite DC1
+coresite-washington-dc-dc1-b8ab59,peeringdb,286,https://www.peeringdb.com/fac/286,"CoreSite - Washington,DC (DC1)"
+zayo-washington-dc-2100-m-street-nw-997df0,peeringdb,2971,https://www.peeringdb.com/fac/2971,Zayo Washington DC - 2100 M Street NW
+ainet-dc-900s-5bcad9,peeringdb,6543,https://www.peeringdb.com/fac/6543,AiNET DC-900S
+coresite-washington-dc-dc2-efec9c,peeringdb,9663,https://www.peeringdb.com/fac/9663,"CoreSite - Washington,DC (DC2)"

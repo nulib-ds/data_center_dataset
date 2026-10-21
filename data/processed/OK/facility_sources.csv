@@ -1,0 +1,24 @@
+facility_id,source,source_id,source_url,source_name
+rack59-data-center-36e99d,osm,node/6401035673,https://www.openstreetmap.org/node/6401035673,Rack59 Data Center
+rack59-data-center-36e99d,peeringdb,5693,https://www.peeringdb.com/fac/5693,RACK59 Data Center
+tulsaconnect-dc3-c157c2,osm,node/12793428582,https://www.openstreetmap.org/node/12793428582,TulsaConnect DC3
+tulsaconnect-dc3-c157c2,peeringdb,5835,https://www.peeringdb.com/fac/5835,TulsaConnect DC3
+tulsaconnect-134713,osm,node/13720841436,https://www.openstreetmap.org/node/13720841436,TulsaConnect
+windstream-373473,osm,node/13720841437,https://www.openstreetmap.org/node/13720841437,Windstream
+tulsaconnect-ac3329,osm,node/13720841438,https://www.openstreetmap.org/node/13720841438,TulsaConnect
+321-s-boston-ave-bc5465,osm,node/13873419223,https://www.openstreetmap.org/node/13873419223,OCOSA
+321-s-boston-ave-bc5465,peeringdb,1238,https://www.peeringdb.com/fac/1238,321 S Boston Ave
+tierpoint-tulsa-archer-1ce1db,osm,way/159959672,https://www.openstreetmap.org/way/159959672,TierPoint
+tierpoint-tulsa-archer-1ce1db,peeringdb,1231,https://www.peeringdb.com/fac/1231,TierPoint Tulsa-Archer
+cherokee-data-center-c4b747,osm,way/195664350,https://www.openstreetmap.org/way/195664350,Cherokee Data Center
+choctaw-nation-of-oklahoma-data-center-8413f6,osm,way/726150321,https://www.openstreetmap.org/way/726150321,Choctaw Nation of Oklahoma Data Center
+unnamed-data-center-51ae05,osm,way/946014659,https://www.openstreetmap.org/way/946014659,
+unnamed-data-center-63555a,osm,way/1387080629,https://www.openstreetmap.org/way/1387080629,
+onenet-osu-tulsa-6d4631,peeringdb,1668,https://www.peeringdb.com/fac/1668,OneNet OSU Tulsa
+tierpoint-tulsa-state-farm-a031c6,peeringdb,8591,https://www.peeringdb.com/fac/8591,TierPoint Tulsa-State Farm
+tierpoint-oklahoma-city-4cfee2,peeringdb,8595,https://www.peeringdb.com/fac/8595,TierPoint Oklahoma City
+jackson-technical-datacenter-c6f929,peeringdb,9360,https://www.peeringdb.com/fac/9360,Jackson Technical Datacenter
+lumen-tulsa-1-4004c3,peeringdb,12049,https://www.peeringdb.com/fac/12049,Lumen Tulsa 1
+midcon-recovery-solutions-b3-data-center-9ef165,peeringdb,14769,https://www.peeringdb.com/fac/14769,Midcon Recovery Solutions B3 Data Center
+lake-region-technology-communications-b1a6c0,peeringdb,15215,https://www.peeringdb.com/fac/15215,Lake Region Technology & Communications
+pry-data-storage-facility-2bce0b,epa_nei,18019211,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18019211,PRY DATA STORAGE FACILITY

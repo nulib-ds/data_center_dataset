@@ -1,0 +1,4 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+peeringdb,1927,EdgeConneX Detroit (EDCDET01),21005 Lahser Rd Bldg 4,peeringdb,4505,EDCDET01,21005 Lahser Rd,0.677,,0.0,1.0,0.333,1.0,0.188,[]|[]
+peeringdb,9381,123.NET - DC4 - 400 76th St SW,400 76th St SW STE 12,peeringdb,14784,US Signal - Grand Rapids South,400 76th St SW,0.596,,11.8,1.0,0.0,1.0,0.182,['dc4']|[]
+peeringdb,3500,ManagedWay BYK1,400 76th st,peeringdb,14784,US Signal - Grand Rapids South,400 76th St SW,0.59,,12.8,1.0,0.0,1.0,0.148,['byk1']|[]

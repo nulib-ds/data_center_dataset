@@ -1,5 +1,5 @@
 {
-  "created": "2026-09-10",
+  "created": "2026-10-21",
   "description": "Registry of commercial (colocation, wholesale, hyperscale) data centers in Georgia, assembled from OpenStreetMap, PeeringDB, and the EPA National Emissions Inventory. Power figures are ESTIMATES carrying an explicit evidence tier and confidence interval; none is a metered consumption reading. See LIMITATIONS.md before use.",
   "licenses": [
     {
@@ -11,17 +11,17 @@
   "name": "georgia-data-center-dataset",
   "profile": "tabular-data-package",
   "reconciliation": {
-    "bottom_up_annual_twh": 26.22,
-    "bottom_up_it_load_mw": 3009.0,
+    "bottom_up_annual_twh": 10.83,
+    "bottom_up_it_load_mw": 1226.8,
     "calibration_applied": false,
-    "implied_calibration_factor": 0.305,
-    "n_facilities_with_power": 34,
+    "implied_calibration_factor": 0.739,
+    "n_facilities_with_power": 39,
     "top_down_anchor_twh": 8.0,
     "top_down_range_twh": [
       4.0,
       14.0
     ],
-    "within_anchor_range": false
+    "within_anchor_range": true
   },
   "resources": [
     {
@@ -399,6 +399,11 @@
             "description": "",
             "name": "geometry_wkt",
             "type": "string"
+          },
+          {
+            "description": "",
+            "name": "is_building",
+            "type": "number"
           },
           {
             "description": "",

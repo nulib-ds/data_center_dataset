@@ -1,0 +1,650 @@
+{
+ "elements": [
+  {
+   "id": 8641856300,
+   "lat": 42.6279424,
+   "lon": -82.9883939,
+   "tags": {
+    "name": "Chick-fil-A Hiring Center",
+    "operator": "Dennis Sampier",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 11815482844,
+   "lat": 41.8072817,
+   "lon": -83.6276287,
+   "tags": {
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.3267012,
+    "maxlon": -83.0766417,
+    "minlat": 42.3258739,
+    "minlon": -83.0773118
+   },
+   "geometry": [
+    {
+     "lat": 42.3258739,
+     "lon": -83.0769591
+    },
+    {
+     "lat": 42.325971,
+     "lon": -83.0766417
+    },
+    {
+     "lat": 42.3267012,
+     "lon": -83.0770504
+    },
+    {
+     "lat": 42.3266523,
+     "lon": -83.0772104
+    },
+    {
+     "lat": 42.3265523,
+     "lon": -83.0771544
+    },
+    {
+     "lat": 42.3265042,
+     "lon": -83.0773118
+    },
+    {
+     "lat": 42.3258739,
+     "lon": -83.0769591
+    }
+   ],
+   "id": 71187940,
+   "tags": {
+    "addr:city": "Detroit",
+    "addr:housenumber": "2436",
+    "addr:postcode": "48216",
+    "addr:state": "MI",
+    "addr:street": "Bagley Street",
+    "building": "yes",
+    "operator": "Verizon Wireless",
+    "ref": "DTRT.PP2",
+    "source": "Yahoo",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.4480712,
+    "maxlon": -83.2621421,
+    "minlat": 42.4472674,
+    "minlon": -83.2631251
+   },
+   "geometry": [
+    {
+     "lat": 42.4474451,
+     "lon": -83.2630885
+    },
+    {
+     "lat": 42.4472674,
+     "lon": -83.2627564
+    },
+    {
+     "lat": 42.4478926,
+     "lon": -83.2621421
+    },
+    {
+     "lat": 42.4480712,
+     "lon": -83.262476
+    },
+    {
+     "lat": 42.4480486,
+     "lon": -83.2624982
+    },
+    {
+     "lat": 42.4480656,
+     "lon": -83.26253
+    },
+    {
+     "lat": 42.4480451,
+     "lon": -83.2625501
+    },
+    {
+     "lat": 42.4480612,
+     "lon": -83.2625801
+    },
+    {
+     "lat": 42.4480166,
+     "lon": -83.2626239
+    },
+    {
+     "lat": 42.4480491,
+     "lon": -83.2626845
+    },
+    {
+     "lat": 42.4476007,
+     "lon": -83.2631251
+    },
+    {
+     "lat": 42.4475668,
+     "lon": -83.2630617
+    },
+    {
+     "lat": 42.4475215,
+     "lon": -83.2631063
+    },
+    {
+     "lat": 42.4475062,
+     "lon": -83.2630777
+    },
+    {
+     "lat": 42.4474834,
+     "lon": -83.2631001
+    },
+    {
+     "lat": 42.4474661,
+     "lon": -83.2630678
+    },
+    {
+     "lat": 42.4474451,
+     "lon": -83.2630885
+    }
+   ],
+   "id": 377585075,
+   "tags": {
+    "addr:city": "Southfield",
+    "addr:housenumber": "21005",
+    "addr:postcode": "48033",
+    "addr:state": "MI",
+    "addr:street": "Lahser Road",
+    "building": "yes",
+    "name": "EdgeConneX Detroit DET01",
+    "operator": "EdgeConneX",
+    "operator:wikidata": "Q115477226",
+    "ref": "DET01",
+    "telecom": "data_center",
+    "website": "https://www.edgeconnex.com/locations/americas/detroit-mi/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.6882321,
+    "maxlon": -84.6427786,
+    "minlat": 42.6876734,
+    "minlon": -84.643306
+   },
+   "geometry": [
+    {
+     "lat": 42.6882316,
+     "lon": -84.6427786
+    },
+    {
+     "lat": 42.6882321,
+     "lon": -84.6430912
+    },
+    {
+     "lat": 42.6881844,
+     "lon": -84.6430914
+    },
+    {
+     "lat": 42.6881846,
+     "lon": -84.6431994
+    },
+    {
+     "lat": 42.6880027,
+     "lon": -84.6431999
+    },
+    {
+     "lat": 42.6880029,
+     "lon": -84.6433058
+    },
+    {
+     "lat": 42.6879335,
+     "lon": -84.643306
+    },
+    {
+     "lat": 42.6879334,
+     "lon": -84.6432169
+    },
+    {
+     "lat": 42.6877176,
+     "lon": -84.6432176
+    },
+    {
+     "lat": 42.6877174,
+     "lon": -84.6430838
+    },
+    {
+     "lat": 42.6876739,
+     "lon": -84.643084
+    },
+    {
+     "lat": 42.6876734,
+     "lon": -84.6427803
+    },
+    {
+     "lat": 42.6882316,
+     "lon": -84.6427786
+    }
+   ],
+   "id": 544536822,
+   "tags": {
+    "building": "yes",
+    "internet_access": "wlan",
+    "name": "Liquid Web",
+    "telecom": "data_center",
+    "website": "https://www.liquidweb.com/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.7057852,
+    "maxlon": -84.665611,
+    "minlat": 42.7049956,
+    "minlon": -84.6665672
+   },
+   "geometry": [
+    {
+     "lat": 42.7057852,
+     "lon": -84.666559
+    },
+    {
+     "lat": 42.7050009,
+     "lon": -84.6665672
+    },
+    {
+     "lat": 42.7049956,
+     "lon": -84.6656192
+    },
+    {
+     "lat": 42.7057799,
+     "lon": -84.665611
+    },
+    {
+     "lat": 42.7057852,
+     "lon": -84.666559
+    }
+   ],
+   "id": 545060574,
+   "tags": {
+    "addr:city": "Lansing",
+    "addr:housenumber": "2703",
+    "addr:postcode": "48917",
+    "addr:state": "MI",
+    "addr:street": "Ena Drive",
+    "building": "yes",
+    "building:levels": "2",
+    "building:material": "concrete",
+    "name": "Liquid Web, Inc",
+    "roof:shape": "flat",
+    "telecom": "data_center",
+    "website": "https://www.liquidweb.com/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.9691039,
+    "maxlon": -83.7790237,
+    "minlat": 42.9683503,
+    "minlon": -83.7801463
+   },
+   "geometry": [
+    {
+     "lat": 42.9687141,
+     "lon": -83.7801463
+    },
+    {
+     "lat": 42.9683503,
+     "lon": -83.7799942
+    },
+    {
+     "lat": 42.9683775,
+     "lon": -83.7798815
+    },
+    {
+     "lat": 42.9684174,
+     "lon": -83.7798994
+    },
+    {
+     "lat": 42.9685681,
+     "lon": -83.779276
+    },
+    {
+     "lat": 42.9686291,
+     "lon": -83.7793036
+    },
+    {
+     "lat": 42.9686968,
+     "lon": -83.7790237
+    },
+    {
+     "lat": 42.9687605,
+     "lon": -83.7790524
+    },
+    {
+     "lat": 42.9687076,
+     "lon": -83.779271
+    },
+    {
+     "lat": 42.9688434,
+     "lon": -83.7793323
+    },
+    {
+     "lat": 42.9688932,
+     "lon": -83.7791264
+    },
+    {
+     "lat": 42.9691039,
+     "lon": -83.7792216
+    },
+    {
+     "lat": 42.9690116,
+     "lon": -83.779603
+    },
+    {
+     "lat": 42.9688693,
+     "lon": -83.7795351
+    },
+    {
+     "lat": 42.9687141,
+     "lon": -83.7801463
+    }
+   ],
+   "id": 755540694,
+   "tags": {
+    "addr:city": "Flint",
+    "addr:housenumber": "5225",
+    "addr:postcode": "48507",
+    "addr:state": "MI",
+    "addr:street": "Exchange Drive",
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.2356693,
+    "maxlon": -83.4439395,
+    "minlat": 42.234984,
+    "minlon": -83.4443416
+   },
+   "geometry": [
+    {
+     "lat": 42.234984,
+     "lon": -83.4443082
+    },
+    {
+     "lat": 42.234994,
+     "lon": -83.4439395
+    },
+    {
+     "lat": 42.2356693,
+     "lon": -83.4439731
+    },
+    {
+     "lat": 42.2356593,
+     "lon": -83.4443416
+    },
+    {
+     "lat": 42.234984,
+     "lon": -83.4443082
+    }
+   ],
+   "id": 773848531,
+   "tags": {
+    "building": "commercial",
+    "building:levels": "1",
+    "operator": "US Signal",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.213936,
+    "maxlon": -83.198143,
+    "minlat": 42.213868,
+    "minlon": -83.198285
+   },
+   "geometry": [
+    {
+     "lat": 42.213936,
+     "lon": -83.198143
+    },
+    {
+     "lat": 42.213936,
+     "lon": -83.198285
+    },
+    {
+     "lat": 42.213868,
+     "lon": -83.198285
+    },
+    {
+     "lat": 42.213868,
+     "lon": -83.198143
+    },
+    {
+     "lat": 42.213936,
+     "lon": -83.198143
+    }
+   ],
+   "id": 812630939,
+   "tags": {
+    "addr:city": "Southgate",
+    "addr:housenumber": "14312",
+    "addr:postcode": "48195",
+    "addr:state": "MI",
+    "addr:street": "Northline Road",
+    "building": "yes",
+    "building:year_built": "1998",
+    "name": "Comcast",
+    "operator": "Comcast",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.326635,
+    "maxlon": -83.0692993,
+    "minlat": 42.3257208,
+    "minlon": -83.0702381
+   },
+   "geometry": [
+    {
+     "lat": 42.3264801,
+     "lon": -83.0702381
+    },
+    {
+     "lat": 42.3257208,
+     "lon": -83.0698103
+    },
+    {
+     "lat": 42.3258782,
+     "lon": -83.0692993
+    },
+    {
+     "lat": 42.3260912,
+     "lon": -83.0694193
+    },
+    {
+     "lat": 42.3261154,
+     "lon": -83.0693408
+    },
+    {
+     "lat": 42.32623,
+     "lon": -83.0694054
+    },
+    {
+     "lat": 42.3262223,
+     "lon": -83.0695022
+    },
+    {
+     "lat": 42.3263318,
+     "lon": -83.069564
+    },
+    {
+     "lat": 42.3263456,
+     "lon": -83.0695191
+    },
+    {
+     "lat": 42.3264616,
+     "lon": -83.0695845
+    },
+    {
+     "lat": 42.3264478,
+     "lon": -83.0696294
+    },
+    {
+     "lat": 42.326635,
+     "lon": -83.0697349
+    },
+    {
+     "lat": 42.3264801,
+     "lon": -83.0702381
+    }
+   ],
+   "id": 903236619,
+   "tags": {
+    "addr:city": "Detroit",
+    "addr:housenumber": "1401",
+    "addr:postcode": "48216",
+    "addr:state": "MI",
+    "addr:street": "Rosa Parks Boulevard",
+    "building": "industrial",
+    "operator": "Quicken Loans",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9948153,
+    "maxlon": -86.097026,
+    "minlat": 41.9911423,
+    "minlon": -86.0999121
+   },
+   "geometry": [
+    {
+     "lat": 41.9948133,
+     "lon": -86.0988419
+    },
+    {
+     "lat": 41.9948153,
+     "lon": -86.0986407
+    },
+    {
+     "lat": 41.9947734,
+     "lon": -86.098638
+    },
+    {
+     "lat": 41.9947794,
+     "lon": -86.0978763
+    },
+    {
+     "lat": 41.994594,
+     "lon": -86.0978602
+    },
+    {
+     "lat": 41.9946,
+     "lon": -86.0970448
+    },
+    {
+     "lat": 41.9935404,
+     "lon": -86.097026
+    },
+    {
+     "lat": 41.9922616,
+     "lon": -86.0982813
+    },
+    {
+     "lat": 41.9918868,
+     "lon": -86.0986461
+    },
+    {
+     "lat": 41.9912728,
+     "lon": -86.099259
+    },
+    {
+     "lat": 41.9912698,
+     "lon": -86.0993837
+    },
+    {
+     "lat": 41.9911457,
+     "lon": -86.0993891
+    },
+    {
+     "lat": 41.9911423,
+     "lon": -86.0995265
+    },
+    {
+     "lat": 41.9911821,
+     "lon": -86.0995285
+    },
+    {
+     "lat": 41.9911831,
+     "lon": -86.0998611
+    },
+    {
+     "lat": 41.9933341,
+     "lon": -86.0999121
+    },
+    {
+     "lat": 41.9933401,
+     "lon": -86.0989465
+    },
+    {
+     "lat": 41.9945945,
+     "lon": -86.0989693
+    },
+    {
+     "lat": 41.9945965,
+     "lon": -86.0988399
+    },
+    {
+     "lat": 41.9948133,
+     "lon": -86.0988419
+    }
+   ],
+   "id": 1545590995,
+   "tags": {
+    "building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.5337139,
+    "maxlon": -83.177177,
+    "minlat": 42.5332487,
+    "minlon": -83.1778018
+   },
+   "id": 12901583,
+   "tags": {
+    "addr:city": "Royal Oak",
+    "addr:housenumber": "4815",
+    "addr:postcode": "48073",
+    "addr:state": "MI",
+    "addr:street": "Delemere Avenue",
+    "building": "yes",
+    "name": "Liberty Center One",
+    "telecom": "data_center",
+    "type": "multipolygon",
+    "website": "https://www.libertycenterone.com/"
+   },
+   "type": "relation"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:56:34Z",
+  "timestamp_osm_base": "2026-10-21T17:07:33Z"
+ },
+ "version": 0.6
+}

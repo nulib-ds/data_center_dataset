@@ -1,0 +1,177 @@
+facility_id,source,source_id,source_url,source_name
+the-pittock-internet-exchange-686dbb,osm,node/3732415309,https://www.openstreetmap.org/node/3732415309,The Pittock Internet Exchange
+digital-fortress-ptl-ef00cc,osm,node/13746843366,https://www.openstreetmap.org/node/13746843366,Digital Fortress - Portland 1
+digital-fortress-ptl-ef00cc,peeringdb,1020,https://www.peeringdb.com/fac/1020,Digital Fortress (PTL)
+digital-fortress-ptl2-959999,osm,node/13746843367,https://www.openstreetmap.org/node/13746843367,Digital Fortress - Portland 2
+digital-fortress-ptl2-959999,peeringdb,3868,https://www.peeringdb.com/fac/3868,Digital Fortress (PTL2)
+digital-fortress-ptl3-114e62,osm,node/13746843368,https://www.openstreetmap.org/node/13746843368,Digital Fortress - Portland 3
+digital-fortress-ptl3-114e62,peeringdb,13021,https://www.peeringdb.com/fac/13021,Digital Fortress (PTL3)
+h5-data-centers-portland-or01-f86e7a,osm,node/13748555787,https://www.openstreetmap.org/node/13748555787,H5 DC - Portland
+h5-data-centers-portland-or01-f86e7a,peeringdb,3920,https://www.peeringdb.com/fac/3920,H5 Data Centers Portland (OR01)
+data-center-west-eugene-42f6a9,osm,node/13748859030,https://www.openstreetmap.org/node/13748859030,Date Center West - Eugene
+data-center-west-eugene-42f6a9,peeringdb,5085,https://www.peeringdb.com/fac/5085,Data Center West Eugene
+ragingwire-hi1-ntt-443675,osm,way/52059176,https://www.openstreetmap.org/way/52059176,NTT RagingWire DC - Hillsboro
+ragingwire-hi1-ntt-443675,peeringdb,12159,https://www.peeringdb.com/fac/12159,RagingWire HI1 - NTT
+ragingwire-hi1-ntt-443675,epa_nei,19438711,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=19438711,"NTT Global Data Centers HI, LLC"
+google-data-center-the-dalles-oregon-2f82d5,osm,way/231769626,https://www.openstreetmap.org/way/231769626,Google Data Center The Dalles Oregon
+meta-0d1d92,osm,way/321385147,https://www.openstreetmap.org/way/321385147,Meta
+adobe-data-center-c7ff96,osm,way/325096144,https://www.openstreetmap.org/way/325096144,Adobe Data Center
+tgn-hillsboro-39041b,osm,way/328702348,https://www.openstreetmap.org/way/328702348,TGN Hillsboro
+stack-infrastructure-por02-01091e,osm,way/328702378,https://www.openstreetmap.org/way/328702378,Stack Infrastructure - POR02
+oracle-bb6a16,osm,way/328702401,https://www.openstreetmap.org/way/328702401,Oracle
+digital-realty-portland-pdx10-19b433,osm,way/328702750,https://www.openstreetmap.org/way/328702750,Digital Realty PDX10 Data Center
+digital-realty-portland-pdx10-19b433,peeringdb,3300,https://www.peeringdb.com/fac/3300,Digital Realty Portland - PDX10
+flexential-portland-hillsboro-pdx01-99256f,osm,way/328703598,https://www.openstreetmap.org/way/328703598,Flexential Portland - Hillsboro 1
+flexential-portland-hillsboro-pdx01-99256f,osm,way/328703599,https://www.openstreetmap.org/way/328703599,Flexential Portland - Hillsboro 1
+flexential-portland-hillsboro-pdx01-99256f,peeringdb,2444,https://www.peeringdb.com/fac/2444,Flexential - Portland/Hillsboro (PDX01)
+pittock-block-74dfd9,osm,way/369452572,https://www.openstreetmap.org/way/369452572,Pittock Block
+data-center-f2e111,osm,way/369728508,https://www.openstreetmap.org/way/369728508,Data Center
+meta-96a20b,osm,way/373945186,https://www.openstreetmap.org/way/373945186,Meta
+meta-96a20b,osm,way/706759845,https://www.openstreetmap.org/way/706759845,Meta
+apple-49e57c,osm,way/397914434,https://www.openstreetmap.org/way/397914434,Apple
+amazon-web-services-b33039,osm,way/460070135,https://www.openstreetmap.org/way/460070135,Amazon Web Services
+amazon-web-services-b33039,osm,way/460070136,https://www.openstreetmap.org/way/460070136,Amazon Web Services
+amazon-web-services-b33039,osm,way/460070137,https://www.openstreetmap.org/way/460070137,Amazon Web Services
+amazon-web-services-b33039,osm,way/460070138,https://www.openstreetmap.org/way/460070138,Amazon Web Services
+amazon-web-services-b33039,osm,way/460070139,https://www.openstreetmap.org/way/460070139,Amazon Web Services
+amazon-web-services-b33039,osm,way/460070140,https://www.openstreetmap.org/way/460070140,Amazon Web Services
+amazon-web-services-b33039,osm,way/460070141,https://www.openstreetmap.org/way/460070141,Amazon Web Services
+amazon-web-services-b33039,osm,way/460070143,https://www.openstreetmap.org/way/460070143,Amazon Web Services
+amazon-web-services-1d8b54,osm,way/460070144,https://www.openstreetmap.org/way/460070144,Amazon Web Services
+amazon-web-services-1d8b54,osm,way/1252196819,https://www.openstreetmap.org/way/1252196819,Amazon Web Services
+amazon-web-services-1d8b54,osm,way/1280344156,https://www.openstreetmap.org/way/1280344156,Amazon Web Services
+amazon-web-services-884f04,osm,way/460070145,https://www.openstreetmap.org/way/460070145,Amazon Web Services
+amazon-web-services-83492b,osm,way/460070147,https://www.openstreetmap.org/way/460070147,Amazon Web Services
+stack-infrastructure-por01-4a82e0,osm,way/471691757,https://www.openstreetmap.org/way/471691757,Stack Infrastructure - POR01
+stack-infrastructure-por01-4a82e0,epa_nei,19086611,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=19086611,"Stack Infrastructure, Inc."
+flexential-portland-hillsboro-2-pdx02-c1e3de,osm,way/471691760,https://www.openstreetmap.org/way/471691760,Flexential Portland - Hillsboro 2
+flexential-portland-hillsboro-2-pdx02-c1e3de,peeringdb,2447,https://www.peeringdb.com/fac/2447,Flexential - Portland/Hillsboro 2 (PDX02)
+siemens-eda-hdc-data-center-1c8368,osm,way/480762078,https://www.openstreetmap.org/way/480762078,Siemens EDA - HDC / Data Center
+apple-6f35d9,osm,way/517411076,https://www.openstreetmap.org/way/517411076,Apple
+apple-6f35d9,osm,way/706759844,https://www.openstreetmap.org/way/706759844,Apple
+apple-6f35d9,osm,way/1276373853,https://www.openstreetmap.org/way/1276373853,Apple
+amazon-web-services-ed66b5,osm,way/592171280,https://www.openstreetmap.org/way/592171280,Amazon Web Services
+amazon-web-services-ed66b5,osm,way/633034071,https://www.openstreetmap.org/way/633034071,Amazon Web Services
+amazon-web-services-ed66b5,osm,way/697415321,https://www.openstreetmap.org/way/697415321,Amazon Web Services
+amazon-web-services-f9ab00,osm,way/592257327,https://www.openstreetmap.org/way/592257327,Amazon Web Services
+amazon-web-services-36d94b,osm,way/633034074,https://www.openstreetmap.org/way/633034074,Amazon Web Services
+us-signal-or01-bend-934bb5,osm,way/653416730,https://www.openstreetmap.org/way/653416730,US Signal - OR01 Bend
+us-signal-or01-bend-934bb5,peeringdb,12306,https://www.peeringdb.com/fac/12306,US Signal OR01 - Bend
+amazon-web-services-b0a932,osm,way/697413741,https://www.openstreetmap.org/way/697413741,Amazon Web Services
+amazon-web-services-f828ff,osm,way/697415323,https://www.openstreetmap.org/way/697415323,Amazon Web Services
+amazon-web-services-73b4a4,osm,way/697417726,https://www.openstreetmap.org/way/697417726,Amazon Web Services
+amazon-web-services-73b4a4,osm,way/1126386234,https://www.openstreetmap.org/way/1126386234,Amazon Web Services
+google-taylor-lake-data-center-a62c3d,osm,way/700431553,https://www.openstreetmap.org/way/700431553,Google Taylor Lake Data Center
+amazon-web-services-3227a2,osm,way/706776322,https://www.openstreetmap.org/way/706776322,Amazon Web Services
+amazon-web-services-3227a2,osm,way/1252196822,https://www.openstreetmap.org/way/1252196822,Amazon Web Services
+amazon-web-services-3227a2,osm,way/1252196823,https://www.openstreetmap.org/way/1252196823,Amazon Web Services
+amazon-web-services-3227a2,osm,way/1386017497,https://www.openstreetmap.org/way/1386017497,Amazon Web Services
+amazon-web-services-3227a2,osm,way/1386017498,https://www.openstreetmap.org/way/1386017498,Amazon Web Services
+amazon-web-services-3227a2,osm,way/1386017499,https://www.openstreetmap.org/way/1386017499,Amazon Web Services
+qts-hillsboro-hil1-1be856,osm,way/729192992,https://www.openstreetmap.org/way/729192992,QTS Data Center - Hillsboro 1
+qts-hillsboro-hil1-1be856,peeringdb,7872,https://www.peeringdb.com/fac/7872,QTS Hillsboro (HIL1)
+qts-hillsboro-hil1-1be856,epa_nei,19086911,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=19086911,"QTS Investment Properties Hillsboro, LLC"
+oregon-state-data-center-987b08,osm,way/733721782,https://www.openstreetmap.org/way/733721782,Oregon State Data Center
+digital-realty-pdx11-data-center-f7809d,osm,way/734323663,https://www.openstreetmap.org/way/734323663,Digital Realty PDX11 Data Center
+digital-realty-pdx11-data-center-f7809d,osm,way/1153935548,https://www.openstreetmap.org/way/1153935548,Digital Realty PDX11 Data Center
+fort-rock-data-center-6e05d3,osm,way/752001022,https://www.openstreetmap.org/way/752001022,Fort Rock DC
+fort-rock-data-center-6e05d3,peeringdb,9161,https://www.peeringdb.com/fac/9161,Fort Rock Data Center
+meta-dc0139,osm,way/772827597,https://www.openstreetmap.org/way/772827597,Meta
+meta-47e939,osm,way/772827601,https://www.openstreetmap.org/way/772827601,Meta
+flexential-portland-hillsboro-4-pdx04-4e66d6,osm,way/860433344,https://www.openstreetmap.org/way/860433344,Flexential Portland - Hillsboro 4
+flexential-portland-hillsboro-4-pdx04-4e66d6,osm,way/1080170579,https://www.openstreetmap.org/way/1080170579,Flexential Portland - Hillsboro 4 Expansion
+flexential-portland-hillsboro-4-pdx04-4e66d6,peeringdb,13391,https://www.peeringdb.com/fac/13391,Flexential - Portland/Hillsboro 4 (PDX04)
+stack-infrastructure-por03-42a2d0,osm,way/899634245,https://www.openstreetmap.org/way/899634245,Stack Infrastructure - POR03
+stack-infrastructure-por03-42a2d0,osm,way/1243089554,https://www.openstreetmap.org/way/1243089554,Stack Infrastructure - POR03
+stack-infrastructure-por03-42a2d0,osm,way/1243089555,https://www.openstreetmap.org/way/1243089555,Stack Infrastructure - POR03
+qts-data-center-hillsboro-2-e6cde2,osm,way/909742340,https://www.openstreetmap.org/way/909742340,QTS Data Center - Hillsboro 2
+amazon-web-services-c578c9,osm,way/914613836,https://www.openstreetmap.org/way/914613836,Amazon Web Services
+amazon-web-services-c578c9,osm,way/914616809,https://www.openstreetmap.org/way/914616809,Amazon Web Services
+amazon-web-services-3d8b19,osm,way/914616810,https://www.openstreetmap.org/way/914616810,Amazon Web Services
+qts-data-center-hillsboro-2-653fd4,osm,way/918871786,https://www.openstreetmap.org/way/918871786,QTS Data Center - Hillsboro 2
+qts-data-center-hillsboro-2-87be6a,osm,way/918871787,https://www.openstreetmap.org/way/918871787,QTS Data Center - Hillsboro 2
+qts-data-center-hillsboro-2-d9cd6a,osm,way/918871788,https://www.openstreetmap.org/way/918871788,QTS Data Center - Hillsboro 2
+flexential-portland-hillsboro-3-pdx03-b88143,osm,way/918873142,https://www.openstreetmap.org/way/918873142,Flexential Portland - Hillsboro 3
+flexential-portland-hillsboro-3-pdx03-b88143,peeringdb,13390,https://www.peeringdb.com/fac/13390,Flexential - Portland/Hillsboro 3 (PDX03)
+data-center-west-medford-4a58a3,osm,way/967131562,https://www.openstreetmap.org/way/967131562,Date Center West - Eugene
+data-center-west-medford-4a58a3,peeringdb,5084,https://www.peeringdb.com/fac/5084,Data Center West Medford
+edgeconnex-portland-por03-c10891,osm,way/1019812125,https://www.openstreetmap.org/way/1019812125,EdgeConneX - Portland POR03
+amazon-web-services-65e14a,osm,way/1027471509,https://www.openstreetmap.org/way/1027471509,Amazon Web Services
+amazon-web-services-1efb06,osm,way/1027471510,https://www.openstreetmap.org/way/1027471510,Amazon Web Services
+amazon-web-services-165857,osm,way/1057230915,https://www.openstreetmap.org/way/1057230915,Amazon Web Services
+amazon-web-services-165857,osm,way/1226439731,https://www.openstreetmap.org/way/1226439731,Amazon Web Services
+flexential-portland-hillsboro-5-1c3674,osm,way/1080170580,https://www.openstreetmap.org/way/1080170580,Flexential Portland - Hillsboro 5
+aligned-dc-pdx-01-f0ea0b,osm,way/1114969101,https://www.openstreetmap.org/way/1114969101,Aligned DC - PDX-01
+amazon-web-services-b72959,osm,way/1126159710,https://www.openstreetmap.org/way/1126159710,Amazon Web Services
+amazon-web-services-575bd6,osm,way/1126159711,https://www.openstreetmap.org/way/1126159711,Amazon Web Services
+amazon-web-services-c61f8b,osm,way/1126159714,https://www.openstreetmap.org/way/1126159714,Amazon Web Services
+amazon-web-services-c17bbe,osm,way/1126159715,https://www.openstreetmap.org/way/1126159715,Amazon Web Services
+amazon-web-services-9dc0fd,osm,way/1127951468,https://www.openstreetmap.org/way/1127951468,Amazon Web Services
+meta-1f2ee4,osm,way/1152747559,https://www.openstreetmap.org/way/1152747559,Meta
+meta-388812,osm,way/1152748037,https://www.openstreetmap.org/way/1152748037,Meta
+stack-infrastructure-por03-fa7bff,osm,way/1243089557,https://www.openstreetmap.org/way/1243089557,Stack Infrastructure - POR03
+amazon-web-services-945791,osm,way/1252196816,https://www.openstreetmap.org/way/1252196816,Amazon Web Services
+amazon-web-services-945791,osm,way/1280344155,https://www.openstreetmap.org/way/1280344155,Amazon Web Services
+amazon-web-services-89cdcc,osm,way/1252196817,https://www.openstreetmap.org/way/1252196817,Amazon Web Services
+amazon-web-services-fa1a83,osm,way/1252196818,https://www.openstreetmap.org/way/1252196818,Amazon Web Services
+amazon-web-services-c6c7c0,osm,way/1252196820,https://www.openstreetmap.org/way/1252196820,Amazon Web Services
+amazon-web-services-4ff82c,osm,way/1252196821,https://www.openstreetmap.org/way/1252196821,Amazon Web Services
+amazon-web-services-7c7a94,osm,way/1280344149,https://www.openstreetmap.org/way/1280344149,Amazon Web Services
+amazon-web-services-a5200f,osm,way/1280344150,https://www.openstreetmap.org/way/1280344150,Amazon Web Services
+amazon-web-services-a5200f,osm,way/1280344151,https://www.openstreetmap.org/way/1280344151,Amazon Web Services
+amazon-web-services-fb9714,osm,way/1280344153,https://www.openstreetmap.org/way/1280344153,Amazon Web Services
+amazon-web-services-fb9714,osm,way/1374895921,https://www.openstreetmap.org/way/1374895921,Amazon Web Services
+amazon-web-services-fb9714,osm,way/1374895922,https://www.openstreetmap.org/way/1374895922,Amazon Web Services
+amazon-web-services-5a625c,osm,way/1280344154,https://www.openstreetmap.org/way/1280344154,Amazon Web Services
+amazon-web-services-56551f,osm,way/1280344157,https://www.openstreetmap.org/way/1280344157,Amazon Web Services
+amazon-web-services-56551f,osm,way/1386017492,https://www.openstreetmap.org/way/1386017492,Amazon Web Services
+amazon-web-services-56551f,osm,way/1386017493,https://www.openstreetmap.org/way/1386017493,Amazon Web Services
+amazon-web-services-56551f,osm,way/1386017494,https://www.openstreetmap.org/way/1386017494,Amazon Web Services
+ptc-57d475,osm,way/1365213539,https://www.openstreetmap.org/way/1365213539,PTC
+amazon-web-services-73dff5,osm,way/1386017490,https://www.openstreetmap.org/way/1386017490,Amazon Web Services
+amazon-web-services-73dff5,osm,way/1386017491,https://www.openstreetmap.org/way/1386017491,Amazon Web Services
+amazon-web-services-73dff5,osm,way/1501436323,https://www.openstreetmap.org/way/1501436323,Amazon Web Services
+amazon-web-services-73dff5,osm,way/1501436324,https://www.openstreetmap.org/way/1501436324,Amazon Web Services
+amazon-web-services-a82199,osm,way/1386017495,https://www.openstreetmap.org/way/1386017495,Amazon Web Services
+amazon-web-services-a82199,osm,way/1386017496,https://www.openstreetmap.org/way/1386017496,Amazon Web Services
+google-505ff8,osm,way/1443567519,https://www.openstreetmap.org/way/1443567519,Google
+google-505ff8,osm,way/1510517630,https://www.openstreetmap.org/way/1510517630,Google
+ntt-ragingwire-dc-hillsboro-f04a0b,osm,way/1454598380,https://www.openstreetmap.org/way/1454598380,NTT RagingWire DC - Hillsboro
+qts-data-center-hillsboro-3-09bdb3,osm,way/1465196735,https://www.openstreetmap.org/way/1465196735,QTS Data Center - Hillsboro 3
+qts-data-center-hillsboro-3-09bdb3,osm,way/1465196736,https://www.openstreetmap.org/way/1465196736,QTS Data Center - Hillsboro 3
+amazon-web-services-9a5662,osm,way/1501455347,https://www.openstreetmap.org/way/1501455347,Amazon Web Services
+amazon-web-services-3837a8,osm,way/1501455348,https://www.openstreetmap.org/way/1501455348,Amazon Web Services
+amazon-web-services-8f3159,osm,way/1501456882,https://www.openstreetmap.org/way/1501456882,Amazon Web Services
+crane-dc-portland-2fd85b,osm,way/1501805557,https://www.openstreetmap.org/way/1501805557,Crane DC - Portland
+percheron-dc-e6daa5,osm,way/1501824326,https://www.openstreetmap.org/way/1501824326,Percheron DC
+percheron-dc-e6daa5,osm,way/1501824327,https://www.openstreetmap.org/way/1501824327,Percheron DC
+percheron-dc-6979d1,osm,way/1501824328,https://www.openstreetmap.org/way/1501824328,Percheron DC
+percheron-dc-6979d1,osm,way/1501824329,https://www.openstreetmap.org/way/1501824329,Percheron DC
+amazon-web-services-0171c8,osm,way/1510517629,https://www.openstreetmap.org/way/1510517629,amazon web services
+ptor1-2e2c1e,peeringdb,275,https://www.peeringdb.com/fac/275,PTOR1
+lightpoint-corporation-e4ec06,peeringdb,1751,https://www.peeringdb.com/fac/1751,LightPoint Corporation
+edgeconnex-portland-edcpor01-4134a0,peeringdb,1922,https://www.peeringdb.com/fac/1922,EdgeConneX Portland (EDCPOR01)
+stack-infrastructure-portland-poro2-ee096a,peeringdb,2418,https://www.peeringdb.com/fac/2418,Stack Infrastructure Portland PORO2
+opus-interactive-portland-pdx01-612a7d,peeringdb,3861,https://www.peeringdb.com/fac/3861,Opus Interactive Portland (PDX01)
+opus-interactive-hillsboro-hio01-821402,peeringdb,3862,https://www.peeringdb.com/fac/3862,Opus Interactive Hillsboro (HIO01)
+university-of-oregon-a47258,peeringdb,4021,https://www.peeringdb.com/fac/4021,University of Oregon
+edgeconnex-hillsboro-edcpor02-655370,peeringdb,7566,https://www.peeringdb.com/fac/7566,EdgeConneX Hillsboro (EDCPOR02)
+corepacket-pdx-1-82d728,peeringdb,8577,https://www.peeringdb.com/fac/8577,Corepacket PDX-1
+lcog-park-place-d6dca1,peeringdb,10376,https://www.peeringdb.com/fac/10376,LCOG Park Place
+bendtel-ce252a,peeringdb,10439,https://www.peeringdb.com/fac/10439,BendTel
+peak-internet-0f9a19,peeringdb,11671,https://www.peeringdb.com/fac/11671,Peak Internet
+t5-portland-2081db,peeringdb,11928,https://www.peeringdb.com/fac/11928,T5@Portland
+sunbreak-electronics-30e296,peeringdb,12785,https://www.peeringdb.com/fac/12785,Sunbreak Electronics
+hemlock-plaza-336cf5,peeringdb,13284,https://www.peeringdb.com/fac/13284,Hemlock Plaza
+lumen-portland-5e6363,peeringdb,13512,https://www.peeringdb.com/fac/13512,Lumen Portland
+smrworxa-somerset-west-central-office-ca9846,peeringdb,14264,https://www.peeringdb.com/fac/14264,SMRWORXA - Somerset West Central Office
+hlboorxh-hawthorne-central-office-3d0e27,peeringdb,14265,https://www.peeringdb.com/fac/14265,HLBOORXH - Hawthorne Central Office
+bvtnorxb-beaverton-central-office-3fddc8,peeringdb,14266,https://www.peeringdb.com/fac/14266,BVTNORXB - Beaverton Central Office
+grhmorxb-gresham-central-office-4828cc,peeringdb,14267,https://www.peeringdb.com/fac/14267,GRHMORXB - Gresham Central Office
+tgrdorxa-tigard-central-office-c4f197,peeringdb,14268,https://www.peeringdb.com/fac/14268,TGRDORXA - Tigard Central Office
+clackamas-esd-datacenter-e781c6,peeringdb,15828,https://www.peeringdb.com/fac/15828,Clackamas ESD Datacenter
+pdx-2-96d458,epa_nei,19084511,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=19084511,PDX 2
+pdx-80-e2d2d6,epa_nei,19084611,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=19084611,PDX 80
+pdx-63-bae82f,epa_nei,19091811,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=19091811,PDX 63
+pdx-1-918fb7,epa_nei,19080411,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=19080411,PDX 1
+pdx-4-add665,epa_nei,19080511,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=19080511,PDX 4

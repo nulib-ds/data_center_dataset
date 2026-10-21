@@ -1,0 +1,800 @@
+{
+ "elements": [
+  {
+   "bounds": {
+    "maxlat": 34.7367853,
+    "maxlon": -86.6728157,
+    "minlat": 34.7362948,
+    "minlon": -86.6733877
+   },
+   "geometry": [
+    {
+     "lat": 34.736617,
+     "lon": -86.6728157
+    },
+    {
+     "lat": 34.7363941,
+     "lon": -86.6730262
+    },
+    {
+     "lat": 34.7363871,
+     "lon": -86.6730152
+    },
+    {
+     "lat": 34.7362948,
+     "lon": -86.6731024
+    },
+    {
+     "lat": 34.7364768,
+     "lon": -86.6733877
+    },
+    {
+     "lat": 34.7365698,
+     "lon": -86.6732998
+    },
+    {
+     "lat": 34.7365631,
+     "lon": -86.6732893
+    },
+    {
+     "lat": 34.7367853,
+     "lon": -86.6730795
+    },
+    {
+     "lat": 34.736617,
+     "lon": -86.6728157
+    }
+   ],
+   "id": 408012357,
+   "tags": {
+    "addr:city": "Huntsville",
+    "addr:housenumber": "686",
+    "addr:postcode": "35806",
+    "addr:state": "AL",
+    "addr:street": "Discovery Drive Northwest",
+    "building": "government_office",
+    "name": "George C. Wallace Alabama Supercomputer Center",
+    "name:etymology:wikidata": "Q313776",
+    "operator": "Alabama Supercomputer Authority",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 31.2319988,
+    "maxlon": -85.4555929,
+    "minlat": 31.2317986,
+    "minlon": -85.4560751
+   },
+   "geometry": [
+    {
+     "lat": 31.2319945,
+     "lon": -85.4555929
+    },
+    {
+     "lat": 31.2317986,
+     "lon": -85.4555953
+    },
+    {
+     "lat": 31.2318029,
+     "lon": -85.4560751
+    },
+    {
+     "lat": 31.2319988,
+     "lon": -85.4560727
+    },
+    {
+     "lat": 31.2319945,
+     "lon": -85.4555929
+    }
+   ],
+   "id": 626281456,
+   "tags": {
+    "addr:city": "Dothan",
+    "addr:housenumber": "118",
+    "addr:postcode": "36305",
+    "addr:state": "AL",
+    "addr:street": "South Woodburn Drive",
+    "building": "yes",
+    "description": "Cloud based services data center for AngelTrax Mobile Video Surveillance Solutions.",
+    "image": "https://imgur.com/a/t7toVNS",
+    "name": "AngelTrax Data Center",
+    "operator": "AngelTrax Mobile Video Surveillance Solutions",
+    "phone": "+1-334-692-4600",
+    "telecom": "data_center",
+    "website": "https://www.angeltrax.com/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.9203084,
+    "maxlon": -85.7440102,
+    "minlat": 34.909021,
+    "minlon": -85.7527328
+   },
+   "geometry": [
+    {
+     "lat": 34.9162968,
+     "lon": -85.7527328
+    },
+    {
+     "lat": 34.916596,
+     "lon": -85.7506514
+    },
+    {
+     "lat": 34.9180563,
+     "lon": -85.7492995
+    },
+    {
+     "lat": 34.9181531,
+     "lon": -85.7482481
+    },
+    {
+     "lat": 34.9203084,
+     "lon": -85.7457805
+    },
+    {
+     "lat": 34.9202468,
+     "lon": -85.7440209
+    },
+    {
+     "lat": 34.9155226,
+     "lon": -85.7440102
+    },
+    {
+     "lat": 34.9154787,
+     "lon": -85.7446861
+    },
+    {
+     "lat": 34.9107894,
+     "lon": -85.7447344
+    },
+    {
+     "lat": 34.9100328,
+     "lon": -85.7466817
+    },
+    {
+     "lat": 34.9106266,
+     "lon": -85.7470787
+    },
+    {
+     "lat": 34.909571,
+     "lon": -85.7499848
+    },
+    {
+     "lat": 34.909021,
+     "lon": -85.7514989
+    },
+    {
+     "lat": 34.9095049,
+     "lon": -85.7526791
+    },
+    {
+     "lat": 34.9162968,
+     "lon": -85.7527328
+    }
+   ],
+   "id": 714889192,
+   "tags": {
+    "landuse": "industrial",
+    "name": "Google Jackson County Data Center",
+    "not:operator:wikidata": "Q95",
+    "operator": "Google LLC",
+    "start_date": "2018",
+    "telecom": "data_center",
+    "website": "https://www.google.com/about/datacenters/locations/jackson-county/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.4063047,
+    "maxlon": -86.909768,
+    "minlat": 33.4032471,
+    "minlon": -86.9133622
+   },
+   "geometry": [
+    {
+     "lat": 33.4063047,
+     "lon": -86.9110179
+    },
+    {
+     "lat": 33.4050373,
+     "lon": -86.909768
+    },
+    {
+     "lat": 33.4043298,
+     "lon": -86.9101623
+    },
+    {
+     "lat": 33.4041551,
+     "lon": -86.9103983
+    },
+    {
+     "lat": 33.4039917,
+     "lon": -86.9102293
+    },
+    {
+     "lat": 33.403723,
+     "lon": -86.9106263
+    },
+    {
+     "lat": 33.4038842,
+     "lon": -86.9107792
+    },
+    {
+     "lat": 33.4032471,
+     "lon": -86.9117126
+    },
+    {
+     "lat": 33.4032583,
+     "lon": -86.9119607
+    },
+    {
+     "lat": 33.4046791,
+     "lon": -86.9133622
+    },
+    {
+     "lat": 33.4063047,
+     "lon": -86.9110179
+    }
+   ],
+   "id": 836908998,
+   "tags": {
+    "landuse": "industrial",
+    "name": "Sungard Systems International",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.9142033,
+    "maxlon": -85.7467503,
+    "minlat": 34.9131313,
+    "minlon": -85.7480943
+   },
+   "geometry": [
+    {
+     "lat": 34.9142033,
+     "lon": -85.7467708
+    },
+    {
+     "lat": 34.9131559,
+     "lon": -85.7467503
+    },
+    {
+     "lat": 34.9131538,
+     "lon": -85.746906
+    },
+    {
+     "lat": 34.9132281,
+     "lon": -85.7469075
+    },
+    {
+     "lat": 34.9132173,
+     "lon": -85.7477211
+    },
+    {
+     "lat": 34.913136,
+     "lon": -85.7477195
+    },
+    {
+     "lat": 34.9131313,
+     "lon": -85.7480736
+    },
+    {
+     "lat": 34.9141859,
+     "lon": -85.7480943
+    },
+    {
+     "lat": 34.9142033,
+     "lon": -85.7467708
+    }
+   ],
+   "id": 844371952,
+   "tags": {
+    "building": "data",
+    "name": "Google",
+    "operator": "Google",
+    "operator:wikidata": "Q95",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.9141771,
+    "maxlon": -85.7452683,
+    "minlat": 34.9131056,
+    "minlon": -85.746579
+   },
+   "geometry": [
+    {
+     "lat": 34.9141736,
+     "lon": -85.746579
+    },
+    {
+     "lat": 34.9131056,
+     "lon": -85.7465748
+    },
+    {
+     "lat": 34.9131066,
+     "lon": -85.7462002
+    },
+    {
+     "lat": 34.9132151,
+     "lon": -85.7462006
+    },
+    {
+     "lat": 34.9132173,
+     "lon": -85.7453891
+    },
+    {
+     "lat": 34.9131647,
+     "lon": -85.7453889
+    },
+    {
+     "lat": 34.913165,
+     "lon": -85.7452683
+    },
+    {
+     "lat": 34.9141771,
+     "lon": -85.7452723
+    },
+    {
+     "lat": 34.9141736,
+     "lon": -85.746579
+    }
+   ],
+   "id": 844371953,
+   "tags": {
+    "building": "data",
+    "name": "Google",
+    "operator": "Google",
+    "operator:wikidata": "Q95",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.745686,
+    "maxlon": -86.691576,
+    "minlat": 34.745176,
+    "minlon": -86.69219
+   },
+   "geometry": [
+    {
+     "lat": 34.745176,
+     "lon": -86.691829
+    },
+    {
+     "lat": 34.745371,
+     "lon": -86.691576
+    },
+    {
+     "lat": 34.745686,
+     "lon": -86.691937
+    },
+    {
+     "lat": 34.745491,
+     "lon": -86.69219
+    },
+    {
+     "lat": 34.745176,
+     "lon": -86.691829
+    }
+   ],
+   "id": 961071564,
+   "tags": {
+    "addr:city": "Huntsville",
+    "addr:housenumber": "165",
+    "addr:postcode": "35806",
+    "addr:state": "AL",
+    "addr:street": "West Park Loop Northwest",
+    "building": "yes",
+    "name": "SimpleHelix",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center",
+    "website": "https://simplehelix.com/facility/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 33.50096,
+    "maxlon": -86.820449,
+    "minlat": 33.5003897,
+    "minlon": -86.821214
+   },
+   "geometry": [
+    {
+     "lat": 33.50096,
+     "lon": -86.8206827
+    },
+    {
+     "lat": 33.5007146,
+     "lon": -86.8211654
+    },
+    {
+     "lat": 33.5006899,
+     "lon": -86.821214
+    },
+    {
+     "lat": 33.5003897,
+     "lon": -86.8209945
+    },
+    {
+     "lat": 33.5004558,
+     "lon": -86.8208645
+    },
+    {
+     "lat": 33.5005036,
+     "lon": -86.8207705
+    },
+    {
+     "lat": 33.5004232,
+     "lon": -86.8207116
+    },
+    {
+     "lat": 33.5005162,
+     "lon": -86.8205288
+    },
+    {
+     "lat": 33.5005772,
+     "lon": -86.8205734
+    },
+    {
+     "lat": 33.5006405,
+     "lon": -86.820449
+    },
+    {
+     "lat": 33.50096,
+     "lon": -86.8206827
+    }
+   ],
+   "id": 1019816009,
+   "tags": {
+    "addr:city": "Birmingham",
+    "addr:housenumber": "433",
+    "addr:postcode": "35233",
+    "addr:state": "AL",
+    "addr:street": "6th Street South",
+    "building": "data_center",
+    "check_date": "2026-06-18",
+    "name": "DC Blox Data Center",
+    "phone": "+1 877-590-1684",
+    "telecom": "data_center",
+    "website": "https://www.dcblox.com/data-centers/birmingham/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.848266,
+    "maxlon": -86.6248386,
+    "minlat": 34.846381,
+    "minlon": -86.6289991
+   },
+   "geometry": [
+    {
+     "lat": 34.8482202,
+     "lon": -86.6289422
+    },
+    {
+     "lat": 34.848266,
+     "lon": -86.6248494
+    },
+    {
+     "lat": 34.8476208,
+     "lon": -86.6248386
+    },
+    {
+     "lat": 34.8476046,
+     "lon": -86.626283
+    },
+    {
+     "lat": 34.8470183,
+     "lon": -86.6262731
+    },
+    {
+     "lat": 34.8470327,
+     "lon": -86.6250077
+    },
+    {
+     "lat": 34.8464269,
+     "lon": -86.6249974
+    },
+    {
+     "lat": 34.846381,
+     "lon": -86.6289885
+    },
+    {
+     "lat": 34.8470043,
+     "lon": -86.6289991
+    },
+    {
+     "lat": 34.8470307,
+     "lon": -86.6266988
+    },
+    {
+     "lat": 34.8476242,
+     "lon": -86.6267088
+    },
+    {
+     "lat": 34.847599,
+     "lon": -86.6289318
+    },
+    {
+     "lat": 34.8482202,
+     "lon": -86.6289422
+    }
+   ],
+   "id": 1160814413,
+   "tags": {
+    "building": "industrial",
+    "name": "Meta Huntsville Data center",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.8442584,
+    "maxlon": -86.6267891,
+    "minlat": 34.8427053,
+    "minlon": -86.6309227
+   },
+   "geometry": [
+    {
+     "lat": 34.8427053,
+     "lon": -86.6309185
+    },
+    {
+     "lat": 34.8427242,
+     "lon": -86.6267891
+    },
+    {
+     "lat": 34.8433502,
+     "lon": -86.6267933
+    },
+    {
+     "lat": 34.8433424,
+     "lon": -86.6285579
+    },
+    {
+     "lat": 34.8442584,
+     "lon": -86.6285639
+    },
+    {
+     "lat": 34.8442553,
+     "lon": -86.6292722
+    },
+    {
+     "lat": 34.8433356,
+     "lon": -86.629266
+    },
+    {
+     "lat": 34.8433281,
+     "lon": -86.6309227
+    },
+    {
+     "lat": 34.8427053,
+     "lon": -86.6309185
+    }
+   ],
+   "id": 1160814415,
+   "tags": {
+    "building": "industrial",
+    "name": "Meta Huntsville Data center",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.8418308,
+    "maxlon": -86.6267333,
+    "minlat": 34.8390511,
+    "minlon": -86.6309174
+   },
+   "geometry": [
+    {
+     "lat": 34.8417804,
+     "lon": -86.6309045
+    },
+    {
+     "lat": 34.8418308,
+     "lon": -86.6268059
+    },
+    {
+     "lat": 34.8409555,
+     "lon": -86.62679
+    },
+    {
+     "lat": 34.8409345,
+     "lon": -86.6285214
+    },
+    {
+     "lat": 34.8399221,
+     "lon": -86.6285033
+    },
+    {
+     "lat": 34.8399433,
+     "lon": -86.6267484
+    },
+    {
+     "lat": 34.8391016,
+     "lon": -86.6267333
+    },
+    {
+     "lat": 34.8390511,
+     "lon": -86.6309013
+    },
+    {
+     "lat": 34.8399383,
+     "lon": -86.6309174
+    },
+    {
+     "lat": 34.8399589,
+     "lon": -86.6292409
+    },
+    {
+     "lat": 34.8409692,
+     "lon": -86.6292593
+    },
+    {
+     "lat": 34.8409491,
+     "lon": -86.6308893
+    },
+    {
+     "lat": 34.8417804,
+     "lon": -86.6309045
+    }
+   ],
+   "id": 1160814416,
+   "tags": {
+    "building": "industrial",
+    "name": "Meta Huntsville Data center",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.8580641,
+    "maxlon": -86.6205728,
+    "minlat": 34.8571661,
+    "minlon": -86.6237647
+   },
+   "geometry": [
+    {
+     "lat": 34.8580135,
+     "lon": -86.6237647
+    },
+    {
+     "lat": 34.8580179,
+     "lon": -86.6234213
+    },
+    {
+     "lat": 34.8580531,
+     "lon": -86.623416
+    },
+    {
+     "lat": 34.8580641,
+     "lon": -86.6205836
+    },
+    {
+     "lat": 34.8571837,
+     "lon": -86.6205728
+    },
+    {
+     "lat": 34.8571661,
+     "lon": -86.6233891
+    },
+    {
+     "lat": 34.8572035,
+     "lon": -86.6233891
+    },
+    {
+     "lat": 34.8572101,
+     "lon": -86.6237432
+    },
+    {
+     "lat": 34.8580135,
+     "lon": -86.6237647
+    }
+   ],
+   "id": 1540172608,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.8517633,
+    "maxlon": -86.6242436,
+    "minlat": 34.8503907,
+    "minlon": -86.6281015
+   },
+   "geometry": [
+    {
+     "lat": 34.8517326,
+     "lon": -86.6279405
+    },
+    {
+     "lat": 34.8516677,
+     "lon": -86.6274775
+    },
+    {
+     "lat": 34.8517633,
+     "lon": -86.6274577
+    },
+    {
+     "lat": 34.851692,
+     "lon": -86.6269492
+    },
+    {
+     "lat": 34.8516498,
+     "lon": -86.626958
+    },
+    {
+     "lat": 34.8512701,
+     "lon": -86.6242436
+    },
+    {
+     "lat": 34.8503907,
+     "lon": -86.6244263
+    },
+    {
+     "lat": 34.8507731,
+     "lon": -86.6271605
+    },
+    {
+     "lat": 34.8507259,
+     "lon": -86.6271703
+    },
+    {
+     "lat": 34.8507947,
+     "lon": -86.6276618
+    },
+    {
+     "lat": 34.8508946,
+     "lon": -86.627641
+    },
+    {
+     "lat": 34.8509591,
+     "lon": -86.6281015
+    },
+    {
+     "lat": 34.8517326,
+     "lon": -86.6279405
+    }
+   ],
+   "id": 1540172612,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:16:04Z",
+  "timestamp_osm_base": "2026-10-21T16:46:10Z"
+ },
+ "version": 0.6
+}

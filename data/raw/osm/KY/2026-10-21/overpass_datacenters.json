@@ -1,0 +1,444 @@
+{
+ "elements": [
+  {
+   "bounds": {
+    "maxlat": 38.9820062,
+    "maxlon": -84.6178066,
+    "minlat": 38.9806208,
+    "minlon": -84.6196373
+   },
+   "geometry": [
+    {
+     "lat": 38.9819646,
+     "lon": -84.6192529
+    },
+    {
+     "lat": 38.9811914,
+     "lon": -84.6196373
+    },
+    {
+     "lat": 38.9810368,
+     "lon": -84.6191227
+    },
+    {
+     "lat": 38.9808918,
+     "lon": -84.6191947
+    },
+    {
+     "lat": 38.9808956,
+     "lon": -84.6192075
+    },
+    {
+     "lat": 38.9808756,
+     "lon": -84.6192174
+    },
+    {
+     "lat": 38.9808712,
+     "lon": -84.6192026
+    },
+    {
+     "lat": 38.980788,
+     "lon": -84.6192437
+    },
+    {
+     "lat": 38.9806865,
+     "lon": -84.6189043
+    },
+    {
+     "lat": 38.980647,
+     "lon": -84.6189238
+    },
+    {
+     "lat": 38.9806425,
+     "lon": -84.6189089
+    },
+    {
+     "lat": 38.9806374,
+     "lon": -84.6188915
+    },
+    {
+     "lat": 38.9806756,
+     "lon": -84.6188726
+    },
+    {
+     "lat": 38.9806208,
+     "lon": -84.6186896
+    },
+    {
+     "lat": 38.980696,
+     "lon": -84.6186524
+    },
+    {
+     "lat": 38.9808397,
+     "lon": -84.6185812
+    },
+    {
+     "lat": 38.9808691,
+     "lon": -84.6185666
+    },
+    {
+     "lat": 38.9807941,
+     "lon": -84.618316
+    },
+    {
+     "lat": 38.9808389,
+     "lon": -84.6182938
+    },
+    {
+     "lat": 38.9808226,
+     "lon": -84.6182394
+    },
+    {
+     "lat": 38.9808921,
+     "lon": -84.6182049
+    },
+    {
+     "lat": 38.9809081,
+     "lon": -84.6182583
+    },
+    {
+     "lat": 38.981469,
+     "lon": -84.6179795
+    },
+    {
+     "lat": 38.9814282,
+     "lon": -84.6178435
+    },
+    {
+     "lat": 38.9815024,
+     "lon": -84.6178066
+    },
+    {
+     "lat": 38.9815437,
+     "lon": -84.617944
+    },
+    {
+     "lat": 38.981566,
+     "lon": -84.617933
+    },
+    {
+     "lat": 38.981647,
+     "lon": -84.6182019
+    },
+    {
+     "lat": 38.9818695,
+     "lon": -84.6189399
+    },
+    {
+     "lat": 38.9819481,
+     "lon": -84.6192007
+    },
+    {
+     "lat": 38.9819943,
+     "lon": -84.6191777
+    },
+    {
+     "lat": 38.9820062,
+     "lon": -84.6192171
+    },
+    {
+     "lat": 38.9819924,
+     "lon": -84.619224
+    },
+    {
+     "lat": 38.9819607,
+     "lon": -84.6192398
+    },
+    {
+     "lat": 38.9819646,
+     "lon": -84.6192529
+    }
+   ],
+   "id": 68281408,
+   "tags": {
+    "addr:city": "Florence",
+    "addr:housenumber": "7200",
+    "addr:postcode": "41042",
+    "addr:state": "KY",
+    "addr:street": "Industrial Road",
+    "building": "industrial",
+    "operator": "CyrusOne",
+    "operator:wikidata": "Q16953751",
+    "ref": "CIN6",
+    "telecom": "data_center",
+    "website": "https://www.cyrusone.com/data-centers/north-america/florence-ky"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 38.2775553,
+    "maxlon": -85.5067417,
+    "minlat": 38.2768258,
+    "minlon": -85.5077387
+   },
+   "geometry": [
+    {
+     "lat": 38.277006,
+     "lon": -85.5070619
+    },
+    {
+     "lat": 38.2770846,
+     "lon": -85.507146
+    },
+    {
+     "lat": 38.2770841,
+     "lon": -85.5071467
+    },
+    {
+     "lat": 38.2770803,
+     "lon": -85.5071525
+    },
+    {
+     "lat": 38.2769849,
+     "lon": -85.5072957
+    },
+    {
+     "lat": 38.2769839,
+     "lon": -85.5072972
+    },
+    {
+     "lat": 38.276944,
+     "lon": -85.5073573
+    },
+    {
+     "lat": 38.276913,
+     "lon": -85.5073241
+    },
+    {
+     "lat": 38.276896,
+     "lon": -85.507306
+    },
+    {
+     "lat": 38.2768258,
+     "lon": -85.5074115
+    },
+    {
+     "lat": 38.2768603,
+     "lon": -85.5074484
+    },
+    {
+     "lat": 38.2768746,
+     "lon": -85.5074637
+    },
+    {
+     "lat": 38.2768826,
+     "lon": -85.5074723
+    },
+    {
+     "lat": 38.2771314,
+     "lon": -85.5077387
+    },
+    {
+     "lat": 38.2775553,
+     "lon": -85.5071017
+    },
+    {
+     "lat": 38.2772191,
+     "lon": -85.5067417
+    },
+    {
+     "lat": 38.277006,
+     "lon": -85.5070619
+    }
+   ],
+   "id": 329551673,
+   "tags": {
+    "addr:city": "Louisville",
+    "addr:housenumber": "2101",
+    "addr:postcode": "40223",
+    "addr:state": "KY",
+    "addr:street": "Nelson Miller Parkway",
+    "building": "yes",
+    "lojic:bgnum": "15598",
+    "name": "Flexential Louisville - East",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/ky/louisville/east-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 38.2429006,
+    "maxlon": -85.7329149,
+    "minlat": 38.2421013,
+    "minlon": -85.7337571
+   },
+   "geometry": [
+    {
+     "lat": 38.2421013,
+     "lon": -85.7333989
+    },
+    {
+     "lat": 38.2424229,
+     "lon": -85.7336484
+    },
+    {
+     "lat": 38.2424619,
+     "lon": -85.7335676
+    },
+    {
+     "lat": 38.2427059,
+     "lon": -85.7337571
+    },
+    {
+     "lat": 38.2429006,
+     "lon": -85.7333539
+    },
+    {
+     "lat": 38.2423349,
+     "lon": -85.7329149
+    },
+    {
+     "lat": 38.2421013,
+     "lon": -85.7333989
+    }
+   ],
+   "id": 330276516,
+   "tags": {
+    "addr:city": "Louisville",
+    "addr:housenumber": "752",
+    "addr:postcode": "40204",
+    "addr:state": "KY",
+    "addr:street": "Barret Avenue",
+    "building": "yes",
+    "lojic:bgnum": "227462",
+    "name": "Flexential Louisville - Downtown",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/ky/louisville/downtown-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.3638448,
+    "maxlon": -87.5455704,
+    "minlat": 37.3621513,
+    "minlon": -87.5487321
+   },
+   "geometry": [
+    {
+     "lat": 37.3636265,
+     "lon": -87.5455704
+    },
+    {
+     "lat": 37.3621638,
+     "lon": -87.5458614
+    },
+    {
+     "lat": 37.3623638,
+     "lon": -87.5470018
+    },
+    {
+     "lat": 37.3623513,
+     "lon": -87.5472928
+    },
+    {
+     "lat": 37.3621513,
+     "lon": -87.5473478
+    },
+    {
+     "lat": 37.3623326,
+     "lon": -87.5487321
+    },
+    {
+     "lat": 37.3631848,
+     "lon": -87.5485106
+    },
+    {
+     "lat": 37.3633842,
+     "lon": -87.5483996
+    },
+    {
+     "lat": 37.3635737,
+     "lon": -87.5482434
+    },
+    {
+     "lat": 37.3636847,
+     "lon": -87.5480749
+    },
+    {
+     "lat": 37.3638187,
+     "lon": -87.5477049
+    },
+    {
+     "lat": 37.3638448,
+     "lon": -87.5474377
+    },
+    {
+     "lat": 37.3636265,
+     "lon": -87.5455704
+    }
+   ],
+   "id": 1254161871,
+   "tags": {
+    "landuse": "industrial",
+    "name": "Dynamics Mining",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.6004202,
+    "maxlon": -82.6784151,
+    "minlat": 37.5999509,
+    "minlon": -82.6791224
+   },
+   "geometry": [
+    {
+     "lat": 37.6004202,
+     "lon": -82.6785888
+    },
+    {
+     "lat": 37.6002371,
+     "lon": -82.6784151
+    },
+    {
+     "lat": 37.5999509,
+     "lon": -82.6788963
+    },
+    {
+     "lat": 37.6000161,
+     "lon": -82.6789609
+    },
+    {
+     "lat": 37.5999812,
+     "lon": -82.6790133
+    },
+    {
+     "lat": 37.6001022,
+     "lon": -82.6791224
+    },
+    {
+     "lat": 37.6004202,
+     "lon": -82.6785888
+    }
+   ],
+   "id": 1456953254,
+   "tags": {
+    "addr:city": "Ivel",
+    "addr:housenumber": "271",
+    "addr:postcode": "41642",
+    "addr:state": "KY",
+    "addr:street": "Technology Trail",
+    "building": "yes",
+    "name": "East Kentucky Network Datacenter",
+    "telecom": "data_center",
+    "website": "https://www.ekn.com"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:56:34Z",
+  "timestamp_osm_base": "2026-10-21T17:04:32Z"
+ },
+ "version": 0.6
+}

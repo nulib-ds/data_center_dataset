@@ -1,0 +1,5 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+peeringdb,3442,HDC1 - 108 Bank St,108 Bank St,peeringdb,8603,TierPoint Waterbury,108 Bank St,0.634,,0.1,1.0,0.0,1.0,0.37,['hdc1']|[]
+osm,way/878795698,amnet Data Center,26 Fahey Street,peeringdb,6334,Cloudpath CT1 (26 Fahey St),26 Fahey St,0.627,,25.9,1.0,0.0,1.0,0.333,[]|['ct1']
+osm,way/878795698,amnet Data Center,26 Fahey Street,peeringdb,16941,Omega CT1,26 Fahey Street,0.62,,25.9,1.0,0.0,1.0,0.298,[]|['ct1']
+peeringdb,10444,Cloudpath CT2 (1351 Washington Blvd),1351 washington blvd,peeringdb,13697,Crown Castle Stamford,1351 Washington Blvd,0.592,,0.0,1.0,0.0,1.0,0.16,['ct2']|[]

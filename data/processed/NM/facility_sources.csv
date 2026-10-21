@@ -1,0 +1,23 @@
+facility_id,source,source_id,source_url,source_name
+southwest-cyberport-albuquerque-a7943e,osm,node/1825907839,https://www.openstreetmap.org/node/1825907839,Southwest Cyberport
+southwest-cyberport-albuquerque-a7943e,peeringdb,8874,https://www.peeringdb.com/fac/8874,Southwest Cyberport Albuquerque
+oso-grande-technologies-3c1f87,osm,node/6625492701,https://www.openstreetmap.org/node/6625492701,Oso Grande
+oso-grande-technologies-3c1f87,peeringdb,8756,https://www.peeringdb.com/fac/8756,Oso Grande Technologies
+505-marquette-lobo-internet-c9db76,osm,node/9808044830,https://www.openstreetmap.org/node/9808044830,505 Marquette
+505-marquette-lobo-internet-c9db76,peeringdb,9429,https://www.peeringdb.com/fac/9429,505 Marquette -- Lobo Internet
+bigbyte-cc-190770,osm,node/9808044840,https://www.openstreetmap.org/node/9808044840,123 Central
+bigbyte-cc-190770,peeringdb,8736,https://www.peeringdb.com/fac/8736,bigbyte.cc
+unm-data-center-6965c5,osm,node/12387534800,https://www.openstreetmap.org/node/12387534800,UNM Data Center
+unmh-a9447f,osm,node/14086231277,https://www.openstreetmap.org/node/14086231277,UNMH
+molina-healthcare-c6e8aa,osm,way/169170979,https://www.openstreetmap.org/way/169170979,Molina Healthcare
+john-f-simms-building-455d17,osm,way/318069356,https://www.openstreetmap.org/way/318069356,John F. Simms Building
+meta-2111b5,osm,way/626785488,https://www.openstreetmap.org/way/626785488,Meta
+meta-2111b5,osm,way/756778306,https://www.openstreetmap.org/way/756778306,Meta
+meta-2111b5,osm,way/777679751,https://www.openstreetmap.org/way/777679751,Meta
+meta-2111b5,osm,way/1191496040,https://www.openstreetmap.org/way/1191496040,Meta
+meta-2111b5,osm,way/1548035623,https://www.openstreetmap.org/way/1548035623,Meta
+unnamed-data-center-308bca,osm,way/706081342,https://www.openstreetmap.org/way/706081342,
+information-systems-facility-cd1d93,osm,way/1519367009,https://www.openstreetmap.org/way/1519367009,Information Systems Facility
+servercondo-219-albuquerque-9e23fb,peeringdb,256,https://www.peeringdb.com/fac/256,ServerCondo-219 Albuquerque
+centersquare-albuquerque-abq1-e88b34,peeringdb,4047,https://www.peeringdb.com/fac/4047,Centersquare Albuquerque (ABQ1)
+h5-data-centers-albuquerque-de570b,peeringdb,5092,https://www.peeringdb.com/fac/5092,H5 Data Centers Albuquerque

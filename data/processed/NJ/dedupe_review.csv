@@ -1,0 +1,31 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+osm,way/387208881,165 Halsey / Equinix NY1 / Databank EWR1,165 Halsey Street,peeringdb,1820,DataBank Newark (EWR1),165 Halsey St,0.82,blocked_by_constraint,45.8,1.0,0.286,1.0,0.4,"['ewr1', 'ny1']|['ewr1']"
+osm,way/714139865,Equinix Secaucus NY6,,peeringdb,36,"Equinix NY2/NY4/NY5/NY6 - New York, Secaucus",800 Secaucus Road,0.82,blocked_by_constraint,120.1,0.936,0.375,0.0,1.0,"['ny6']|['ny2', 'ny4', 'ny5', 'ny6']"
+osm,way/714139868,CoreSite Secaucus Campus,,peeringdb,1671,CoreSite - Secaucus (NY2),2 Emerson Lane,0.8,blocked_by_constraint,25.0,1.0,0.667,0.0,1.0,[]|['ny2']
+peeringdb,604,FiberNet Telecom Group Newark - 165 Halsey,165 Halsey Street,peeringdb,3486,Crown Castle Newark (165 Halsey),165 Halsey St.,0.709,,0.0,1.0,0.375,1.0,0.294,[]|[]
+osm,way/618339179,365 Bridgewater NJ,999 Frontier Road,peeringdb,10349,365 Data Centers New Jersey (NJ1),999 Frontier Rd,0.706,,3.9,1.0,0.167,1.0,0.529,[]|['nj1']
+osm,way/387208881,165 Halsey / Equinix NY1 / Databank EWR1,165 Halsey Street,peeringdb,350,165 Halsey Meet-Me Room,165 Halsey St,0.693,,45.8,1.0,0.222,1.0,0.4,"['ewr1', 'ny1']|[]"
+peeringdb,350,165 Halsey Meet-Me Room,165 Halsey St,peeringdb,3486,Crown Castle Newark (165 Halsey),165 Halsey St.,0.68,,0.0,1.0,0.25,1.0,0.3,[]|[]
+peeringdb,908,Digital Realty EWR (100 Delawanna),100 Delawanna Avenue Building 1,peeringdb,3430,NJDC1 - 100 Delawanna ave,100 Delawanna ave,0.666,,8.3,1.0,0.286,1.0,0.188,[]|['njdc1']
+peeringdb,350,165 Halsey Meet-Me Room,165 Halsey St,peeringdb,604,FiberNet Telecom Group Newark - 165 Halsey,165 Halsey Street,0.661,,0.0,1.0,0.222,1.0,0.24,[]|[]
+peeringdb,604,FiberNet Telecom Group Newark - 165 Halsey,165 Halsey Street,peeringdb,1601,Level(3) Newark,165 Halsey Street,0.66,,0.0,1.0,0.125,1.0,0.35,[]|[]
+osm,way/204316962,IO Datacenter,3003 Woodbridge Avenue,peeringdb,2011,Iron Mountain Data Center - New Jersey (NJE-1),3003 Woodbridge Ave,0.652,,21.1,1.0,0.0,1.0,0.462,[]|[]
+peeringdb,1601,Level(3) Newark,165 Halsey Street,peeringdb,3486,Crown Castle Newark (165 Halsey),165 Halsey St.,0.648,,0.0,1.0,0.143,1.0,0.267,[]|[]
+osm,way/387208881,165 Halsey / Equinix NY1 / Databank EWR1,165 Halsey Street,peeringdb,604,FiberNet Telecom Group Newark - 165 Halsey,165 Halsey Street,0.636,,45.8,1.0,0.2,1.0,0.138,"['ewr1', 'ny1']|[]"
+osm,way/387208881,165 Halsey / Equinix NY1 / Databank EWR1,165 Halsey Street,peeringdb,3486,Crown Castle Newark (165 Halsey),165 Halsey St.,0.634,,45.8,1.0,0.222,1.0,0.105,"['ewr1', 'ny1']|[]"
+peeringdb,1820,DataBank Newark (EWR1),165 Halsey St,peeringdb,3486,Crown Castle Newark (165 Halsey),165 Halsey St.,0.634,,0.0,1.0,0.143,1.0,0.2,['ewr1']|[]
+peeringdb,209,Level(3) Weehawken,300 JFK Boulevard East,peeringdb,2636,Centersquare New Jersey (EWR2),300 JFK Boulevard East,0.627,,49.2,1.0,0.0,1.0,0.333,[]|['ewr2']
+peeringdb,9,"Equinix NY1 - New York, Newark",165 Halsey St,peeringdb,1601,Level(3) Newark,165 Halsey Street,0.626,,0.0,1.0,0.143,1.0,0.16,['ny1']|[]
+peeringdb,1601,Level(3) Newark,165 Halsey Street,peeringdb,1820,DataBank Newark (EWR1),165 Halsey St,0.623,,0.0,1.0,0.2,1.0,0.077,[]|['ewr1']
+peeringdb,2638,Centersquare New Jersey (EWR3),3 Corporate Place,peeringdb,2979,Digital Realty EWR (3 Corporate Pl),3 Corporate Pl,0.622,,0.0,1.0,0.0,1.0,0.308,['ewr3']|[]
+peeringdb,350,165 Halsey Meet-Me Room,165 Halsey St,peeringdb,1601,Level(3) Newark,165 Halsey Street,0.621,,0.0,1.0,0.0,1.0,0.304,[]|[]
+peeringdb,604,FiberNet Telecom Group Newark - 165 Halsey,165 Halsey Street,peeringdb,1820,DataBank Newark (EWR1),165 Halsey St,0.617,,0.0,1.0,0.125,1.0,0.133,[]|['ewr1']
+peeringdb,9,"Equinix NY1 - New York, Newark",165 Halsey St,peeringdb,604,FiberNet Telecom Group Newark - 165 Halsey,165 Halsey Street,0.612,,0.0,1.0,0.1,1.0,0.138,['ny1']|[]
+osm,way/387208881,165 Halsey / Equinix NY1 / Databank EWR1,165 Halsey Street,peeringdb,1601,Level(3) Newark,165 Halsey Street,0.608,,45.8,1.0,0.0,1.0,0.24,"['ewr1', 'ny1']|[]"
+peeringdb,9,"Equinix NY1 - New York, Newark",165 Halsey St,peeringdb,3486,Crown Castle Newark (165 Halsey),165 Halsey St.,0.608,,0.0,1.0,0.111,1.0,0.105,['ny1']|[]
+osm,way/279410766,Digital Realty New Jersey EWR10,300 John F. Kennedy Boulevard East,peeringdb,209,Level(3) Weehawken,300 JFK Boulevard East,0.598,,0.9,1.0,0.0,1.0,0.188,['ewr10']|[]
+peeringdb,209,Level(3) Weehawken,300 JFK Boulevard East,peeringdb,1736,Digital Realty New Jersey EWR10 (closed),300 Boulevard East,0.598,,13.0,1.0,0.0,1.0,0.188,[]|['ewr10']
+peeringdb,350,165 Halsey Meet-Me Room,165 Halsey St,peeringdb,1820,DataBank Newark (EWR1),165 Halsey St,0.593,,0.0,1.0,0.0,1.0,0.167,[]|['ewr1']
+osm,way/362662493,QTS Piscataway Data Center,101 Possumtown Road,peeringdb,3771,Anexio NJ1,101 Possumtown Rd,0.591,,55.4,1.0,0.0,1.0,0.154,[]|['nj1']
+osm,way/362662493,QTS Piscataway Data Center,101 Possumtown Road,peeringdb,6425,ColoCrossing NJ1,101 Possumtown Rd,0.587,,55.4,1.0,0.0,1.0,0.133,[]|['nj1']
+peeringdb,9,"Equinix NY1 - New York, Newark",165 Halsey St,peeringdb,350,165 Halsey Meet-Me Room,165 Halsey St,0.583,,0.0,1.0,0.0,1.0,0.114,['ny1']|[]

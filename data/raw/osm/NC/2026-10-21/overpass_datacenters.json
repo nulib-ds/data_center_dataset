@@ -1,0 +1,1464 @@
+{
+ "elements": [
+  {
+   "id": 7324132050,
+   "lat": 35.881397,
+   "lon": -78.851552,
+   "tags": {
+    "addr:city": "Durham",
+    "addr:housenumber": "5400",
+    "addr:postcode": "27703",
+    "addr:state": "NC",
+    "addr:street": "South Miami Boulevard",
+    "addr:unit": "134",
+    "name": "Windstream Communications",
+    "telecom": "data_center",
+    "wikidata": "Q8024771",
+    "wikipedia": "en:Windstream Holdings"
+   },
+   "type": "node"
+  },
+  {
+   "id": 7324132051,
+   "lat": 35.881364,
+   "lon": -78.8515726,
+   "tags": {
+    "addr:city": "Durham",
+    "addr:housenumber": "5400",
+    "addr:postcode": "27703",
+    "addr:state": "NC",
+    "addr:street": "South Miami Boulevard",
+    "addr:unit": "135",
+    "name": "Level 3 Communications",
+    "telecom": "data_center",
+    "wikidata": "Q322320",
+    "wikipedia": "en:Level 3 Communications"
+   },
+   "type": "node"
+  },
+  {
+   "id": 10567817971,
+   "lat": 36.0030993,
+   "lon": -78.9385323,
+   "tags": {
+    "description": "The Brandaleone Lab for Data and Visualization Services (https://library.duke.edu/data/about/lab) provides research computing for projects involving data analytics, data visualization, digital mapping and statistics. Computers in the lab are available for",
+    "name": "Brandaleone Lab for Data and Visualization",
+    "operator": "Duke Libraries",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 12112361725,
+   "lat": 35.8505281,
+   "lon": -78.8291431,
+   "tags": {
+    "addr:city": "Morrisville",
+    "addr:full": "5150 McCrimmon Parkway #423 Morrisville, NC 27560 United States",
+    "addr:housenumber": "5150",
+    "addr:postcode": "27560",
+    "addr:state": "NC",
+    "addr:street": "McCrimmon Parkway",
+    "addr:unit": "423",
+    "name": "Flexential Raleigh",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/nc/raleigh/data-center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 14124835505,
+   "lat": 35.4883165,
+   "lon": -82.5575361,
+   "tags": {
+    "addr:city": "Asheville",
+    "addr:housenumber": "100",
+    "addr:postcode": "28803",
+    "addr:state": "NC",
+    "addr:street": "Technology Drive",
+    "addr:unit": "c",
+    "name": "DartPoints Asheville",
+    "telecom": "data_center",
+    "website": "https://dartpoints.com/locations/avl01-asheville-nc/"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.589438,
+    "maxlon": -81.2604985,
+    "minlat": 35.5867778,
+    "minlon": -81.2646522
+   },
+   "geometry": [
+    {
+     "lat": 35.589438,
+     "lon": -81.2612081
+    },
+    {
+     "lat": 35.5884289,
+     "lon": -81.2604985
+    },
+    {
+     "lat": 35.5880765,
+     "lon": -81.2612561
+    },
+    {
+     "lat": 35.58783,
+     "lon": -81.2610828
+    },
+    {
+     "lat": 35.5876228,
+     "lon": -81.2615282
+    },
+    {
+     "lat": 35.5869984,
+     "lon": -81.2628711
+    },
+    {
+     "lat": 35.5867823,
+     "lon": -81.2633358
+    },
+    {
+     "lat": 35.5869928,
+     "lon": -81.2634838
+    },
+    {
+     "lat": 35.5867778,
+     "lon": -81.263946
+    },
+    {
+     "lat": 35.587782,
+     "lon": -81.2646522
+    },
+    {
+     "lat": 35.5878967,
+     "lon": -81.2644056
+    },
+    {
+     "lat": 35.5878197,
+     "lon": -81.2643515
+    },
+    {
+     "lat": 35.5880435,
+     "lon": -81.2638704
+    },
+    {
+     "lat": 35.5880238,
+     "lon": -81.2638566
+    },
+    {
+     "lat": 35.5881445,
+     "lon": -81.263597
+    },
+    {
+     "lat": 35.5883022,
+     "lon": -81.2637079
+    },
+    {
+     "lat": 35.5888803,
+     "lon": -81.2624647
+    },
+    {
+     "lat": 35.5887453,
+     "lon": -81.2623697
+    },
+    {
+     "lat": 35.5888612,
+     "lon": -81.2621205
+    },
+    {
+     "lat": 35.5888904,
+     "lon": -81.262141
+    },
+    {
+     "lat": 35.5891129,
+     "lon": -81.2616626
+    },
+    {
+     "lat": 35.5891986,
+     "lon": -81.2617229
+    },
+    {
+     "lat": 35.589438,
+     "lon": -81.2612081
+    }
+   ],
+   "id": 116005354,
+   "tags": {
+    "building": "data_center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.898941,
+    "maxlon": -81.5464023,
+    "minlat": 35.8977126,
+    "minlon": -81.5485256
+   },
+   "geometry": [
+    {
+     "lat": 35.8983718,
+     "lon": -81.5464023
+    },
+    {
+     "lat": 35.8979596,
+     "lon": -81.546604
+    },
+    {
+     "lat": 35.8979468,
+     "lon": -81.5465616
+    },
+    {
+     "lat": 35.8978249,
+     "lon": -81.5466201
+    },
+    {
+     "lat": 35.8978379,
+     "lon": -81.5466684
+    },
+    {
+     "lat": 35.8977126,
+     "lon": -81.5467218
+    },
+    {
+     "lat": 35.8981986,
+     "lon": -81.5483206
+    },
+    {
+     "lat": 35.8983327,
+     "lon": -81.5482681
+    },
+    {
+     "lat": 35.8984065,
+     "lon": -81.5485256
+    },
+    {
+     "lat": 35.898941,
+     "lon": -81.5482573
+    },
+    {
+     "lat": 35.8986158,
+     "lon": -81.5472102
+    },
+    {
+     "lat": 35.8986549,
+     "lon": -81.5471941
+    },
+    {
+     "lat": 35.8986288,
+     "lon": -81.5471083
+    },
+    {
+     "lat": 35.8985938,
+     "lon": -81.5471265
+    },
+    {
+     "lat": 35.8983718,
+     "lon": -81.5464023
+    }
+   ],
+   "id": 186515922,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.1357869,
+    "maxlon": -80.9363427,
+    "minlat": 35.1350425,
+    "minlon": -80.9373199
+   },
+   "geometry": [
+    {
+     "lat": 35.1351838,
+     "lon": -80.9373199
+    },
+    {
+     "lat": 35.1357869,
+     "lon": -80.9369106
+    },
+    {
+     "lat": 35.1355292,
+     "lon": -80.9363427
+    },
+    {
+     "lat": 35.1353372,
+     "lon": -80.936473
+    },
+    {
+     "lat": 35.1354536,
+     "lon": -80.9367296
+    },
+    {
+     "lat": 35.1350425,
+     "lon": -80.9370086
+    },
+    {
+     "lat": 35.1351838,
+     "lon": -80.9373199
+    }
+   ],
+   "id": 215630401,
+   "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "8910",
+    "addr:postcode": "28272",
+    "addr:state": "NC",
+    "addr:street": "Lenox Pointe Drive",
+    "building": "commercial",
+    "building:levels": "2",
+    "name": "Flexential Charlotte - South",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/nc/charlotte/south-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.7255778,
+    "maxlon": -78.6617797,
+    "minlat": 35.7244064,
+    "minlon": -78.6629467
+   },
+   "geometry": [
+    {
+     "lat": 35.7255778,
+     "lon": -78.6626662
+    },
+    {
+     "lat": 35.7254153,
+     "lon": -78.6629467
+    },
+    {
+     "lat": 35.7244064,
+     "lon": -78.6620602
+    },
+    {
+     "lat": 35.7245688,
+     "lon": -78.6617797
+    },
+    {
+     "lat": 35.7255778,
+     "lon": -78.6626662
+    }
+   ],
+   "id": 233888384,
+   "tags": {
+    "addr:city": "Raleigh",
+    "addr:housenumber": "2100",
+    "addr:postcode": "27603",
+    "addr:state": "NC",
+    "addr:street": "Garner Station Boulevard",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Segra Data Center",
+    "telecom": "data_center",
+    "website": "https://northstate.net/technologysolutions/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.3155927,
+    "maxlon": -81.8206009,
+    "minlat": 35.3129278,
+    "minlon": -81.8235097
+   },
+   "geometry": [
+    {
+     "lat": 35.3135021,
+     "lon": -81.8232761
+    },
+    {
+     "lat": 35.313615,
+     "lon": -81.8234334
+    },
+    {
+     "lat": 35.3144161,
+     "lon": -81.8225697
+    },
+    {
+     "lat": 35.3143165,
+     "lon": -81.822431
+    },
+    {
+     "lat": 35.3155927,
+     "lon": -81.8211064
+    },
+    {
+     "lat": 35.3152434,
+     "lon": -81.8206009
+    },
+    {
+     "lat": 35.3129278,
+     "lon": -81.8230042
+    },
+    {
+     "lat": 35.3132771,
+     "lon": -81.8235097
+    },
+    {
+     "lat": 35.3135021,
+     "lon": -81.8232761
+    }
+   ],
+   "id": 460089167,
+   "tags": {
+    "building": "industsrial",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "ref": "FRC",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.3186241,
+    "maxlon": -81.8248116,
+    "minlat": 35.3161119,
+    "minlon": -81.8276684
+   },
+   "geometry": [
+    {
+     "lat": 35.3176576,
+     "lon": -81.8266275
+    },
+    {
+     "lat": 35.3176015,
+     "lon": -81.8265578
+    },
+    {
+     "lat": 35.3175367,
+     "lon": -81.8264773
+    },
+    {
+     "lat": 35.3186241,
+     "lon": -81.8253121
+    },
+    {
+     "lat": 35.3182692,
+     "lon": -81.8248116
+    },
+    {
+     "lat": 35.3161119,
+     "lon": -81.8271458
+    },
+    {
+     "lat": 35.3164825,
+     "lon": -81.8276684
+    },
+    {
+     "lat": 35.3167097,
+     "lon": -81.8274264
+    },
+    {
+     "lat": 35.3168046,
+     "lon": -81.8275758
+    },
+    {
+     "lat": 35.3176576,
+     "lon": -81.8266275
+    }
+   ],
+   "id": 460089168,
+   "tags": {
+    "building": "industrial",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "ref": "FRC",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.143422,
+    "maxlon": -80.9155488,
+    "minlat": 35.1421945,
+    "minlon": -80.9168967
+   },
+   "geometry": [
+    {
+     "lat": 35.1421945,
+     "lon": -80.9159754
+    },
+    {
+     "lat": 35.1427082,
+     "lon": -80.9155869
+    },
+    {
+     "lat": 35.1427585,
+     "lon": -80.9155488
+    },
+    {
+     "lat": 35.1429619,
+     "lon": -80.9159511
+    },
+    {
+     "lat": 35.1431595,
+     "lon": -80.9158017
+    },
+    {
+     "lat": 35.143422,
+     "lon": -80.9163208
+    },
+    {
+     "lat": 35.143228,
+     "lon": -80.9164675
+    },
+    {
+     "lat": 35.1432134,
+     "lon": -80.9164786
+    },
+    {
+     "lat": 35.1426744,
+     "lon": -80.9168862
+    },
+    {
+     "lat": 35.1426605,
+     "lon": -80.9168967
+    },
+    {
+     "lat": 35.1422153,
+     "lon": -80.9160165
+    },
+    {
+     "lat": 35.1421945,
+     "lon": -80.9159754
+    }
+   ],
+   "id": 516686211,
+   "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "8730",
+    "addr:postcode": "28217",
+    "addr:state": "NC",
+    "addr:street": "Green Ridge Drive",
+    "building": "commercial",
+    "height": "16",
+    "name": "Spectrum Charlotte National Data Center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.936853,
+    "maxlon": -78.8797235,
+    "minlat": 35.9344073,
+    "minlon": -78.8816503
+   },
+   "geometry": [
+    {
+     "lat": 35.9345214,
+     "lon": -78.8805774
+    },
+    {
+     "lat": 35.9344077,
+     "lon": -78.8805779
+    },
+    {
+     "lat": 35.9344073,
+     "lon": -78.8804512
+    },
+    {
+     "lat": 35.9357456,
+     "lon": -78.8804439
+    },
+    {
+     "lat": 35.9357433,
+     "lon": -78.8797909
+    },
+    {
+     "lat": 35.9358588,
+     "lon": -78.8797235
+    },
+    {
+     "lat": 35.9367264,
+     "lon": -78.8797258
+    },
+    {
+     "lat": 35.9368495,
+     "lon": -78.8798006
+    },
+    {
+     "lat": 35.936853,
+     "lon": -78.8807575
+    },
+    {
+     "lat": 35.9357435,
+     "lon": -78.8807636
+    },
+    {
+     "lat": 35.9357467,
+     "lon": -78.8816454
+    },
+    {
+     "lat": 35.9348641,
+     "lon": -78.8816503
+    },
+    {
+     "lat": 35.9348631,
+     "lon": -78.881374
+    },
+    {
+     "lat": 35.9347922,
+     "lon": -78.8813743
+    },
+    {
+     "lat": 35.9347919,
+     "lon": -78.8812794
+    },
+    {
+     "lat": 35.9345238,
+     "lon": -78.8812807
+    },
+    {
+     "lat": 35.9345217,
+     "lon": -78.8806692
+    },
+    {
+     "lat": 35.9345214,
+     "lon": -78.8805774
+    }
+   ],
+   "id": 617525579,
+   "tags": {
+    "addr:city": "Durham",
+    "addr:housenumber": "2223",
+    "addr:postcode": "27713",
+    "addr:state": "NC",
+    "addr:street": "Northeast Creek Parkway",
+    "building": "yes",
+    "operator": "CyrusOne",
+    "operator:wikidata": "Q16953751",
+    "ref": "DUR1",
+    "source:addr": "Durham Open Data",
+    "telecom": "data_center",
+    "website": "https://www.cyrusone.com/data-centers/north-america/durham-nc-dur1-dur2"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.5879862,
+    "maxlon": -81.2587085,
+    "minlat": 35.5861221,
+    "minlon": -81.2618591
+   },
+   "geometry": [
+    {
+     "lat": 35.5866087,
+     "lon": -81.2618591
+    },
+    {
+     "lat": 35.5872412,
+     "lon": -81.2605678
+    },
+    {
+     "lat": 35.5873131,
+     "lon": -81.2606211
+    },
+    {
+     "lat": 35.5874321,
+     "lon": -81.260378
+    },
+    {
+     "lat": 35.5873752,
+     "lon": -81.2603359
+    },
+    {
+     "lat": 35.5879862,
+     "lon": -81.2590884
+    },
+    {
+     "lat": 35.5874733,
+     "lon": -81.2587085
+    },
+    {
+     "lat": 35.5868619,
+     "lon": -81.2599566
+    },
+    {
+     "lat": 35.5868734,
+     "lon": -81.259965
+    },
+    {
+     "lat": 35.5861221,
+     "lon": -81.2614988
+    },
+    {
+     "lat": 35.5866087,
+     "lon": -81.2618591
+    }
+   ],
+   "id": 652034566,
+   "tags": {
+    "building": "data_center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.2515596,
+    "maxlon": -81.3936389,
+    "minlat": 35.2492903,
+    "minlon": -81.3964391
+   },
+   "geometry": [
+    {
+     "lat": 35.2515596,
+     "lon": -81.394988
+    },
+    {
+     "lat": 35.2511259,
+     "lon": -81.3944435
+    },
+    {
+     "lat": 35.250966,
+     "lon": -81.3941807
+    },
+    {
+     "lat": 35.2504929,
+     "lon": -81.393722
+    },
+    {
+     "lat": 35.2502629,
+     "lon": -81.3936389
+    },
+    {
+     "lat": 35.2500438,
+     "lon": -81.3937891
+    },
+    {
+     "lat": 35.2492903,
+     "lon": -81.3952643
+    },
+    {
+     "lat": 35.2507798,
+     "lon": -81.3964391
+    },
+    {
+     "lat": 35.2515596,
+     "lon": -81.394988
+    }
+   ],
+   "id": 715098032,
+   "tags": {
+    "addr:city": "Kings Mountain",
+    "addr:housenumber": "131",
+    "addr:postcode": "28086",
+    "addr:state": "NC",
+    "addr:street": "Riverside Court",
+    "landuse": "industrial",
+    "name": "T5 Charlotte Campus",
+    "telecom": "data_center",
+    "website": "https://t5datacenters.com/locations/t5-charlotte/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.766884,
+    "maxlon": -78.7837653,
+    "minlat": 35.766618,
+    "minlon": -78.7842095
+   },
+   "geometry": [
+    {
+     "lat": 35.766884,
+     "lon": -78.7841452
+    },
+    {
+     "lat": 35.7667005,
+     "lon": -78.7842095
+    },
+    {
+     "lat": 35.766618,
+     "lon": -78.783821
+    },
+    {
+     "lat": 35.7668007,
+     "lon": -78.7837653
+    },
+    {
+     "lat": 35.766884,
+     "lon": -78.7841452
+    }
+   ],
+   "id": 758278314,
+   "tags": {
+    "addr:city": "Cary",
+    "addr:housenumber": "211",
+    "addr:postcode": "27511",
+    "addr:state": "NC",
+    "addr:street": "Commonwealth Court",
+    "building": "yes",
+    "name": "iGLASS Networks",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.8401559,
+    "maxlon": -78.3273926,
+    "minlat": 35.8385155,
+    "minlon": -78.3288777
+   },
+   "geometry": [
+    {
+     "lat": 35.8392956,
+     "lon": -78.3288777
+    },
+    {
+     "lat": 35.8385155,
+     "lon": -78.3281519
+    },
+    {
+     "lat": 35.8389692,
+     "lon": -78.3273926
+    },
+    {
+     "lat": 35.8394115,
+     "lon": -78.3277952
+    },
+    {
+     "lat": 35.8395833,
+     "lon": -78.3275215
+    },
+    {
+     "lat": 35.8401559,
+     "lon": -78.3280442
+    },
+    {
+     "lat": 35.8397279,
+     "lon": -78.3287435
+    },
+    {
+     "lat": 35.8394931,
+     "lon": -78.3285333
+    },
+    {
+     "lat": 35.8392956,
+     "lon": -78.3288777
+    }
+   ],
+   "id": 830138727,
+   "tags": {
+    "building": "yes",
+    "name": "BB&T Data Center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.1736584,
+    "maxlon": -80.9273387,
+    "minlat": 35.1727326,
+    "minlon": -80.9289033
+   },
+   "geometry": [
+    {
+     "lat": 35.1727326,
+     "lon": -80.9275544
+    },
+    {
+     "lat": 35.1730559,
+     "lon": -80.9273387
+    },
+    {
+     "lat": 35.1736584,
+     "lon": -80.9286876
+    },
+    {
+     "lat": 35.1733351,
+     "lon": -80.9289033
+    },
+    {
+     "lat": 35.1727326,
+     "lon": -80.9275544
+    }
+   ],
+   "id": 838817907,
+   "tags": {
+    "building": "yes",
+    "name": "TierPoint - Charlotte Data Center",
+    "operator": "TierPoint",
+    "ref": "CL4",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center",
+    "website": "https://www.tierpoint.com/data-centers/north-carolina/charlotte-center-park/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.1802461,
+    "maxlon": -80.926135,
+    "minlat": 35.1798552,
+    "minlon": -80.9265844
+   },
+   "geometry": [
+    {
+     "lat": 35.1798584,
+     "lon": -80.926135
+    },
+    {
+     "lat": 35.1802461,
+     "lon": -80.9261464
+    },
+    {
+     "lat": 35.1802405,
+     "lon": -80.9265844
+    },
+    {
+     "lat": 35.1799642,
+     "lon": -80.9265785
+    },
+    {
+     "lat": 35.1799573,
+     "lon": -80.9265625
+    },
+    {
+     "lat": 35.1798752,
+     "lon": -80.9265606
+    },
+    {
+     "lat": 35.1798627,
+     "lon": -80.926533
+    },
+    {
+     "lat": 35.1798675,
+     "lon": -80.926352
+    },
+    {
+     "lat": 35.1798552,
+     "lon": -80.926329
+    },
+    {
+     "lat": 35.1798584,
+     "lon": -80.926135
+    }
+   ],
+   "id": 838817943,
+   "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "1612",
+    "addr:postcode": "28217",
+    "addr:state": "NC",
+    "addr:street": "Cross Beam Drive",
+    "building": "yes",
+    "name": "SEGRA",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.8948416,
+    "maxlon": -81.5441316,
+    "minlat": 35.8905102,
+    "minlon": -81.5493783
+   },
+   "geometry": [
+    {
+     "lat": 35.8905102,
+     "lon": -81.5482913
+    },
+    {
+     "lat": 35.8912726,
+     "lon": -81.5493783
+    },
+    {
+     "lat": 35.8918109,
+     "lon": -81.5488099
+    },
+    {
+     "lat": 35.8917113,
+     "lon": -81.5486793
+    },
+    {
+     "lat": 35.8920629,
+     "lon": -81.5483067
+    },
+    {
+     "lat": 35.8921594,
+     "lon": -81.548445
+    },
+    {
+     "lat": 35.89332,
+     "lon": -81.5472197
+    },
+    {
+     "lat": 35.8931862,
+     "lon": -81.547043
+    },
+    {
+     "lat": 35.8932516,
+     "lon": -81.5469662
+    },
+    {
+     "lat": 35.89304,
+     "lon": -81.5467012
+    },
+    {
+     "lat": 35.8948416,
+     "lon": -81.5447961
+    },
+    {
+     "lat": 35.894378,
+     "lon": -81.5441316
+    },
+    {
+     "lat": 35.8905102,
+     "lon": -81.5482913
+    }
+   ],
+   "id": 844372538,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.5913481,
+    "maxlon": -81.2629111,
+    "minlat": 35.5894366,
+    "minlon": -81.2662281
+   },
+   "geometry": [
+    {
+     "lat": 35.5913481,
+     "lon": -81.2632532
+    },
+    {
+     "lat": 35.5908827,
+     "lon": -81.2629111
+    },
+    {
+     "lat": 35.5894366,
+     "lon": -81.265886
+    },
+    {
+     "lat": 35.5899021,
+     "lon": -81.2662281
+    },
+    {
+     "lat": 35.5913481,
+     "lon": -81.2632532
+    }
+   ],
+   "id": 873137563,
+   "tags": {
+    "building": "data_center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.3180931,
+    "maxlon": -81.8235387,
+    "minlat": 35.3151311,
+    "minlon": -81.8268135
+   },
+   "geometry": [
+    {
+     "lat": 35.3155256,
+     "lon": -81.8268135
+    },
+    {
+     "lat": 35.3151311,
+     "lon": -81.8262531
+    },
+    {
+     "lat": 35.3158116,
+     "lon": -81.8255336
+    },
+    {
+     "lat": 35.3156357,
+     "lon": -81.8252839
+    },
+    {
+     "lat": 35.3166364,
+     "lon": -81.8242258
+    },
+    {
+     "lat": 35.3168125,
+     "lon": -81.824476
+    },
+    {
+     "lat": 35.3176989,
+     "lon": -81.8235387
+    },
+    {
+     "lat": 35.3180931,
+     "lon": -81.8240987
+    },
+    {
+     "lat": 35.3155256,
+     "lon": -81.8268135
+    }
+   ],
+   "id": 883809860,
+   "tags": {
+    "building": "industsrial",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "ref": "FRC",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.1810616,
+    "maxlon": -80.5685236,
+    "minlat": 35.1779145,
+    "minlon": -80.5718413
+   },
+   "geometry": [
+    {
+     "lat": 35.1810616,
+     "lon": -80.5705416
+    },
+    {
+     "lat": 35.1803537,
+     "lon": -80.5702643
+    },
+    {
+     "lat": 35.1802269,
+     "lon": -80.5697842
+    },
+    {
+     "lat": 35.1799833,
+     "lon": -80.5694373
+    },
+    {
+     "lat": 35.1800552,
+     "lon": -80.5689536
+    },
+    {
+     "lat": 35.179488,
+     "lon": -80.5685236
+    },
+    {
+     "lat": 35.1784137,
+     "lon": -80.5691197
+    },
+    {
+     "lat": 35.1779145,
+     "lon": -80.5696718
+    },
+    {
+     "lat": 35.1780383,
+     "lon": -80.5702826
+    },
+    {
+     "lat": 35.1789209,
+     "lon": -80.5712745
+    },
+    {
+     "lat": 35.1793882,
+     "lon": -80.5714846
+    },
+    {
+     "lat": 35.179524,
+     "lon": -80.5714113
+    },
+    {
+     "lat": 35.1799873,
+     "lon": -80.5718413
+    },
+    {
+     "lat": 35.1810616,
+     "lon": -80.5705416
+    }
+   ],
+   "id": 923167491,
+   "tags": {
+    "landuse": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.3162991,
+    "maxlon": -81.8214187,
+    "minlat": 35.3150399,
+    "minlon": -81.8227998
+   },
+   "geometry": [
+    {
+     "lat": 35.3155927,
+     "lon": -81.8227998
+    },
+    {
+     "lat": 35.3150399,
+     "lon": -81.8220386
+    },
+    {
+     "lat": 35.3156079,
+     "lon": -81.821419
+    },
+    {
+     "lat": 35.3157173,
+     "lon": -81.8215695
+    },
+    {
+     "lat": 35.3158556,
+     "lon": -81.8214187
+    },
+    {
+     "lat": 35.3162991,
+     "lon": -81.8220294
+    },
+    {
+     "lat": 35.3155927,
+     "lon": -81.8227998
+    }
+   ],
+   "id": 1109074150,
+   "tags": {
+    "building": "industsrial",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.3302067,
+    "maxlon": -80.765332,
+    "minlat": 35.3293392,
+    "minlon": -80.7661856
+   },
+   "geometry": [
+    {
+     "lat": 35.3293577,
+     "lon": -80.7655004
+    },
+    {
+     "lat": 35.3293486,
+     "lon": -80.7655428
+    },
+    {
+     "lat": 35.3293449,
+     "lon": -80.7655902
+    },
+    {
+     "lat": 35.329375,
+     "lon": -80.7655937
+    },
+    {
+     "lat": 35.3293392,
+     "lon": -80.7660598
+    },
+    {
+     "lat": 35.3294179,
+     "lon": -80.7660688
+    },
+    {
+     "lat": 35.3294098,
+     "lon": -80.7661753
+    },
+    {
+     "lat": 35.3294992,
+     "lon": -80.7661856
+    },
+    {
+     "lat": 35.3295859,
+     "lon": -80.7660981
+    },
+    {
+     "lat": 35.3296825,
+     "lon": -80.7661094
+    },
+    {
+     "lat": 35.3301636,
+     "lon": -80.766166
+    },
+    {
+     "lat": 35.3302025,
+     "lon": -80.7656691
+    },
+    {
+     "lat": 35.3302067,
+     "lon": -80.765616
+    },
+    {
+     "lat": 35.3301231,
+     "lon": -80.7656062
+    },
+    {
+     "lat": 35.330132,
+     "lon": -80.7654917
+    },
+    {
+     "lat": 35.3300435,
+     "lon": -80.7654813
+    },
+    {
+     "lat": 35.3300443,
+     "lon": -80.7654718
+    },
+    {
+     "lat": 35.3295494,
+     "lon": -80.7654137
+    },
+    {
+     "lat": 35.3295541,
+     "lon": -80.7653534
+    },
+    {
+     "lat": 35.3294648,
+     "lon": -80.765343
+    },
+    {
+     "lat": 35.3293709,
+     "lon": -80.765332
+    },
+    {
+     "lat": 35.3293577,
+     "lon": -80.7655004
+    }
+   ],
+   "id": 1307920829,
+   "tags": {
+    "addr:city": "Charlotte",
+    "addr:country": "US",
+    "addr:housenumber": "10105",
+    "addr:postcode": "28262",
+    "addr:state": "NC",
+    "addr:street": "David Taylor Drive",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Flexential Charlotte - North",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/nc/charlotte/north-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.9345238,
+    "maxlon": -78.8805888,
+    "minlat": 35.9332549,
+    "minlon": -78.8813122
+   },
+   "geometry": [
+    {
+     "lat": 35.9345238,
+     "lon": -78.8812807
+    },
+    {
+     "lat": 35.9345227,
+     "lon": -78.881312
+    },
+    {
+     "lat": 35.9344432,
+     "lon": -78.8813122
+    },
+    {
+     "lat": 35.9344431,
+     "lon": -78.8812672
+    },
+    {
+     "lat": 35.9334143,
+     "lon": -78.8812697
+    },
+    {
+     "lat": 35.9334144,
+     "lon": -78.8813097
+    },
+    {
+     "lat": 35.933256,
+     "lon": -78.8813101
+    },
+    {
+     "lat": 35.9332549,
+     "lon": -78.8807041
+    },
+    {
+     "lat": 35.9334018,
+     "lon": -78.8807037
+    },
+    {
+     "lat": 35.9334017,
+     "lon": -78.88067
+    },
+    {
+     "lat": 35.9341088,
+     "lon": -78.880668
+    },
+    {
+     "lat": 35.9341087,
+     "lon": -78.8805892
+    },
+    {
+     "lat": 35.9342502,
+     "lon": -78.8805888
+    },
+    {
+     "lat": 35.9342504,
+     "lon": -78.8806699
+    },
+    {
+     "lat": 35.9345217,
+     "lon": -78.8806692
+    },
+    {
+     "lat": 35.9345238,
+     "lon": -78.8812807
+    }
+   ],
+   "id": 1556818364,
+   "tags": {
+    "addr:city": "Durham",
+    "addr:housenumber": "2223",
+    "addr:postcode": "27713",
+    "addr:state": "NC",
+    "addr:street": "Northeast Creek Parkway",
+    "building": "yes",
+    "operator": "CyrusOne",
+    "operator:wikidata": "Q16953751",
+    "ref": "DUR2",
+    "source:addr": "Durham Open Data",
+    "telecom": "data_center",
+    "website": "https://www.cyrusone.com/data-centers/north-america/durham-nc-dur1-dur2"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:56:34Z",
+  "timestamp_osm_base": "2026-10-21T17:11:35Z"
+ },
+ "version": 0.6
+}

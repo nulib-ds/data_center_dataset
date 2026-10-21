@@ -1,0 +1,17 @@
+facility_id,source,source_id,source_url,source_name
+data-center-lenexa-411bef,osm,way/502927599,https://www.openstreetmap.org/way/502927599,Data Center Lenexa
+cloud-storage-corp-c2ef3f,osm,way/581234765,https://www.openstreetmap.org/way/581234765,Cloud Storage Corp
+u-s-bank-national-data-process-center-44f377,osm,way/598263496,https://www.openstreetmap.org/way/598263496,U.S. Bank National Data Process Center
+tierpoint-kansas-city-lenexa-ce80f0,osm,way/880052062,https://www.openstreetmap.org/way/880052062,TierPoint
+tierpoint-kansas-city-lenexa-ce80f0,peeringdb,8592,https://www.peeringdb.com/fac/8592,TierPoint Kansas City - Lenexa
+unnamed-data-center-335dcb,osm,way/1024384322,https://www.openstreetmap.org/way/1024384322,
+unnamed-data-center-a15d4d,osm,way/1392657385,https://www.openstreetmap.org/way/1392657385,
+sc-12d8c9,osm,way/1498005255,https://www.openstreetmap.org/way/1498005255,SC
+qts-overland-park-ovp1-9a6f3f,peeringdb,3364,https://www.peeringdb.com/fac/3364,QTS Overland Park (OVP1)
+databank-kansas-city-mci2-e1bacc,peeringdb,4290,https://www.peeringdb.com/fac/4290,DataBank Kansas City (MCI2)
+beloit-noc-736678,peeringdb,10415,https://www.peeringdb.com/fac/10415,Beloit-NOC
+databank-kansas-city-mci3-71f539,peeringdb,10927,https://www.peeringdb.com/fac/10927,DataBank Kansas City (MCI3)
+lightedge-kansas-city-cavern-kci2-874320,peeringdb,11429,https://www.peeringdb.com/fac/11429,LightEdge Kansas City Cavern (KCI2)
+netrality-kansas-city-metro-kc2-7801-nieman-81cd55,peeringdb,15003,https://www.peeringdb.com/fac/15003,Netrality Kansas City Metro – KC2 | 7801 Nieman
+wansec-dc16-6822f9,peeringdb,16370,https://www.peeringdb.com/fac/16370,WANSEC DC16
+kansas-city-data-center-c-51ed5d,epa_nei,17991611,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=17991611,Kansas City Data Center C

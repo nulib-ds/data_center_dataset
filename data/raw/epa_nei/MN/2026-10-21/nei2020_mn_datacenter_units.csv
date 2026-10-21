@@ -1,0 +1,25 @@
+eis facility id,company name,site name,primary naics code,site latitude,site longitude,address,city,zip code,eis unit id,unit type,unit description,process description,scc
+15996211,,HealthPartners Data Center,518210,44.88331,-93.15518,1180 Centre Pointe Cir,Mendota Heights,55120,102875713,Unclassified,Internal Comb Engine - Industrial,Large Bore(Greater than 600HP) - Diesel,20200401
+15996211,,HealthPartners Data Center,518210,44.88331,-93.15518,1180 Centre Pointe Cir,Mendota Heights,55120,102875813,Unclassified,Internal Comb Engine - Industrial,Large Bore(Greater than 600HP) - Diesel,20200401
+13602111,,United Health Group Next Technology Center,518210,45.3052,-93.61036,14100 Business Center Dr,Elk River,55330,102636213,Unclassified,Internal Comb Engine - Industrial,Large Bore(Greater than 600HP) - Diesel,20200401
+13602111,,United Health Group Next Technology Center,518210,45.3052,-93.61036,14100 Business Center Dr,Elk River,55330,102636313,Unclassified,Boiler - Industrial,Distillate (Diesel) Oil,10200502
+15995811,,OPTUM C/O UNITED HEALTH GROUP,518210,44.81108,-93.63969,1707 W Creek Ln,Chaska,55318,102873313,Unclassified,Internal Comb Engine - Industrial,Large Bore(Greater than 600HP) - Diesel,20200401
+15995811,,OPTUM C/O UNITED HEALTH GROUP,518210,44.81108,-93.63969,1707 W Creek Ln,Chaska,55318,102873413,Unclassified,Internal Comb Engine - Industrial,Large Bore(Greater than 600HP) - Diesel,20200401
+15995811,,OPTUM C/O UNITED HEALTH GROUP,518210,44.81108,-93.63969,1707 W Creek Ln,Chaska,55318,102873613,Unclassified,Internal Comb Engine - Industrial,Large Bore(Greater than 600HP) - Diesel,20200401
+15995811,,OPTUM C/O UNITED HEALTH GROUP,518210,44.81108,-93.63969,1707 W Creek Ln,Chaska,55318,102873713,Unclassified,Internal Comb Engine - Industrial,Large Bore(Greater than 600HP) - Diesel,20200401
+15995811,,OPTUM C/O UNITED HEALTH GROUP,518210,44.81108,-93.63969,1707 W Creek Ln,Chaska,55318,102873913,Unclassified,Internal Comb Engine - Industrial,Large Bore(Greater than 600HP) - Diesel,20200401
+15995811,,OPTUM C/O UNITED HEALTH GROUP,518210,44.81108,-93.63969,1707 W Creek Ln,Chaska,55318,102874013,Unclassified,Internal Comb Engine - Industrial,Large Bore(Greater than 600HP) - Diesel,20200401
+15995811,,OPTUM C/O UNITED HEALTH GROUP,518210,44.81108,-93.63969,1707 W Creek Ln,Chaska,55318,102874113,Unclassified,Internal Comb Engine - Industrial,Large Bore(Greater than 600HP) - Diesel,20200401
+15995811,,OPTUM C/O UNITED HEALTH GROUP,518210,44.81108,-93.63969,1707 W Creek Ln,Chaska,55318,102874213,Unclassified,Internal Comb Engine - Industrial,Large Bore(Greater than 600HP) - Diesel,20200401
+15995811,,OPTUM C/O UNITED HEALTH GROUP,518210,44.81108,-93.63969,1707 W Creek Ln,Chaska,55318,102873813,Unclassified,Internal Comb Engine - Industrial,Large Bore(Greater than 600HP) - Diesel,20200401
+15995811,,OPTUM C/O UNITED HEALTH GROUP,518210,44.81108,-93.63969,1707 W Creek Ln,Chaska,55318,102873513,Unclassified,Internal Comb Engine - Industrial,Large Bore(Greater than 600HP) - Diesel,20200401
+15995811,,OPTUM C/O UNITED HEALTH GROUP,518210,44.81108,-93.63969,1707 W Creek Ln,Chaska,55318,102873213,Unclassified,Boiler - Industrial,Distillate (Diesel) Oil,10200502
+15995811,,OPTUM C/O UNITED HEALTH GROUP,518210,44.81108,-93.63969,1707 W Creek Ln,Chaska,55318,102874313,Unclassified,Boiler - Industrial,Distillate (Diesel) Oil,10200502
+6836011,Na,UHG-IT Plymouth,518210,45.06402,-93.40951,6150 Trenton Ln N MN013-N110,Plymouth,55442,102724413,Unclassified,Boiler/Heater,Natural gas,10300602
+6836011,Na,UHG-IT Plymouth,518210,45.06402,-93.40951,6150 Trenton Ln N MN013-N110,Plymouth,55442,102724513,Unclassified,Generator/Stationary Internal Combustion Engine,No. 1 & 2 distillate oil,20300101
+6957611,Na,Supercomputer LLC,518210,44.97515,-93.25043,1200 Washington Ave S Ste 200,Minneapolis,55415,127411713,Unclassified,Generator/Stationary Internal Combustion Engine,Natural gas (under 10 mmBTU/hr),20300201
+6957611,Na,Supercomputer LLC,518210,44.97515,-93.25043,1200 Washington Ave S Ste 200,Minneapolis,55415,102658413,Unclassified,Generator/Stationary Internal Combustion Engine,No. 1 & 2 distillate oil,20300101
+6957611,Na,Supercomputer LLC,518210,44.97515,-93.25043,1200 Washington Ave S Ste 200,Minneapolis,55415,102658313,Unclassified,Generator/Stationary Internal Combustion Engine,No. 1 & 2 distillate oil,20300101
+6957611,Na,Supercomputer LLC,518210,44.97515,-93.25043,1200 Washington Ave S Ste 200,Minneapolis,55415,102658513,Unclassified,Generator/Stationary Internal Combustion Engine,No. 1 & 2 distillate oil,20300101
+15997511,,Fairview Data Center,518210,44.99315,-93.22621,323 Stinson Blvd,Minneapolis,55413,102893113,Unclassified,Boiler - Industrial,Natural Gas - less than and equal to 100 Million Btu/hr,10200602
+15997511,,Fairview Data Center,518210,44.99315,-93.22621,323 Stinson Blvd,Minneapolis,55413,102893013,Unclassified,Internal Comb Engine - Industrial,Large Bore(Greater than 600HP) - Diesel,20200401

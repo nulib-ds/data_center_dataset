@@ -1,0 +1,11 @@
+eis facility id,company name,site name,primary naics code,site latitude,site longitude,address,city,zip code,eis unit id,unit type,unit description,process description,scc
+20224611,,CyrusOne LLC - Florence Data Center,518210,38.981111,-84.618889,7190 Industrial Rd,Florence,41042,146619213,Unclassified,EU 03A - Cooling Tower 1,Water,38500110
+20224611,,CyrusOne LLC - Florence Data Center,518210,38.981111,-84.618889,7190 Industrial Rd,Florence,41042,146619313,Unclassified,EU 03B - Cooling Tower 2,Water,38500110
+20224611,,CyrusOne LLC - Florence Data Center,518210,38.981111,-84.618889,7190 Industrial Rd,Florence,41042,146619413,Unclassified,EU 02D (EPG) - Diesel-fired Non-emergency Engine;,Diesel Fuel Usage,20100102
+20224611,,CyrusOne LLC - Florence Data Center,518210,38.981111,-84.618889,7190 Industrial Rd,Florence,41042,146619513,Unclassified,EU 02B (EPE) - Diesel-fired Non-emergency Engine;,Diesel Fuel Usage,20100102
+20224611,,CyrusOne LLC - Florence Data Center,518210,38.981111,-84.618889,7190 Industrial Rd,Florence,41042,146619613,Unclassified,EU 02E (EPH) - Diesel-fired Non-emergency Engine;,Diesel Fuel Usage,20100102
+20224611,,CyrusOne LLC - Florence Data Center,518210,38.981111,-84.618889,7190 Industrial Rd,Florence,41042,146619713,Unclassified,EU 01C (2A) - Diesel-fired Emergency Engine; 2550,Diesel Fuel Usage,20100102
+20224611,,CyrusOne LLC - Florence Data Center,518210,38.981111,-84.618889,7190 Industrial Rd,Florence,41042,146619813,Unclassified,EU 01A (1A) - Diesel-fired Emergency Engine; 1676,Diesel Fuel Usage,20100102
+20224611,,CyrusOne LLC - Florence Data Center,518210,38.981111,-84.618889,7190 Industrial Rd,Florence,41042,146619913,Unclassified,EU 02C (EPF) - Diesel-fired Non-emergency Engine;,Diesel Fuel Usage,20100102
+20224611,,CyrusOne LLC - Florence Data Center,518210,38.981111,-84.618889,7190 Industrial Rd,Florence,41042,146620013,Unclassified,EU 01B (1B) - Diesel-fired Emergency Engine; 2550,Diesel Fuel Usage,20100102
+20224611,,CyrusOne LLC - Florence Data Center,518210,38.981111,-84.618889,7190 Industrial Rd,Florence,41042,146620113,Unclassified,EU 02A (EPD) - Diesel-fired Non-emergency Engine;,Diesel Fuel Usage,20100102

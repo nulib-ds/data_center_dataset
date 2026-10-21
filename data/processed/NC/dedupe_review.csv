@@ -1,0 +1,13 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+osm,way/883809860,Meta,,osm,way/1109074150,Meta,,0.695,,294.3,0.751,1.0,0.0,1.0,[]|[]
+osm,way/460089167,Meta,,osm,way/883809860,Meta,,0.666,,374.7,0.665,1.0,0.0,1.0,[]|[]
+peeringdb,3929,vXchnge Raleigh-Durham (NC01),"4518 South Miami Blvd., Suite 100",peeringdb,16608,AceHost Durham,4518 S. Miami Blvd.,0.665,,4.8,1.0,0.2,1.0,0.286,['nc01']|[]
+peeringdb,6747,Level(3) Raleigh,5301 Departure Drive,peeringdb,8602,TierPoint Raleigh,5301 Departure Dr,0.664,,0.0,1.0,0.25,1.0,0.222,[]|[]
+peeringdb,5436,ScaleMatrix Charlotte Data Center US-East 01,1805 Center Park Drive,peeringdb,8587,TierPoint Charlotte - Center Park,1805 Center Park Dr,0.651,,0.0,1.0,0.143,1.0,0.286,[]|[]
+osm,way/460089168,Meta,,osm,way/1109074150,Meta,,0.647,,427.8,0.609,1.0,0.0,1.0,[]|[]
+peeringdb,2976,Digital Realty CLT (125 N Myers St),125 N Myers St,peeringdb,8586,TierPoint Charlotte - North Myers,125 N Myers St,0.636,,6.5,1.0,0.1,1.0,0.261,[]|[]
+peeringdb,7878,CENTRA CLT01 - Charlotte NC (701 E Trade),701 E Trade St,peeringdb,16452,Cogent Charlotte,701 East Trade Street,0.619,,1.9,1.0,0.125,1.0,0.146,['clt01']|[]
+osm,way/460089167,Meta,,osm,way/460089168,Meta,,0.616,,513.3,0.518,1.0,0.0,1.0,[]|[]
+osm,node/14124835505,DartPoints Asheville,100 Technology Drive,peeringdb,942,Netriplex,100 Technology Drive,0.615,,30.1,1.0,0.0,1.0,0.276,[]|[]
+peeringdb,942,Netriplex,100 Technology Drive,peeringdb,3668,"DartPoints Asheville, NC - AVL1",100 Technology Dr Ste C,0.61,,25.0,1.0,0.0,1.0,0.25,[]|['avl1']
+osm,way/838817943,SEGRA,1612 Cross Beam Drive,peeringdb,1836,DC74-CLT4,1612 Cross Beam Dr.,0.578,,3.9,1.0,0.0,1.0,0.091,"[]|['clt4', 'dc74']"

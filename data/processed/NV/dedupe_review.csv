@@ -1,0 +1,12 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+peeringdb,9659,200 South Virginia - Reno,200 S. Virginia St.,peeringdb,11380,CENTRA RNO01 - Reno Nevada (200 S. Virginia),200 S Virginia St,0.704,,0.0,1.0,0.375,1.0,0.269,[]|['rno01']
+osm,way/1263819877,Switch Las Vegas 15,,osm,way/1558897570,Switch Las Vegas 16,,0.599,,294.0,0.751,0.6,0.0,1.0,[]|[]
+osm,way/1421212901,Switch Las Vegas 14,,osm,way/1558897570,Switch Las Vegas 16,,0.597,,300.4,0.744,0.6,0.0,1.0,[]|[]
+osm,way/585998678,Switch Las Vegas 9,,osm,way/984796364,Switch Las Vegas 10,,0.595,,306.8,0.737,0.6,0.0,1.0,[]|[]
+osm,way/585998677,Switch Las Vegas 8,,peeringdb,770,Switch Las Vegas,7135 S Decatur Boulevard,0.586,,431.1,0.605,0.75,0.0,1.0,[]|[]
+osm,way/585998677,Switch Las Vegas 8,,osm,way/1314355599,Switch Las Vegas 12,,0.58,,347.0,0.695,0.6,0.0,1.0,[]|[]
+osm,way/617194689,Switch Las Vegas 11,,osm,way/1314355599,Switch Las Vegas 12,,0.554,,418.5,0.619,0.6,0.0,1.0,[]|[]
+osm,way/172739953,Switch Las Vegas 7,7135 South Decatur Boulevard,osm,way/585998677,Switch Las Vegas 8,,0.551,,428.0,0.609,0.6,0.0,1.0,[]|[]
+osm,way/617194689,Switch Las Vegas 11,,peeringdb,770,Switch Las Vegas,7135 S Decatur Boulevard,0.535,,572.2,0.455,0.75,0.0,1.0,[]|[]
+osm,way/585998678,Switch Las Vegas 9,,osm,way/617194689,Switch Las Vegas 11,,0.528,,490.6,0.542,0.6,0.0,1.0,[]|[]
+osm,way/585998677,Switch Las Vegas 8,,osm,way/585998678,Switch Las Vegas 9,,0.512,,535.3,0.494,0.6,0.0,1.0,[]|[]

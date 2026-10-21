@@ -1,0 +1,119 @@
+facility_id,source,source_id,source_url,source_name
+frontier-science-62f960,osm,node/9736262934,https://www.openstreetmap.org/node/9736262934,Frontier Science
+digital-realty-nyc-32-aofa-08e8fe,osm,node/12221811811,https://www.openstreetmap.org/node/12221811811,Digital Realty New York JFK13
+digital-realty-nyc-32-aofa-08e8fe,peeringdb,120,https://www.peeringdb.com/fac/120,Digital Realty NYC (32 AofA)
+digital-realty-nyc-60-hudson-63f9a5,osm,node/12221880448,https://www.openstreetmap.org/node/12221880448,Digital Realty New York JFK12
+digital-realty-nyc-60-hudson-63f9a5,peeringdb,10,https://www.peeringdb.com/fac/10,Digital Realty NYC (60 Hudson)
+digital-realty-nyc-60-hudson-63f9a5,peeringdb,569,https://www.peeringdb.com/fac/569,Epsilon Global Hubs New York (60 Hudson)
+digital-realty-nyc-60-hudson-63f9a5,peeringdb,6206,https://www.peeringdb.com/fac/6206,Encompass New York 60 Hudson
+digital-realty-nyc-60-hudson-63f9a5,peeringdb,16291,https://www.peeringdb.com/fac/16291,Metanet New York Data Center 60 HUDSON
+dataverge-ca3148,osm,node/12766117170,https://www.openstreetmap.org/node/12766117170,Dataverge
+dataverge-ca3148,peeringdb,2686,https://www.peeringdb.com/fac/2686,Dataverge
+unnamed-data-center-bc84c0,osm,node/14076988553,https://www.openstreetmap.org/node/14076988553,
+old-main-777cce,osm,way/42000820,https://www.openstreetmap.org/way/42000820,Old Main
+merrill-lynch-data-center-25d9d6,osm,way/247427998,https://www.openstreetmap.org/way/247427998,Merrill Lynch Data Center
+telehouse-teleport-center-new-york-e270bb,osm,way/247428943,https://www.openstreetmap.org/way/247428943,Telehouse Teleport
+telehouse-teleport-center-new-york-e270bb,peeringdb,737,https://www.peeringdb.com/fac/737,Telehouse - Teleport Center (New York)
+32-avenue-of-the-americas-811550,osm,way/250052753,https://www.openstreetmap.org/way/250052753,32 Avenue of the Americas
+greenidge-power-plant-and-data-center-698788,osm,way/253670255,https://www.openstreetmap.org/way/253670255,Greenidge Power Plant and Data Center
+33-thomas-street-63bf0b,osm,way/289884123,https://www.openstreetmap.org/way/289884123,33 Thomas Street
+cable-wireless-cable-landing-station-cee10b,osm,way/459188725,https://www.openstreetmap.org/way/459188725,Cable & Wireless Cable Landing Station
+unnamed-data-center-9ba401,osm,way/802054282,https://www.openstreetmap.org/way/802054282,
+blockfusion-a48f19,osm,way/832622369,https://www.openstreetmap.org/way/832622369,Blockfusion
+blockfusion-niagra-falls-394310,osm,way/832656125,https://www.openstreetmap.org/way/832656125,Blockfusion Niagra Falls
+blockfusion-niagra-falls-394310,osm,way/832656868,https://www.openstreetmap.org/way/832656868,Blockfusion Niagra Falls
+blockfusion-niagra-falls-394310,osm,way/832658041,https://www.openstreetmap.org/way/832658041,Blockfusion Niagra Falls
+blockfusion-niagra-falls-394310,osm,way/1229749890,https://www.openstreetmap.org/way/1229749890,Blockfusion Niagra Falls
+blockfusion-niagra-falls-394310,osm,way/1229749891,https://www.openstreetmap.org/way/1229749891,Blockfusion Niagra Falls
+blockfusion-niagra-falls-394310,osm,way/1229749892,https://www.openstreetmap.org/way/1229749892,Blockfusion Niagra Falls
+blockfusion-niagra-falls-394310,osm,way/1229749893,https://www.openstreetmap.org/way/1229749893,Blockfusion Niagra Falls
+blockfusion-niagra-falls-394310,osm,way/1229749894,https://www.openstreetmap.org/way/1229749894,Blockfusion Niagra Falls
+blockfusion-niagra-falls-394310,osm,way/1229749895,https://www.openstreetmap.org/way/1229749895,Blockfusion Niagra Falls
+blockfusion-niagra-falls-394310,osm,way/1229749896,https://www.openstreetmap.org/way/1229749896,Blockfusion Niagra Falls
+blockfusion-niagra-falls-394310,osm,way/1442054199,https://www.openstreetmap.org/way/1442054199,Blockfusion Niagra Falls
+turnkey-internet-2c8bfd,osm,way/871694597,https://www.openstreetmap.org/way/871694597,Turnkey Internet
+turnkey-internet-2c8bfd,peeringdb,7262,https://www.peeringdb.com/fac/7262,TurnKey Internet
+unnamed-data-center-426691,osm,way/916148870,https://www.openstreetmap.org/way/916148870,
+su-green-data-center-6d7957,osm,way/930043986,https://www.openstreetmap.org/way/930043986,SU Green Data Center
+unnamed-data-center-11d529,osm,way/1092283612,https://www.openstreetmap.org/way/1092283612,
+us-bitcoin-c98659,osm,way/1109643936,https://www.openstreetmap.org/way/1109643936,US Bitcoin
+bloomberg-data-center-b73a2c,osm,way/1238955720,https://www.openstreetmap.org/way/1238955720,Bloomberg Data Center
+orny1-180deb,osm,way/1238955733,https://www.openstreetmap.org/way/1238955733,fifteenfortyseven CSR ORNY1
+orny1-180deb,peeringdb,10862,https://www.peeringdb.com/fac/10862,ORNY1
+databank-orangeburg-lga3-ff7d66,osm,way/1383913490,https://www.openstreetmap.org/way/1383913490,Databank LGA3
+databank-orangeburg-lga3-ff7d66,peeringdb,16587,https://www.peeringdb.com/fac/16587,Databank Orangeburg (LGA3)
+nygc-chateaugay-0450a5,osm,way/1501825871,https://www.openstreetmap.org/way/1501825871,NYGC Chateaugay
+landmax-data-systems-inc-873be5,osm,way/1528887658,https://www.openstreetmap.org/way/1528887658,"Landmax Data Systems, Inc"
+cyrusone-wappingers-falls-5ab2f0,osm,way/1556814304,https://www.openstreetmap.org/way/1556814304,CyrusOne
+cyrusone-wappingers-falls-5ab2f0,peeringdb,2355,https://www.peeringdb.com/fac/2355,CyrusOne Wappingers Falls
+digital-realty-nyc-111-8th-ave-f31ed4,peeringdb,16,https://www.peeringdb.com/fac/16,Digital Realty NYC (111 8th Ave)
+digital-realty-nyc-111-8th-ave-f31ed4,peeringdb,3491,https://www.peeringdb.com/fac/3491,Crown Castle New York (111 8th)
+digital-realty-nyc-111-8th-ave-f31ed4,peeringdb,6207,https://www.peeringdb.com/fac/6207,Encompass New York 111 8th Ave
+equinix-ny9-new-york-111-8th-avenue-667678,peeringdb,38,https://www.peeringdb.com/fac/38,"Equinix NY9 - New York, 111 8th Avenue"
+fibernet-telecom-group-60-hudson-st-6349b1,peeringdb,188,https://www.peeringdb.com/fac/188,FiberNet Telecom Group - 60 Hudson St
+fibernet-telecom-group-new-york-111-eighth-a-3bcca1,peeringdb,189,https://www.peeringdb.com/fac/189,FiberNet Telecom Group New York (111 Eighth Ave)
+looking-glass-networks-nyc-node-f0eaa2,peeringdb,246,https://www.peeringdb.com/fac/246,Looking Glass Networks NYC Node
+level-3-new-york-33fba6,peeringdb,348,https://www.peeringdb.com/fac/348,Level(3) New York
+crown-castle-brentwood-1650-islip-f55d8c,peeringdb,356,https://www.peeringdb.com/fac/356,Crown Castle Brentwood (1650 Islip)
+1101-stewart-ave-garden-city-7bb91f,peeringdb,520,https://www.peeringdb.com/fac/520,"1101 Stewart Ave, Garden City"
+qtd-60-hudson-ddca81,peeringdb,540,https://www.peeringdb.com/fac/540,QTD - 60 Hudson
+qtd-60-hudson-ddca81,peeringdb,1517,https://www.peeringdb.com/fac/1517,60 Hudson
+qtd-60-hudson-ddca81,peeringdb,16615,https://www.peeringdb.com/fac/16615,QTD1 - 60 Hudson Street 1510
+1025connect-7c7536,peeringdb,585,https://www.peeringdb.com/fac/585,1025Connect
+coresite-new-york-ny1-998c23,peeringdb,670,https://www.peeringdb.com/fac/670,CoreSite - New York (NY1)
+ixcolo-a47e6f,peeringdb,1028,https://www.peeringdb.com/fac/1028,ixColo
+501-franklin-ave-5a7409,peeringdb,1040,https://www.peeringdb.com/fac/1040,501 Franklin Ave
+telehouse-new-york-chelsea-952cf6,peeringdb,1272,https://www.peeringdb.com/fac/1272,Telehouse - New York Chelsea
+telehouse-new-york-chelsea-952cf6,peeringdb,15240,https://www.peeringdb.com/fac/15240,Metanet New York Data Center CHELSEA
+telehouse-new-york-chelsea-952cf6,peeringdb,15276,https://www.peeringdb.com/fac/15276,Interphase Data Center New York II
+inoc-albany-80-state-st-593fba,peeringdb,1291,https://www.peeringdb.com/fac/1291,INOC Albany (80 State St)
+westelcom-networks-watertown-8b8c35,peeringdb,1411,https://www.peeringdb.com/fac/1411,Westelcom Networks Watertown
+westelcom-networks-plattsburgh-cd6039,peeringdb,1412,https://www.peeringdb.com/fac/1412,Westelcom Networks Plattsburgh
+databank-new-york-lga1-ee48cd,peeringdb,1422,https://www.peeringdb.com/fac/1422,DataBank New York (LGA1)
+375-pearl-intergate-manhattan-502f2e,peeringdb,1690,https://www.peeringdb.com/fac/1690,"375 Pearl, Intergate.Manhattan"
+northland-communications-syracuse-05d457,peeringdb,1759,https://www.peeringdb.com/fac/1759,Northland Communications - Syracuse
+northland-communications-utica-ad5872,peeringdb,1760,https://www.peeringdb.com/fac/1760,Northland Communications - Utica
+nyi-ny1-100-william-street-e07e7e,peeringdb,1769,https://www.peeringdb.com/fac/1769,NYI NY1 (100 William Street)
+host-color-e0c5a3,peeringdb,1776,https://www.peeringdb.com/fac/1776,Host Color
+h5-data-centers-new-york-a730c7,peeringdb,1816,https://www.peeringdb.com/fac/1816,H5 Data Centers New York
+databank-new-york-lga2-439f5b,peeringdb,1819,https://www.peeringdb.com/fac/1819,DataBank New York (LGA2)
+logintous-inc-1de23e,peeringdb,1972,https://www.peeringdb.com/fac/1972,"LogInToUs, Inc."
+365-data-centers-new-york-ny10-0bae5e,peeringdb,2014,https://www.peeringdb.com/fac/2014,365 Data Centers New York (NY10)
+h5-data-centers-buffalo-iii-27ff0d,peeringdb,2087,https://www.peeringdb.com/fac/2087,H5 Data Centers Buffalo III
+tierpoint-hawthorne-fka-xand-421c16,peeringdb,2096,https://www.peeringdb.com/fac/2096,TierPoint Hawthorne (fka Xand)
+gafachi-1-west-main-rochester-4fd182,peeringdb,2320,https://www.peeringdb.com/fac/2320,Gafachi 1 West Main Rochester
+325-delaware-ave-ffa1e0,peeringdb,2553,https://www.peeringdb.com/fac/2553,325 Delaware Ave
+i-evolve-technology-datacenter-amherst-9c58f6,peeringdb,2754,https://www.peeringdb.com/fac/2754,I-Evolve Technology Datacenter Amherst
+nydc1-60-hudson-street-5a5fc7,peeringdb,3427,https://www.peeringdb.com/fac/3427,NYDC1 - 60 Hudson Street
+nydc2-111-8th-ave-daf179,peeringdb,3428,https://www.peeringdb.com/fac/3428,NYDC2 - 111 8th ave
+nydc3-11-skyline-dr-3592b8,peeringdb,3429,https://www.peeringdb.com/fac/3429,NYDC3 - 11 skyline dr
+75-broad-street-227297,peeringdb,3926,https://www.peeringdb.com/fac/3926,75 Broad Street
+evocative-new-york-jfk2-25f013,peeringdb,3930,https://www.peeringdb.com/fac/3930,Evocative New York (JFK2)
+cogent-new-york-1-bc5106,peeringdb,4582,https://www.peeringdb.com/fac/4582,Cogent New York 1
+centrilogic-rochester-roc-94fde5,peeringdb,5231,https://www.peeringdb.com/fac/5231,CentriLogic Rochester (ROC)
+centrilogic-buffalo-buf-a7d0fa,peeringdb,5232,https://www.peeringdb.com/fac/5232,CentriLogic Buffalo (BUF)
+inoc-albany-11-north-pearl-st-fa3046,peeringdb,5500,https://www.peeringdb.com/fac/5500,INOC Albany (11 North Pearl St)
+inoc-albany-4-tower-pl-1c79aa,peeringdb,5501,https://www.peeringdb.com/fac/5501,INOC Albany (4 Tower Pl)
+nyi-ny2-60-hudson-street-9335c5,peeringdb,6084,https://www.peeringdb.com/fac/6084,NYI NY2 (60 Hudson Street)
+colocrossing-buf1-9988be,peeringdb,6418,https://www.peeringdb.com/fac/6418,ColoCrossing BUF1
+wnet-telecom-usa-cebead,peeringdb,6598,https://www.peeringdb.com/fac/6598,Wnet Telecom USA
+turnkey-internet-dr-8b2ba5,peeringdb,7264,https://www.peeringdb.com/fac/7264,TurnKey Internet - DR
+cogent-albany-14f95c,peeringdb,7265,https://www.peeringdb.com/fac/7265,Cogent Albany
+lumen-new-york-afad5e,peeringdb,7267,https://www.peeringdb.com/fac/7267,Lumen New York
+365-data-centers-commack-cny-1ab888,peeringdb,8517,https://www.peeringdb.com/fac/8517,365 Data Centers Commack (CNY)
+mindshit-commack-34af6b,peeringdb,8781,https://www.peeringdb.com/fac/8781,mindSHIT Commack
+victory-technology-center-1fe760,peeringdb,10149,https://www.peeringdb.com/fac/10149,Victory Technology Center
+colohouse-new-york-cafed9,peeringdb,10766,https://www.peeringdb.com/fac/10766,ColoHouse New York
+exa-datacenter-new-york-5bdc7b,peeringdb,11971,https://www.peeringdb.com/fac/11971,EXA Datacenter New York
+crown-castle-white-plains-360-hamilton-6ffe64,peeringdb,13442,https://www.peeringdb.com/fac/13442,Crown Castle White Plains (360 Hamilton)
+metanet-new-york-data-center-staten-island-2151c0,peeringdb,15241,https://www.peeringdb.com/fac/15241,Metanet New York Data Center Staten Island
+metanet-new-york-data-center-googleplex-e8ceb7,peeringdb,15242,https://www.peeringdb.com/fac/15242,Metanet New York Data Center GOOGLEPLEX
+metanet-new-york-data-center-googleplex-e8ceb7,peeringdb,15243,https://www.peeringdb.com/fac/15243,Interphase Data Center New York I
+70-henry-st-7ea01f,peeringdb,15862,https://www.peeringdb.com/fac/15862,70 Henry St
+h5-data-centers-buffalo-i-122cbd,peeringdb,16044,https://www.peeringdb.com/fac/16044,H5 Data Centers Buffalo I
+h5-data-centers-buffalo-ii-4aca72,peeringdb,16045,https://www.peeringdb.com/fac/16045,H5 Data Centers Buffalo II
+lightboard-western-ny-9d207a,peeringdb,16052,https://www.peeringdb.com/fac/16052,Lightboard ★ Western NY
+cogent-buffalo-781124,peeringdb,16448,https://www.peeringdb.com/fac/16448,Cogent Buffalo
+purecolo-roc01-rochester-9e2b7c,peeringdb,16607,https://www.peeringdb.com/fac/16607,PureColo ROC01 (Rochester)
+qtd2-60-hudson-street-1602-4423a6,peeringdb,16614,https://www.peeringdb.com/fac/16614,QTD2 - 60 Hudson Street 1602
+qtd3-60-hudson-street-1901-7fe7fd,peeringdb,16617,https://www.peeringdb.com/fac/16617,QTD3 - 60 Hudson Street 1901

@@ -1,0 +1,20 @@
+facility_id,source,source_id,source_url,source_name
+george-c-wallace-alabama-supercomputer-cente-7e55be,osm,way/408012357,https://www.openstreetmap.org/way/408012357,George C. Wallace Alabama Supercomputer Center
+angeltrax-data-center-a06091,osm,way/626281456,https://www.openstreetmap.org/way/626281456,AngelTrax Data Center
+google-jackson-county-data-center-55f05d,osm,way/714889192,https://www.openstreetmap.org/way/714889192,Google Jackson County Data Center
+google-jackson-county-data-center-55f05d,osm,way/844371952,https://www.openstreetmap.org/way/844371952,Google
+google-jackson-county-data-center-55f05d,osm,way/844371953,https://www.openstreetmap.org/way/844371953,Google
+sungard-systems-international-ed957e,osm,way/836908998,https://www.openstreetmap.org/way/836908998,Sungard Systems International
+simple-helix-eecd95,osm,way/961071564,https://www.openstreetmap.org/way/961071564,SimpleHelix
+simple-helix-eecd95,peeringdb,5648,https://www.peeringdb.com/fac/5648,Simple Helix
+dc-blox-bhm1-dcblox-birmingham-36c604,osm,way/1019816009,https://www.openstreetmap.org/way/1019816009,DC Blox Data Center
+dc-blox-bhm1-dcblox-birmingham-36c604,peeringdb,7219,https://www.peeringdb.com/fac/7219,DC BLOX BHM1 - DCBLOX Birmingham
+meta-huntsville-data-center-6cda4d,osm,way/1160814413,https://www.openstreetmap.org/way/1160814413,Meta Huntsville Data center
+meta-huntsville-data-center-f50af4,osm,way/1160814415,https://www.openstreetmap.org/way/1160814415,Meta Huntsville Data center
+meta-huntsville-data-center-d03293,osm,way/1160814416,https://www.openstreetmap.org/way/1160814416,Meta Huntsville Data center
+unnamed-data-center-616c8d,osm,way/1540172608,https://www.openstreetmap.org/way/1540172608,
+unnamed-data-center-fca96f,osm,way/1540172612,https://www.openstreetmap.org/way/1540172612,
+rsa-dexter-avenue-datacenter-56db19,peeringdb,2313,https://www.peeringdb.com/fac/2313,RSA Dexter Avenue Datacenter
+dc-blox-hsv1-dcblox-huntsville-2332fb,peeringdb,7218,https://www.peeringdb.com/fac/7218,DC BLOX HSV1 - DCBLOX Huntsville
+aubix-auburn-aac945,peeringdb,12120,https://www.peeringdb.com/fac/12120,AUBix Auburn
+peace-communications-hsv1-501e37,peeringdb,14178,https://www.peeringdb.com/fac/14178,Peace Communications HSV1

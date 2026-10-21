@@ -1,0 +1,242 @@
+{
+ "elements": [
+  {
+   "bounds": {
+    "maxlat": 42.3773173,
+    "maxlon": -71.0791376,
+    "minlat": 42.3760945,
+    "minlon": -71.0803777
+   },
+   "geometry": [
+    {
+     "lat": 42.3760945,
+     "lon": -71.0802909
+    },
+    {
+     "lat": 42.3772704,
+     "lon": -71.0803777
+    },
+    {
+     "lat": 42.3773173,
+     "lon": -71.0792243
+    },
+    {
+     "lat": 42.3761413,
+     "lon": -71.0791376
+    },
+    {
+     "lat": 42.3760945,
+     "lon": -71.0802909
+    }
+   ],
+   "id": 29827954,
+   "tags": {
+    "addr:city": "Somerville",
+    "addr:housenumber": "70",
+    "addr:postcode": "02143",
+    "addr:state": "MA",
+    "addr:street": "Inner Belt Road",
+    "building": "yes",
+    "clli": "SOVLMAAB",
+    "name": "CoreSite BO1",
+    "office": "it",
+    "ref": "BO1",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.6860483,
+    "maxlon": -71.2079918,
+    "minlat": 42.6853672,
+    "minlon": -71.2092129
+   },
+   "geometry": [
+    {
+     "lat": 42.6860102,
+     "lon": -71.2086255
+    },
+    {
+     "lat": 42.6858723,
+     "lon": -71.2082192
+    },
+    {
+     "lat": 42.6858816,
+     "lon": -71.2082096
+    },
+    {
+     "lat": 42.6858041,
+     "lon": -71.2079918
+    },
+    {
+     "lat": 42.6857128,
+     "lon": -71.2080463
+    },
+    {
+     "lat": 42.685762,
+     "lon": -71.2081975
+    },
+    {
+     "lat": 42.6857743,
+     "lon": -71.2081901
+    },
+    {
+     "lat": 42.6857821,
+     "lon": -71.208214
+    },
+    {
+     "lat": 42.6857532,
+     "lon": -71.2082312
+    },
+    {
+     "lat": 42.6856757,
+     "lon": -71.207993
+    },
+    {
+     "lat": 42.6853672,
+     "lon": -71.2081773
+    },
+    {
+     "lat": 42.6855036,
+     "lon": -71.2085967
+    },
+    {
+     "lat": 42.6854054,
+     "lon": -71.2086555
+    },
+    {
+     "lat": 42.685542,
+     "lon": -71.2090757
+    },
+    {
+     "lat": 42.6856409,
+     "lon": -71.2090167
+    },
+    {
+     "lat": 42.685689,
+     "lon": -71.2091646
+    },
+    {
+     "lat": 42.6858045,
+     "lon": -71.2090956
+    },
+    {
+     "lat": 42.6858429,
+     "lon": -71.2092129
+    },
+    {
+     "lat": 42.6860483,
+     "lon": -71.2090841
+    },
+    {
+     "lat": 42.6859172,
+     "lon": -71.208681
+    },
+    {
+     "lat": 42.6860102,
+     "lon": -71.2086255
+    }
+   ],
+   "id": 211832626,
+   "tags": {
+    "addr:city": "Andover",
+    "addr:housenumber": "15",
+    "addr:postcode": "01810",
+    "addr:state": "MA",
+    "addr:street": "Shattuck Road",
+    "building": "yes",
+    "operator": "TierPoint",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.6309394,
+    "maxlon": -71.3037812,
+    "minlat": 42.629627,
+    "minlon": -71.3053418
+   },
+   "geometry": [
+    {
+     "lat": 42.6299236,
+     "lon": -71.3037973
+    },
+    {
+     "lat": 42.6299253,
+     "lon": -71.3039861
+    },
+    {
+     "lat": 42.6298408,
+     "lon": -71.3039875
+    },
+    {
+     "lat": 42.6298467,
+     "lon": -71.3046485
+    },
+    {
+     "lat": 42.629825,
+     "lon": -71.3046488
+    },
+    {
+     "lat": 42.6298243,
+     "lon": -71.3045739
+    },
+    {
+     "lat": 42.6296966,
+     "lon": -71.304576
+    },
+    {
+     "lat": 42.6296973,
+     "lon": -71.3046597
+    },
+    {
+     "lat": 42.629627,
+     "lon": -71.3046609
+    },
+    {
+     "lat": 42.6296329,
+     "lon": -71.3053418
+    },
+    {
+     "lat": 42.6300845,
+     "lon": -71.3053346
+    },
+    {
+     "lat": 42.6300788,
+     "lon": -71.3046769
+    },
+    {
+     "lat": 42.6309394,
+     "lon": -71.3046632
+    },
+    {
+     "lat": 42.6309318,
+     "lon": -71.3037812
+    },
+    {
+     "lat": 42.6299236,
+     "lon": -71.3037973
+    }
+   ],
+   "id": 214321737,
+   "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Prince Avenue",
+    "building": "yes",
+    "name": "Markley Data Center",
+    "operator": "Markley Group",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:16:04Z",
+  "timestamp_osm_base": "2026-10-21T17:05:32Z"
+ },
+ "version": 0.6
+}

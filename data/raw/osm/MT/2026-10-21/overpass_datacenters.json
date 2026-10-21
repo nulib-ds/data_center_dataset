@@ -1,0 +1,115 @@
+{
+ "elements": [
+  {
+   "id": 13603878193,
+   "lat": 45.7430786,
+   "lon": -108.6030144,
+   "tags": {
+    "name": "Parsec Data Management",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 46.3322126,
+    "maxlon": -113.2925921,
+    "minlat": 46.3320506,
+    "minlon": -113.2927518
+   },
+   "geometry": [
+    {
+     "lat": 46.3320693,
+     "lon": -113.2927518
+    },
+    {
+     "lat": 46.3320506,
+     "lon": -113.2926442
+    },
+    {
+     "lat": 46.332194,
+     "lon": -113.2925921
+    },
+    {
+     "lat": 46.3322126,
+     "lon": -113.2926997
+    },
+    {
+     "lat": 46.3320693,
+     "lon": -113.2927518
+    }
+   ],
+   "id": 758426349,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 46.4069921,
+    "maxlon": -105.820414,
+    "minlat": 46.406777,
+    "minlon": -105.8209799
+   },
+   "geometry": [
+    {
+     "lat": 46.4069921,
+     "lon": -105.820979
+    },
+    {
+     "lat": 46.4069128,
+     "lon": -105.8209799
+    },
+    {
+     "lat": 46.4069119,
+     "lon": -105.820803
+    },
+    {
+     "lat": 46.4068493,
+     "lon": -105.8208037
+    },
+    {
+     "lat": 46.406849,
+     "lon": -105.820746
+    },
+    {
+     "lat": 46.4067787,
+     "lon": -105.8207467
+    },
+    {
+     "lat": 46.4067782,
+     "lon": -105.8206549
+    },
+    {
+     "lat": 46.406777,
+     "lon": -105.8204163
+    },
+    {
+     "lat": 46.4069891,
+     "lon": -105.820414
+    },
+    {
+     "lat": 46.4069921,
+     "lon": -105.820979
+    }
+   ],
+   "id": 1417637306,
+   "tags": {
+    "building": "yes",
+    "name": "State of Montana Data Center",
+    "operator": "State of Montana",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:56:34Z",
+  "timestamp_osm_base": "2026-10-21T17:10:33Z"
+ },
+ "version": 0.6
+}

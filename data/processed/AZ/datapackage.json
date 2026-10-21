@@ -1,5 +1,5 @@
 {
-  "created": "2026-09-10",
+  "created": "2026-10-21",
   "description": "Registry of commercial (colocation, wholesale, hyperscale) data centers in Arizona, assembled from OpenStreetMap, PeeringDB, and the EPA National Emissions Inventory. Power figures are ESTIMATES carrying an explicit evidence tier and confidence interval; none is a metered consumption reading. See LIMITATIONS.md before use.",
   "licenses": [
     {
@@ -11,11 +11,11 @@
   "name": "arizona-data-center-dataset",
   "profile": "tabular-data-package",
   "reconciliation": {
-    "bottom_up_annual_twh": 11.56,
-    "bottom_up_it_load_mw": 1303.0,
+    "bottom_up_annual_twh": 9.76,
+    "bottom_up_it_load_mw": 1107.0,
     "calibration_applied": false,
-    "implied_calibration_factor": 0.778,
-    "n_facilities_with_power": 38,
+    "implied_calibration_factor": 0.922,
+    "n_facilities_with_power": 36,
     "top_down_anchor_twh": 9.0,
     "top_down_range_twh": [
       4.0,
@@ -399,6 +399,11 @@
             "description": "",
             "name": "geometry_wkt",
             "type": "string"
+          },
+          {
+            "description": "",
+            "name": "is_building",
+            "type": "number"
           },
           {
             "description": "",

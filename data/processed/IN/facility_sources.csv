@@ -1,0 +1,32 @@
+facility_id,source,source_id,source_url,source_name
+learning-gis-4c461a,osm,node/7264976228,https://www.openstreetmap.org/node/7264976228,Learning GIS!
+agricultural-and-biological-engineering-aa998b,osm,node/7264976991,https://www.openstreetmap.org/node/7264976991,Agricultural and Biological Engineering
+iu-data-center-f5f49c,osm,way/203432103,https://www.openstreetmap.org/way/203432103,IU Data Center
+unnamed-data-center-1d4d3b,osm,way/567894059,https://www.openstreetmap.org/way/567894059,
+dartpoints-columbus-in-clu1-719053,osm,way/773684159,https://www.openstreetmap.org/way/773684159,DartPoints Columbus
+dartpoints-columbus-in-clu1-719053,peeringdb,7737,https://www.peeringdb.com/fac/7737,"DartPoints Columbus, IN - CLU1"
+digital-crossroad-e7e2ab,osm,way/978934687,https://www.openstreetmap.org/way/978934687,Digital Crossroad
+amazon-aws-data-center-6ddc44,osm,way/1303947602,https://www.openstreetmap.org/way/1303947602,Amazon AWS Data Center
+unnamed-data-center-805b93,osm,way/1471517731,https://www.openstreetmap.org/way/1471517731,
+unnamed-data-center-a014f8,osm,way/1471517732,https://www.openstreetmap.org/way/1471517732,
+unnamed-data-center-0d9fdf,osm,way/1471517733,https://www.openstreetmap.org/way/1471517733,
+unnamed-data-center-65af2e,osm,way/1471517734,https://www.openstreetmap.org/way/1471517734,
+unnamed-data-center-d7ffa2,osm,way/1471517735,https://www.openstreetmap.org/way/1471517735,
+unnamed-data-center-67aa15,osm,way/1471517736,https://www.openstreetmap.org/way/1471517736,
+unnamed-data-center-95b123,osm,way/1471517737,https://www.openstreetmap.org/way/1471517737,
+netrality-indy-telcom-center-733-w-henry-96ed54,peeringdb,186,https://www.peeringdb.com/fac/186,Netrality - Indy Telcom Center - 733 W. Henry
+citynet-indianapolis-2ac3c5,peeringdb,273,https://www.peeringdb.com/fac/273,Citynet Indianapolis
+gap-union-station-9f171b,peeringdb,474,https://www.peeringdb.com/fac/474,GAP Union Station
+iupui-informatics-communications-technology--289a09,peeringdb,1136,https://www.peeringdb.com/fac/1136,IUPUI Informatics & Communications Technology Complex
+indigital-1e7acb,peeringdb,1142,https://www.peeringdb.com/fac/1142,INdigital
+sitco-evansville-f3114c,peeringdb,1701,https://www.peeringdb.com/fac/1701,SITCO Evansville
+lifeline-eastgate-19ec23,peeringdb,1941,https://www.peeringdb.com/fac/1941,Lifeline Eastgate
+netrality-indy-telcom-center-701-w-henry-460956,peeringdb,2018,https://www.peeringdb.com/fac/2018,Netrality - Indy Telcom Center - 701 W. Henry
+wintek-corporation-378408,peeringdb,2033,https://www.peeringdb.com/fac/2033,Wintek Corporation
+indiana-university-data-center-4eae37,peeringdb,5609,https://www.peeringdb.com/fac/5609,Indiana University Data Center
+expedient-indianapolis-74975f,peeringdb,8458,https://www.peeringdb.com/fac/8458,Expedient Indianapolis
+ori-net-noblesville-52c1df,peeringdb,8459,https://www.peeringdb.com/fac/8459,ORI.NET Noblesville
+aunalytics-south-bend-datacenter-ausb-61f086,peeringdb,9309,https://www.peeringdb.com/fac/9309,Aunalytics South Bend Datacenter (AUSB)
+databank-indianapolis-ind1-bb3620,peeringdb,10929,https://www.peeringdb.com/fac/10929,DataBank Indianapolis (IND1)
+databank-indianapolis-ind2-d4c690,peeringdb,10930,https://www.peeringdb.com/fac/10930,DataBank Indianapolis (IND2)
+lifeline-ft-wayne-8aa4da,peeringdb,17004,https://www.peeringdb.com/fac/17004,Lifeline Ft Wayne

@@ -1,0 +1,38 @@
+facility_id,source,source_id,source_url,source_name
+ncar-wyoming-supercomputing-center-9da0bb,osm,way/231047065,https://www.openstreetmap.org/way/231047065,NCAR-Wyoming Supercomputing Center
+unnamed-data-center-f5a988,osm,way/414055239,https://www.openstreetmap.org/way/414055239,
+unnamed-data-center-ca7961,osm,way/537172525,https://www.openstreetmap.org/way/537172525,
+unnamed-data-center-e25a79,osm,way/537172526,https://www.openstreetmap.org/way/537172526,
+unnamed-data-center-94b318,osm,way/537172527,https://www.openstreetmap.org/way/537172527,
+unnamed-data-center-87545b,osm,way/537172528,https://www.openstreetmap.org/way/537172528,
+unnamed-data-center-26c6e1,osm,way/1177975782,https://www.openstreetmap.org/way/1177975782,
+unnamed-data-center-574606,osm,way/1177975783,https://www.openstreetmap.org/way/1177975783,
+unnamed-data-center-58309d,osm,way/1177975784,https://www.openstreetmap.org/way/1177975784,
+unnamed-data-center-611990,osm,way/1177975788,https://www.openstreetmap.org/way/1177975788,
+unnamed-data-center-fd00e5,osm,way/1177975789,https://www.openstreetmap.org/way/1177975789,
+unnamed-data-center-669fac,osm,way/1197757147,https://www.openstreetmap.org/way/1197757147,
+windbreak-cable-7b4c43,osm,way/1268789798,https://www.openstreetmap.org/way/1268789798,Windbreak Cable
+unnamed-data-center-21fd46,osm,way/1377227154,https://www.openstreetmap.org/way/1377227154,
+cys41-datacenter-9a23ec,osm,way/1386017500,https://www.openstreetmap.org/way/1386017500,CYS41 Datacenter
+cys42-datacenter-d75e61,osm,way/1386017501,https://www.openstreetmap.org/way/1386017501,CYS42 Datacenter
+unnamed-data-center-c317c6,osm,way/1414729942,https://www.openstreetmap.org/way/1414729942,
+unnamed-data-center-8fc9a1,osm,way/1485867694,https://www.openstreetmap.org/way/1485867694,
+unnamed-data-center-732b7e,osm,way/1485867695,https://www.openstreetmap.org/way/1485867695,
+unnamed-data-center-b61099,osm,way/1485867696,https://www.openstreetmap.org/way/1485867696,
+unnamed-data-center-c8e47d,osm,way/1485867768,https://www.openstreetmap.org/way/1485867768,
+unnamed-data-center-27a49e,osm,way/1485867769,https://www.openstreetmap.org/way/1485867769,
+unnamed-data-center-672e83,osm,way/1534114833,https://www.openstreetmap.org/way/1534114833,
+act-cheyenne-cd0926,peeringdb,2530,https://www.peeringdb.com/fac/2530,ACT Cheyenne
+act-wheatland-b9f134,peeringdb,2532,https://www.peeringdb.com/fac/2532,ACT Wheatland
+act-douglas-888a28,peeringdb,2533,https://www.peeringdb.com/fac/2533,ACT Douglas
+act-casper-51d650,peeringdb,2534,https://www.peeringdb.com/fac/2534,ACT Casper
+act-riverton-59a88c,peeringdb,2535,https://www.peeringdb.com/fac/2535,ACT Riverton
+act-gillette-362416,peeringdb,2536,https://www.peeringdb.com/fac/2536,ACT Gillette
+act-buffalo-99cff5,peeringdb,2537,https://www.peeringdb.com/fac/2537,ACT Buffalo
+act-sheridan-68d77d,peeringdb,2538,https://www.peeringdb.com/fac/2538,ACT Sheridan
+lunavi-cheyenne-f5058a,peeringdb,6461,https://www.peeringdb.com/fac/6461,Lunavi - Cheyenne
+dc-host-sheridan-cb830a,peeringdb,11952,https://www.peeringdb.com/fac/11952,DC Host Sheridan
+mountain-west-technologies-casper-74d29e,peeringdb,13849,https://www.peeringdb.com/fac/13849,Mountain West Technologies - Casper
+mountain-west-technologies-cheyenne-106b8d,peeringdb,13850,https://www.peeringdb.com/fac/13850,Mountain West Technologies - Cheyenne
+cogent-cheyenne-f9144a,peeringdb,16454,https://www.peeringdb.com/fac/16454,Cogent Cheyenne
+microsoft-cheyenne-data-center-abb54f,epa_nei,19166511,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=19166511,Microsoft Cheyenne Data Center

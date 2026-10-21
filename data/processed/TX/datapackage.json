@@ -1,5 +1,5 @@
 {
-  "created": "2026-09-10",
+  "created": "2026-10-21",
   "description": "Registry of commercial (colocation, wholesale, hyperscale) data centers in Texas, assembled from OpenStreetMap, PeeringDB, and the EPA National Emissions Inventory. Power figures are ESTIMATES carrying an explicit evidence tier and confidence interval; none is a metered consumption reading. See LIMITATIONS.md before use.",
   "licenses": [
     {
@@ -11,17 +11,17 @@
   "name": "texas-data-center-dataset",
   "profile": "tabular-data-package",
   "reconciliation": {
-    "bottom_up_annual_twh": 46.83,
-    "bottom_up_it_load_mw": 5298.0,
+    "bottom_up_annual_twh": 24.86,
+    "bottom_up_it_load_mw": 2805.0,
     "calibration_applied": false,
-    "implied_calibration_factor": 0.427,
-    "n_facilities_with_power": 185,
+    "implied_calibration_factor": 0.805,
+    "n_facilities_with_power": 176,
     "top_down_anchor_twh": 20.0,
     "top_down_range_twh": [
       12.0,
       34.0
     ],
-    "within_anchor_range": false
+    "within_anchor_range": true
   },
   "resources": [
     {
@@ -408,6 +408,11 @@
           {
             "description": "",
             "name": "geometry_wkt",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "is_building",
             "type": "string"
           },
           {

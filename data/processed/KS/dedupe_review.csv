@@ -1,0 +1,2 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+osm,way/502927599,Data Center Lenexa,11200 Lakeview Avenue,peeringdb,10927,DataBank Kansas City (MCI3),11200 Lakeview Ave,0.637,,2.4,1.0,0.0,1.0,0.385,[]|['mci3']

@@ -74,7 +74,7 @@ aligned-chicago-ord-01-4b8c88,osm,way/1217649348,https://www.openstreetmap.org/w
 aligned-chicago-ord-01-4b8c88,peeringdb,12878,https://www.peeringdb.com/fac/12878,Aligned Chicago (ORD-01)
 aligned-chicago-ord-01-4b8c88,peeringdb,12879,https://www.peeringdb.com/fac/12879,Aligned Chicago (ORD-02)
 aligned-data-center-chicago-ord-02-132b20,osm,way/1217649350,https://www.openstreetmap.org/way/1217649350,Aligned Data Center - Chicago ORD-02
-unnamed-data-center-2231d2,osm,way/1219083552,https://www.openstreetmap.org/way/1219083552,
+microsoft-chi11-c21917,osm,way/1219083552,https://www.openstreetmap.org/way/1219083552,Microsoft CHI11
 t5-chicago-29f082,osm,way/1219083554,https://www.openstreetmap.org/way/1219083554,T5 Chicago II
 t5-chicago-29f082,peeringdb,8411,https://www.peeringdb.com/fac/8411,T5@Chicago
 ntt-chicago-ch2-4edeaf,osm,way/1271571726,https://www.openstreetmap.org/way/1271571726,NTT Chicago CH2
@@ -87,6 +87,9 @@ ntt-chicago-ch3-2a9442,osm,way/1446350367,https://www.openstreetmap.org/way/1446
 ntt-chicago-ch4-b63e36,osm,way/1446350370,https://www.openstreetmap.org/way/1446350370,NTT Chicago CH4
 cyrusone-chi3-314f1c,osm,way/1481581947,https://www.openstreetmap.org/way/1481581947,CyrusOne CHI3
 edged-chicago-ord01-e2f9b0,osm,way/1481581948,https://www.openstreetmap.org/way/1481581948,Edged Chicago ORD01
+unnamed-data-center-2272d2,osm,way/1557957010,https://www.openstreetmap.org/way/1557957010,
+unnamed-data-center-d287df,osm,way/1558344919,https://www.openstreetmap.org/way/1558344919,
+netsource-communications-inc-32be41,osm,way/1562274525,https://www.openstreetmap.org/way/1562274525,"NetSource Communications, Inc"
 printer-s-square-chicago-600-s-federal-808320,peeringdb,184,https://www.peeringdb.com/fac/184,Printer's Square Chicago (600 S Federal)
 level-3-chicago-canal-387e87,peeringdb,250,https://www.peeringdb.com/fac/250,Level(3) Chicago (Canal)
 365-data-centers-chicago-ch6-1c46a5,peeringdb,283,https://www.peeringdb.com/fac/283,365 Data Centers Chicago (CH6)

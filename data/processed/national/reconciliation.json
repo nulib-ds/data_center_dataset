@@ -1,0 +1,15 @@
+{
+  "bottom_up_annual_twh": 248.2,
+  "bottom_up_it_load_mw": 28263.7,
+  "facilities": 2605,
+  "facilities_with_power_estimate": 1435,
+  "note": "The national anchor band is the sum of the per-state bands, each of which is an order-of-magnitude heuristic, so the union is wide by construction. It is a smell test, not a measurement.",
+  "states_built": 51,
+  "states_missing": [],
+  "top_down_anchor_twh_sum": 178.6,
+  "top_down_range_twh": [
+    104.76,
+    288.36
+  ],
+  "within_anchor_range": true
+}

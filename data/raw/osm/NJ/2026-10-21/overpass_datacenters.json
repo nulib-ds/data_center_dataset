@@ -1,0 +1,4166 @@
+{
+ "elements": [
+  {
+   "id": 12452254071,
+   "lat": 40.5503501,
+   "lon": -74.4568563,
+   "tags": {
+    "name": "Open Data Centers Piscataway",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 12471740457,
+   "lat": 40.7853948,
+   "lon": -74.0750122,
+   "tags": {
+    "name": "H5 Secaucus",
+    "operator": "H5",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7974589,
+    "maxlon": -74.0305486,
+    "minlat": 40.7962663,
+    "minlon": -74.031732
+   },
+   "geometry": [
+    {
+     "lat": 40.7964859,
+     "lon": -74.031732
+    },
+    {
+     "lat": 40.7962663,
+     "lon": -74.031175
+    },
+    {
+     "lat": 40.7972438,
+     "lon": -74.0305486
+    },
+    {
+     "lat": 40.7974589,
+     "lon": -74.0311087
+    },
+    {
+     "lat": 40.7964859,
+     "lon": -74.031732
+    }
+   ],
+   "id": 95782052,
+   "tags": {
+    "addr:city": "North Bergen",
+    "addr:housenumber": "5851",
+    "addr:postcode": "07047",
+    "addr:state": "NJ",
+    "addr:street": "West Side Avenue",
+    "building": "yes",
+    "name": "Equinix NY7 Data Center",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "NY7",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/new-york-data-centers/ny7"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7793526,
+    "maxlon": -74.0712119,
+    "minlat": 40.7778164,
+    "minlon": -74.0734365
+   },
+   "geometry": [
+    {
+     "lat": 40.7793526,
+     "lon": -74.072894
+    },
+    {
+     "lat": 40.7791931,
+     "lon": -74.0723689
+    },
+    {
+     "lat": 40.7792704,
+     "lon": -74.072328
+    },
+    {
+     "lat": 40.7790066,
+     "lon": -74.0714598
+    },
+    {
+     "lat": 40.7789261,
+     "lon": -74.0715025
+    },
+    {
+     "lat": 40.7788378,
+     "lon": -74.0712119
+    },
+    {
+     "lat": 40.7784213,
+     "lon": -74.0714326
+    },
+    {
+     "lat": 40.778377,
+     "lon": -74.0712869
+    },
+    {
+     "lat": 40.7782835,
+     "lon": -74.0713364
+    },
+    {
+     "lat": 40.7783271,
+     "lon": -74.0714797
+    },
+    {
+     "lat": 40.7778164,
+     "lon": -74.0717503
+    },
+    {
+     "lat": 40.7783288,
+     "lon": -74.0734365
+    },
+    {
+     "lat": 40.7793526,
+     "lon": -74.072894
+    }
+   ],
+   "id": 193611192,
+   "tags": {
+    "addr:city": "Secaucus",
+    "addr:housenumber": "800",
+    "addr:postcode": "07094",
+    "addr:state": "NJ",
+    "addr:street": "Secaucus Road",
+    "building": "yes",
+    "name": "Equinix New York Secaucus NY5",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "phone": "+1-866-378-4649",
+    "source": "Bing;local knowledge",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/locations/united-states-colocation/new-york-data-centers/ny5/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7778372,
+    "maxlon": -74.0685732,
+    "minlat": 40.775019,
+    "minlon": -74.0709786
+   },
+   "geometry": [
+    {
+     "lat": 40.7775067,
+     "lon": -74.0685732
+    },
+    {
+     "lat": 40.775019,
+     "lon": -74.0698896
+    },
+    {
+     "lat": 40.7753494,
+     "lon": -74.0709786
+    },
+    {
+     "lat": 40.7778372,
+     "lon": -74.0696622
+    },
+    {
+     "lat": 40.7775067,
+     "lon": -74.0685732
+    }
+   ],
+   "id": 193611211,
+   "tags": {
+    "addr:city": "Secaucus",
+    "addr:housenumber": "755",
+    "addr:postcode": "07094",
+    "addr:state": "NJ",
+    "addr:street": "Secaucus Road",
+    "building": "yes",
+    "name": "Equinix New York Secaucus NY4",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "NY4",
+    "source": "Bing",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7761662,
+    "maxlon": -74.06796,
+    "minlat": 40.7736393,
+    "minlon": -74.0699773
+   },
+   "geometry": [
+    {
+     "lat": 40.7739866,
+     "lon": -74.0699773
+    },
+    {
+     "lat": 40.7761662,
+     "lon": -74.0688353
+    },
+    {
+     "lat": 40.7759146,
+     "lon": -74.0679979
+    },
+    {
+     "lat": 40.7753794,
+     "lon": -74.0682783
+    },
+    {
+     "lat": 40.7752837,
+     "lon": -74.06796
+    },
+    {
+     "lat": 40.7736393,
+     "lon": -74.0688215
+    },
+    {
+     "lat": 40.7739866,
+     "lon": -74.0699773
+    }
+   ],
+   "id": 193611216,
+   "tags": {
+    "addr:city": "Secaucus",
+    "addr:housenumber": "600",
+    "addr:postcode": "07094",
+    "addr:state": "NJ",
+    "addr:street": "Jefferson Avenue",
+    "building": "yes",
+    "name": "Equinix NY3",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "Equinix NY3",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7788311,
+    "maxlon": -74.074704,
+    "minlat": 40.7757503,
+    "minlon": -74.0771766
+   },
+   "geometry": [
+    {
+     "lat": 40.7784334,
+     "lon": -74.0771766
+    },
+    {
+     "lat": 40.7788311,
+     "lon": -74.0756717
+    },
+    {
+     "lat": 40.7767311,
+     "lon": -74.074704
+    },
+    {
+     "lat": 40.7766895,
+     "lon": -74.0748618
+    },
+    {
+     "lat": 40.7765145,
+     "lon": -74.0755237
+    },
+    {
+     "lat": 40.7759314,
+     "lon": -74.075255
+    },
+    {
+     "lat": 40.7757503,
+     "lon": -74.0759403
+    },
+    {
+     "lat": 40.7784334,
+     "lon": -74.0771766
+    }
+   ],
+   "id": 193611219,
+   "tags": {
+    "addr:city": "Secaucus",
+    "addr:housenumber": "275",
+    "addr:postcode": "07094",
+    "addr:state": "NJ",
+    "addr:street": "Hartz Way",
+    "building": "data_center",
+    "name": "Equinix New York Secaucus NY2",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "NY2",
+    "source": "Bing",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7868206,
+    "maxlon": -74.0682272,
+    "minlat": 40.7855073,
+    "minlon": -74.0701018
+   },
+   "geometry": [
+    {
+     "lat": 40.7868206,
+     "lon": -74.0696281
+    },
+    {
+     "lat": 40.7863963,
+     "lon": -74.0682272
+    },
+    {
+     "lat": 40.7861799,
+     "lon": -74.0683415
+    },
+    {
+     "lat": 40.7862441,
+     "lon": -74.0685534
+    },
+    {
+     "lat": 40.7861602,
+     "lon": -74.0685977
+    },
+    {
+     "lat": 40.7861038,
+     "lon": -74.0684114
+    },
+    {
+     "lat": 40.7855073,
+     "lon": -74.0687264
+    },
+    {
+     "lat": 40.7859238,
+     "lon": -74.0701018
+    },
+    {
+     "lat": 40.7868206,
+     "lon": -74.0696281
+    }
+   ],
+   "id": 193612533,
+   "tags": {
+    "addr:city": "Secaucus",
+    "addr:housenumber": "15",
+    "addr:postcode": "07094",
+    "addr:state": "NJ",
+    "addr:street": "Enterprise Avenue North",
+    "building": "yes",
+    "clli": "SCCSNJEM",
+    "name": "Centersquare NYC3 Data Center",
+    "operator": "Centersquare",
+    "source": "Bing;local knowledge",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5226092,
+    "maxlon": -74.344948,
+    "minlat": 40.5190246,
+    "minlon": -74.3494973
+   },
+   "geometry": [
+    {
+     "lat": 40.5225684,
+     "lon": -74.3473162
+    },
+    {
+     "lat": 40.5220131,
+     "lon": -74.3467124
+    },
+    {
+     "lat": 40.5220811,
+     "lon": -74.3466149
+    },
+    {
+     "lat": 40.5219297,
+     "lon": -74.3464482
+    },
+    {
+     "lat": 40.5219544,
+     "lon": -74.3464157
+    },
+    {
+     "lat": 40.5215063,
+     "lon": -74.3459481
+    },
+    {
+     "lat": 40.5214167,
+     "lon": -74.3460823
+    },
+    {
+     "lat": 40.5203165,
+     "lon": -74.344948
+    },
+    {
+     "lat": 40.5202299,
+     "lon": -74.3450944
+    },
+    {
+     "lat": 40.5202948,
+     "lon": -74.3453098
+    },
+    {
+     "lat": 40.5192379,
+     "lon": -74.347058
+    },
+    {
+     "lat": 40.5191235,
+     "lon": -74.3469482
+    },
+    {
+     "lat": 40.5190246,
+     "lon": -74.3471068
+    },
+    {
+     "lat": 40.5205784,
+     "lon": -74.3487753
+    },
+    {
+     "lat": 40.5206997,
+     "lon": -74.3489159
+    },
+    {
+     "lat": 40.5205699,
+     "lon": -74.3491598
+    },
+    {
+     "lat": 40.5207615,
+     "lon": -74.3493672
+    },
+    {
+     "lat": 40.5208882,
+     "lon": -74.349355
+    },
+    {
+     "lat": 40.5209933,
+     "lon": -74.349172
+    },
+    {
+     "lat": 40.5211231,
+     "lon": -74.3493103
+    },
+    {
+     "lat": 40.521052,
+     "lon": -74.3494282
+    },
+    {
+     "lat": 40.5211138,
+     "lon": -74.3494973
+    },
+    {
+     "lat": 40.5212003,
+     "lon": -74.3493428
+    },
+    {
+     "lat": 40.521293,
+     "lon": -74.3494241
+    },
+    {
+     "lat": 40.5213889,
+     "lon": -74.3492777
+    },
+    {
+     "lat": 40.5214939,
+     "lon": -74.3493875
+    },
+    {
+     "lat": 40.5226092,
+     "lon": -74.34752
+    },
+    {
+     "lat": 40.5225168,
+     "lon": -74.3474076
+    },
+    {
+     "lat": 40.5225684,
+     "lon": -74.3473162
+    }
+   ],
+   "id": 204316962,
+   "tags": {
+    "addr:city": "Edison",
+    "addr:housenumber": "3003",
+    "addr:postcode": "07054",
+    "addr:state": "NJ",
+    "addr:street": "Woodbridge Avenue",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "IO Datacenter",
+    "source": "Bing",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5496127,
+    "maxlon": -74.4576322,
+    "minlat": 40.5488142,
+    "minlon": -74.458787
+   },
+   "geometry": [
+    {
+     "lat": 40.5496127,
+     "lon": -74.4579504
+    },
+    {
+     "lat": 40.5491379,
+     "lon": -74.4576322
+    },
+    {
+     "lat": 40.5488142,
+     "lon": -74.4584689
+    },
+    {
+     "lat": 40.549289,
+     "lon": -74.458787
+    },
+    {
+     "lat": 40.5496127,
+     "lon": -74.4579504
+    }
+   ],
+   "id": 204460681,
+   "tags": {
+    "building": "data_center",
+    "name": "DataBank Piscataway EWR2",
+    "source": "Bing",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5473025,
+    "maxlon": -74.4913108,
+    "minlat": 40.5463421,
+    "minlon": -74.4926434
+   },
+   "geometry": [
+    {
+     "lat": 40.5473025,
+     "lon": -74.4916389
+    },
+    {
+     "lat": 40.5470907,
+     "lon": -74.4914218
+    },
+    {
+     "lat": 40.547035,
+     "lon": -74.4915122
+    },
+    {
+     "lat": 40.5469377,
+     "lon": -74.4914088
+    },
+    {
+     "lat": 40.5469436,
+     "lon": -74.4913853
+    },
+    {
+     "lat": 40.5469437,
+     "lon": -74.4913616
+    },
+    {
+     "lat": 40.5469363,
+     "lon": -74.4913397
+    },
+    {
+     "lat": 40.546925,
+     "lon": -74.4913256
+    },
+    {
+     "lat": 40.5469109,
+     "lon": -74.4913157
+    },
+    {
+     "lat": 40.5468951,
+     "lon": -74.4913108
+    },
+    {
+     "lat": 40.5468782,
+     "lon": -74.4913146
+    },
+    {
+     "lat": 40.546862,
+     "lon": -74.4913303
+    },
+    {
+     "lat": 40.5468523,
+     "lon": -74.4913552
+    },
+    {
+     "lat": 40.5468508,
+     "lon": -74.491385
+    },
+    {
+     "lat": 40.546857,
+     "lon": -74.4914044
+    },
+    {
+     "lat": 40.5468678,
+     "lon": -74.4914223
+    },
+    {
+     "lat": 40.5466823,
+     "lon": -74.4917306
+    },
+    {
+     "lat": 40.5466142,
+     "lon": -74.4916673
+    },
+    {
+     "lat": 40.5463421,
+     "lon": -74.4921209
+    },
+    {
+     "lat": 40.5464135,
+     "lon": -74.492196
+    },
+    {
+     "lat": 40.5463613,
+     "lon": -74.492288
+    },
+    {
+     "lat": 40.5467093,
+     "lon": -74.4926434
+    },
+    {
+     "lat": 40.546875,
+     "lon": -74.4923606
+    },
+    {
+     "lat": 40.5469811,
+     "lon": -74.4924683
+    },
+    {
+     "lat": 40.547084,
+     "lon": -74.4922877
+    },
+    {
+     "lat": 40.5469848,
+     "lon": -74.4921794
+    },
+    {
+     "lat": 40.5473025,
+     "lon": -74.4916389
+    }
+   ],
+   "id": 204460799,
+   "tags": {
+    "building": "yes",
+    "name": "Optimum",
+    "source": "Bing",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5454068,
+    "maxlon": -74.4947344,
+    "minlat": 40.5444247,
+    "minlon": -74.4959843
+   },
+   "geometry": [
+    {
+     "lat": 40.5454068,
+     "lon": -74.4953567
+    },
+    {
+     "lat": 40.5448158,
+     "lon": -74.4947344
+    },
+    {
+     "lat": 40.5445712,
+     "lon": -74.4951635
+    },
+    {
+     "lat": 40.5447138,
+     "lon": -74.4953352
+    },
+    {
+     "lat": 40.5446885,
+     "lon": -74.4953801
+    },
+    {
+     "lat": 40.5446484,
+     "lon": -74.4953534
+    },
+    {
+     "lat": 40.5445997,
+     "lon": -74.4953393
+    },
+    {
+     "lat": 40.544563,
+     "lon": -74.4953449
+    },
+    {
+     "lat": 40.5445278,
+     "lon": -74.4953599
+    },
+    {
+     "lat": 40.5444667,
+     "lon": -74.4954132
+    },
+    {
+     "lat": 40.5444405,
+     "lon": -74.4954608
+    },
+    {
+     "lat": 40.5444281,
+     "lon": -74.4955133
+    },
+    {
+     "lat": 40.5444247,
+     "lon": -74.4955847
+    },
+    {
+     "lat": 40.5444332,
+     "lon": -74.4956326
+    },
+    {
+     "lat": 40.544446,
+     "lon": -74.4956748
+    },
+    {
+     "lat": 40.5444896,
+     "lon": -74.4957322
+    },
+    {
+     "lat": 40.5447383,
+     "lon": -74.4959843
+    },
+    {
+     "lat": 40.5449656,
+     "lon": -74.4955763
+    },
+    {
+     "lat": 40.5451622,
+     "lon": -74.4957751
+    },
+    {
+     "lat": 40.5454068,
+     "lon": -74.4953567
+    }
+   ],
+   "id": 204460812,
+   "tags": {
+    "building": "yes",
+    "name": "Equinix",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "source": "Bing",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5483979,
+    "maxlon": -74.4582113,
+    "minlat": 40.5460906,
+    "minlon": -74.4612632
+   },
+   "geometry": [
+    {
+     "lat": 40.5471425,
+     "lon": -74.4582113
+    },
+    {
+     "lat": 40.5483979,
+     "lon": -74.459941
+    },
+    {
+     "lat": 40.5473461,
+     "lon": -74.4612632
+    },
+    {
+     "lat": 40.5460906,
+     "lon": -74.4595336
+    },
+    {
+     "lat": 40.5467522,
+     "lon": -74.4587019
+    },
+    {
+     "lat": 40.5470826,
+     "lon": -74.4582866
+    },
+    {
+     "lat": 40.5471425,
+     "lon": -74.4582113
+    }
+   ],
+   "id": 204460835,
+   "tags": {
+    "building": "yes",
+    "name": "Barclays Datacenter",
+    "operator": "Barclays",
+    "source": "Bing;https://www.datacenterknowledge.com/investing/-330-million-for-lehman-s-two-nj-data-centers",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5540416,
+    "maxlon": -74.4580761,
+    "minlat": 40.551815,
+    "minlon": -74.4603316
+   },
+   "geometry": [
+    {
+     "lat": 40.5528661,
+     "lon": -74.4599068
+    },
+    {
+     "lat": 40.5536027,
+     "lon": -74.4603316
+    },
+    {
+     "lat": 40.5540416,
+     "lon": -74.4590132
+    },
+    {
+     "lat": 40.5536652,
+     "lon": -74.4587962
+    },
+    {
+     "lat": 40.5532839,
+     "lon": -74.4585789
+    },
+    {
+     "lat": 40.5532312,
+     "lon": -74.4585483
+    },
+    {
+     "lat": 40.5525844,
+     "lon": -74.4581654
+    },
+    {
+     "lat": 40.5524225,
+     "lon": -74.4580761
+    },
+    {
+     "lat": 40.5519881,
+     "lon": -74.4593922
+    },
+    {
+     "lat": 40.5519819,
+     "lon": -74.4593886
+    },
+    {
+     "lat": 40.551815,
+     "lon": -74.4598874
+    },
+    {
+     "lat": 40.5522699,
+     "lon": -74.4601511
+    },
+    {
+     "lat": 40.5524997,
+     "lon": -74.4602843
+    },
+    {
+     "lat": 40.5526051,
+     "lon": -74.4599696
+    },
+    {
+     "lat": 40.5528095,
+     "lon": -74.4600832
+    },
+    {
+     "lat": 40.5528661,
+     "lon": -74.4599068
+    }
+   ],
+   "id": 204460903,
+   "tags": {
+    "addr:city": "Piscataway Township",
+    "addr:housenumber": "365",
+    "addr:postcode": "08854",
+    "addr:state": "NJ",
+    "addr:street": "South Randolphville Road",
+    "building": "data_center",
+    "name": "Digital Realty New York EWR12",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "EWR12",
+    "source": "Bing",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/new-york/ewr12"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5543124,
+    "maxlon": -74.4563795,
+    "minlat": 40.5532738,
+    "minlon": -74.4578253
+   },
+   "geometry": [
+    {
+     "lat": 40.5537968,
+     "lon": -74.4577366
+    },
+    {
+     "lat": 40.5538146,
+     "lon": -74.457683
+    },
+    {
+     "lat": 40.5537435,
+     "lon": -74.4576423
+    },
+    {
+     "lat": 40.553693,
+     "lon": -74.4577948
+    },
+    {
+     "lat": 40.5535567,
+     "lon": -74.4577167
+    },
+    {
+     "lat": 40.5535208,
+     "lon": -74.4578253
+    },
+    {
+     "lat": 40.5533722,
+     "lon": -74.4577401
+    },
+    {
+     "lat": 40.5534084,
+     "lon": -74.4576305
+    },
+    {
+     "lat": 40.5532738,
+     "lon": -74.4575533
+    },
+    {
+     "lat": 40.553414,
+     "lon": -74.4571296
+    },
+    {
+     "lat": 40.5533158,
+     "lon": -74.4570733
+    },
+    {
+     "lat": 40.5533224,
+     "lon": -74.4570533
+    },
+    {
+     "lat": 40.5534023,
+     "lon": -74.4568121
+    },
+    {
+     "lat": 40.5534147,
+     "lon": -74.4567746
+    },
+    {
+     "lat": 40.5535189,
+     "lon": -74.4568344
+    },
+    {
+     "lat": 40.5536591,
+     "lon": -74.4564108
+    },
+    {
+     "lat": 40.5537855,
+     "lon": -74.4564833
+    },
+    {
+     "lat": 40.5538199,
+     "lon": -74.4563795
+    },
+    {
+     "lat": 40.5538483,
+     "lon": -74.4563958
+    },
+    {
+     "lat": 40.5539856,
+     "lon": -74.4564745
+    },
+    {
+     "lat": 40.5539508,
+     "lon": -74.4565795
+    },
+    {
+     "lat": 40.5540745,
+     "lon": -74.4566505
+    },
+    {
+     "lat": 40.5540015,
+     "lon": -74.4568711
+    },
+    {
+     "lat": 40.5540747,
+     "lon": -74.4569131
+    },
+    {
+     "lat": 40.5540835,
+     "lon": -74.4568862
+    },
+    {
+     "lat": 40.554216,
+     "lon": -74.4569622
+    },
+    {
+     "lat": 40.554209,
+     "lon": -74.4569832
+    },
+    {
+     "lat": 40.5541811,
+     "lon": -74.4570676
+    },
+    {
+     "lat": 40.5543124,
+     "lon": -74.4571429
+    },
+    {
+     "lat": 40.5541019,
+     "lon": -74.4577787
+    },
+    {
+     "lat": 40.5540988,
+     "lon": -74.4577881
+    },
+    {
+     "lat": 40.5539694,
+     "lon": -74.457714
+    },
+    {
+     "lat": 40.5539356,
+     "lon": -74.4578161
+    },
+    {
+     "lat": 40.5538168,
+     "lon": -74.457748
+    },
+    {
+     "lat": 40.5537968,
+     "lon": -74.4577366
+    }
+   ],
+   "id": 204460950,
+   "tags": {
+    "addr:city": "Piscataway Township",
+    "addr:housenumber": "3",
+    "addr:postcode": "08854",
+    "addr:state": "NJ",
+    "addr:street": "Corporate Place",
+    "building": "data_center",
+    "name": "Digital Realty New York EWR11",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "EWR11",
+    "source": "Bing",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/new-york/ewr11"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7611854,
+    "maxlon": -74.025116,
+    "minlat": 40.7603743,
+    "minlon": -74.0263674
+   },
+   "geometry": [
+    {
+     "lat": 40.7611854,
+     "lon": -74.0260208
+    },
+    {
+     "lat": 40.7606334,
+     "lon": -74.0263674
+    },
+    {
+     "lat": 40.7603743,
+     "lon": -74.0256481
+    },
+    {
+     "lat": 40.7604442,
+     "lon": -74.0256042
+    },
+    {
+     "lat": 40.7604186,
+     "lon": -74.0255331
+    },
+    {
+     "lat": 40.7604623,
+     "lon": -74.0254464
+    },
+    {
+     "lat": 40.7606052,
+     "lon": -74.0253567
+    },
+    {
+     "lat": 40.7605814,
+     "lon": -74.0252906
+    },
+    {
+     "lat": 40.7608595,
+     "lon": -74.025116
+    },
+    {
+     "lat": 40.7611854,
+     "lon": -74.0260208
+    }
+   ],
+   "id": 279410762,
+   "tags": {
+    "addr:city": "Weehawken",
+    "addr:housenumber": "1919",
+    "addr:postcode": "07086",
+    "addr:state": "NJ",
+    "addr:street": "Park Avenue",
+    "building": "data_center",
+    "building:levels": "5",
+    "name": "Cyxtera (Digital Realty Trust) Citibank Data Center",
+    "operator": "Cyxtera",
+    "operator:wikidata": "Q111143924",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7624872,
+    "maxlon": -74.0241934,
+    "minlat": 40.7611484,
+    "minlon": -74.0258627
+   },
+   "geometry": [
+    {
+     "lat": 40.7615293,
+     "lon": -74.0258627
+    },
+    {
+     "lat": 40.762286,
+     "lon": -74.02538
+    },
+    {
+     "lat": 40.7624872,
+     "lon": -74.0251114
+    },
+    {
+     "lat": 40.762151,
+     "lon": -74.0241934
+    },
+    {
+     "lat": 40.7611484,
+     "lon": -74.0248302
+    },
+    {
+     "lat": 40.7615293,
+     "lon": -74.0258627
+    }
+   ],
+   "id": 279410766,
+   "tags": {
+    "addr:city": "Weehawken",
+    "addr:housenumber": "300",
+    "addr:postcode": "07086",
+    "addr:state": "NJ",
+    "addr:street": "John F. Kennedy Boulevard East",
+    "building": "data_center",
+    "building:levels": "4",
+    "clli": "WHWKNJ",
+    "name": "Digital Realty New Jersey EWR10",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "EWR10",
+    "source": "bing",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/new-york/ewr10"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5532814,
+    "maxlon": -74.455899,
+    "minlat": 40.5523977,
+    "minlon": -74.457474
+   },
+   "geometry": [
+    {
+     "lat": 40.5532651,
+     "lon": -74.4559433
+    },
+    {
+     "lat": 40.5532393,
+     "lon": -74.4560194
+    },
+    {
+     "lat": 40.5532814,
+     "lon": -74.4560441
+    },
+    {
+     "lat": 40.5532493,
+     "lon": -74.4561389
+    },
+    {
+     "lat": 40.553203,
+     "lon": -74.4561117
+    },
+    {
+     "lat": 40.5530355,
+     "lon": -74.4566053
+    },
+    {
+     "lat": 40.5530799,
+     "lon": -74.4566314
+    },
+    {
+     "lat": 40.553043,
+     "lon": -74.4567402
+    },
+    {
+     "lat": 40.5530101,
+     "lon": -74.4567209
+    },
+    {
+     "lat": 40.5528224,
+     "lon": -74.4572741
+    },
+    {
+     "lat": 40.5528658,
+     "lon": -74.4572996
+    },
+    {
+     "lat": 40.5528314,
+     "lon": -74.4574008
+    },
+    {
+     "lat": 40.5527852,
+     "lon": -74.4573736
+    },
+    {
+     "lat": 40.5527511,
+     "lon": -74.457474
+    },
+    {
+     "lat": 40.5523977,
+     "lon": -74.4572663
+    },
+    {
+     "lat": 40.5528611,
+     "lon": -74.4559011
+    },
+    {
+     "lat": 40.5531346,
+     "lon": -74.4560619
+    },
+    {
+     "lat": 40.5531898,
+     "lon": -74.455899
+    },
+    {
+     "lat": 40.5532651,
+     "lon": -74.4559433
+    }
+   ],
+   "id": 345650474,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7851599,
+    "maxlon": -74.0639656,
+    "minlat": 40.784311,
+    "minlon": -74.0647434
+   },
+   "geometry": [
+    {
+     "lat": 40.7851599,
+     "lon": -74.064384
+    },
+    {
+     "lat": 40.7845347,
+     "lon": -74.0646931
+    },
+    {
+     "lat": 40.7844329,
+     "lon": -74.0647434
+    },
+    {
+     "lat": 40.784311,
+     "lon": -74.0643465
+    },
+    {
+     "lat": 40.7843732,
+     "lon": -74.0643141
+    },
+    {
+     "lat": 40.7850421,
+     "lon": -74.0639656
+    },
+    {
+     "lat": 40.7851599,
+     "lon": -74.064384
+    }
+   ],
+   "id": 354590432,
+   "tags": {
+    "building": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.55863,
+    "maxlon": -74.4822412,
+    "minlat": 40.5552561,
+    "minlon": -74.4855935
+   },
+   "geometry": [
+    {
+     "lat": 40.55863,
+     "lon": -74.4848599
+    },
+    {
+     "lat": 40.5582836,
+     "lon": -74.4855426
+    },
+    {
+     "lat": 40.5582449,
+     "lon": -74.4855086
+    },
+    {
+     "lat": 40.5582019,
+     "lon": -74.4855935
+    },
+    {
+     "lat": 40.5580413,
+     "lon": -74.4854525
+    },
+    {
+     "lat": 40.5580357,
+     "lon": -74.4854636
+    },
+    {
+     "lat": 40.5580102,
+     "lon": -74.4854413
+    },
+    {
+     "lat": 40.5579925,
+     "lon": -74.4854764
+    },
+    {
+     "lat": 40.557115,
+     "lon": -74.4847112
+    },
+    {
+     "lat": 40.5570001,
+     "lon": -74.4849394
+    },
+    {
+     "lat": 40.5568318,
+     "lon": -74.4847926
+    },
+    {
+     "lat": 40.5568461,
+     "lon": -74.4847643
+    },
+    {
+     "lat": 40.556698,
+     "lon": -74.4846348
+    },
+    {
+     "lat": 40.5568051,
+     "lon": -74.4844226
+    },
+    {
+     "lat": 40.5559574,
+     "lon": -74.4836812
+    },
+    {
+     "lat": 40.5559279,
+     "lon": -74.4836554
+    },
+    {
+     "lat": 40.5559465,
+     "lon": -74.4836186
+    },
+    {
+     "lat": 40.5559214,
+     "lon": -74.4835966
+    },
+    {
+     "lat": 40.5559274,
+     "lon": -74.4835846
+    },
+    {
+     "lat": 40.5557716,
+     "lon": -74.4834475
+    },
+    {
+     "lat": 40.5558186,
+     "lon": -74.4833551
+    },
+    {
+     "lat": 40.5557517,
+     "lon": -74.4832962
+    },
+    {
+     "lat": 40.5557144,
+     "lon": -74.4833695
+    },
+    {
+     "lat": 40.555485,
+     "lon": -74.4831675
+    },
+    {
+     "lat": 40.5555536,
+     "lon": -74.4830325
+    },
+    {
+     "lat": 40.5552561,
+     "lon": -74.4827704
+    },
+    {
+     "lat": 40.5555252,
+     "lon": -74.4822412
+    },
+    {
+     "lat": 40.5555802,
+     "lon": -74.4822897
+    },
+    {
+     "lat": 40.5555598,
+     "lon": -74.4823298
+    },
+    {
+     "lat": 40.5560622,
+     "lon": -74.4827725
+    },
+    {
+     "lat": 40.5561208,
+     "lon": -74.4826573
+    },
+    {
+     "lat": 40.5569094,
+     "lon": -74.483352
+    },
+    {
+     "lat": 40.5568893,
+     "lon": -74.4833915
+    },
+    {
+     "lat": 40.5578096,
+     "lon": -74.4842016
+    },
+    {
+     "lat": 40.5578317,
+     "lon": -74.4841582
+    },
+    {
+     "lat": 40.55863,
+     "lon": -74.4848599
+    }
+   ],
+   "id": 362662493,
+   "tags": {
+    "addr:city": "Piscataway",
+    "addr:housenumber": "101",
+    "addr:postcode": "08854",
+    "addr:state": "NJ",
+    "addr:street": "Possumtown Road",
+    "building": "data_center",
+    "name": "QTS Piscataway Data Center",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "operator:wikipedia": "en:Quality Technology Services",
+    "ref": "NJ1",
+    "telecom": "data_center",
+    "website": "https://www.qtsdatacenters.com/data-centers/piscataway"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.6153052,
+    "maxlon": -74.3286253,
+    "minlat": 39.6148285,
+    "minlon": -74.3289885
+   },
+   "geometry": [
+    {
+     "lat": 39.6152924,
+     "lon": -74.3289885
+    },
+    {
+     "lat": 39.6153052,
+     "lon": -74.3286553
+    },
+    {
+     "lat": 39.6148413,
+     "lon": -74.3286253
+    },
+    {
+     "lat": 39.6148285,
+     "lon": -74.3289585
+    },
+    {
+     "lat": 39.6152924,
+     "lon": -74.3289885
+    }
+   ],
+   "id": 371491126,
+   "tags": {
+    "addr:city": "Tuckerton",
+    "addr:country": "US",
+    "addr:housenumber": "17",
+    "addr:postcode": "08087",
+    "addr:state": "NJ",
+    "addr:street": "Cable Drive",
+    "alt_name": "Tuckerton CLS",
+    "building": "yes",
+    "description": "TAT14 Transatlantic cable landing station.",
+    "name": "AT&T Tuckerton Cable Landing Station (TAT-14)",
+    "operator": "AT&T",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7372928,
+    "maxlon": -74.173238,
+    "minlat": 40.736168,
+    "minlon": -74.174537
+   },
+   "geometry": [
+    {
+     "lat": 40.736168,
+     "lon": -74.1736863
+    },
+    {
+     "lat": 40.7364056,
+     "lon": -74.174537
+    },
+    {
+     "lat": 40.7369267,
+     "lon": -74.1743725
+    },
+    {
+     "lat": 40.7372928,
+     "lon": -74.1741881
+    },
+    {
+     "lat": 40.7371677,
+     "lon": -74.1737961
+    },
+    {
+     "lat": 40.737013,
+     "lon": -74.1733664
+    },
+    {
+     "lat": 40.7370231,
+     "lon": -74.1733604
+    },
+    {
+     "lat": 40.7369865,
+     "lon": -74.1732579
+    },
+    {
+     "lat": 40.7369713,
+     "lon": -74.1732565
+    },
+    {
+     "lat": 40.7369633,
+     "lon": -74.173238
+    },
+    {
+     "lat": 40.7369013,
+     "lon": -74.1732703
+    },
+    {
+     "lat": 40.7368998,
+     "lon": -74.1733033
+    },
+    {
+     "lat": 40.736168,
+     "lon": -74.1736863
+    }
+   ],
+   "id": 387208881,
+   "tags": {
+    "addr:city": "Newark",
+    "addr:housenumber": "165",
+    "addr:postcode": "07102",
+    "addr:state": "NJ",
+    "addr:street": "Halsey Street",
+    "building": "yes",
+    "name": "165 Halsey / Equinix NY1 / Databank EWR1",
+    "operator": "Tishman",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7848544,
+    "maxlon": -74.0645474,
+    "minlat": 40.7834922,
+    "minlon": -74.0665537
+   },
+   "geometry": [
+    {
+     "lat": 40.7838959,
+     "lon": -74.0665537
+    },
+    {
+     "lat": 40.7837915,
+     "lon": -74.0662269
+    },
+    {
+     "lat": 40.7838539,
+     "lon": -74.0661911
+    },
+    {
+     "lat": 40.7834922,
+     "lon": -74.0649795
+    },
+    {
+     "lat": 40.7842945,
+     "lon": -74.0645474
+    },
+    {
+     "lat": 40.7846707,
+     "lon": -74.0658218
+    },
+    {
+     "lat": 40.7847649,
+     "lon": -74.0657696
+    },
+    {
+     "lat": 40.7848544,
+     "lon": -74.0660567
+    },
+    {
+     "lat": 40.7838959,
+     "lon": -74.0665537
+    }
+   ],
+   "id": 451491797,
+   "tags": {
+    "building": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7883016,
+    "maxlon": -74.0673749,
+    "minlat": 40.7868023,
+    "minlon": -74.0687254
+   },
+   "geometry": [
+    {
+     "lat": 40.7870045,
+     "lon": -74.0687254
+    },
+    {
+     "lat": 40.7883016,
+     "lon": -74.0680371
+    },
+    {
+     "lat": 40.7880977,
+     "lon": -74.0673749
+    },
+    {
+     "lat": 40.7868023,
+     "lon": -74.0680523
+    },
+    {
+     "lat": 40.7870045,
+     "lon": -74.0687254
+    }
+   ],
+   "id": 451497833,
+   "tags": {
+    "building": "yes",
+    "name": "Evocative Secaucus",
+    "operator": "Evocative",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.8220425,
+    "maxlon": -74.1333492,
+    "minlat": 40.8208659,
+    "minlon": -74.1350243
+   },
+   "geometry": [
+    {
+     "lat": 40.8213448,
+     "lon": -74.1350243
+    },
+    {
+     "lat": 40.8208659,
+     "lon": -74.1338404
+    },
+    {
+     "lat": 40.8211827,
+     "lon": -74.1336167
+    },
+    {
+     "lat": 40.8211409,
+     "lon": -74.1335133
+    },
+    {
+     "lat": 40.8211803,
+     "lon": -74.1334855
+    },
+    {
+     "lat": 40.8212225,
+     "lon": -74.1335898
+    },
+    {
+     "lat": 40.821563,
+     "lon": -74.1333492
+    },
+    {
+     "lat": 40.8220425,
+     "lon": -74.1345347
+    },
+    {
+     "lat": 40.8217442,
+     "lon": -74.1347454
+    },
+    {
+     "lat": 40.8217536,
+     "lon": -74.1347687
+    },
+    {
+     "lat": 40.8216533,
+     "lon": -74.1348395
+    },
+    {
+     "lat": 40.8216429,
+     "lon": -74.1348137
+    },
+    {
+     "lat": 40.8213448,
+     "lon": -74.1350243
+    }
+   ],
+   "id": 452116337,
+   "tags": {
+    "building": "yes",
+    "name": "BT Radianz: 492 River Road",
+    "operator": "bt",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.1572411,
+    "maxlon": -74.1011159,
+    "minlat": 40.156846,
+    "minlon": -74.1020482
+   },
+   "geometry": [
+    {
+     "lat": 40.1572411,
+     "lon": -74.1019863
+    },
+    {
+     "lat": 40.1571304,
+     "lon": -74.1011159
+    },
+    {
+     "lat": 40.156846,
+     "lon": -74.1011778
+    },
+    {
+     "lat": 40.1569567,
+     "lon": -74.1020482
+    },
+    {
+     "lat": 40.1572411,
+     "lon": -74.1019863
+    }
+   ],
+   "id": 459188722,
+   "tags": {
+    "building": "data_center",
+    "name": "Manasquan Cable Landing Station (Apollo)",
+    "operator": "Vodafone",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.8302424,
+    "maxlon": -74.1262785,
+    "minlat": 40.8296133,
+    "minlon": -74.1272207
+   },
+   "geometry": [
+    {
+     "lat": 40.8300188,
+     "lon": -74.1269558
+    },
+    {
+     "lat": 40.8300472,
+     "lon": -74.1269313
+    },
+    {
+     "lat": 40.8300659,
+     "lon": -74.1269679
+    },
+    {
+     "lat": 40.8302424,
+     "lon": -74.126811
+    },
+    {
+     "lat": 40.8299715,
+     "lon": -74.1262785
+    },
+    {
+     "lat": 40.829795,
+     "lon": -74.1264354
+    },
+    {
+     "lat": 40.8298614,
+     "lon": -74.1265661
+    },
+    {
+     "lat": 40.8298196,
+     "lon": -74.126602
+    },
+    {
+     "lat": 40.8297793,
+     "lon": -74.126521
+    },
+    {
+     "lat": 40.8296133,
+     "lon": -74.1266655
+    },
+    {
+     "lat": 40.8298898,
+     "lon": -74.1272207
+    },
+    {
+     "lat": 40.8300408,
+     "lon": -74.1270894
+    },
+    {
+     "lat": 40.830042,
+     "lon": -74.127092
+    },
+    {
+     "lat": 40.8300714,
+     "lon": -74.1270678
+    },
+    {
+     "lat": 40.8300188,
+     "lon": -74.1269558
+    }
+   ],
+   "id": 460177088,
+   "tags": {
+    "addr:city": "Clifton",
+    "addr:housenumber": "100",
+    "addr:postcode": "07014",
+    "addr:state": "NJ",
+    "addr:street": "Delawanna Avenue",
+    "building": "industrial",
+    "name": "Digital Realty New Jersey EWR20",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "EWR20",
+    "source": "bing",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/new-york/ewr20"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5387203,
+    "maxlon": -74.544159,
+    "minlat": 40.5372124,
+    "minlon": -74.5472958
+   },
+   "geometry": [
+    {
+     "lat": 40.538464,
+     "lon": -74.5470967
+    },
+    {
+     "lat": 40.5384199,
+     "lon": -74.5468028
+    },
+    {
+     "lat": 40.5384889,
+     "lon": -74.5467848
+    },
+    {
+     "lat": 40.5384695,
+     "lon": -74.5466551
+    },
+    {
+     "lat": 40.5387203,
+     "lon": -74.54659
+    },
+    {
+     "lat": 40.5384827,
+     "lon": -74.5450034
+    },
+    {
+     "lat": 40.5383194,
+     "lon": -74.5450458
+    },
+    {
+     "lat": 40.5382136,
+     "lon": -74.5443388
+    },
+    {
+     "lat": 40.538368,
+     "lon": -74.5442988
+    },
+    {
+     "lat": 40.5383471,
+     "lon": -74.544159
+    },
+    {
+     "lat": 40.5372124,
+     "lon": -74.5444529
+    },
+    {
+     "lat": 40.5373577,
+     "lon": -74.5454239
+    },
+    {
+     "lat": 40.5374127,
+     "lon": -74.5454097
+    },
+    {
+     "lat": 40.5376301,
+     "lon": -74.5468638
+    },
+    {
+     "lat": 40.5376321,
+     "lon": -74.5468633
+    },
+    {
+     "lat": 40.5376969,
+     "lon": -74.5472958
+    },
+    {
+     "lat": 40.538464,
+     "lon": -74.5470967
+    }
+   ],
+   "id": 460182320,
+   "tags": {
+    "addr:city": "Somerset",
+    "addr:housenumber": "800",
+    "addr:postcode": "08873",
+    "addr:state": "NJ",
+    "addr:street": "Cottontail Lane",
+    "building": "industrial",
+    "operator": "CyrusOne",
+    "operator:wikidata": "Q16953751",
+    "ref": "NYM1",
+    "telecom": "data_center",
+    "website": "https://www.cyrusone.com/data-centers/north-america/somerset-nj"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5409714,
+    "maxlon": -74.5413156,
+    "minlat": 40.5387634,
+    "minlon": -74.5430161
+   },
+   "geometry": [
+    {
+     "lat": 40.5407268,
+     "lon": -74.5423027
+    },
+    {
+     "lat": 40.5406551,
+     "lon": -74.5419936
+    },
+    {
+     "lat": 40.5409714,
+     "lon": -74.5418628
+    },
+    {
+     "lat": 40.5408817,
+     "lon": -74.5414873
+    },
+    {
+     "lat": 40.5405679,
+     "lon": -74.5416171
+    },
+    {
+     "lat": 40.5405408,
+     "lon": -74.5415005
+    },
+    {
+     "lat": 40.540349,
+     "lon": -74.5415775
+    },
+    {
+     "lat": 40.5402906,
+     "lon": -74.5413156
+    },
+    {
+     "lat": 40.5397076,
+     "lon": -74.5415409
+    },
+    {
+     "lat": 40.5397678,
+     "lon": -74.5418108
+    },
+    {
+     "lat": 40.5395194,
+     "lon": -74.5419105
+    },
+    {
+     "lat": 40.5394671,
+     "lon": -74.5416536
+    },
+    {
+     "lat": 40.5389045,
+     "lon": -74.5418521
+    },
+    {
+     "lat": 40.538962,
+     "lon": -74.5421342
+    },
+    {
+     "lat": 40.5387634,
+     "lon": -74.5422139
+    },
+    {
+     "lat": 40.5389493,
+     "lon": -74.5430161
+    },
+    {
+     "lat": 40.5404254,
+     "lon": -74.5424236
+    },
+    {
+     "lat": 40.5407268,
+     "lon": -74.5423027
+    }
+   ],
+   "id": 460182330,
+   "tags": {
+    "addr:city": "Somerset",
+    "addr:housenumber": "665",
+    "addr:postcode": "08873",
+    "addr:state": "NJ",
+    "addr:street": "Howard Avenue",
+    "building": "yes",
+    "old_operator": "Morgan Stanley",
+    "source": "bing",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5367319,
+    "maxlon": -74.5529931,
+    "minlat": 40.5350061,
+    "minlon": -74.55387
+   },
+   "geometry": [
+    {
+     "lat": 40.5367319,
+     "lon": -74.553863
+    },
+    {
+     "lat": 40.5367291,
+     "lon": -74.5529931
+    },
+    {
+     "lat": 40.5355104,
+     "lon": -74.5530001
+    },
+    {
+     "lat": 40.5351667,
+     "lon": -74.5530021
+    },
+    {
+     "lat": 40.5351674,
+     "lon": -74.5531897
+    },
+    {
+     "lat": 40.5350061,
+     "lon": -74.5531906
+    },
+    {
+     "lat": 40.5350071,
+     "lon": -74.5534743
+    },
+    {
+     "lat": 40.5352899,
+     "lon": -74.5534726
+    },
+    {
+     "lat": 40.5352888,
+     "lon": -74.5531428
+    },
+    {
+     "lat": 40.5355104,
+     "lon": -74.5531416
+    },
+    {
+     "lat": 40.5355129,
+     "lon": -74.55387
+    },
+    {
+     "lat": 40.5367319,
+     "lon": -74.553863
+    }
+   ],
+   "id": 460182335,
+   "tags": {
+    "building": "industrial",
+    "name": "BNY Mellon Somerset",
+    "source": "bing",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5380933,
+    "maxlon": -74.5549432,
+    "minlat": 40.5369596,
+    "minlon": -74.556104
+   },
+   "geometry": [
+    {
+     "lat": 40.5380933,
+     "lon": -74.5560825
+    },
+    {
+     "lat": 40.5380807,
+     "lon": -74.5549432
+    },
+    {
+     "lat": 40.5373696,
+     "lon": -74.5549587
+    },
+    {
+     "lat": 40.5369596,
+     "lon": -74.5551578
+    },
+    {
+     "lat": 40.536966,
+     "lon": -74.556104
+    },
+    {
+     "lat": 40.5380933,
+     "lon": -74.5560825
+    }
+   ],
+   "id": 460182337,
+   "tags": {
+    "building": "data_center",
+    "operator": "Digital Realty",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.8310951,
+    "maxlon": -74.1236897,
+    "minlat": 40.8300765,
+    "minlon": -74.1253391
+   },
+   "geometry": [
+    {
+     "lat": 40.8307138,
+     "lon": -74.1253391
+    },
+    {
+     "lat": 40.8310951,
+     "lon": -74.1250201
+    },
+    {
+     "lat": 40.8304578,
+     "lon": -74.1236897
+    },
+    {
+     "lat": 40.8300765,
+     "lon": -74.1240087
+    },
+    {
+     "lat": 40.8307138,
+     "lon": -74.1253391
+    }
+   ],
+   "id": 460182351,
+   "tags": {
+    "addr:city": "Clifton",
+    "addr:housenumber": "2",
+    "addr:postcode": "07014",
+    "addr:state": "NJ",
+    "addr:street": "Peekay Drive",
+    "building": "industrial",
+    "name": "Digital Realty New Jersey EWR21",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "EWR21",
+    "source": "mapbox",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/new-york/ewr21"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.0794963,
+    "maxlon": -74.1524523,
+    "minlat": 41.0771367,
+    "minlon": -74.1533716
+   },
+   "geometry": [
+    {
+     "lat": 41.0794591,
+     "lon": -74.1533716
+    },
+    {
+     "lat": 41.079463,
+     "lon": -74.1530106
+    },
+    {
+     "lat": 41.079496,
+     "lon": -74.1530118
+    },
+    {
+     "lat": 41.0794963,
+     "lon": -74.1528866
+    },
+    {
+     "lat": 41.0794647,
+     "lon": -74.1528844
+    },
+    {
+     "lat": 41.0794677,
+     "lon": -74.152521
+    },
+    {
+     "lat": 41.0794368,
+     "lon": -74.1525204
+    },
+    {
+     "lat": 41.078959,
+     "lon": -74.1525117
+    },
+    {
+     "lat": 41.0788816,
+     "lon": -74.1525103
+    },
+    {
+     "lat": 41.0788824,
+     "lon": -74.152485
+    },
+    {
+     "lat": 41.0787719,
+     "lon": -74.1524523
+    },
+    {
+     "lat": 41.078654,
+     "lon": -74.1524784
+    },
+    {
+     "lat": 41.0786532,
+     "lon": -74.152504
+    },
+    {
+     "lat": 41.0783743,
+     "lon": -74.1524962
+    },
+    {
+     "lat": 41.0771792,
+     "lon": -74.1524631
+    },
+    {
+     "lat": 41.0771367,
+     "lon": -74.1524622
+    },
+    {
+     "lat": 41.0771397,
+     "lon": -74.153326
+    },
+    {
+     "lat": 41.0772027,
+     "lon": -74.1533269
+    },
+    {
+     "lat": 41.0777485,
+     "lon": -74.1533351
+    },
+    {
+     "lat": 41.0794591,
+     "lon": -74.1533716
+    }
+   ],
+   "id": 472761713,
+   "tags": {
+    "building": "yes",
+    "name": "NYSE Data Center",
+    "operator": "nyse",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.8313357,
+    "maxlon": -75.1947323,
+    "minlat": 39.8305245,
+    "minlon": -75.1959142
+   },
+   "geometry": [
+    {
+     "lat": 39.8308048,
+     "lon": -75.1959142
+    },
+    {
+     "lat": 39.8313357,
+     "lon": -75.1950119
+    },
+    {
+     "lat": 39.8310555,
+     "lon": -75.1947323
+    },
+    {
+     "lat": 39.8305245,
+     "lon": -75.1956346
+    },
+    {
+     "lat": 39.8308048,
+     "lon": -75.1959142
+    }
+   ],
+   "id": 607483487,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5713852,
+    "maxlon": -74.6689893,
+    "minlat": 40.5693592,
+    "minlon": -74.6716699
+   },
+   "geometry": [
+    {
+     "lat": 40.5693592,
+     "lon": -74.670485
+    },
+    {
+     "lat": 40.5704321,
+     "lon": -74.6716699
+    },
+    {
+     "lat": 40.5713852,
+     "lon": -74.6701742
+    },
+    {
+     "lat": 40.5703123,
+     "lon": -74.6689893
+    },
+    {
+     "lat": 40.5693592,
+     "lon": -74.670485
+    }
+   ],
+   "id": 612045611,
+   "tags": {
+    "addr:city": "Bridgewater Township",
+    "addr:housenumber": "755",
+    "addr:postcode": "08807",
+    "addr:state": "NJ",
+    "addr:street": "US 202",
+    "building": "yes",
+    "name": "Goldman Sachs",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5817839,
+    "maxlon": -74.5734939,
+    "minlat": 40.5811841,
+    "minlon": -74.5742811
+   },
+   "geometry": [
+    {
+     "lat": 40.5817839,
+     "lon": -74.5740394
+    },
+    {
+     "lat": 40.5813984,
+     "lon": -74.5742811
+    },
+    {
+     "lat": 40.5813241,
+     "lon": -74.5740757
+    },
+    {
+     "lat": 40.5812169,
+     "lon": -74.5740254
+    },
+    {
+     "lat": 40.5812264,
+     "lon": -74.5739905
+    },
+    {
+     "lat": 40.5812162,
+     "lon": -74.5739571
+    },
+    {
+     "lat": 40.5812375,
+     "lon": -74.5739458
+    },
+    {
+     "lat": 40.581255,
+     "lon": -74.5738796
+    },
+    {
+     "lat": 40.5811841,
+     "lon": -74.5736834
+    },
+    {
+     "lat": 40.5814863,
+     "lon": -74.5734939
+    },
+    {
+     "lat": 40.5815208,
+     "lon": -74.5735894
+    },
+    {
+     "lat": 40.5816027,
+     "lon": -74.5735381
+    },
+    {
+     "lat": 40.5817839,
+     "lon": -74.5740394
+    }
+   ],
+   "id": 618339179,
+   "tags": {
+    "addr:city": "Bridgewater",
+    "addr:housenumber": "999",
+    "addr:postcode": "08807",
+    "addr:state": "NJ",
+    "addr:street": "Frontier Road",
+    "building": "yes",
+    "name": "365 Bridgewater NJ",
+    "telecom": "data_center",
+    "website": "https://365datacenters.com/new-jersey-data-center/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7780333,
+    "maxlon": -74.0720088,
+    "minlat": 40.7770638,
+    "minlon": -74.0733664
+   },
+   "geometry": [
+    {
+     "lat": 40.7770638,
+     "lon": -74.0722891
+    },
+    {
+     "lat": 40.777589,
+     "lon": -74.0720088
+    },
+    {
+     "lat": 40.7778158,
+     "lon": -74.07275
+    },
+    {
+     "lat": 40.7779305,
+     "lon": -74.0726888
+    },
+    {
+     "lat": 40.7780333,
+     "lon": -74.0730249
+    },
+    {
+     "lat": 40.7773935,
+     "lon": -74.0733664
+    },
+    {
+     "lat": 40.7770638,
+     "lon": -74.0722891
+    }
+   ],
+   "id": 714139865,
+   "tags": {
+    "building": "yes",
+    "name": "Equinix Secaucus NY6",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.785435,
+    "maxlon": -74.0637482,
+    "minlat": 40.7831337,
+    "minlon": -74.066737
+   },
+   "geometry": [
+    {
+     "lat": 40.7836699,
+     "lon": -74.0667055
+    },
+    {
+     "lat": 40.7835178,
+     "lon": -74.0662003
+    },
+    {
+     "lat": 40.7835633,
+     "lon": -74.0661764
+    },
+    {
+     "lat": 40.7831337,
+     "lon": -74.0647498
+    },
+    {
+     "lat": 40.7850407,
+     "lon": -74.0637482
+    },
+    {
+     "lat": 40.7851995,
+     "lon": -74.0642756
+    },
+    {
+     "lat": 40.785171,
+     "lon": -74.0644692
+    },
+    {
+     "lat": 40.7850847,
+     "lon": -74.0647843
+    },
+    {
+     "lat": 40.785435,
+     "lon": -74.0658841
+    },
+    {
+     "lat": 40.7838032,
+     "lon": -74.066737
+    },
+    {
+     "lat": 40.7836699,
+     "lon": -74.0667055
+    }
+   ],
+   "id": 714139868,
+   "tags": {
+    "name": "CoreSite Secaucus Campus",
+    "operator": "CoreSite",
+    "operator:wikidata": "Q5170140",
+    "telecom": "data_center",
+    "website": "https://coresite.com/data-center/ny2-secaucus-nj"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5804839,
+    "maxlon": -74.5186435,
+    "minlat": 40.5793073,
+    "minlon": -74.5201611
+   },
+   "geometry": [
+    {
+     "lat": 40.5801496,
+     "lon": -74.5200469
+    },
+    {
+     "lat": 40.5800667,
+     "lon": -74.5201611
+    },
+    {
+     "lat": 40.5797481,
+     "lon": -74.5197842
+    },
+    {
+     "lat": 40.5797239,
+     "lon": -74.5198171
+    },
+    {
+     "lat": 40.579696,
+     "lon": -74.5198165
+    },
+    {
+     "lat": 40.579687,
+     "lon": -74.5197381
+    },
+    {
+     "lat": 40.5796611,
+     "lon": -74.5196713
+    },
+    {
+     "lat": 40.5793073,
+     "lon": -74.5192438
+    },
+    {
+     "lat": 40.579695,
+     "lon": -74.5186965
+    },
+    {
+     "lat": 40.5797452,
+     "lon": -74.5187553
+    },
+    {
+     "lat": 40.5798195,
+     "lon": -74.5186435
+    },
+    {
+     "lat": 40.5800417,
+     "lon": -74.5188944
+    },
+    {
+     "lat": 40.5799582,
+     "lon": -74.5190096
+    },
+    {
+     "lat": 40.5802232,
+     "lon": -74.5193282
+    },
+    {
+     "lat": 40.580266,
+     "lon": -74.5192631
+    },
+    {
+     "lat": 40.5804251,
+     "lon": -74.519458
+    },
+    {
+     "lat": 40.5803726,
+     "lon": -74.5195321
+    },
+    {
+     "lat": 40.5804839,
+     "lon": -74.519674
+    },
+    {
+     "lat": 40.5803004,
+     "lon": -74.5199358
+    },
+    {
+     "lat": 40.5801934,
+     "lon": -74.5197971
+    },
+    {
+     "lat": 40.5800816,
+     "lon": -74.5199607
+    },
+    {
+     "lat": 40.5801496,
+     "lon": -74.5200469
+    }
+   ],
+   "id": 714943309,
+   "tags": {
+    "building": "yes",
+    "name": "PSE&G Delivery Emergency Response Center",
+    "operator": "PSE&G",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5851402,
+    "maxlon": -74.2424908,
+    "minlat": 40.5836035,
+    "minlon": -74.2442719
+   },
+   "geometry": [
+    {
+     "lat": 40.5842225,
+     "lon": -74.2441351
+    },
+    {
+     "lat": 40.5841922,
+     "lon": -74.2439214
+    },
+    {
+     "lat": 40.5843091,
+     "lon": -74.2438929
+    },
+    {
+     "lat": 40.5843415,
+     "lon": -74.2441152
+    },
+    {
+     "lat": 40.5851402,
+     "lon": -74.24393
+    },
+    {
+     "lat": 40.5850687,
+     "lon": -74.2433486
+    },
+    {
+     "lat": 40.5847982,
+     "lon": -74.2433885
+    },
+    {
+     "lat": 40.5846792,
+     "lon": -74.2424908
+    },
+    {
+     "lat": 40.5840602,
+     "lon": -74.2428898
+    },
+    {
+     "lat": 40.5840873,
+     "lon": -74.2431136
+    },
+    {
+     "lat": 40.5837247,
+     "lon": -74.2431947
+    },
+    {
+     "lat": 40.5837572,
+     "lon": -74.243417
+    },
+    {
+     "lat": 40.5836641,
+     "lon": -74.2434455
+    },
+    {
+     "lat": 40.5837009,
+     "lon": -74.2437647
+    },
+    {
+     "lat": 40.5836035,
+     "lon": -74.2437818
+    },
+    {
+     "lat": 40.5836641,
+     "lon": -74.2442719
+    },
+    {
+     "lat": 40.5842225,
+     "lon": -74.2441351
+    }
+   ],
+   "id": 729376485,
+   "tags": {
+    "addr:city": "Carteret",
+    "addr:housenumber": "1400",
+    "addr:postcode": "07008",
+    "addr:state": "NJ",
+    "addr:street": "Federal Boulevard",
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.6000532,
+    "maxlon": -74.7093653,
+    "minlat": 40.5990621,
+    "minlon": -74.7105716
+   },
+   "geometry": [
+    {
+     "lat": 40.5996891,
+     "lon": -74.7104697
+    },
+    {
+     "lat": 40.5996185,
+     "lon": -74.7105377
+    },
+    {
+     "lat": 40.5994902,
+     "lon": -74.7105716
+    },
+    {
+     "lat": 40.599354,
+     "lon": -74.7104522
+    },
+    {
+     "lat": 40.5992913,
+     "lon": -74.7102931
+    },
+    {
+     "lat": 40.5993009,
+     "lon": -74.7101557
+    },
+    {
+     "lat": 40.5993599,
+     "lon": -74.71003
+    },
+    {
+     "lat": 40.5994133,
+     "lon": -74.7099834
+    },
+    {
+     "lat": 40.5994814,
+     "lon": -74.7099416
+    },
+    {
+     "lat": 40.5994896,
+     "lon": -74.7099648
+    },
+    {
+     "lat": 40.5995677,
+     "lon": -74.7099353
+    },
+    {
+     "lat": 40.5994629,
+     "lon": -74.7097815
+    },
+    {
+     "lat": 40.5992633,
+     "lon": -74.7099872
+    },
+    {
+     "lat": 40.5992098,
+     "lon": -74.7098935
+    },
+    {
+     "lat": 40.599229,
+     "lon": -74.7098733
+    },
+    {
+     "lat": 40.5990621,
+     "lon": -74.7095773
+    },
+    {
+     "lat": 40.5992644,
+     "lon": -74.7093771
+    },
+    {
+     "lat": 40.5993195,
+     "lon": -74.7094544
+    },
+    {
+     "lat": 40.5994163,
+     "lon": -74.7093657
+    },
+    {
+     "lat": 40.5994678,
+     "lon": -74.7094446
+    },
+    {
+     "lat": 40.5995574,
+     "lon": -74.7093653
+    },
+    {
+     "lat": 40.599668,
+     "lon": -74.7095535
+    },
+    {
+     "lat": 40.5996291,
+     "lon": -74.7095982
+    },
+    {
+     "lat": 40.5996868,
+     "lon": -74.7096916
+    },
+    {
+     "lat": 40.5998045,
+     "lon": -74.7095729
+    },
+    {
+     "lat": 40.5998416,
+     "lon": -74.7096287
+    },
+    {
+     "lat": 40.5998823,
+     "lon": -74.7095894
+    },
+    {
+     "lat": 40.6000532,
+     "lon": -74.7098761
+    },
+    {
+     "lat": 40.5997375,
+     "lon": -74.7102069
+    },
+    {
+     "lat": 40.5996867,
+     "lon": -74.7101271
+    },
+    {
+     "lat": 40.5995436,
+     "lon": -74.7102777
+    },
+    {
+     "lat": 40.5995576,
+     "lon": -74.7103329
+    },
+    {
+     "lat": 40.5995713,
+     "lon": -74.71034
+    },
+    {
+     "lat": 40.5995772,
+     "lon": -74.7103677
+    },
+    {
+     "lat": 40.5995636,
+     "lon": -74.7103772
+    },
+    {
+     "lat": 40.5995894,
+     "lon": -74.7104985
+    },
+    {
+     "lat": 40.599634,
+     "lon": -74.7104787
+    },
+    {
+     "lat": 40.5996715,
+     "lon": -74.7104361
+    },
+    {
+     "lat": 40.5996891,
+     "lon": -74.7104697
+    }
+   ],
+   "id": 756382880,
+   "tags": {
+    "building": "yes",
+    "name": "Verizon Branchburg NEC Datacenter",
+    "operator": "Verizon",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5281981,
+    "maxlon": -74.6825802,
+    "minlat": 40.5279455,
+    "minlon": -74.6830523
+   },
+   "geometry": [
+    {
+     "lat": 40.5281981,
+     "lon": -74.6829973
+    },
+    {
+     "lat": 40.5281237,
+     "lon": -74.6825802
+    },
+    {
+     "lat": 40.5279455,
+     "lon": -74.6826352
+    },
+    {
+     "lat": 40.5280199,
+     "lon": -74.6830523
+    },
+    {
+     "lat": 40.5281981,
+     "lon": -74.6829973
+    }
+   ],
+   "id": 758580536,
+   "tags": {
+    "building": "yes",
+    "name": "Vital Records",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.1612607,
+    "maxlon": -74.0527132,
+    "minlat": 40.1602493,
+    "minlon": -74.0534119
+   },
+   "geometry": [
+    {
+     "lat": 40.1602493,
+     "lon": -74.053302
+    },
+    {
+     "lat": 40.1608843,
+     "lon": -74.0533783
+    },
+    {
+     "lat": 40.1611643,
+     "lon": -74.0534119
+    },
+    {
+     "lat": 40.1611897,
+     "lon": -74.0530495
+    },
+    {
+     "lat": 40.1612449,
+     "lon": -74.0530561
+    },
+    {
+     "lat": 40.1612607,
+     "lon": -74.0528297
+    },
+    {
+     "lat": 40.1602906,
+     "lon": -74.0527132
+    },
+    {
+     "lat": 40.1602493,
+     "lon": -74.053302
+    }
+   ],
+   "id": 808909814,
+   "tags": {
+    "alt_name": "Tata Cable Landing Station Tuckerton",
+    "building": "yes",
+    "name": "Wall Township Cable Landing Station",
+    "operator": "Tata",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.8342946,
+    "maxlon": -74.1392712,
+    "minlat": 40.8326054,
+    "minlon": -74.1411661
+   },
+   "geometry": [
+    {
+     "lat": 40.8342946,
+     "lon": -74.1399994
+    },
+    {
+     "lat": 40.8339264,
+     "lon": -74.1392712
+    },
+    {
+     "lat": 40.8326054,
+     "lon": -74.1404382
+    },
+    {
+     "lat": 40.8329734,
+     "lon": -74.1411661
+    },
+    {
+     "lat": 40.832993,
+     "lon": -74.1411488
+    },
+    {
+     "lat": 40.8334923,
+     "lon": -74.1407079
+    },
+    {
+     "lat": 40.833745,
+     "lon": -74.1404847
+    },
+    {
+     "lat": 40.8342946,
+     "lon": -74.1399994
+    }
+   ],
+   "id": 818790301,
+   "tags": {
+    "building": "industrial",
+    "name": "Credit Suisse: Clifton Data Center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5249729,
+    "maxlon": -74.5464796,
+    "minlat": 40.5235823,
+    "minlon": -74.5492824
+   },
+   "geometry": [
+    {
+     "lat": 40.5249729,
+     "lon": -74.549204
+    },
+    {
+     "lat": 40.5244753,
+     "lon": -74.5464796
+    },
+    {
+     "lat": 40.5237739,
+     "lon": -74.54678
+    },
+    {
+     "lat": 40.5236475,
+     "lon": -74.5470321
+    },
+    {
+     "lat": 40.5236394,
+     "lon": -74.5475471
+    },
+    {
+     "lat": 40.5235823,
+     "lon": -74.5480406
+    },
+    {
+     "lat": 40.5237535,
+     "lon": -74.5490706
+    },
+    {
+     "lat": 40.5239085,
+     "lon": -74.5492262
+    },
+    {
+     "lat": 40.5241334,
+     "lon": -74.5492824
+    },
+    {
+     "lat": 40.5244868,
+     "lon": -74.5492208
+    },
+    {
+     "lat": 40.5249729,
+     "lon": -74.549204
+    }
+   ],
+   "id": 936368014,
+   "tags": {
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.9064389,
+    "maxlon": -74.229102,
+    "minlat": 40.9048021,
+    "minlon": -74.2312671
+   },
+   "geometry": [
+    {
+     "lat": 40.9051736,
+     "lon": -74.229102
+    },
+    {
+     "lat": 40.9054054,
+     "lon": -74.229462
+    },
+    {
+     "lat": 40.9056157,
+     "lon": -74.229225
+    },
+    {
+     "lat": 40.9056493,
+     "lon": -74.2292772
+    },
+    {
+     "lat": 40.9058612,
+     "lon": -74.2296062
+    },
+    {
+     "lat": 40.905644,
+     "lon": -74.2298511
+    },
+    {
+     "lat": 40.905692,
+     "lon": -74.2299256
+    },
+    {
+     "lat": 40.9062004,
+     "lon": -74.2293522
+    },
+    {
+     "lat": 40.9064389,
+     "lon": -74.2297225
+    },
+    {
+     "lat": 40.9059437,
+     "lon": -74.2302809
+    },
+    {
+     "lat": 40.9059774,
+     "lon": -74.2303331
+    },
+    {
+     "lat": 40.9059935,
+     "lon": -74.2303149
+    },
+    {
+     "lat": 40.9061245,
+     "lon": -74.2305183
+    },
+    {
+     "lat": 40.9058308,
+     "lon": -74.2308494
+    },
+    {
+     "lat": 40.905848,
+     "lon": -74.2308761
+    },
+    {
+     "lat": 40.9056753,
+     "lon": -74.2310705
+    },
+    {
+     "lat": 40.9055561,
+     "lon": -74.2308852
+    },
+    {
+     "lat": 40.9055751,
+     "lon": -74.2308637
+    },
+    {
+     "lat": 40.9055425,
+     "lon": -74.2308129
+    },
+    {
+     "lat": 40.9056095,
+     "lon": -74.2307375
+    },
+    {
+     "lat": 40.9055761,
+     "lon": -74.2306857
+    },
+    {
+     "lat": 40.9050594,
+     "lon": -74.2312671
+    },
+    {
+     "lat": 40.9048126,
+     "lon": -74.2308832
+    },
+    {
+     "lat": 40.9053056,
+     "lon": -74.2303285
+    },
+    {
+     "lat": 40.9052812,
+     "lon": -74.2302907
+    },
+    {
+     "lat": 40.9050808,
+     "lon": -74.2305165
+    },
+    {
+     "lat": 40.9048268,
+     "lon": -74.2301219
+    },
+    {
+     "lat": 40.9050367,
+     "lon": -74.2298853
+    },
+    {
+     "lat": 40.9048021,
+     "lon": -74.2295207
+    },
+    {
+     "lat": 40.9051736,
+     "lon": -74.229102
+    }
+   ],
+   "id": 966520234,
+   "tags": {
+    "building": "yes",
+    "operator": "JPMorgan Chase",
+    "operator:wikidata": "Q192314",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5441674,
+    "maxlon": -74.5371951,
+    "minlat": 40.5424972,
+    "minlon": -74.539552
+   },
+   "geometry": [
+    {
+     "lat": 40.5437259,
+     "lon": -74.5373739
+    },
+    {
+     "lat": 40.5436814,
+     "lon": -74.5371951
+    },
+    {
+     "lat": 40.5424972,
+     "lon": -74.5377056
+    },
+    {
+     "lat": 40.542957,
+     "lon": -74.539552
+    },
+    {
+     "lat": 40.5441674,
+     "lon": -74.5393288
+    },
+    {
+     "lat": 40.5441333,
+     "lon": -74.5391805
+    },
+    {
+     "lat": 40.5437259,
+     "lon": -74.5373739
+    }
+   ],
+   "id": 989352911,
+   "tags": {
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5447238,
+    "maxlon": -74.5373803,
+    "minlat": 40.5443291,
+    "minlon": -74.5381949
+   },
+   "geometry": [
+    {
+     "lat": 40.5444762,
+     "lon": -74.5381949
+    },
+    {
+     "lat": 40.5443291,
+     "lon": -74.5375098
+    },
+    {
+     "lat": 40.5446772,
+     "lon": -74.5373803
+    },
+    {
+     "lat": 40.5447238,
+     "lon": -74.5375958
+    },
+    {
+     "lat": 40.5445742,
+     "lon": -74.5376517
+    },
+    {
+     "lat": 40.5446746,
+     "lon": -74.5381214
+    },
+    {
+     "lat": 40.5444762,
+     "lon": -74.5381949
+    }
+   ],
+   "id": 998933381,
+   "tags": {
+    "building": "yes",
+    "name": "Rackspace Somerset NYC1",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5412985,
+    "maxlon": -74.5369994,
+    "minlat": 40.5403875,
+    "minlon": -74.5379837
+   },
+   "geometry": [
+    {
+     "lat": 40.5411267,
+     "lon": -74.5369994
+    },
+    {
+     "lat": 40.541215,
+     "lon": -74.5374007
+    },
+    {
+     "lat": 40.5412536,
+     "lon": -74.537386
+    },
+    {
+     "lat": 40.5412604,
+     "lon": -74.5374157
+    },
+    {
+     "lat": 40.5412356,
+     "lon": -74.5374248
+    },
+    {
+     "lat": 40.5412515,
+     "lon": -74.5374991
+    },
+    {
+     "lat": 40.5412554,
+     "lon": -74.537497
+    },
+    {
+     "lat": 40.5412985,
+     "lon": -74.5376932
+    },
+    {
+     "lat": 40.5405424,
+     "lon": -74.5379837
+    },
+    {
+     "lat": 40.5403875,
+     "lon": -74.5372831
+    },
+    {
+     "lat": 40.5411267,
+     "lon": -74.5369994
+    }
+   ],
+   "id": 998933389,
+   "tags": {
+    "building": "yes",
+    "name": "Rackspace Belmont NYC2",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.2089492,
+    "maxlon": -74.11862,
+    "minlat": 40.2079751,
+    "minlon": -74.119864
+   },
+   "geometry": [
+    {
+     "lat": 40.2085899,
+     "lon": -74.11862
+    },
+    {
+     "lat": 40.2089492,
+     "lon": -74.1191518
+    },
+    {
+     "lat": 40.2083344,
+     "lon": -74.119864
+    },
+    {
+     "lat": 40.2079751,
+     "lon": -74.1193321
+    },
+    {
+     "lat": 40.2085899,
+     "lon": -74.11862
+    }
+   ],
+   "id": 1189426328,
+   "tags": {
+    "building": "yes",
+    "fixme": "Operator is either Verizon or DPF Data Services Group, and I cannot figure out which",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.1297768,
+    "maxlon": -74.0425792,
+    "minlat": 40.1293454,
+    "minlon": -74.0429674
+   },
+   "geometry": [
+    {
+     "lat": 40.129453,
+     "lon": -74.0427122
+    },
+    {
+     "lat": 40.1295296,
+     "lon": -74.0426709
+    },
+    {
+     "lat": 40.1297072,
+     "lon": -74.0425792
+    },
+    {
+     "lat": 40.1297316,
+     "lon": -74.0426603
+    },
+    {
+     "lat": 40.1297474,
+     "lon": -74.0427164
+    },
+    {
+     "lat": 40.1297672,
+     "lon": -74.0427649
+    },
+    {
+     "lat": 40.1297768,
+     "lon": -74.0427975
+    },
+    {
+     "lat": 40.1296924,
+     "lon": -74.0428358
+    },
+    {
+     "lat": 40.1296351,
+     "lon": -74.0428657
+    },
+    {
+     "lat": 40.1295188,
+     "lon": -74.0429222
+    },
+    {
+     "lat": 40.1294783,
+     "lon": -74.0429482
+    },
+    {
+     "lat": 40.129447,
+     "lon": -74.0429674
+    },
+    {
+     "lat": 40.1293729,
+     "lon": -74.0428419
+    },
+    {
+     "lat": 40.1293454,
+     "lon": -74.0427667
+    },
+    {
+     "lat": 40.129453,
+     "lon": -74.0427122
+    }
+   ],
+   "id": 1189437032,
+   "tags": {
+    "addr:city": "Manasquan",
+    "addr:housenumber": "600",
+    "addr:postcode": "08736",
+    "addr:state": "NJ",
+    "addr:street": "Sea Girt Avenue",
+    "alt_name": "SPRINT Manasquan CLS (TAT-14)",
+    "building": "yes",
+    "name": "Manasquan Cable Landing Station (TAT-14)",
+    "operator": "Sprint",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.2398297,
+    "maxlon": -74.3188304,
+    "minlat": 40.238622,
+    "minlon": -74.3202448
+   },
+   "geometry": [
+    {
+     "lat": 40.238622,
+     "lon": -74.3196115
+    },
+    {
+     "lat": 40.238814,
+     "lon": -74.3191271
+    },
+    {
+     "lat": 40.2387543,
+     "lon": -74.3190784
+    },
+    {
+     "lat": 40.2387872,
+     "lon": -74.3190102
+    },
+    {
+     "lat": 40.2388514,
+     "lon": -74.3190659
+    },
+    {
+     "lat": 40.2388869,
+     "lon": -74.3189845
+    },
+    {
+     "lat": 40.2389548,
+     "lon": -74.319018
+    },
+    {
+     "lat": 40.2390416,
+     "lon": -74.3188304
+    },
+    {
+     "lat": 40.2393974,
+     "lon": -74.319074
+    },
+    {
+     "lat": 40.2395824,
+     "lon": -74.3192297
+    },
+    {
+     "lat": 40.2395954,
+     "lon": -74.3192084
+    },
+    {
+     "lat": 40.2397239,
+     "lon": -74.3190423
+    },
+    {
+     "lat": 40.2397872,
+     "lon": -74.3191611
+    },
+    {
+     "lat": 40.2398218,
+     "lon": -74.3192852
+    },
+    {
+     "lat": 40.2398297,
+     "lon": -74.3194315
+    },
+    {
+     "lat": 40.2397882,
+     "lon": -74.3195846
+    },
+    {
+     "lat": 40.2396385,
+     "lon": -74.3194783
+    },
+    {
+     "lat": 40.2396258,
+     "lon": -74.3195393
+    },
+    {
+     "lat": 40.2396822,
+     "lon": -74.3195915
+    },
+    {
+     "lat": 40.2394157,
+     "lon": -74.3202448
+    },
+    {
+     "lat": 40.2391844,
+     "lon": -74.3201364
+    },
+    {
+     "lat": 40.239124,
+     "lon": -74.3200982
+    },
+    {
+     "lat": 40.2390406,
+     "lon": -74.3200362
+    },
+    {
+     "lat": 40.239082,
+     "lon": -74.3199313
+    },
+    {
+     "lat": 40.2390436,
+     "lon": -74.3199041
+    },
+    {
+     "lat": 40.238622,
+     "lon": -74.3196115
+    }
+   ],
+   "id": 1189915695,
+   "tags": {
+    "building": "yes",
+    "name": "Verizon Freehold Data Center",
+    "operator": "Verizon",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.610106,
+    "maxlon": -74.3258394,
+    "minlat": 39.6096416,
+    "minlon": -74.3264401
+   },
+   "geometry": [
+    {
+     "lat": 39.610106,
+     "lon": -74.3262184
+    },
+    {
+     "lat": 39.6099349,
+     "lon": -74.3258394
+    },
+    {
+     "lat": 39.6096416,
+     "lon": -74.3260652
+    },
+    {
+     "lat": 39.6098145,
+     "lon": -74.3264401
+    },
+    {
+     "lat": 39.610106,
+     "lon": -74.3262184
+    }
+   ],
+   "id": 1250867182,
+   "tags": {
+    "addr:city": "Tuckerton",
+    "addr:housenumber": "376",
+    "addr:postcode": "08087",
+    "addr:state": "NJ",
+    "addr:street": "East Main Street",
+    "alt_name": "GlobeNet Tuckerton CLS",
+    "name": "GlobeNet Tuckerton Cable Landing Station",
+    "operator": "GlobeNet",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.785227,
+    "maxlon": -74.0646927,
+    "minlat": 40.7845806,
+    "minlon": -74.0660219
+   },
+   "geometry": [
+    {
+     "lat": 40.785227,
+     "lon": -74.0658689
+    },
+    {
+     "lat": 40.7849394,
+     "lon": -74.0660219
+    },
+    {
+     "lat": 40.7845806,
+     "lon": -74.0648458
+    },
+    {
+     "lat": 40.7848684,
+     "lon": -74.0646927
+    },
+    {
+     "lat": 40.785227,
+     "lon": -74.0658689
+    }
+   ],
+   "id": 1383916144,
+   "tags": {
+    "addr:city": "Secaucus",
+    "addr:housenumber": "2",
+    "addr:postcode": "07094",
+    "addr:state": "NJ",
+    "addr:street": "Emerson Lane",
+    "building": "data_center",
+    "name": "CoreSite NY3",
+    "operator": "CoreSite",
+    "operator:wikidata": "Q5170140",
+    "ref": "NY3",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.0464745,
+    "maxlon": -74.2751672,
+    "minlat": 40.0389363,
+    "minlon": -74.283446
+   },
+   "geometry": [
+    {
+     "lat": 40.0431488,
+     "lon": -74.283446
+    },
+    {
+     "lat": 40.0389363,
+     "lon": -74.2779793
+    },
+    {
+     "lat": 40.0419208,
+     "lon": -74.2751672
+    },
+    {
+     "lat": 40.0464745,
+     "lon": -74.2818863
+    },
+    {
+     "lat": 40.0431488,
+     "lon": -74.283446
+    }
+   ],
+   "id": 1549253249,
+   "tags": {
+    "industrial": "yes",
+    "note": "Lot 30",
+    "proposed": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.0506255,
+    "maxlon": -74.2712338,
+    "minlat": 40.0419208,
+    "minlon": -74.2866782
+   },
+   "geometry": [
+    {
+     "lat": 40.0419208,
+     "lon": -74.2751672
+    },
+    {
+     "lat": 40.0462197,
+     "lon": -74.2712338
+    },
+    {
+     "lat": 40.0506255,
+     "lon": -74.2788202
+    },
+    {
+     "lat": 40.0482181,
+     "lon": -74.2853905
+    },
+    {
+     "lat": 40.0454686,
+     "lon": -74.2866782
+    },
+    {
+     "lat": 40.0441876,
+     "lon": -74.2843305
+    },
+    {
+     "lat": 40.0437987,
+     "lon": -74.284602
+    },
+    {
+     "lat": 40.0431488,
+     "lon": -74.283446
+    },
+    {
+     "lat": 40.0464745,
+     "lon": -74.2818863
+    },
+    {
+     "lat": 40.0419208,
+     "lon": -74.2751672
+    }
+   ],
+   "id": 1549253250,
+   "tags": {
+    "industrial": "yes",
+    "note": "Lote 31",
+    "proposed": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.4282346,
+    "maxlon": -75.0160261,
+    "minlat": 39.4267912,
+    "minlon": -75.0176972
+   },
+   "geometry": [
+    {
+     "lat": 39.4273137,
+     "lon": -75.0176418
+    },
+    {
+     "lat": 39.4276287,
+     "lon": -75.0173146
+    },
+    {
+     "lat": 39.4276011,
+     "lon": -75.0172701
+    },
+    {
+     "lat": 39.4279913,
+     "lon": -75.0168647
+    },
+    {
+     "lat": 39.4280188,
+     "lon": -75.0169091
+    },
+    {
+     "lat": 39.4281616,
+     "lon": -75.0167608
+    },
+    {
+     "lat": 39.4280946,
+     "lon": -75.0166528
+    },
+    {
+     "lat": 39.4282346,
+     "lon": -75.0165074
+    },
+    {
+     "lat": 39.4280849,
+     "lon": -75.0162659
+    },
+    {
+     "lat": 39.4279449,
+     "lon": -75.0164113
+    },
+    {
+     "lat": 39.4279022,
+     "lon": -75.0163424
+    },
+    {
+     "lat": 39.4280422,
+     "lon": -75.016197
+    },
+    {
+     "lat": 39.4279362,
+     "lon": -75.0160261
+    },
+    {
+     "lat": 39.4277798,
+     "lon": -75.0161886
+    },
+    {
+     "lat": 39.4277213,
+     "lon": -75.0160942
+    },
+    {
+     "lat": 39.4268899,
+     "lon": -75.0169581
+    },
+    {
+     "lat": 39.4269484,
+     "lon": -75.0170525
+    },
+    {
+     "lat": 39.4267912,
+     "lon": -75.0172159
+    },
+    {
+     "lat": 39.4268971,
+     "lon": -75.0173868
+    },
+    {
+     "lat": 39.4270544,
+     "lon": -75.0172234
+    },
+    {
+     "lat": 39.4270971,
+     "lon": -75.0172923
+    },
+    {
+     "lat": 39.4269398,
+     "lon": -75.0174557
+    },
+    {
+     "lat": 39.4270895,
+     "lon": -75.0176972
+    },
+    {
+     "lat": 39.4272468,
+     "lon": -75.0175338
+    },
+    {
+     "lat": 39.4273137,
+     "lon": -75.0176418
+    }
+   ],
+   "id": 1553894888,
+   "tags": {
+    "building": "yes",
+    "name": "DataOne Vineland",
+    "operator": "Nebius",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.9076075,
+    "maxlon": -74.2410072,
+    "minlat": 40.9068569,
+    "minlon": -74.2434367
+   },
+   "geometry": [
+    {
+     "lat": 40.9073649,
+     "lon": -74.2434367
+    },
+    {
+     "lat": 40.9068569,
+     "lon": -74.2433466
+    },
+    {
+     "lat": 40.9070785,
+     "lon": -74.2410072
+    },
+    {
+     "lat": 40.9076075,
+     "lon": -74.2411113
+    },
+    {
+     "lat": 40.9075629,
+     "lon": -74.2414828
+    },
+    {
+     "lat": 40.9074963,
+     "lon": -74.2415289
+    },
+    {
+     "lat": 40.9075466,
+     "lon": -74.2416739
+    },
+    {
+     "lat": 40.9074752,
+     "lon": -74.2417286
+    },
+    {
+     "lat": 40.9075247,
+     "lon": -74.2418789
+    },
+    {
+     "lat": 40.9074444,
+     "lon": -74.2419401
+    },
+    {
+     "lat": 40.9075053,
+     "lon": -74.2420851
+    },
+    {
+     "lat": 40.9074257,
+     "lon": -74.242143
+    },
+    {
+     "lat": 40.9074801,
+     "lon": -74.2422923
+    },
+    {
+     "lat": 40.9074022,
+     "lon": -74.2423503
+    },
+    {
+     "lat": 40.9074606,
+     "lon": -74.2425016
+    },
+    {
+     "lat": 40.9073844,
+     "lon": -74.2425639
+    },
+    {
+     "lat": 40.9074428,
+     "lon": -74.2427056
+    },
+    {
+     "lat": 40.90736,
+     "lon": -74.2427625
+    },
+    {
+     "lat": 40.907416,
+     "lon": -74.242916
+    },
+    {
+     "lat": 40.9073405,
+     "lon": -74.2429751
+    },
+    {
+     "lat": 40.9073998,
+     "lon": -74.2431157
+    },
+    {
+     "lat": 40.9073649,
+     "lon": -74.2434367
+    }
+   ],
+   "id": 1556797631,
+   "tags": {
+    "addr:city": "Totowa",
+    "addr:housenumber": "50",
+    "addr:postcode": "07512",
+    "addr:state": "NJ",
+    "addr:street": "Madison Road",
+    "building": "yes",
+    "operator": "CyrusOne",
+    "operator:wikidata": "Q16953751",
+    "ref": "NYM2",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5448858,
+    "maxlon": -74.4956728,
+    "minlat": 40.543625,
+    "minlon": -74.4973697
+   },
+   "id": 2744301,
+   "tags": {
+    "building": "yes",
+    "name": "Chirisa Technology Parks - Piscataway",
+    "operator": "Chirisa Technology Parks",
+    "telecom": "data_center",
+    "type": "multipolygon"
+   },
+   "type": "relation"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.6443473,
+    "maxlon": -74.2846939,
+    "minlat": 40.6432305,
+    "minlon": -74.2862014
+   },
+   "id": 15884451,
+   "tags": {
+    "building": "yes",
+    "name": "Barclays Datacenter",
+    "operator": "Barclays",
+    "source": "microsoft/BuildingFootprints;https://www.datacenterknowledge.com/investing/-330-million-for-lehman-s-two-nj-data-centers",
+    "telecom": "data_center",
+    "type": "multipolygon"
+   },
+   "type": "relation"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:56:34Z",
+  "timestamp_osm_base": "2026-10-21T17:14:35Z"
+ },
+ "version": 0.6
+}

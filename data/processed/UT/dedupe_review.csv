@@ -1,0 +1,13 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+osm,way/1024051963,Meta,,osm,way/1024051997,Meta,,0.691,,305.3,0.739,1.0,0.0,1.0,[]|[]
+osm,way/1024051997,Meta,,osm,way/1473440674,Meta,,0.67,,363.4,0.677,1.0,0.0,1.0,[]|[]
+osm,way/1024051963,Meta,,osm,way/1473440676,Meta,,0.654,,409.5,0.628,1.0,0.0,1.0,[]|[]
+osm,way/1473440674,Meta,,osm,way/1473440676,Meta,,0.639,,450.3,0.585,1.0,0.0,1.0,[]|[]
+osm,way/1024051963,Meta,,osm,way/1035123473,Meta,,0.638,,453.3,0.582,1.0,0.0,1.0,[]|[]
+osm,way/1024051963,Meta,,osm,way/1473440674,Meta,,0.637,,456.5,0.578,1.0,0.0,1.0,[]|[]
+osm,way/1035123473,Meta,,osm,way/1473440676,Meta,,0.635,,461.9,0.572,1.0,0.0,1.0,[]|[]
+peeringdb,2077,EdgeConneX Salt Lake City (EDCSLC01),2302 Presidents Drive,peeringdb,2519,Voonami SLC2,2302 South Presidents Drive,0.612,,0.0,1.0,0.0,1.0,0.261,[]|['slc2']
+osm,way/1024051997,Meta,,osm,way/1473440676,Meta,,0.583,,605.2,0.42,1.0,0.0,1.0,[]|[]
+osm,way/1024051997,Meta,,osm,way/1035123473,Meta,,0.527,,758.5,0.257,1.0,0.0,1.0,[]|[]
+osm,way/1133047980,FiberState Datacenter,,peeringdb,14101,FIBERSTATE Salt Lake City (SLC1),106 E 13200 S,0.517,,47.3,1.0,0.2,0.0,0.645,[]|['slc1']
+osm,way/1035123473,Meta,,osm,way/1473440674,Meta,,0.507,,813.7,0.198,1.0,0.0,1.0,[]|[]

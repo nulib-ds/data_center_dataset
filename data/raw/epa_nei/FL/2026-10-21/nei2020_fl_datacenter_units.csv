@@ -1,0 +1,4 @@
+eis facility id,company name,site name,primary naics code,site latitude,site longitude,address,city,zip code,eis unit id,unit type,unit description,process description,scc
+16836211,,"JT COMMUNICATIONS, LLC",518210,28.427032,-81.418855,9701 S JOHN YOUNG PKWY,ORLANDO,32819-8602,111788613,Turbine,COMBUSTION TURBINE EMERGENCY GENERATOR #1,"EU 001, 002, and 003 combined fuel oil consumption of 445,000 gals/yr.",20100901
+16836211,,"JT COMMUNICATIONS, LLC",518210,28.427032,-81.418855,9701 S JOHN YOUNG PKWY,ORLANDO,32819-8602,111788813,Turbine,COMBUSTION TURBINE EMERGENCY GENERATOR #3,"EU 001, 002, and 003 combined fuel oil consumption of 445,000 gals/yr.",20100901
+16836211,,"JT COMMUNICATIONS, LLC",518210,28.427032,-81.418855,9701 S JOHN YOUNG PKWY,ORLANDO,32819-8602,111788713,Turbine,COMBUSTION TURBINE EMERGENCY GENERATOR #2,"EU 001, 002, and 003 combined fuel oil consumption of 445,000 gals/yr.",20100901

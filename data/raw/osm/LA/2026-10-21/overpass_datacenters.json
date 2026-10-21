@@ -1,0 +1,75 @@
+{
+ "elements": [
+  {
+   "id": 3468203102,
+   "lat": 30.407446,
+   "lon": -91.1725454,
+   "tags": {
+    "name": "Center for Computation & Technology (CCT)",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 14124760832,
+   "lat": 30.4539942,
+   "lon": -91.115481,
+   "tags": {
+    "addr:city": "Baton Rouge",
+    "addr:housenumber": "7127",
+    "addr:postcode": "70806",
+    "addr:state": "LA",
+    "addr:street": "Florida Blvd",
+    "name": "DartPoints Baton Rouge 2",
+    "operator": "DartPoints",
+    "ref": "BTR02",
+    "telecom": "data_center",
+    "website": "https://dartpoints.com/locations/btr02-baton-rouge-la/"
+   },
+   "type": "node"
+  },
+  {
+   "id": 14124761022,
+   "lat": 30.4538251,
+   "lon": -91.1160531,
+   "tags": {
+    "addr:city": "Baton Rouge",
+    "addr:housenumber": "7127",
+    "addr:postcode": "70806",
+    "addr:state": "LA",
+    "addr:street": "Florida Blvd",
+    "name": "DartPoints Baton Rouge 1",
+    "operator": "DartPoints",
+    "ref": "BTR01",
+    "telecom": "data_center",
+    "website": "https://dartpoints.com/locations/btr01-baton-rouge-la/"
+   },
+   "type": "node"
+  },
+  {
+   "id": 14124769105,
+   "lat": 32.5110171,
+   "lon": -93.7498076,
+   "tags": {
+    "addr:city": "Shreveport",
+    "addr:housenumber": "601",
+    "addr:postcode": "71101",
+    "addr:state": "LA",
+    "addr:street": "Milam Street",
+    "name": "DartPoints Shreveport",
+    "operator": "DartPoints",
+    "ref": "SHV01",
+    "telecom": "data_center",
+    "website": "https://dartpoints.com/locations/shv01-shreveport-la/"
+   },
+   "type": "node"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:16:04Z",
+  "timestamp_osm_base": "2026-10-21T17:05:32Z"
+ },
+ "version": 0.6
+}

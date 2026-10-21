@@ -1,0 +1,8 @@
+facility_id,source,source_id,source_url,source_name
+firstlight-data-center-ea2abe,osm,node/7171975407,https://www.openstreetmap.org/node/7171975407,FirstLight Data Center
+oxford-networks-8b4c79,osm,way/667796922,https://www.openstreetmap.org/way/667796922,Oxford Networks
+datacenter-e0cb6d,osm,way/1534758773,https://www.openstreetmap.org/way/1534758773,Datacenter
+firstlight-regen-hut-e7bc9a,peeringdb,3860,https://www.peeringdb.com/fac/3860,FirstLight Regen Hut
+consolidated-45-forest-ave-9c1075,peeringdb,4106,https://www.peeringdb.com/fac/4106,Consolidated - 45 Forest Ave.
+university-of-maine-neville-telecom-colo-d72a63,peeringdb,5113,https://www.peeringdb.com/fac/5113,University of Maine - Neville Telecom Colo
+centra-pwm1-portland-maine-340-cumberland-80a002,peeringdb,11838,https://www.peeringdb.com/fac/11838,"CENTRA PWM1 - Portland, Maine (340 Cumberland)"

@@ -32,23 +32,23 @@ digital-realty-phx15-2121-s-price-rd-6b4b60,osm,way/300952513,https://www.openst
 digital-realty-phx15-2121-s-price-rd-6b4b60,peeringdb,5138,https://www.peeringdb.com/fac/5138,Digital Realty PHX15 (2121 S Price Rd)
 h5-data-centers-phoenix-d68f8f,osm,way/300959969,https://www.openstreetmap.org/way/300959969,H5 Phoenix
 h5-data-centers-phoenix-d68f8f,peeringdb,3076,https://www.peeringdb.com/fac/3076,H5 Data Centers Phoenix
-cyrusone-phoenix-80e356,osm,way/300959970,https://www.openstreetmap.org/way/300959970,CyrusOne
-cyrusone-phoenix-80e356,osm,way/781370600,https://www.openstreetmap.org/way/781370600,CyrusOne
-cyrusone-phoenix-80e356,osm,way/977653854,https://www.openstreetmap.org/way/977653854,CyrusOne
-cyrusone-phoenix-80e356,osm,way/977653858,https://www.openstreetmap.org/way/977653858,CyrusOne
-cyrusone-phoenix-80e356,osm,way/977653859,https://www.openstreetmap.org/way/977653859,CyrusOne
-cyrusone-phoenix-80e356,osm,way/1227682824,https://www.openstreetmap.org/way/1227682824,CyrusOne
-cyrusone-phoenix-80e356,osm,way/1227684019,https://www.openstreetmap.org/way/1227684019,CyrusOne
-cyrusone-phoenix-80e356,osm,way/1227684020,https://www.openstreetmap.org/way/1227684020,CyrusOne
-cyrusone-phoenix-80e356,peeringdb,1488,https://www.peeringdb.com/fac/1488,CyrusOne Phoenix
+cyrusone-phoenix-bfdb3a,osm,way/300959970,https://www.openstreetmap.org/way/300959970,CyrusOne
+cyrusone-phoenix-bfdb3a,osm,way/781370600,https://www.openstreetmap.org/way/781370600,CyrusOne
+cyrusone-phoenix-bfdb3a,osm,way/977653854,https://www.openstreetmap.org/way/977653854,CyrusOne
+cyrusone-phoenix-bfdb3a,osm,way/977653858,https://www.openstreetmap.org/way/977653858,CyrusOne
+cyrusone-phoenix-bfdb3a,osm,way/977653859,https://www.openstreetmap.org/way/977653859,CyrusOne
+cyrusone-phoenix-bfdb3a,osm,way/1227682824,https://www.openstreetmap.org/way/1227682824,CyrusOne
+cyrusone-phoenix-bfdb3a,osm,way/1227684019,https://www.openstreetmap.org/way/1227684019,CyrusOne
+cyrusone-phoenix-bfdb3a,osm,way/1227684020,https://www.openstreetmap.org/way/1227684020,CyrusOne
+cyrusone-phoenix-bfdb3a,peeringdb,1488,https://www.peeringdb.com/fac/1488,CyrusOne Phoenix
 apple-data-center-ed2980,osm,way/300974499,https://www.openstreetmap.org/way/300974499,Apple Data Center
 stream-data-centers-phoenix-i-7155c9,osm,way/468707940,https://www.openstreetmap.org/way/468707940,Stream Data Centers PHX-1
 stream-data-centers-phoenix-i-7155c9,peeringdb,8088,https://www.peeringdb.com/fac/8088,Stream Data Centers - Phoenix I
 godaddy-gilbert-92307e,osm,way/530982335,https://www.openstreetmap.org/way/530982335,GoDaddy - Gilbert
 centersquare-phoenix-phx1-mesa-4018c1,osm,way/543117031,https://www.openstreetmap.org/way/543117031,Centersquare: Phoenix - (PHX1 - Mesa)
 unnamed-data-center-8a0041,osm,way/567575425,https://www.openstreetmap.org/way/567575425,
-iron-mountain-data-center-phoenix-azp-2-825f08,osm,way/685011021,https://www.openstreetmap.org/way/685011021,Iron Mountain AZP-2
-iron-mountain-data-center-phoenix-azp-2-825f08,peeringdb,6346,https://www.peeringdb.com/fac/6346,Iron Mountain Data Center - Phoenix (AZP-2)
+iron-mountain-data-center-phoenix-azp-2-44021d,osm,way/685011021,https://www.openstreetmap.org/way/685011021,Iron Mountain AZP-2
+iron-mountain-data-center-phoenix-azp-2-44021d,peeringdb,6346,https://www.peeringdb.com/fac/6346,Iron Mountain Data Center - Phoenix (AZP-2)
 phx-10-249421,osm,way/795384117,https://www.openstreetmap.org/way/795384117,PHX-10
 phx-10-249421,osm,way/1091128478,https://www.openstreetmap.org/way/1091128478,PHX-11
 phx-10-249421,osm,way/1532070752,https://www.openstreetmap.org/way/1532070752,PHX-12
@@ -71,8 +71,8 @@ qts-phoenix-phx2-395309,osm,way/1132632705,https://www.openstreetmap.org/way/113
 qts-phoenix-phx2-395309,peeringdb,13686,https://www.peeringdb.com/fac/13686,QTS Phoenix (PHX2)
 vantage-data-centers-0f8ed7,osm,way/1283734104,https://www.openstreetmap.org/way/1283734104,Vantage Data Centers
 qts-c154fb,osm,way/1315636714,https://www.openstreetmap.org/way/1315636714,QTS
-iron-mountain-data-center-phoenix-azp-1-cf4b81,osm,way/1357825755,https://www.openstreetmap.org/way/1357825755,Iron Mountain AZP-1
-iron-mountain-data-center-phoenix-azp-1-cf4b81,peeringdb,572,https://www.peeringdb.com/fac/572,Iron Mountain Data Center - Phoenix (AZP-1)
+iron-mountain-data-center-phoenix-azp-1-ca1f1d,osm,way/1357825755,https://www.openstreetmap.org/way/1357825755,Iron Mountain AZP-1
+iron-mountain-data-center-phoenix-azp-1-ca1f1d,peeringdb,572,https://www.peeringdb.com/fac/572,Iron Mountain Data Center - Phoenix (AZP-1)
 unnamed-data-center-9ab94e,osm,way/1372772726,https://www.openstreetmap.org/way/1372772726,
 unnamed-data-center-df6b41,osm,way/1456975947,https://www.openstreetmap.org/way/1456975947,
 unnamed-data-center-6dcf78,osm,way/1456975948,https://www.openstreetmap.org/way/1456975948,

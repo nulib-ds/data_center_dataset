@@ -1,0 +1,65 @@
+facility_id,source,source_id,source_url,source_name
+flexential-denver-downtown-den02-aebf4e,osm,node/12112236372,https://www.openstreetmap.org/node/12112236372,Flexential Denver - Downtown
+flexential-denver-downtown-den02-aebf4e,peeringdb,2450,https://www.peeringdb.com/fac/2450,Flexential - Denver/Downtown (DEN02)
+flexential-denver-aurora-den03-168eba,osm,node/12112270180,https://www.openstreetmap.org/node/12112270180,Flexential - Denver - Aurora
+flexential-denver-aurora-den03-168eba,peeringdb,2438,https://www.peeringdb.com/fac/2438,Flexential - Denver/Aurora (DEN03)
+edgeconnex-denver-edcden01-64ac58,osm,node/14212611951,https://www.openstreetmap.org/node/14212611951,EdgeConneX - DEN01
+edgeconnex-denver-edcden01-64ac58,peeringdb,1875,https://www.peeringdb.com/fac/1875,EdgeConneX Denver (EDCDEN01)
+pearl-plaza-office-building-882ce5,osm,way/52958203,https://www.openstreetmap.org/way/52958203,Pearl Plaza Office Building
+databank-denver-den1-cb6da8,osm,way/82150598,https://www.openstreetmap.org/way/82150598,DataBank - DEN1
+databank-denver-den1-cb6da8,peeringdb,2977,https://www.peeringdb.com/fac/2977,DataBank Denver (DEN1)
+insurance-exchange-building-1aaa16,osm,way/89784186,https://www.openstreetmap.org/way/89784186,Insurance Exchange Building
+centersquare-denver-den2-a93fb0,osm,way/192528287,https://www.openstreetmap.org/way/192528287,CSquare - DEN2
+centersquare-denver-den2-a93fb0,peeringdb,2623,https://www.peeringdb.com/fac/2623,Centersquare Denver (DEN2)
+xfinity-comcast-data-center-205d1e,osm,way/200989527,https://www.openstreetmap.org/way/200989527,Xfinity/Comcast Data Center
+flexential-den5-4cd47d,osm,way/200992988,https://www.openstreetmap.org/way/200992988,Flexential - DEN5
+databank-denver-den5-4b5b72,osm,way/292506449,https://www.openstreetmap.org/way/292506449,DataBank - DEN5
+databank-denver-den5-4b5b72,peeringdb,16588,https://www.peeringdb.com/fac/16588,Databank Denver (DEN5)
+databank-denver-den2-c89afd,osm,way/292506452,https://www.openstreetmap.org/way/292506452,DataBank - DEN2
+databank-denver-den2-c89afd,peeringdb,2198,https://www.peeringdb.com/fac/2198,DataBank Denver (DEN2)
+databank-denver-den4-4a4838,osm,way/295152006,https://www.openstreetmap.org/way/295152006,DataBank - DEN4
+databank-denver-den4-4a4838,peeringdb,10921,https://www.peeringdb.com/fac/10921,DataBank Denver (DEN4)
+flexential-denver-englewood-den11-e4daad,osm,way/377545385,https://www.openstreetmap.org/way/377545385,Flexential Denver - Englewood
+flexential-denver-englewood-den11-e4daad,peeringdb,2439,https://www.peeringdb.com/fac/2439,Flexential - Denver/Englewood (DEN11)
+flexential-denver-englewood-den11-e4daad,epa_nei,18711711,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18711711,VIAWEST INC - ENGLEWOOD DATA CENTER
+walmart-colorado-data-center-a5bc59,osm,way/400540223,https://www.openstreetmap.org/way/400540223,Walmart Colorado Data Center
+google-thornton-a79f44,osm,way/426586135,https://www.openstreetmap.org/way/426586135,Google - Thornton
+time-warner-datacenter-f5e28d,osm,way/453969917,https://www.openstreetmap.org/way/453969917,Time Warner Datacenter
+time-warner-datacenter-f5e28d,osm,way/453969923,https://www.openstreetmap.org/way/453969923,Time Warner Datacenter
+unnamed-data-center-9b7ebc,osm,way/476609221,https://www.openstreetmap.org/way/476609221,
+us-signal-co01-denver-9cfc4f,osm,way/778989332,https://www.openstreetmap.org/way/778989332,US Signal - CO01
+us-signal-co01-denver-9cfc4f,peeringdb,12305,https://www.peeringdb.com/fac/12305,US Signal CO01 - Denver
+sap-cos02-4405f0,osm,way/813532303,https://www.openstreetmap.org/way/813532303,SAP COS02
+jpmorgan-chase-9060ed,osm,way/845775548,https://www.openstreetmap.org/way/845775548,JPMorgan Chase
+jpmorgan-chase-9060ed,epa_nei,20042711,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=20042711,JPMORGAN CHASE - PROJ SYCAMORE-BROOMFIEL
+unnamed-data-center-5356e8,osm,way/916046040,https://www.openstreetmap.org/way/916046040,
+edgeconnex-den02-7c8569,osm,way/918943458,https://www.openstreetmap.org/way/918943458,EdgeConnex - DEN02
+t5-colorado-springs-ae25a8,osm,way/1083841125,https://www.openstreetmap.org/way/1083841125,T5@Colorado Springs
+t5-colorado-springs-ae25a8,peeringdb,11932,https://www.peeringdb.com/fac/11932,T5@Colorado Springs
+qts-41d6af,osm,way/1273968634,https://www.openstreetmap.org/way/1273968634,QTS
+qts-9db503,osm,way/1560424378,https://www.openstreetmap.org/way/1560424378,QTS
+coresite-denver-de1-ab9595,peeringdb,389,https://www.peeringdb.com/fac/389,CoreSite - Denver (DE1)
+coresite-denver-de1-ab9595,epa_nei,18761111,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18761111,CORESITE - CORESITE DENVER
+equinix-de2-denver-838212,peeringdb,696,https://www.peeringdb.com/fac/696,Equinix DE2 - Denver
+zayo-networks-413859,peeringdb,1049,https://www.peeringdb.com/fac/1049,Zayo Networks
+level-3-denver-9406d5,peeringdb,1221,https://www.peeringdb.com/fac/1221,Level(3) Denver
+coresite-denver-de2-34618a,peeringdb,1229,https://www.peeringdb.com/fac/1229,CoreSite - Denver (DE2)
+1500-champa-856683,peeringdb,1440,https://www.peeringdb.com/fac/1440,1500 Champa
+iron-mountain-data-center-denver-den-1-df7b95,peeringdb,1896,https://www.peeringdb.com/fac/1896,Iron Mountain Data Center - Denver (DEN-1)
+iron-mountain-data-center-denver-den-1-df7b95,epa_nei,20043411,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=20043411,IRON MOUNTAIN DATA CENTERS - FORTRUST
+flexential-denver-centennial-den05-393571,peeringdb,2449,https://www.peeringdb.com/fac/2449,Flexential - Denver/Centennial (DEN05)
+centersquare-denver-den1-4ce4ae,peeringdb,2621,https://www.peeringdb.com/fac/2621,Centersquare Denver (DEN1)
+h5-data-centers-denver-03a078,peeringdb,3071,https://www.peeringdb.com/fac/3071,H5 Data Centers Denver
+equinix-de1-denver-a8fb34,peeringdb,4443,https://www.peeringdb.com/fac/4443,Equinix DE1 - Denver
+data102-cos01-df07c4,peeringdb,8223,https://www.peeringdb.com/fac/8223,Data102 - COS01
+data102-cos01-df07c4,peeringdb,8224,https://www.peeringdb.com/fac/8224,Data102 - COS02
+sungard-as-aurora-55587e,peeringdb,10865,https://www.peeringdb.com/fac/10865,Sungard AS Aurora
+databank-denver-den3-8b385d,peeringdb,10920,https://www.peeringdb.com/fac/10920,DataBank Denver (DEN3)
+sungard-as-thornton-bf2a28,peeringdb,11867,https://www.peeringdb.com/fac/11867,Sungard AS Thornton
+lsvl-ctc1-5adcba,peeringdb,13111,https://www.peeringdb.com/fac/13111,LSVL-CTC1
+coloradocolo-lakewood-lkwd-256d14,peeringdb,14149,https://www.peeringdb.com/fac/14149,ColoradoColo - Lakewood (LKWD)
+bldr-1919-93f052,peeringdb,16062,https://www.peeringdb.com/fac/16062,BLDR-1919
+365-data-centers-aurora-co1-d9a278,peeringdb,16128,https://www.peeringdb.com/fac/16128,365 Data Centers Aurora (CO1)
+2210cortez-llc-2c8598,peeringdb,17560,https://www.peeringdb.com/fac/17560,2210Cortez LLC
+jpmorgan-chase-project-sycamore-aurora-cee824,epa_nei,20040711,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=20040711,JPMORGAN CHASE - PROJECT SYCAMORE AURORA
+wal-mart-colorado-data-center-7497-168898,epa_nei,17439311,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=17439311,WAL-MART -COLORADO DATA CENTER #7497

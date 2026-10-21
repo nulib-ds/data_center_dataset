@@ -1,0 +1,1203 @@
+{
+ "elements": [
+  {
+   "id": 1825907839,
+   "lat": 35.1032925,
+   "lon": -106.5893487,
+   "tags": {
+    "addr:city": "Albuquerque",
+    "addr:housename": "Tech Commons Office Complex",
+    "addr:housenumber": "5021",
+    "addr:postcode": "87110",
+    "addr:state": "NM",
+    "addr:street": "Indian School Road Northeast",
+    "addr:suite": "600",
+    "name": "Southwest Cyberport",
+    "phone": "+1-505-232-7975",
+    "short_name": "SWCP",
+    "telecom": "data_center",
+    "website": "https://www.swcp.com/",
+    "wheelchair": "yes"
+   },
+   "type": "node"
+  },
+  {
+   "id": 6625492701,
+   "lat": 35.0925015,
+   "lon": -106.6536712,
+   "tags": {
+    "addr:city": "Albuquerque",
+    "addr:housenumber": "725",
+    "addr:postcode": "87102",
+    "addr:state": "NM",
+    "addr:street": "6th Street Northwest",
+    "addr:unit": "C",
+    "name": "Oso Grande",
+    "operator": "Oso Grande",
+    "ref": "OSO",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 9808044830,
+   "lat": 35.0886289,
+   "lon": -106.6526456,
+   "tags": {
+    "addr:city": "Albuquerque",
+    "addr:housenumber": "505",
+    "addr:postcode": "87102",
+    "addr:state": "NM",
+    "addr:street": "Marquette Avenue Northwest",
+    "name": "505 Marquette",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 9808044840,
+   "lat": 35.0844494,
+   "lon": -106.6489853,
+   "tags": {
+    "addr:city": "Albuquerque",
+    "addr:housenumber": "123",
+    "addr:state": "NM",
+    "addr:street": "Central Avenue Northwest",
+    "name": "123 Central",
+    "operator": "bigbyte.cc",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 12387534800,
+   "lat": 35.0867385,
+   "lon": -106.6153476,
+   "tags": {
+    "addr:city": "Albuquerque",
+    "addr:housenumber": "2701",
+    "addr:postcode": "87106",
+    "addr:state": "NM",
+    "addr:street": "Campus Boulevard Northeast",
+    "name": "UNM Data Center",
+    "operator": "UNM",
+    "ref": "UNM",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 14086231277,
+   "lat": 35.0896825,
+   "lon": -106.6190669,
+   "tags": {
+    "operator": "UNMH",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.9957374,
+    "maxlon": -106.6176504,
+    "minlat": 34.9951656,
+    "minlon": -106.6184164
+   },
+   "geometry": [
+    {
+     "lat": 34.9955477,
+     "lon": -106.6182947
+    },
+    {
+     "lat": 34.9955087,
+     "lon": -106.618272
+    },
+    {
+     "lat": 34.9954524,
+     "lon": -106.6184164
+    },
+    {
+     "lat": 34.9951656,
+     "lon": -106.6182497
+    },
+    {
+     "lat": 34.9953994,
+     "lon": -106.6176504
+    },
+    {
+     "lat": 34.9957374,
+     "lon": -106.6178468
+    },
+    {
+     "lat": 34.9956877,
+     "lon": -106.6179743
+    },
+    {
+     "lat": 34.9956755,
+     "lon": -106.6179672
+    },
+    {
+     "lat": 34.9955477,
+     "lon": -106.6182947
+    }
+   ],
+   "id": 169170979,
+   "tags": {
+    "addr:city": "Albuquerque",
+    "addr:housenumber": "5610",
+    "addr:postcode": "87106",
+    "addr:state": "NM",
+    "addr:street": "Turing Road Southeast",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Molina Healthcare",
+    "operator": "Molina Healthcare",
+    "ref": "MHDC",
+    "telecom": "data_center",
+    "year_of_construction": "2010"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.6727211,
+    "maxlon": -105.9561583,
+    "minlat": 35.6721959,
+    "minlon": -105.9570012
+   },
+   "geometry": [
+    {
+     "lat": 35.6725886,
+     "lon": -105.9561609
+    },
+    {
+     "lat": 35.6725209,
+     "lon": -105.9561839
+    },
+    {
+     "lat": 35.6725126,
+     "lon": -105.9561583
+    },
+    {
+     "lat": 35.672448,
+     "lon": -105.9561801
+    },
+    {
+     "lat": 35.6724553,
+     "lon": -105.956207
+    },
+    {
+     "lat": 35.6721959,
+     "lon": -105.9563032
+    },
+    {
+     "lat": 35.6722907,
+     "lon": -105.9567008
+    },
+    {
+     "lat": 35.6722063,
+     "lon": -105.9567303
+    },
+    {
+     "lat": 35.6722673,
+     "lon": -105.9569983
+    },
+    {
+     "lat": 35.6722894,
+     "lon": -105.9569399
+    },
+    {
+     "lat": 35.6723306,
+     "lon": -105.956927
+    },
+    {
+     "lat": 35.6723401,
+     "lon": -105.9569641
+    },
+    {
+     "lat": 35.6723496,
+     "lon": -105.9570012
+    },
+    {
+     "lat": 35.6724511,
+     "lon": -105.9569637
+    },
+    {
+     "lat": 35.6724292,
+     "lon": -105.9568814
+    },
+    {
+     "lat": 35.6725264,
+     "lon": -105.9568486
+    },
+    {
+     "lat": 35.6727211,
+     "lon": -105.9567827
+    },
+    {
+     "lat": 35.6725886,
+     "lon": -105.9561609
+    }
+   ],
+   "id": 318069356,
+   "tags": {
+    "addr:city": "Santa Fe",
+    "addr:housenumber": "715",
+    "addr:postcode": "87501",
+    "addr:state": "NM",
+    "addr:street": "Alta Vista Street",
+    "building": "government_office",
+    "building:levels": "2",
+    "government": "it",
+    "name": "John F. Simms Building",
+    "name_1": "Simms Building",
+    "note": "State office, not to be confused with the privately owned  Albuquerque Skyscraper",
+    "operator": "SONM",
+    "ref": "Simms",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.8319446,
+    "maxlon": -106.7823438,
+    "minlat": 34.8285396,
+    "minlon": -106.7852809
+   },
+   "geometry": [
+    {
+     "lat": 34.8285396,
+     "lon": -106.7851702
+    },
+    {
+     "lat": 34.8299183,
+     "lon": -106.7851959
+    },
+    {
+     "lat": 34.8302505,
+     "lon": -106.7852021
+    },
+    {
+     "lat": 34.830247,
+     "lon": -106.7852772
+    },
+    {
+     "lat": 34.8304496,
+     "lon": -106.7852809
+    },
+    {
+     "lat": 34.8304496,
+     "lon": -106.7852
+    },
+    {
+     "lat": 34.8305612,
+     "lon": -106.7851977
+    },
+    {
+     "lat": 34.8305612,
+     "lon": -106.7851881
+    },
+    {
+     "lat": 34.8319348,
+     "lon": -106.7851963
+    },
+    {
+     "lat": 34.8319374,
+     "lon": -106.7849247
+    },
+    {
+     "lat": 34.8319416,
+     "lon": -106.7844799
+    },
+    {
+     "lat": 34.8319418,
+     "lon": -106.7844589
+    },
+    {
+     "lat": 34.8318976,
+     "lon": -106.7844572
+    },
+    {
+     "lat": 34.8318973,
+     "lon": -106.7844046
+    },
+    {
+     "lat": 34.8305058,
+     "lon": -106.784407
+    },
+    {
+     "lat": 34.8305098,
+     "lon": -106.7839575
+    },
+    {
+     "lat": 34.8305375,
+     "lon": -106.7839579
+    },
+    {
+     "lat": 34.8305404,
+     "lon": -106.7836013
+    },
+    {
+     "lat": 34.8305134,
+     "lon": -106.783601
+    },
+    {
+     "lat": 34.8305162,
+     "lon": -106.7832346
+    },
+    {
+     "lat": 34.8318872,
+     "lon": -106.78325
+    },
+    {
+     "lat": 34.8318876,
+     "lon": -106.7831959
+    },
+    {
+     "lat": 34.8319409,
+     "lon": -106.7831963
+    },
+    {
+     "lat": 34.8319446,
+     "lon": -106.7824661
+    },
+    {
+     "lat": 34.8304422,
+     "lon": -106.7824553
+    },
+    {
+     "lat": 34.8304445,
+     "lon": -106.7823493
+    },
+    {
+     "lat": 34.8302763,
+     "lon": -106.7823438
+    },
+    {
+     "lat": 34.8302755,
+     "lon": -106.7824537
+    },
+    {
+     "lat": 34.8299242,
+     "lon": -106.7824511
+    },
+    {
+     "lat": 34.8285609,
+     "lon": -106.7824305
+    },
+    {
+     "lat": 34.8285477,
+     "lon": -106.7827224
+    },
+    {
+     "lat": 34.8285453,
+     "lon": -106.7831856
+    },
+    {
+     "lat": 34.830082,
+     "lon": -106.7831976
+    },
+    {
+     "lat": 34.8300814,
+     "lon": -106.7832919
+    },
+    {
+     "lat": 34.8299393,
+     "lon": -106.7832905
+    },
+    {
+     "lat": 34.8299324,
+     "lon": -106.7843202
+    },
+    {
+     "lat": 34.8300732,
+     "lon": -106.7843216
+    },
+    {
+     "lat": 34.8300728,
+     "lon": -106.7843904
+    },
+    {
+     "lat": 34.8285895,
+     "lon": -106.7843741
+    },
+    {
+     "lat": 34.828589,
+     "lon": -106.7844373
+    },
+    {
+     "lat": 34.8285463,
+     "lon": -106.7844367
+    },
+    {
+     "lat": 34.8285461,
+     "lon": -106.7844557
+    },
+    {
+     "lat": 34.8285421,
+     "lon": -106.7848992
+    },
+    {
+     "lat": 34.8285396,
+     "lon": -106.7851702
+    }
+   ],
+   "id": 626785488,
+   "tags": {
+    "addr:city": "Los Lunas",
+    "addr:housenumber": "4250",
+    "addr:postcode": "87031",
+    "addr:state": "NM",
+    "addr:street": "Messenger Loop NW",
+    "addr:unit": "C",
+    "building": "yes",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "ref": "3",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.0485629,
+    "maxlon": -106.5416527,
+    "minlat": 35.0481322,
+    "minlon": -106.5426565
+   },
+   "geometry": [
+    {
+     "lat": 35.0481322,
+     "lon": -106.5426562
+    },
+    {
+     "lat": 35.0482007,
+     "lon": -106.5426565
+    },
+    {
+     "lat": 35.0482007,
+     "lon": -106.5426445
+    },
+    {
+     "lat": 35.0485576,
+     "lon": -106.5426461
+    },
+    {
+     "lat": 35.0485629,
+     "lon": -106.5417849
+    },
+    {
+     "lat": 35.0484714,
+     "lon": -106.5417845
+    },
+    {
+     "lat": 35.048466,
+     "lon": -106.5417101
+    },
+    {
+     "lat": 35.0484456,
+     "lon": -106.54171
+    },
+    {
+     "lat": 35.0484458,
+     "lon": -106.5416537
+    },
+    {
+     "lat": 35.0482111,
+     "lon": -106.5416527
+    },
+    {
+     "lat": 35.0482107,
+     "lon": -106.5417789
+    },
+    {
+     "lat": 35.0481432,
+     "lon": -106.5417786
+    },
+    {
+     "lat": 35.0481412,
+     "lon": -106.542518
+    },
+    {
+     "lat": 35.0481326,
+     "lon": -106.5425179
+    },
+    {
+     "lat": 35.0481322,
+     "lon": -106.5426562
+    }
+   ],
+   "id": 706081342,
+   "tags": {
+    "addr:street": "M Street Southeast",
+    "building": "yes",
+    "ref": "725",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.8319796,
+    "maxlon": -106.778726,
+    "minlat": 34.8285777,
+    "minlon": -106.7815305
+   },
+   "geometry": [
+    {
+     "lat": 34.8285777,
+     "lon": -106.7815057
+    },
+    {
+     "lat": 34.8306353,
+     "lon": -106.7815305
+    },
+    {
+     "lat": 34.8306355,
+     "lon": -106.7815007
+    },
+    {
+     "lat": 34.8319745,
+     "lon": -106.7815146
+    },
+    {
+     "lat": 34.8319796,
+     "lon": -106.7807951
+    },
+    {
+     "lat": 34.8319342,
+     "lon": -106.7807947
+    },
+    {
+     "lat": 34.8319345,
+     "lon": -106.7807415
+    },
+    {
+     "lat": 34.8305548,
+     "lon": -106.7807295
+    },
+    {
+     "lat": 34.8305574,
+     "lon": -106.7802856
+    },
+    {
+     "lat": 34.8305848,
+     "lon": -106.7802858
+    },
+    {
+     "lat": 34.8305866,
+     "lon": -106.7799274
+    },
+    {
+     "lat": 34.8305595,
+     "lon": -106.7799272
+    },
+    {
+     "lat": 34.8305646,
+     "lon": -106.7787386
+    },
+    {
+     "lat": 34.8285819,
+     "lon": -106.778726
+    },
+    {
+     "lat": 34.8285785,
+     "lon": -106.7795275
+    },
+    {
+     "lat": 34.8301169,
+     "lon": -106.7795373
+    },
+    {
+     "lat": 34.8301166,
+     "lon": -106.7796047
+    },
+    {
+     "lat": 34.8299748,
+     "lon": -106.7796036
+    },
+    {
+     "lat": 34.8299689,
+     "lon": -106.7806578
+    },
+    {
+     "lat": 34.8301099,
+     "lon": -106.780659
+    },
+    {
+     "lat": 34.8301096,
+     "lon": -106.7807053
+    },
+    {
+     "lat": 34.8286268,
+     "lon": -106.7806895
+    },
+    {
+     "lat": 34.8286264,
+     "lon": -106.7807528
+    },
+    {
+     "lat": 34.8285838,
+     "lon": -106.7807523
+    },
+    {
+     "lat": 34.8285777,
+     "lon": -106.7815057
+    }
+   ],
+   "id": 756778306,
+   "tags": {
+    "addr:city": "Los Lunas",
+    "addr:housenumber": "4250",
+    "addr:postcode": "87031",
+    "addr:state": "NM",
+    "addr:street": "Messenger Loop NW",
+    "addr:unit": "B",
+    "building": "yes",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "ref": "2",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.8319878,
+    "maxlon": -106.7750699,
+    "minlat": 34.8285722,
+    "minlon": -106.7778515
+   },
+   "geometry": [
+    {
+     "lat": 34.8285722,
+     "lon": -106.7778214
+    },
+    {
+     "lat": 34.8306333,
+     "lon": -106.7778515
+    },
+    {
+     "lat": 34.8306336,
+     "lon": -106.7778218
+    },
+    {
+     "lat": 34.8319723,
+     "lon": -106.7778353
+    },
+    {
+     "lat": 34.8319772,
+     "lon": -106.777107
+    },
+    {
+     "lat": 34.8319319,
+     "lon": -106.7771065
+    },
+    {
+     "lat": 34.8319322,
+     "lon": -106.7770533
+    },
+    {
+     "lat": 34.8305516,
+     "lon": -106.7770424
+    },
+    {
+     "lat": 34.830554,
+     "lon": -106.7766048
+    },
+    {
+     "lat": 34.8305815,
+     "lon": -106.7766051
+    },
+    {
+     "lat": 34.8305837,
+     "lon": -106.7762399
+    },
+    {
+     "lat": 34.8305566,
+     "lon": -106.7762397
+    },
+    {
+     "lat": 34.830559,
+     "lon": -106.7758802
+    },
+    {
+     "lat": 34.8319284,
+     "lon": -106.7758937
+    },
+    {
+     "lat": 34.8319288,
+     "lon": -106.7758395
+    },
+    {
+     "lat": 34.8319822,
+     "lon": -106.7758401
+    },
+    {
+     "lat": 34.8319878,
+     "lon": -106.7751047
+    },
+    {
+     "lat": 34.8304905,
+     "lon": -106.7750878
+    },
+    {
+     "lat": 34.8303118,
+     "lon": -106.7750913
+    },
+    {
+     "lat": 34.8285987,
+     "lon": -106.7750699
+    },
+    {
+     "lat": 34.8285923,
+     "lon": -106.7758198
+    },
+    {
+     "lat": 34.8301229,
+     "lon": -106.7758391
+    },
+    {
+     "lat": 34.8301221,
+     "lon": -106.7759349
+    },
+    {
+     "lat": 34.8299796,
+     "lon": -106.775933
+    },
+    {
+     "lat": 34.8299703,
+     "lon": -106.7769652
+    },
+    {
+     "lat": 34.8301107,
+     "lon": -106.7769671
+    },
+    {
+     "lat": 34.8301101,
+     "lon": -106.7770293
+    },
+    {
+     "lat": 34.8286229,
+     "lon": -106.7770081
+    },
+    {
+     "lat": 34.8286223,
+     "lon": -106.7770712
+    },
+    {
+     "lat": 34.8285796,
+     "lon": -106.7770705
+    },
+    {
+     "lat": 34.8285722,
+     "lon": -106.7778214
+    }
+   ],
+   "id": 777679751,
+   "tags": {
+    "addr:city": "Los Lunas",
+    "addr:housenumber": "4250",
+    "addr:postcode": "87031",
+    "addr:state": "NM",
+    "addr:street": "Messenger Loop NW",
+    "addr:unit": "A",
+    "building": "yes",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "ref": "1",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.8275747,
+    "maxlon": -106.7777833,
+    "minlat": 34.8241614,
+    "minlon": -106.7800133
+   },
+   "geometry": [
+    {
+     "lat": 34.8275747,
+     "lon": -106.7778088
+    },
+    {
+     "lat": 34.8241651,
+     "lon": -106.7777833
+    },
+    {
+     "lat": 34.8241614,
+     "lon": -106.7785247
+    },
+    {
+     "lat": 34.8242043,
+     "lon": -106.778525
+    },
+    {
+     "lat": 34.8242041,
+     "lon": -106.7785802
+    },
+    {
+     "lat": 34.8252865,
+     "lon": -106.7785867
+    },
+    {
+     "lat": 34.8252839,
+     "lon": -106.779241
+    },
+    {
+     "lat": 34.8242137,
+     "lon": -106.7792347
+    },
+    {
+     "lat": 34.8242135,
+     "lon": -106.7792863
+    },
+    {
+     "lat": 34.8241669,
+     "lon": -106.7792861
+    },
+    {
+     "lat": 34.8241653,
+     "lon": -106.7800024
+    },
+    {
+     "lat": 34.8275649,
+     "lon": -106.7800133
+    },
+    {
+     "lat": 34.8275665,
+     "lon": -106.7793
+    },
+    {
+     "lat": 34.8275209,
+     "lon": -106.7792998
+    },
+    {
+     "lat": 34.827521,
+     "lon": -106.7792425
+    },
+    {
+     "lat": 34.8260489,
+     "lon": -106.7792363
+    },
+    {
+     "lat": 34.8260493,
+     "lon": -106.7791177
+    },
+    {
+     "lat": 34.8261268,
+     "lon": -106.779118
+    },
+    {
+     "lat": 34.8261282,
+     "lon": -106.7787219
+    },
+    {
+     "lat": 34.8260461,
+     "lon": -106.7787215
+    },
+    {
+     "lat": 34.8260466,
+     "lon": -106.778604
+    },
+    {
+     "lat": 34.8275278,
+     "lon": -106.7786132
+    },
+    {
+     "lat": 34.8275281,
+     "lon": -106.7785512
+    },
+    {
+     "lat": 34.827571,
+     "lon": -106.7785515
+    },
+    {
+     "lat": 34.8275747,
+     "lon": -106.7778088
+    }
+   ],
+   "id": 1191496040,
+   "tags": {
+    "addr:city": "Los Lunas",
+    "addr:housenumber": "4250",
+    "addr:postcode": "87031",
+    "addr:state": "NM",
+    "addr:street": "Messenger Loop NW",
+    "addr:unit": "D",
+    "building": "yes",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "ref": "4",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 32.3099653,
+    "maxlon": -106.7287989,
+    "minlat": 32.3093661,
+    "minlon": -106.7295869
+   },
+   "geometry": [
+    {
+     "lat": 32.3096684,
+     "lon": -106.7294867
+    },
+    {
+     "lat": 32.3093661,
+     "lon": -106.7293518
+    },
+    {
+     "lat": 32.3094501,
+     "lon": -106.7290535
+    },
+    {
+     "lat": 32.3094051,
+     "lon": -106.7290286
+    },
+    {
+     "lat": 32.3094575,
+     "lon": -106.728867
+    },
+    {
+     "lat": 32.3094937,
+     "lon": -106.7288782
+    },
+    {
+     "lat": 32.3095227,
+     "lon": -106.7287989
+    },
+    {
+     "lat": 32.3099653,
+     "lon": -106.7289973
+    },
+    {
+     "lat": 32.3097686,
+     "lon": -106.7295869
+    },
+    {
+     "lat": 32.3096533,
+     "lon": -106.7295372
+    },
+    {
+     "lat": 32.3096684,
+     "lon": -106.7294867
+    }
+   ],
+   "id": 1235255415,
+   "tags": {
+    "building": "yes",
+    "not:operator:wikidata": "Q5063092",
+    "operator": "CenturyLink",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 32.3809355,
+    "maxlon": -106.4808771,
+    "minlat": 32.3800759,
+    "minlon": -106.4812547
+   },
+   "geometry": [
+    {
+     "lat": 32.3800759,
+     "lon": -106.4812347
+    },
+    {
+     "lat": 32.3800818,
+     "lon": -106.4808771
+    },
+    {
+     "lat": 32.3809355,
+     "lon": -106.4808969
+    },
+    {
+     "lat": 32.3809296,
+     "lon": -106.4812547
+    },
+    {
+     "lat": 32.3800759,
+     "lon": -106.4812347
+    }
+   ],
+   "id": 1519367009,
+   "tags": {
+    "addr:city": "White Sands",
+    "addr:housenumber": "120",
+    "addr:postcode": "88002",
+    "addr:state": "NM",
+    "addr:street": "Aberdeen Avenue",
+    "building": "yes",
+    "fixme": "confirm ref?",
+    "name": "Information Systems Facility",
+    "operator": "WSMR",
+    "ref": "120-123",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 34.8275483,
+    "maxlon": -106.7813733,
+    "minlat": 34.824135,
+    "minlon": -106.7836033
+   },
+   "geometry": [
+    {
+     "lat": 34.8275483,
+     "lon": -106.7813988
+    },
+    {
+     "lat": 34.8241387,
+     "lon": -106.7813733
+    },
+    {
+     "lat": 34.824135,
+     "lon": -106.7821147
+    },
+    {
+     "lat": 34.8241779,
+     "lon": -106.782115
+    },
+    {
+     "lat": 34.8241777,
+     "lon": -106.7821702
+    },
+    {
+     "lat": 34.8252601,
+     "lon": -106.7821767
+    },
+    {
+     "lat": 34.8252575,
+     "lon": -106.782831
+    },
+    {
+     "lat": 34.8241873,
+     "lon": -106.7828248
+    },
+    {
+     "lat": 34.8241871,
+     "lon": -106.7828763
+    },
+    {
+     "lat": 34.8241405,
+     "lon": -106.7828761
+    },
+    {
+     "lat": 34.8241389,
+     "lon": -106.7835924
+    },
+    {
+     "lat": 34.8275385,
+     "lon": -106.7836033
+    },
+    {
+     "lat": 34.8275401,
+     "lon": -106.78289
+    },
+    {
+     "lat": 34.8274945,
+     "lon": -106.7828898
+    },
+    {
+     "lat": 34.8274946,
+     "lon": -106.7828325
+    },
+    {
+     "lat": 34.8260225,
+     "lon": -106.7828263
+    },
+    {
+     "lat": 34.8260229,
+     "lon": -106.7827077
+    },
+    {
+     "lat": 34.8261004,
+     "lon": -106.7827081
+    },
+    {
+     "lat": 34.8261018,
+     "lon": -106.7823119
+    },
+    {
+     "lat": 34.8260197,
+     "lon": -106.7823115
+    },
+    {
+     "lat": 34.8260202,
+     "lon": -106.782194
+    },
+    {
+     "lat": 34.8275014,
+     "lon": -106.7822033
+    },
+    {
+     "lat": 34.8275017,
+     "lon": -106.7821412
+    },
+    {
+     "lat": 34.8275446,
+     "lon": -106.7821415
+    },
+    {
+     "lat": 34.8275483,
+     "lon": -106.7813988
+    }
+   ],
+   "id": 1548035623,
+   "tags": {
+    "addr:city": "Los Lunas",
+    "addr:housenumber": "4250",
+    "addr:postcode": "87031",
+    "addr:state": "NM",
+    "addr:street": "Messenger Loop NW",
+    "addr:unit": "E",
+    "building": "yes",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "ref": "4",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.0505708,
+    "maxlon": -106.5421084,
+    "minlat": 35.0493195,
+    "minlon": -106.5434935
+   },
+   "id": 14930068,
+   "tags": {
+    "addr:street": "14th Street Southeast",
+    "building": "yes",
+    "name": "HPC",
+    "operator": "Sandia National Laboratories",
+    "ref": "880",
+    "telecom": "data_center",
+    "type": "multipolygon"
+   },
+   "type": "relation"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:56:34Z",
+  "timestamp_osm_base": "2026-10-21T17:15:36Z"
+ },
+ "version": 0.6
+}

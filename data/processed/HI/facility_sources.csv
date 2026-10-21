@@ -1,0 +1,8 @@
+facility_id,source,source_id,source_url,source_name
+drfortress-hnl-ab385c,peeringdb,2526,https://www.peeringdb.com/fac/2526,DRFortress HNL
+alohanap-4ff662,peeringdb,3149,https://www.peeringdb.com/fac/3149,AlohaNAP
+hawaii-pacific-teleport-e451a5,peeringdb,5745,https://www.peeringdb.com/fac/5745,Hawaii Pacific Teleport
+endeavor-data-center-1a0c58,peeringdb,6505,https://www.peeringdb.com/fac/6505,Endeavor Data Center
+alohanap-datacenter-4bc9ad,peeringdb,7169,https://www.peeringdb.com/fac/7169,AlohaNAP Datacenter
+servpac-mtp-dc-e82a35,peeringdb,17093,https://www.peeringdb.com/fac/17093,Servpac MTP DC
+servpac-puahale-dc-71f512,peeringdb,17094,https://www.peeringdb.com/fac/17094,Servpac Puahale DC

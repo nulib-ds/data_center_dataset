@@ -1,0 +1,58 @@
+facility_id,source,source_id,source_url,source_name
+windstream-communications-be28f3,osm,node/7324132050,https://www.openstreetmap.org/node/7324132050,Windstream Communications
+brandaleone-lab-for-data-and-visualization-ca5c27,osm,node/10567817971,https://www.openstreetmap.org/node/10567817971,Brandaleone Lab for Data and Visualization
+flexential-raleigh-ral01-02-03-875928,osm,node/12112361725,https://www.openstreetmap.org/node/12112361725,Flexential Raleigh
+flexential-raleigh-ral01-02-03-875928,peeringdb,5007,https://www.peeringdb.com/fac/5007,Flexential - Raleigh (RAL01/02/03)
+dartpoints-asheville-nc-avl1-2b9e41,osm,node/14124835505,https://www.openstreetmap.org/node/14124835505,DartPoints Asheville
+dartpoints-asheville-nc-avl1-2b9e41,peeringdb,3668,https://www.peeringdb.com/fac/3668,"DartPoints Asheville, NC - AVL1"
+unnamed-data-center-2a7eab,osm,way/116005354,https://www.openstreetmap.org/way/116005354,
+unnamed-data-center-0c54c7,osm,way/186515922,https://www.openstreetmap.org/way/186515922,
+flexential-charlotte-south-clt1-2-3-28d246,osm,way/215630401,https://www.openstreetmap.org/way/215630401,Flexential Charlotte - South
+flexential-charlotte-south-clt1-2-3-28d246,peeringdb,4998,https://www.peeringdb.com/fac/4998,Flexential - Charlotte/South (CLT1/2/3)
+segra-data-center-7fe2a0,osm,way/233888384,https://www.openstreetmap.org/way/233888384,Segra Data Center
+meta-7499df,osm,way/460089167,https://www.openstreetmap.org/way/460089167,Meta
+meta-7499df,osm,way/1109074150,https://www.openstreetmap.org/way/1109074150,Meta
+meta-523c8d,osm,way/460089168,https://www.openstreetmap.org/way/460089168,Meta
+meta-523c8d,osm,way/883809860,https://www.openstreetmap.org/way/883809860,Meta
+spectrum-charlotte-national-data-center-839089,osm,way/516686211,https://www.openstreetmap.org/way/516686211,Spectrum Charlotte National Data Center
+cyrusone-nc-1-381ff2,osm,way/617525579,https://www.openstreetmap.org/way/617525579,CyrusOne
+cyrusone-nc-1-381ff2,osm,way/1556818364,https://www.openstreetmap.org/way/1556818364,CyrusOne
+cyrusone-nc-1-381ff2,peeringdb,2181,https://www.peeringdb.com/fac/2181,CyrusOne NC-1
+unnamed-data-center-812f5f,osm,way/652034566,https://www.openstreetmap.org/way/652034566,
+t5-charlotte-7a0227,osm,way/715098032,https://www.openstreetmap.org/way/715098032,T5 Charlotte Campus
+t5-charlotte-7a0227,peeringdb,11929,https://www.peeringdb.com/fac/11929,T5@Charlotte
+iglass-networks-07f23c,osm,way/758278314,https://www.openstreetmap.org/way/758278314,iGLASS Networks
+bb-t-data-center-d7a564,osm,way/830138727,https://www.openstreetmap.org/way/830138727,BB&T Data Center
+tierpoint-charlotte-center-park-af0afa,osm,way/838817907,https://www.openstreetmap.org/way/838817907,TierPoint - Charlotte Data Center
+tierpoint-charlotte-center-park-af0afa,peeringdb,8587,https://www.peeringdb.com/fac/8587,TierPoint Charlotte - Center Park
+segra-99f984,osm,way/838817943,https://www.openstreetmap.org/way/838817943,SEGRA
+unnamed-data-center-cb6be3,osm,way/844372538,https://www.openstreetmap.org/way/844372538,
+unnamed-data-center-d97fef,osm,way/873137563,https://www.openstreetmap.org/way/873137563,
+unnamed-data-center-0dbffb,osm,way/923167491,https://www.openstreetmap.org/way/923167491,
+flexential-charlotte-north-clt4-5-107fcf,osm,way/1307920829,https://www.openstreetmap.org/way/1307920829,Flexential Charlotte - North
+flexential-charlotte-north-clt4-5-107fcf,peeringdb,4999,https://www.peeringdb.com/fac/4999,Flexential - Charlotte/North (CLT4/5)
+carolina-internet-caronet-b1c585,peeringdb,485,https://www.peeringdb.com/fac/485,Carolina Internet / CaroNet
+netriplex-2a52cf,peeringdb,942,https://www.peeringdb.com/fac/942,Netriplex
+801-main-street-lenoir-7b7b89,peeringdb,992,https://www.peeringdb.com/fac/992,801 Main Street - Lenoir
+carolina-internet-caronet-xb-66a980,peeringdb,1405,https://www.peeringdb.com/fac/1405,Carolina Internet / CaroNet XB
+clt2-8c6f99,peeringdb,1724,https://www.peeringdb.com/fac/1724,CLT2
+dc74-clt1-7f7741,peeringdb,1835,https://www.peeringdb.com/fac/1835,DC74-CLT1
+dc74-clt4-806959,peeringdb,1836,https://www.peeringdb.com/fac/1836,DC74-CLT4
+level-3-charlotte-c6f10e,peeringdb,2398,https://www.peeringdb.com/fac/2398,Level(3) Charlotte
+erc-broadband-5831ae,peeringdb,2400,https://www.peeringdb.com/fac/2400,ERC Broadband
+digital-realty-clt-125-n-myers-st-2aebce,peeringdb,2976,https://www.peeringdb.com/fac/2976,Digital Realty CLT (125 N Myers St)
+vxchnge-raleigh-durham-nc01-afc7fa,peeringdb,3929,https://www.peeringdb.com/fac/3929,vXchnge Raleigh-Durham (NC01)
+digital-realty-clt-113-n-myers-st-e4d12b,peeringdb,4770,https://www.peeringdb.com/fac/4770,Digital Realty CLT (113 N Myers St)
+scalematrix-charlotte-data-center-us-east-01-e1ad8f,peeringdb,5436,https://www.peeringdb.com/fac/5436,ScaleMatrix Charlotte Data Center US-East 01
+level-3-raleigh-289b58,peeringdb,6747,https://www.peeringdb.com/fac/6747,Level(3) Raleigh
+centra-clt01-charlotte-nc-701-e-trade-385ffe,peeringdb,7878,https://www.peeringdb.com/fac/7878,CENTRA CLT01 - Charlotte NC (701 E Trade)
+tierpoint-charlotte-north-myers-fca597,peeringdb,8586,https://www.peeringdb.com/fac/8586,TierPoint Charlotte - North Myers
+tierpoint-research-triangle-park-rtp-cd4df1,peeringdb,8598,https://www.peeringdb.com/fac/8598,TierPoint Research Triangle Park – RTP
+tierpoint-raleigh-5b9cb8,peeringdb,8602,https://www.peeringdb.com/fac/8602,TierPoint Raleigh
+segra-kannapolis-3017d6,peeringdb,12189,https://www.peeringdb.com/fac/12189,Segra Kannapolis
+cloudogre-670a0e,peeringdb,14198,https://www.peeringdb.com/fac/14198,CloudOgre
+bonnie-lane-b26120,peeringdb,14343,https://www.peeringdb.com/fac/14343,Bonnie Lane
+american-tower-ra1-a94bb9,peeringdb,16023,https://www.peeringdb.com/fac/16023,American Tower RA1
+cogent-charlotte-16300b,peeringdb,16452,https://www.peeringdb.com/fac/16452,Cogent Charlotte
+cogent-charlotte-2-0ad6c0,peeringdb,16453,https://www.peeringdb.com/fac/16453,Cogent Charlotte 2
+acehost-durham-cc2c97,peeringdb,16608,https://www.peeringdb.com/fac/16608,AceHost Durham

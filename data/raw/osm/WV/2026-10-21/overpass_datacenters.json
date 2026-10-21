@@ -1,0 +1,49 @@
+{
+ "elements": [
+  {
+   "id": 6793837329,
+   "lat": 39.6309851,
+   "lon": -78.2253196,
+   "tags": {
+    "addr:city": "Bath (Berkeley Springs)",
+    "addr:housenumber": "303",
+    "addr:postcode": "25411",
+    "addr:state": "WV",
+    "addr:street": "North Washington Street",
+    "addr:unit": "1",
+    "name": "Morgan Wireless",
+    "phone": "+1-304-592-8330",
+    "telecom": "data_center",
+    "website": "https://www.morganwireless.net"
+   },
+   "type": "node"
+  },
+  {
+   "id": 13546262077,
+   "lat": 38.3531768,
+   "lon": -81.6961822,
+   "tags": {
+    "addr:city": "South Charleston",
+    "addr:housenumber": "2020",
+    "addr:postcode": "25303",
+    "addr:state": "WV",
+    "addr:street": "Union Carbide Drive",
+    "addr:unit": "6000",
+    "check_date": "2026-02-12",
+    "level": "1",
+    "name": "Alpha Federal",
+    "operator": "Alpha Innovations",
+    "telecom": "data_center",
+    "website": "https://myalphainnovations.com/"
+   },
+   "type": "node"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:56:34Z",
+  "timestamp_osm_base": "2026-10-21T17:33:47Z"
+ },
+ "version": 0.6
+}

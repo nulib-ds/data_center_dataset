@@ -1,0 +1,13 @@
+facility_id,source,source_id,source_url,source_name
+xai-macrohardrr-61b8dd,osm,way/1077131079,https://www.openstreetmap.org/way/1077131079,xAI Macrohardrr
+unnamed-data-center-8de3c0,osm,way/1430720170,https://www.openstreetmap.org/way/1430720170,
+unnamed-data-center-2ba861,osm,way/1430720171,https://www.openstreetmap.org/way/1430720171,
+unnamed-data-center-f8a8e3,osm,way/1430720172,https://www.openstreetmap.org/way/1430720172,
+unnamed-data-center-5429c8,osm,way/1430720173,https://www.openstreetmap.org/way/1430720173,
+unnamed-data-center-4ded5d,osm,way/1430720174,https://www.openstreetmap.org/way/1430720174,
+amazon-web-services-32df0d,osm,way/1510517631,https://www.openstreetmap.org/way/1510517631,Amazon Web Services
+amazon-web-services-32df0d,osm,way/1510517632,https://www.openstreetmap.org/way/1510517632,Amazon Web Services
+amazon-web-services-32df0d,osm,way/1510517633,https://www.openstreetmap.org/way/1510517633,Amazon Web Services
+amazon-web-services-32df0d,osm,way/1510517634,https://www.openstreetmap.org/way/1510517634,Amazon Web Services
+c-spire-mississippi-883721,peeringdb,13440,https://www.peeringdb.com/fac/13440,C Spire Mississippi
+nasa-shared-service-center-nccips-ec19fa,epa_nei,15619511,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15619511,"NASA SHARED SERVICE CENTER, NCCIPS"

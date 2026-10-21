@@ -1,0 +1,11 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+osm,way/1273968634,QTS,,osm,way/1560424378,QTS,,0.67,,364.2,0.676,1.0,0.0,1.0,[]|[]
+osm,node/12112236372,Flexential Denver - Downtown,1500 Champa Street,peeringdb,10920,DataBank Denver (DEN3),1500 Champa St,0.63,,38.5,1.0,0.2,1.0,0.111,[]|['den3']
+peeringdb,10865,Sungard AS Aurora,3431 N Windsor Dr,peeringdb,16128,365 Data Centers Aurora (CO1),3431 N Windsor Drive,0.63,,121.8,0.934,0.2,1.0,0.222,[]|['co1']
+peeringdb,1440,1500 Champa,1500 Champa St,peeringdb,10920,DataBank Denver (DEN3),1500 Champa St,0.608,,10.1,1.0,0.0,1.0,0.24,[]|['den3']
+peeringdb,1440,1500 Champa,1500 Champa St,peeringdb,2450,Flexential - Denver/Downtown (DEN02),1500 Champa St Ste 100,0.604,,0.0,1.0,0.0,1.0,0.222,[]|['den02']
+osm,node/12112236372,Flexential Denver - Downtown,1500 Champa Street,peeringdb,1440,1500 Champa,1500 Champa St,0.59,,30.7,1.0,0.0,1.0,0.148,[]|[]
+osm,way/89784186,Insurance Exchange Building,910 15th Street,peeringdb,389,CoreSite - Denver (DE1),910 15th Street,0.583,,8.6,1.0,0.0,1.0,0.114,[]|['de1']
+osm,way/89784186,Insurance Exchange Building,910 15th Street,epa_nei,18761111,CORESITE - CORESITE DENVER,910 15TH STREET,0.583,,6.8,1.0,0.0,1.0,0.114,[]|[]
+osm,way/916046040,,23505 East 6th Avenue,epa_nei,20040711,JPMORGAN CHASE - PROJECT SYCAMORE AURORA,23505 EAST 6TH AVE,0.56,,3.8,1.0,0.0,1.0,0.0,[]|[]
+osm,way/918943458,EdgeConnex - DEN02,,peeringdb,1875,EdgeConneX Denver (EDCDEN01),8535 Highfield Pkwy,0.517,,290.4,0.755,0.25,0.0,1.0,['den02']|[]

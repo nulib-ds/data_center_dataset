@@ -1,0 +1,448 @@
+{
+ "elements": [
+  {
+   "id": 13639231258,
+   "lat": 46.9741721,
+   "lon": -96.8739403,
+   "tags": {
+    "addr:city": "Harwood",
+    "addr:housenumber": "6805",
+    "addr:postcode": "58042",
+    "addr:state": "ND",
+    "addr:street": "County Rd 81 N",
+    "name": "Applied Digital",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 46.0128347,
+    "maxlon": -98.5726544,
+    "minlat": 46.011808,
+    "minlon": -98.5735423
+   },
+   "geometry": [
+    {
+     "lat": 46.0128347,
+     "lon": -98.5734291
+    },
+    {
+     "lat": 46.0127917,
+     "lon": -98.5735423
+    },
+    {
+     "lat": 46.011808,
+     "lon": -98.5727674
+    },
+    {
+     "lat": 46.0118509,
+     "lon": -98.5726544
+    },
+    {
+     "lat": 46.0128347,
+     "lon": -98.5734291
+    }
+   ],
+   "id": 1422191468,
+   "tags": {
+    "building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 46.0129142,
+    "maxlon": -98.5732828,
+    "minlat": 46.0118833,
+    "minlon": -98.574201
+   },
+   "geometry": [
+    {
+     "lat": 46.0129142,
+     "lon": -98.5740677
+    },
+    {
+     "lat": 46.0128627,
+     "lon": -98.574201
+    },
+    {
+     "lat": 46.0118833,
+     "lon": -98.5734164
+    },
+    {
+     "lat": 46.0119349,
+     "lon": -98.5732828
+    },
+    {
+     "lat": 46.0129142,
+     "lon": -98.5740677
+    }
+   ],
+   "id": 1422191469,
+   "tags": {
+    "building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 46.013939,
+    "maxlon": -98.5712866,
+    "minlat": 46.0130643,
+    "minlon": -98.5720556
+   },
+   "geometry": [
+    {
+     "lat": 46.013939,
+     "lon": -98.5719173
+    },
+    {
+     "lat": 46.013887,
+     "lon": -98.5720556
+    },
+    {
+     "lat": 46.0130643,
+     "lon": -98.5714251
+    },
+    {
+     "lat": 46.0131164,
+     "lon": -98.5712866
+    },
+    {
+     "lat": 46.013939,
+     "lon": -98.5719173
+    }
+   ],
+   "id": 1422191470,
+   "tags": {
+    "building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 46.0139227,
+    "maxlon": -98.5707169,
+    "minlat": 46.0130557,
+    "minlon": -98.5714943
+   },
+   "geometry": [
+    {
+     "lat": 46.0139227,
+     "lon": -98.5713615
+    },
+    {
+     "lat": 46.0138721,
+     "lon": -98.5714943
+    },
+    {
+     "lat": 46.0130557,
+     "lon": -98.5708499
+    },
+    {
+     "lat": 46.0131064,
+     "lon": -98.5707169
+    },
+    {
+     "lat": 46.0139227,
+     "lon": -98.5713615
+    }
+   ],
+   "id": 1422191471,
+   "tags": {
+    "building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 46.0139291,
+    "maxlon": -98.5719242,
+    "minlat": 46.0130877,
+    "minlon": -98.5726746
+   },
+   "geometry": [
+    {
+     "lat": 46.0139291,
+     "lon": -98.5725444
+    },
+    {
+     "lat": 46.0138799,
+     "lon": -98.5726746
+    },
+    {
+     "lat": 46.0130877,
+     "lon": -98.5720543
+    },
+    {
+     "lat": 46.0131368,
+     "lon": -98.5719242
+    },
+    {
+     "lat": 46.0139291,
+     "lon": -98.5725444
+    }
+   ],
+   "id": 1422191472,
+   "tags": {
+    "building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 46.0139487,
+    "maxlon": -98.5725197,
+    "minlat": 46.0130963,
+    "minlon": -98.5732808
+   },
+   "geometry": [
+    {
+     "lat": 46.0139487,
+     "lon": -98.5731429
+    },
+    {
+     "lat": 46.013897,
+     "lon": -98.5732808
+    },
+    {
+     "lat": 46.0130963,
+     "lon": -98.5726578
+    },
+    {
+     "lat": 46.0131481,
+     "lon": -98.5725197
+    },
+    {
+     "lat": 46.0139487,
+     "lon": -98.5731429
+    }
+   ],
+   "id": 1422191473,
+   "tags": {
+    "building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 46.0139558,
+    "maxlon": -98.5736811,
+    "minlat": 46.0131057,
+    "minlon": -98.5744109
+   },
+   "geometry": [
+    {
+     "lat": 46.0139558,
+     "lon": -98.5743014
+    },
+    {
+     "lat": 46.0131461,
+     "lon": -98.5736811
+    },
+    {
+     "lat": 46.0131057,
+     "lon": -98.5737904
+    },
+    {
+     "lat": 46.0139153,
+     "lon": -98.5744109
+    },
+    {
+     "lat": 46.0139558,
+     "lon": -98.5743014
+    }
+   ],
+   "id": 1422191474,
+   "tags": {
+    "building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 46.013945,
+    "maxlon": -98.5731184,
+    "minlat": 46.0130875,
+    "minlon": -98.5738617
+   },
+   "geometry": [
+    {
+     "lat": 46.013945,
+     "lon": -98.573748
+    },
+    {
+     "lat": 46.0131298,
+     "lon": -98.5731184
+    },
+    {
+     "lat": 46.0130875,
+     "lon": -98.5732319
+    },
+    {
+     "lat": 46.0139026,
+     "lon": -98.5738617
+    },
+    {
+     "lat": 46.013945,
+     "lon": -98.573748
+    }
+   ],
+   "id": 1422191475,
+   "tags": {
+    "building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 46.0128386,
+    "maxlon": -98.572223,
+    "minlat": 46.011952,
+    "minlon": -98.5730121
+   },
+   "geometry": [
+    {
+     "lat": 46.0128386,
+     "lon": -98.5728971
+    },
+    {
+     "lat": 46.0119965,
+     "lon": -98.572223
+    },
+    {
+     "lat": 46.011952,
+     "lon": -98.5723382
+    },
+    {
+     "lat": 46.0127942,
+     "lon": -98.5730121
+    },
+    {
+     "lat": 46.0128386,
+     "lon": -98.5728971
+    }
+   ],
+   "id": 1422191476,
+   "tags": {
+    "building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 46.0129151,
+    "maxlon": -98.5742045,
+    "minlat": 46.0123671,
+    "minlon": -98.5747213
+   },
+   "geometry": [
+    {
+     "lat": 46.0129151,
+     "lon": -98.5746153
+    },
+    {
+     "lat": 46.0128737,
+     "lon": -98.5747213
+    },
+    {
+     "lat": 46.0123671,
+     "lon": -98.5743106
+    },
+    {
+     "lat": 46.0124086,
+     "lon": -98.5742045
+    },
+    {
+     "lat": 46.0129151,
+     "lon": -98.5746153
+    }
+   ],
+   "id": 1422191477,
+   "tags": {
+    "building": "industrial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 48.1474482,
+    "maxlon": -103.7691844,
+    "minlat": 48.1450715,
+    "minlon": -103.7763888
+   },
+   "geometry": [
+    {
+     "lat": 48.1474482,
+     "lon": -103.7763619
+    },
+    {
+     "lat": 48.1474482,
+     "lon": -103.7692058
+    },
+    {
+     "lat": 48.1453257,
+     "lon": -103.7691844
+    },
+    {
+     "lat": 48.1453149,
+     "lon": -103.772741
+    },
+    {
+     "lat": 48.1451073,
+     "lon": -103.772741
+    },
+    {
+     "lat": 48.1450715,
+     "lon": -103.7763888
+    },
+    {
+     "lat": 48.1474482,
+     "lon": -103.7763619
+    }
+   ],
+   "id": 1545814424,
+   "tags": {
+    "landuse": "industrial",
+    "name": "Atlas Powr Williston Datacenter",
+    "operator": "Atlas Power Holdings (ND) LLC",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 46.8153628,
+    "maxlon": -96.8438477,
+    "minlat": 46.8148407,
+    "minlon": -96.8447808
+   },
+   "id": 19390019,
+   "tags": {
+    "building": "commercial",
+    "name": "Dakota Carrier Network",
+    "telecom": "data_center",
+    "type": "multipolygon"
+   },
+   "type": "relation"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:16:04Z",
+  "timestamp_osm_base": "2026-10-21T17:11:35Z"
+ },
+ "version": 0.6
+}

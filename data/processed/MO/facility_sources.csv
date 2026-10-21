@@ -1,0 +1,46 @@
+facility_id,source,source_id,source_url,source_name
+unnamed-data-center-6b8120,osm,node/9861806598,https://www.openstreetmap.org/node/9861806598,
+netrality-kansas-city-1102-grand-c49dc0,osm,node/9922928085,https://www.openstreetmap.org/node/9922928085,Netrality Data Centers
+netrality-kansas-city-1102-grand-c49dc0,peeringdb,435,https://www.peeringdb.com/fac/435,Netrality Kansas City - 1102 Grand
+netrality-st-louis-210-n-tucker-ccce29,osm,way/42323063,https://www.openstreetmap.org/way/42323063,Netrality Data Centers
+netrality-st-louis-210-n-tucker-ccce29,peeringdb,1978,https://www.peeringdb.com/fac/1978,Netrality St. Louis - 210 N Tucker
+patmos-kc2-d48689,osm,way/118650988,https://www.openstreetmap.org/way/118650988,"Patmos Hosting, Inc."
+patmos-kc2-d48689,peeringdb,16830,https://www.peeringdb.com/fac/16830,Patmos KC2
+unnamed-data-center-6bd53a,osm,way/195165330,https://www.openstreetmap.org/way/195165330,
+unnamed-data-center-39bfb2,osm,way/195165354,https://www.openstreetmap.org/way/195165354,
+black-rock-financial-management-7a2dc5,osm,way/195165374,https://www.openstreetmap.org/way/195165374,Black Rock Financial Management
+unnamed-data-center-e794a6,osm,way/195169261,https://www.openstreetmap.org/way/195169261,
+tierpoint-st-louis-olive-2cf9c9,osm,way/253682978,https://www.openstreetmap.org/way/253682978,TierPoint
+tierpoint-st-louis-olive-2cf9c9,peeringdb,5269,https://www.peeringdb.com/fac/5269,TierPoint St. Louis - Olive
+unnamed-data-center-4f974d,osm,way/288909509,https://www.openstreetmap.org/way/288909509,
+carfax-b2c90a,osm,way/553884511,https://www.openstreetmap.org/way/553884511,Carfax
+genome-data-center-469d70,osm,way/617511179,https://www.openstreetmap.org/way/617511179,Genome Data Center
+meta-data-center-bd5a15,osm,way/1184066765,https://www.openstreetmap.org/way/1184066765,Meta Data Center
+unnamed-data-center-ce4576,osm,way/1433936352,https://www.openstreetmap.org/way/1433936352,
+unnamed-data-center-7bdad8,osm,way/1567478346,https://www.openstreetmap.org/way/1567478346,
+unnamed-data-center-95c9c3,osm,way/1567478347,https://www.openstreetmap.org/way/1567478347,
+unnamed-data-center-3a71dd,osm,way/1567485997,https://www.openstreetmap.org/way/1567485997,
+unnamed-data-center-d45ab6,osm,way/1567486004,https://www.openstreetmap.org/way/1567486004,
+unnamed-data-center-f76a08,osm,way/1567486005,https://www.openstreetmap.org/way/1567486005,
+netrality-st-louis-900-walnut-e48c9a,peeringdb,332,https://www.peeringdb.com/fac/332,Netrality St. Louis - 900 Walnut
+710-tucker-st-louis-c4e534,peeringdb,362,https://www.peeringdb.com/fac/362,710 Tucker St Louis
+oak-tower-3eb5c4,peeringdb,829,https://www.peeringdb.com/fac/829,Oak Tower
+level-3-kansas-city-9092fc,peeringdb,1069,https://www.peeringdb.com/fac/1069,Level(3) Kansas City
+netsolus-inc-aac95a,peeringdb,2793,https://www.peeringdb.com/fac/2793,NetSolus Inc
+patmos-kc1-4ffb22,peeringdb,3634,https://www.peeringdb.com/fac/3634,Patmos KC1
+h5-data-centers-st-louis-mo01-c005d3,peeringdb,3928,https://www.peeringdb.com/fac/3928,H5 Data Centers St. Louis (MO01)
+lightedge-kansas-city-subtropolis-kci1-ce1427,peeringdb,4548,https://www.peeringdb.com/fac/4548,LightEdge Kansas City Subtropolis (KCI1)
+tierpoint-st-louis-walnut-fef550,peeringdb,5270,https://www.peeringdb.com/fac/5270,TierPoint St. Louis - Walnut
+iron-mountain-data-center-kansas-city-kcm-1-ec361b,peeringdb,6342,https://www.peeringdb.com/fac/6342,Iron Mountain Data Center - Kansas City (KCM-1)
+unreal-servers-a095af,peeringdb,6716,https://www.peeringdb.com/fac/6716,UnReal Servers
+bluebird-underground-data-center-b6f270,peeringdb,8032,https://www.peeringdb.com/fac/8032,Bluebird Underground Data Center
+1530-swift-nocix-68a7ca,peeringdb,9145,https://www.peeringdb.com/fac/9145,1530 SWIFT - NOCIX
+nocix-clay-facility-125215,peeringdb,9148,https://www.peeringdb.com/fac/9148,NOCIX Clay Facility
+lincoln-rackhouse-kansas-city-504ebb,peeringdb,10103,https://www.peeringdb.com/fac/10103,Lincoln Rackhouse Kansas City
+tierpoint-st-louis-millpark-1aee92,peeringdb,11366,https://www.peeringdb.com/fac/11366,TierPoint St. Louis – Millpark
+proracks-datacenter-kansas-city-7d18d0,peeringdb,14379,https://www.peeringdb.com/fac/14379,ProRacks Datacenter- Kansas City
+ip-pathways-kc1-33ad54,peeringdb,14908,https://www.peeringdb.com/fac/14908,IP Pathways KC1
+tierpoint-st-louis-locust-6a73c5,peeringdb,15548,https://www.peeringdb.com/fac/15548,TierPoint St. Louis - Locust
+lumen-kansas-city-7e27bc,peeringdb,15589,https://www.peeringdb.com/fac/15589,Lumen Kansas City
+cogent-st-louis-427ff7,peeringdb,16421,https://www.peeringdb.com/fac/16421,Cogent St Louis
+wal-mart-north-data-center-facility-8678-e645f7,epa_nei,15446111,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15446111,WAL-MART NORTH DATA CENTER FACILITY 8678

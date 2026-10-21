@@ -2,6 +2,7 @@ left_source,left_source_id,left_name,left_address,right_source,right_source_id,r
 osm,way/387379196,QTS Suwanee Data Center 2,120 Satellite Boulevard Northwest,osm,way/1207052719,QTS Suwanee,,0.8,blocked_by_constraint,173.0,0.88,0.667,0.0,1.0,[]|[]
 osm,way/1070895993,Meta,,osm,way/1070895994,Meta,,0.698,,286.2,0.759,1.0,0.0,1.0,[]|[]
 osm,way/1472128597,QTS,,osm,way/1472128598,QTS,,0.693,,300.7,0.744,1.0,0.0,1.0,[]|[]
+osm,way/844352473,Google,,osm,way/844352474,Google,,0.684,,325.1,0.718,1.0,0.0,1.0,[]|[]
 peeringdb,1337,CoreSite - Atlanta (AT1),55 Marietta Street Suites 570 & 800,peeringdb,9622,Cogent Atlanta,55 Marietta St. NW,0.677,,29.5,1.0,0.25,1.0,0.286,['at1']|[]
 peeringdb,249,Level(3) Atlanta (Courtland),345 Courtland St Ne,peeringdb,3078,H5 Data Centers Atlanta,345 Courtland St NE,0.669,,10.1,1.0,0.2,1.0,0.303,[]|[]
 peeringdb,619,"Colo at 55, LLC",55 Marietta ST NW,peeringdb,4604,Coloblox Data Centers ATL2,55 Marietta St NW,0.66,,17.0,1.0,0.0,1.0,0.5,[]|['atl2']

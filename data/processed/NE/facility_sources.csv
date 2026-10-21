@@ -1,0 +1,33 @@
+facility_id,source,source_id,source_url,source_name
+union-pacific-jack-koraleski-technology-rese-9ec493,osm,way/166431620,https://www.openstreetmap.org/way/166431620,"Union Pacific Jack Koraleski Technology, Research & Development Center"
+first-national-technical-center-ced182,osm,way/256728809,https://www.openstreetmap.org/way/256728809,First National Technical Center
+scott-data-center-4fd603,osm,way/415686896,https://www.openstreetmap.org/way/415686896,Scott Data Center
+fidelity-2a13ea,osm,way/421273622,https://www.openstreetmap.org/way/421273622,Fidelity
+unnamed-data-center-de8145,osm,way/466516719,https://www.openstreetmap.org/way/466516719,
+1623-farnam-omaha-af794a,osm,way/818167571,https://www.openstreetmap.org/way/818167571,1623 Farnam
+1623-farnam-omaha-af794a,peeringdb,575,https://www.peeringdb.com/fac/575,1623 Farnam - Omaha
+1623-farnam-omaha-af794a,peeringdb,16207,https://www.peeringdb.com/fac/16207,1623 Farmam
+meta-sarpy-data-center-373029,osm,way/844394339,https://www.openstreetmap.org/way/844394339,Meta Sarpy Data center
+meta-sarpy-data-center-d4326d,osm,way/844394340,https://www.openstreetmap.org/way/844394340,Meta Sarpy Data center
+google-946db5,osm,way/844394357,https://www.openstreetmap.org/way/844394357,Google
+google-946db5,osm,way/1237493975,https://www.openstreetmap.org/way/1237493975,Google
+travelers-insurance-3afae5,osm,way/942557184,https://www.openstreetmap.org/way/942557184,Travelers Insurance
+compute-north-1fdd9c,osm,way/1092757323,https://www.openstreetmap.org/way/1092757323,Compute North
+yahoo-7dc271,osm,way/1235150788,https://www.openstreetmap.org/way/1235150788,Yahoo
+google-fd51c0,osm,way/1237494981,https://www.openstreetmap.org/way/1237494981,Google
+meta-sarpy-data-center-8a2ef4,osm,way/1253282100,https://www.openstreetmap.org/way/1253282100,Meta Sarpy Data center
+meta-sarpy-data-center-70d1cc,osm,way/1253282101,https://www.openstreetmap.org/way/1253282101,Meta Sarpy Data center
+meta-sarpy-data-center-a18d66,osm,way/1253282102,https://www.openstreetmap.org/way/1253282102,Meta Sarpy Data center
+google-0fd624,osm,way/1312801354,https://www.openstreetmap.org/way/1312801354,Google
+google-eafda5,osm,way/1422101108,https://www.openstreetmap.org/way/1422101108,Google
+google-740714,osm,way/1422101112,https://www.openstreetmap.org/way/1422101112,Google
+google-f45563,osm,way/1422101116,https://www.openstreetmap.org/way/1422101116,Google
+omaha-switch-58076f,osm,way/1554826321,https://www.openstreetmap.org/way/1554826321,Omaha Switch
+level-3-bellevue-a673f2,peeringdb,1637,https://www.peeringdb.com/fac/1637,Level(3) Bellevue
+tierpoint-omaha-midlands-9c1bee,peeringdb,2156,https://www.peeringdb.com/fac/2156,TierPoint Omaha - Midlands
+lightedge-omaha-oma1-e1ab03,peeringdb,4549,https://www.peeringdb.com/fac/4549,LightEdge Omaha (OMA1)
+tierpoint-omaha-bellevue-8137d8,peeringdb,7271,https://www.peeringdb.com/fac/7271,TierPoint Omaha - Bellevue
+lincoln-data-centers-a7429a,peeringdb,10564,https://www.peeringdb.com/fac/10564,Lincoln Data Centers
+binary-net-vault-7e7638,peeringdb,10565,https://www.peeringdb.com/fac/10565,Binary Net Vault
+scott-data-center-omaha-21cd74,peeringdb,12844,https://www.peeringdb.com/fac/12844,Scott Data Center Omaha
+h5-data-centers-omaha-845384,peeringdb,16043,https://www.peeringdb.com/fac/16043,H5 Data Centers Omaha

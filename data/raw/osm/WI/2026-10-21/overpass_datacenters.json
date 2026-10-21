@@ -1,0 +1,773 @@
+{
+ "elements": [
+  {
+   "id": 8165754026,
+   "lat": 43.0439408,
+   "lon": -87.9539794,
+   "tags": {
+    "addr:city": "Milwaukee",
+    "addr:housenumber": "3135",
+    "addr:postcode": "53208-3251",
+    "addr:state": "WI",
+    "addr:street": "West Highland Boulevard",
+    "contact:email": "sales@dataholdings.com",
+    "contact:facebook": "https://www.facebook.com/Data-Holdings-Data-Center-570409053327886/",
+    "contact:phone": "+1 414 837 5502",
+    "contact:twitter": "https://twitter.com/dataholdingsmke",
+    "contact:website": "https://www.dataholdings.com/",
+    "name": "Data Holdings Data Center",
+    "office": "company",
+    "owner": "Potawatomi Business Development Corporation",
+    "short_name": "Data Holdings",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 9721703993,
+   "lat": 43.0097937,
+   "lon": -87.9610932,
+   "tags": {
+    "addr:city": "Milwaukee",
+    "addr:housenumber": "3701A",
+    "addr:postcode": "53215",
+    "addr:state": "WI",
+    "addr:street": "West Burnham Street",
+    "check_date": "2026-07-08",
+    "name": "TierPoint Milwaukee",
+    "office": "yes",
+    "telecom": "data_center",
+    "website": "https://tierpoint.com/"
+   },
+   "type": "node"
+  },
+  {
+   "id": 13226718075,
+   "lat": 43.0677161,
+   "lon": -89.3922794,
+   "tags": {
+    "name": "Lumen Madison 1 Data Center",
+    "operator": "Lumen Technologies",
+    "operator:wikidata": "Q5063092",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.0673905,
+    "maxlon": -89.4363927,
+    "minlat": 43.0672038,
+    "minlon": -89.4370153
+   },
+   "geometry": [
+    {
+     "lat": 43.0672061,
+     "lon": -89.436492
+    },
+    {
+     "lat": 43.0672551,
+     "lon": -89.4364924
+    },
+    {
+     "lat": 43.0672556,
+     "lon": -89.4363927
+    },
+    {
+     "lat": 43.06733,
+     "lon": -89.4363933
+    },
+    {
+     "lat": 43.0673295,
+     "lon": -89.436493
+    },
+    {
+     "lat": 43.0673662,
+     "lon": -89.4364934
+    },
+    {
+     "lat": 43.0673644,
+     "lon": -89.4368896
+    },
+    {
+     "lat": 43.0673905,
+     "lon": -89.4368899
+    },
+    {
+     "lat": 43.0673899,
+     "lon": -89.4370153
+    },
+    {
+     "lat": 43.0672038,
+     "lon": -89.4370138
+    },
+    {
+     "lat": 43.0672061,
+     "lon": -89.436492
+    }
+   ],
+   "id": 447803368,
+   "tags": {
+    "addr:city": "Madison",
+    "addr:housenumber": "2802",
+    "addr:postcode": "53705",
+    "addr:state": "WI",
+    "addr:street": "Sylvan Avenue",
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.8634021,
+    "maxlon": -87.9775611,
+    "minlat": 42.8628828,
+    "minlon": -87.9781906
+   },
+   "geometry": [
+    {
+     "lat": 42.8633242,
+     "lon": -87.9775628
+    },
+    {
+     "lat": 42.8631884,
+     "lon": -87.9775661
+    },
+    {
+     "lat": 42.8631216,
+     "lon": -87.9775677
+    },
+    {
+     "lat": 42.8629846,
+     "lon": -87.9775709
+    },
+    {
+     "lat": 42.8628828,
+     "lon": -87.9775734
+    },
+    {
+     "lat": 42.8628845,
+     "lon": -87.9777064
+    },
+    {
+     "lat": 42.8628889,
+     "lon": -87.9777063
+    },
+    {
+     "lat": 42.8629994,
+     "lon": -87.9777026
+    },
+    {
+     "lat": 42.863002,
+     "lon": -87.9778444
+    },
+    {
+     "lat": 42.8628914,
+     "lon": -87.977848
+    },
+    {
+     "lat": 42.8628864,
+     "lon": -87.9778482
+    },
+    {
+     "lat": 42.862888,
+     "lon": -87.9779751
+    },
+    {
+     "lat": 42.8629976,
+     "lon": -87.9779725
+    },
+    {
+     "lat": 42.8630436,
+     "lon": -87.9779714
+    },
+    {
+     "lat": 42.8630464,
+     "lon": -87.9781906
+    },
+    {
+     "lat": 42.8631597,
+     "lon": -87.9781879
+    },
+    {
+     "lat": 42.8634021,
+     "lon": -87.9781821
+    },
+    {
+     "lat": 42.863394,
+     "lon": -87.9775611
+    },
+    {
+     "lat": 42.8633242,
+     "lon": -87.9775628
+    }
+   ],
+   "id": 664938835,
+   "tags": {
+    "addr:city": "Franklin",
+    "addr:housenumber": "4777",
+    "addr:postcode": "53132",
+    "addr:state": "WI",
+    "addr:street": "West Ironwood Drive",
+    "building": "yes",
+    "name": "Expedient Milwaukee",
+    "telecom": "data_center",
+    "website": "https://www.expedient.com/data-centers/milwaukee/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.2049505,
+    "maxlon": -88.3444482,
+    "minlat": 44.2039193,
+    "minlon": -88.3454127
+   },
+   "geometry": [
+    {
+     "lat": 44.204467,
+     "lon": -88.3445048
+    },
+    {
+     "lat": 44.2044596,
+     "lon": -88.344559
+    },
+    {
+     "lat": 44.2040093,
+     "lon": -88.3444483
+    },
+    {
+     "lat": 44.2039436,
+     "lon": -88.3450202
+    },
+    {
+     "lat": 44.2039193,
+     "lon": -88.3452392
+    },
+    {
+     "lat": 44.2040279,
+     "lon": -88.3452654
+    },
+    {
+     "lat": 44.2040525,
+     "lon": -88.3450527
+    },
+    {
+     "lat": 44.2043954,
+     "lon": -88.3451338
+    },
+    {
+     "lat": 44.2046738,
+     "lon": -88.3451951
+    },
+    {
+     "lat": 44.2046511,
+     "lon": -88.3453939
+    },
+    {
+     "lat": 44.2047365,
+     "lon": -88.3454127
+    },
+    {
+     "lat": 44.2047432,
+     "lon": -88.3453539
+    },
+    {
+     "lat": 44.2048363,
+     "lon": -88.3453744
+    },
+    {
+     "lat": 44.2048424,
+     "lon": -88.3453206
+    },
+    {
+     "lat": 44.2048779,
+     "lon": -88.3453284
+    },
+    {
+     "lat": 44.2048995,
+     "lon": -88.345139
+    },
+    {
+     "lat": 44.204918,
+     "lon": -88.3451431
+    },
+    {
+     "lat": 44.2049505,
+     "lon": -88.3448578
+    },
+    {
+     "lat": 44.2048957,
+     "lon": -88.3448457
+    },
+    {
+     "lat": 44.2049382,
+     "lon": -88.3444731
+    },
+    {
+     "lat": 44.2048254,
+     "lon": -88.3444482
+    },
+    {
+     "lat": 44.2047931,
+     "lon": -88.3447318
+    },
+    {
+     "lat": 44.2046305,
+     "lon": -88.344696
+    },
+    {
+     "lat": 44.2046478,
+     "lon": -88.3445446
+    },
+    {
+     "lat": 44.204467,
+     "lon": -88.3445048
+    }
+   ],
+   "id": 766768556,
+   "tags": {
+    "building": "yes",
+    "operator": "Involta",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.7823263,
+    "maxlon": -89.5746254,
+    "minlat": 43.7820263,
+    "minlon": -89.5750559
+   },
+   "geometry": [
+    {
+     "lat": 43.7823263,
+     "lon": -89.5749391
+    },
+    {
+     "lat": 43.7820829,
+     "lon": -89.5749391
+    },
+    {
+     "lat": 43.7820745,
+     "lon": -89.5750559
+    },
+    {
+     "lat": 43.7820299,
+     "lon": -89.5750492
+    },
+    {
+     "lat": 43.7820263,
+     "lon": -89.5747973
+    },
+    {
+     "lat": 43.782095,
+     "lon": -89.574799
+    },
+    {
+     "lat": 43.7820998,
+     "lon": -89.5746355
+    },
+    {
+     "lat": 43.7823238,
+     "lon": -89.5746254
+    },
+    {
+     "lat": 43.7823263,
+     "lon": -89.5749391
+    }
+   ],
+   "id": 850342266,
+   "tags": {
+    "building": "yes",
+    "name": "Marquette-Adams Telephone Coop",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.6758132,
+    "maxlon": -87.9182044,
+    "minlat": 42.6755169,
+    "minlon": -87.9186067
+   },
+   "geometry": [
+    {
+     "lat": 42.6758132,
+     "lon": -87.9184165
+    },
+    {
+     "lat": 42.6758062,
+     "lon": -87.9184673
+    },
+    {
+     "lat": 42.67579,
+     "lon": -87.9185139
+    },
+    {
+     "lat": 42.6757656,
+     "lon": -87.9185535
+    },
+    {
+     "lat": 42.6757346,
+     "lon": -87.9185833
+    },
+    {
+     "lat": 42.675699,
+     "lon": -87.9186014
+    },
+    {
+     "lat": 42.6756612,
+     "lon": -87.9186067
+    },
+    {
+     "lat": 42.6756237,
+     "lon": -87.9185987
+    },
+    {
+     "lat": 42.6755889,
+     "lon": -87.9185781
+    },
+    {
+     "lat": 42.6755591,
+     "lon": -87.9185461
+    },
+    {
+     "lat": 42.6755363,
+     "lon": -87.9185048
+    },
+    {
+     "lat": 42.6755219,
+     "lon": -87.918457
+    },
+    {
+     "lat": 42.6755169,
+     "lon": -87.9183995
+    },
+    {
+     "lat": 42.6755242,
+     "lon": -87.9183424
+    },
+    {
+     "lat": 42.6755431,
+     "lon": -87.9182905
+    },
+    {
+     "lat": 42.6755721,
+     "lon": -87.918248
+    },
+    {
+     "lat": 42.6756088,
+     "lon": -87.9182185
+    },
+    {
+     "lat": 42.6756501,
+     "lon": -87.9182044
+    },
+    {
+     "lat": 42.6756926,
+     "lon": -87.9182069
+    },
+    {
+     "lat": 42.6757329,
+     "lon": -87.9182257
+    },
+    {
+     "lat": 42.6757676,
+     "lon": -87.9182593
+    },
+    {
+     "lat": 42.6757939,
+     "lon": -87.9183049
+    },
+    {
+     "lat": 42.6758095,
+     "lon": -87.9183588
+    },
+    {
+     "lat": 42.6758132,
+     "lon": -87.9184165
+    }
+   ],
+   "id": 919948160,
+   "tags": {
+    "building": "yes",
+    "roof:shape": "dome",
+    "telecom": "data_center",
+    "wikidata": "Q60752118",
+    "wikipedia": "en:Wisconn Valley Science and Technology Park"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.051899,
+    "maxlon": -88.216095,
+    "minlat": 43.050848,
+    "minlon": -88.217301
+   },
+   "geometry": [
+    {
+     "lat": 43.050848,
+     "lon": -88.216385
+    },
+    {
+     "lat": 43.051052,
+     "lon": -88.216095
+    },
+    {
+     "lat": 43.051278,
+     "lon": -88.216393
+    },
+    {
+     "lat": 43.051338,
+     "lon": -88.216306
+    },
+    {
+     "lat": 43.051433,
+     "lon": -88.216431
+    },
+    {
+     "lat": 43.051615,
+     "lon": -88.216534
+    },
+    {
+     "lat": 43.051747,
+     "lon": -88.216346
+    },
+    {
+     "lat": 43.051807,
+     "lon": -88.216425
+    },
+    {
+     "lat": 43.051827,
+     "lon": -88.216397
+    },
+    {
+     "lat": 43.051899,
+     "lon": -88.216493
+    },
+    {
+     "lat": 43.051836,
+     "lon": -88.216582
+    },
+    {
+     "lat": 43.051764,
+     "lon": -88.216487
+    },
+    {
+     "lat": 43.051715,
+     "lon": -88.216558
+    },
+    {
+     "lat": 43.051666,
+     "lon": -88.216719
+    },
+    {
+     "lat": 43.051829,
+     "lon": -88.216933
+    },
+    {
+     "lat": 43.05157,
+     "lon": -88.217301
+    },
+    {
+     "lat": 43.051303,
+     "lon": -88.216949
+    },
+    {
+     "lat": 43.051435,
+     "lon": -88.21676
+    },
+    {
+     "lat": 43.051458,
+     "lon": -88.216683
+    },
+    {
+     "lat": 43.051434,
+     "lon": -88.216669
+    },
+    {
+     "lat": 43.051387,
+     "lon": -88.216737
+    },
+    {
+     "lat": 43.051372,
+     "lon": -88.216729
+    },
+    {
+     "lat": 43.051354,
+     "lon": -88.216705
+    },
+    {
+     "lat": 43.051402,
+     "lon": -88.216636
+    },
+    {
+     "lat": 43.051407,
+     "lon": -88.216619
+    },
+    {
+     "lat": 43.051381,
+     "lon": -88.216586
+    },
+    {
+     "lat": 43.051198,
+     "lon": -88.216846
+    },
+    {
+     "lat": 43.050848,
+     "lon": -88.216385
+    }
+   ],
+   "id": 1011125238,
+   "tags": {
+    "addr:city": "Waukesha",
+    "addr:housenumber": "W237N1500",
+    "addr:postcode": "53188",
+    "addr:state": "WI",
+    "addr:street": "Busse Road",
+    "building": "yes",
+    "name": "Pewaukee Data Center",
+    "operator": "WE Energies",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 44.8772726,
+    "maxlon": -91.9199131,
+    "minlat": 44.8770579,
+    "minlon": -91.9200847
+   },
+   "geometry": [
+    {
+     "lat": 44.8770596,
+     "lon": -91.9199131
+    },
+    {
+     "lat": 44.8772086,
+     "lon": -91.9199161
+    },
+    {
+     "lat": 44.8772726,
+     "lon": -91.9199174
+    },
+    {
+     "lat": 44.8772718,
+     "lon": -91.9199997
+    },
+    {
+     "lat": 44.8772709,
+     "lon": -91.9200847
+    },
+    {
+     "lat": 44.8770579,
+     "lon": -91.9200803
+    },
+    {
+     "lat": 44.8770596,
+     "lon": -91.9199131
+    }
+   ],
+   "id": 1157356188,
+   "tags": {
+    "addr:city": "Menomonie",
+    "addr:housenumber": "816",
+    "addr:postcode": "54751",
+    "addr:state": "WI",
+    "addr:street": "6th Avenue",
+    "building": "commercial",
+    "building:levels": "1",
+    "operator": "West Wisconsin Telcom",
+    "source": "microsoft/BuildingFootprints;esri/USA_NAD_Addresses",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.6383695,
+    "maxlon": -89.721354,
+    "minlat": 43.6382971,
+    "minlon": -89.7214513
+   },
+   "geometry": [
+    {
+     "lat": 43.6383445,
+     "lon": -89.7214513
+    },
+    {
+     "lat": 43.6383695,
+     "lon": -89.7213938
+    },
+    {
+     "lat": 43.6383214,
+     "lon": -89.721354
+    },
+    {
+     "lat": 43.6382971,
+     "lon": -89.7214133
+    },
+    {
+     "lat": 43.6383445,
+     "lon": -89.7214513
+    }
+   ],
+   "id": 1211362828,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.6754141,
+    "maxlon": -87.8964547,
+    "minlat": 42.671227,
+    "minlon": -87.897238
+   },
+   "geometry": [
+    {
+     "lat": 42.671227,
+     "lon": -87.897238
+    },
+    {
+     "lat": 42.6712411,
+     "lon": -87.8965189
+    },
+    {
+     "lat": 42.6753858,
+     "lon": -87.8964547
+    },
+    {
+     "lat": 42.6754141,
+     "lon": -87.8971417
+    },
+    {
+     "lat": 42.671227,
+     "lon": -87.897238
+    }
+   ],
+   "id": 1510420026,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:16:04Z",
+  "timestamp_osm_base": "2026-10-21T17:32:46Z"
+ },
+ "version": 0.6
+}

@@ -1,0 +1,8 @@
+facility_id,source,source_id,source_url,source_name
+university-of-new-hampshire-a42224,osm,way/79056848,https://www.openstreetmap.org/way/79056848,University of New Hampshire
+firstlight-456fd7,osm,way/87058670,https://www.openstreetmap.org/way/87058670,FirstLight
+information-technology-data-center-56fb64,osm,way/589070714,https://www.openstreetmap.org/way/589070714,Information Technology Data Center
+colocenter-com-manchester-nh-9e13ce,peeringdb,1452,https://www.peeringdb.com/fac/1452,ColoCenter.com - Manchester NH
+colospace-bedford-nh-444c7b,peeringdb,3457,https://www.peeringdb.com/fac/3457,"ColoSpace - Bedford, NH"
+consolidated-770-elm-st-df8502,peeringdb,4104,https://www.peeringdb.com/fac/4104,Consolidated - 770 Elm St.
+crown-castle-manchester-1-sundial-ave-540a80,peeringdb,13611,https://www.peeringdb.com/fac/13611,Crown Castle Manchester (1 Sundial Ave)

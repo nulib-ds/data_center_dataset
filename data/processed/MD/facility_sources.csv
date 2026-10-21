@@ -1,0 +1,31 @@
+facility_id,source,source_id,source_url,source_name
+crown-castle-baltimore-111-market-700-e-prat-171978,osm,node/9669340912,https://www.openstreetmap.org/node/9669340912,Crown Castle Baltimore
+crown-castle-baltimore-111-market-700-e-prat-171978,peeringdb,7273,https://www.peeringdb.com/fac/7273,"Crown Castle Baltimore (111 Market, 700 E Pratt)"
+ainet-md-300l-15e066,osm,node/9669405859,https://www.openstreetmap.org/node/9669405859,AiNET One Market Center
+ainet-md-300l-15e066,peeringdb,6538,https://www.peeringdb.com/fac/6538,AiNET MD-300L
+expedient-baltimore-owings-mills-441d3c,osm,node/11167641842,https://www.openstreetmap.org/node/11167641842,Expedient Owings Mills
+expedient-baltimore-owings-mills-441d3c,peeringdb,8468,https://www.peeringdb.com/fac/8468,Expedient Baltimore - Owings Mills
+expedient-tidepoint-e10ad3,osm,node/11168593094,https://www.openstreetmap.org/node/11168593094,Expedient Tidepoint
+lincoln-rackhouse-silver-spring-22be98,osm,way/93210344,https://www.openstreetmap.org/way/93210344,Lincoln Rackhouse Maryland
+lincoln-rackhouse-silver-spring-22be98,peeringdb,6885,https://www.peeringdb.com/fac/6885,Lincoln Rackhouse Silver Spring
+unnamed-data-center-eae70a,osm,way/178331621,https://www.openstreetmap.org/way/178331621,
+baltimore-technology-park-bd949c,osm,way/336387583,https://www.openstreetmap.org/way/336387583,Baltimore Technology Park
+ainet-beltsville-4f51df,osm,way/363017375,https://www.openstreetmap.org/way/363017375,AiNET
+ainet-beltsville-4f51df,peeringdb,4069,https://www.peeringdb.com/fac/4069,AINET - Beltsville
+ainet-beltsville-4f51df,peeringdb,6536,https://www.peeringdb.com/fac/6536,AiNET WDC8
+tierpoint-baltimore-bwi-e04e5e,osm,way/610845529,https://www.openstreetmap.org/way/610845529,TierPoint Baltimore BWI
+tierpoint-baltimore-bwi-e04e5e,peeringdb,8584,https://www.peeringdb.com/fac/8584,TierPoint Baltimore – BWI
+johns-hopkins-data-center-c21e46,osm,way/931369845,https://www.openstreetmap.org/way/931369845,Johns Hopkins Data Center
+unnamed-data-center-4edc15,osm,way/1143804764,https://www.openstreetmap.org/way/1143804764,
+lumen-baltimore-8092c6,peeringdb,925,https://www.peeringdb.com/fac/925,Lumen Baltimore
+zayo-baltimore-111-market-pl-5d7e18,peeringdb,2957,https://www.peeringdb.com/fac/2957,Zayo Baltimore - 111 Market Pl
+tierpoint-baltimore-90f1e2,peeringdb,5342,https://www.peeringdb.com/fac/5342,TierPoint Baltimore
+ainet-wdc11-6409dd,peeringdb,6537,https://www.peeringdb.com/fac/6537,AiNET WDC11
+ainet-md-790r-a4fa8c,peeringdb,6539,https://www.peeringdb.com/fac/6539,AiNET MD-790R
+agile-silver-spring-08d7f6,peeringdb,8281,https://www.peeringdb.com/fac/8281,Agile Silver Spring
+agile-silver-spring-08d7f6,peeringdb,11192,https://www.peeringdb.com/fac/11192,Databridge Sites Silver Spring
+tunbroker-baltimore-19395b,peeringdb,9398,https://www.peeringdb.com/fac/9398,TunBroker Baltimore
+atlantech-online-rockville-md-65f27e,peeringdb,15667,https://www.peeringdb.com/fac/15667,"Atlantech Online - Rockville, MD"
+atlantech-online-silver-spring-md-04b489,peeringdb,15668,https://www.peeringdb.com/fac/15668,"Atlantech Online - Silver Spring, MD"
+cogent-elkridge-d2242a,peeringdb,16446,https://www.peeringdb.com/fac/16446,Cogent Elkridge
+prosperity-drive-data-center-llc-73b4ce,epa_nei,14531911,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=14531911,"Prosperity Drive Data Center, LLC"

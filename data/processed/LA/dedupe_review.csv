@@ -1,0 +1,3 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+osm,node/14124760832,DartPoints Baton Rouge 2,7127 Florida Blvd,peeringdb,13438,Venyu BTR1,7127 Florida Blvd,0.608,,54.4,1.0,0.0,1.0,0.242,[]|['btr1']
+osm,node/14124761022,DartPoints Baton Rouge 1,7127 Florida Blvd,peeringdb,13438,Venyu BTR1,7127 Florida Blvd,0.608,,53.3,1.0,0.0,1.0,0.242,[]|['btr1']

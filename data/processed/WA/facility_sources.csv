@@ -1,0 +1,121 @@
+facility_id,source,source_id,source_url,source_name
+4421-io-60e67c,osm,node/14085787302,https://www.openstreetmap.org/node/14085787302,4421.io
+intergate-seattle-east-building-2-a0535c,osm,way/205724881,https://www.openstreetmap.org/way/205724881,Intergate Seattle East Building 2
+intergate-seattle-east-building-1-c055d6,osm,way/205724885,https://www.openstreetmap.org/way/205724885,Intergate Seattle East Building 1
+intergate-seattle-east-building-1-c055d6,osm,way/293211686,https://www.openstreetmap.org/way/293211686,Intergate Seattle East Building 3
+comcast-cb8031,osm,way/221201212,https://www.openstreetmap.org/way/221201212,Comcast
+cti-biopharma-0e90f3,osm,way/223783259,https://www.openstreetmap.org/way/223783259,CTI Biopharma
+digital-realty-seattle-sea10-3d4c84,osm,way/223928497,https://www.openstreetmap.org/way/223928497,Westin Building
+digital-realty-seattle-sea10-3d4c84,peeringdb,71,https://www.peeringdb.com/fac/71,Digital Realty Seattle SEA10
+h5-data-centers-seattle-b7b113,osm,way/231664575,https://www.openstreetmap.org/way/231664575,The Seattle Times
+h5-data-centers-seattle-b7b113,peeringdb,3077,https://www.peeringdb.com/fac/3077,H5 Data Centers Seattle
+unnamed-data-center-9b209a,osm,way/283051469,https://www.openstreetmap.org/way/283051469,
+unnamed-data-center-db4668,osm,way/283051470,https://www.openstreetmap.org/way/283051470,
+unnamed-data-center-af1209,osm,way/283051471,https://www.openstreetmap.org/way/283051471,
+unnamed-data-center-b9e2b6,osm,way/283051475,https://www.openstreetmap.org/way/283051475,
+unnamed-data-center-eb96bc,osm,way/283051478,https://www.openstreetmap.org/way/283051478,
+unnamed-data-center-775bf6,osm,way/283051481,https://www.openstreetmap.org/way/283051481,
+unnamed-data-center-4aa363,osm,way/283051482,https://www.openstreetmap.org/way/283051482,
+unnamed-data-center-af7d7e,osm,way/283051483,https://www.openstreetmap.org/way/283051483,
+unnamed-data-center-e78edc,osm,way/283051484,https://www.openstreetmap.org/way/283051484,
+unnamed-data-center-ed558e,osm,way/283051485,https://www.openstreetmap.org/way/283051485,
+intergate-seattle-east-building-5-d900ee,osm,way/293211683,https://www.openstreetmap.org/way/293211683,Intergate Seattle East Building 5
+intergate-seattle-east-building-4-e6f549,osm,way/293211687,https://www.openstreetmap.org/way/293211687,Intergate Seattle East Building 4
+tierpoint-88e48a,osm,way/335468616,https://www.openstreetmap.org/way/335468616,TierPoint
+intergate-west-digital-forest-fortress-1da5a3,osm,way/337126739,https://www.openstreetmap.org/way/337126739,Intergate Seattle West Building C
+intergate-west-digital-forest-fortress-1da5a3,peeringdb,590,https://www.peeringdb.com/fac/590,Intergate West / Digital.forest / Fortress
+intergate-seattle-west-building-b-30d3fd,osm,way/337126741,https://www.openstreetmap.org/way/337126741,Intergate Seattle West Building B
+centersquare-seattle-sea1-a-d17eb8,osm,way/337126742,https://www.openstreetmap.org/way/337126742,Intergate Seattle West Building A
+centersquare-seattle-sea1-a-d17eb8,peeringdb,17614,https://www.peeringdb.com/fac/17614,Centersquare Seattle (SEA1-A)
+vantage-wa11-115de7,osm,way/337127817,https://www.openstreetmap.org/way/337127817,Vantage WA11
+ntt-data-quincy-95375e,osm,way/337127824,https://www.openstreetmap.org/way/337127824,NTT Data Quincy
+unnamed-data-center-3065cb,osm,way/337127832,https://www.openstreetmap.org/way/337127832,
+unnamed-data-center-7641e8,osm,way/337127833,https://www.openstreetmap.org/way/337127833,
+equinix-se3-data-center-022749,osm,way/359930465,https://www.openstreetmap.org/way/359930465,Equinix SE3 Data Center
+cssnw-bellingham-19549b,osm,way/376627431,https://www.openstreetmap.org/way/376627431,CSSNW Bellingham
+cssnw-bellingham-19549b,peeringdb,448,https://www.peeringdb.com/fac/448,CSSNW Bellingham
+centersquare-lynnwood-se1-66605f,osm,way/396296733,https://www.openstreetmap.org/way/396296733,Centersquare Lynnwood SE1
+unnamed-data-center-c6553d,osm,way/410408067,https://www.openstreetmap.org/way/410408067,
+microsoft-68e2c7,osm,way/410408073,https://www.openstreetmap.org/way/410408073,Microsoft
+microsoft-68e2c7,osm,way/410408074,https://www.openstreetmap.org/way/410408074,Microsoft
+microsoft-68e2c7,osm,way/694493126,https://www.openstreetmap.org/way/694493126,Microsoft
+microsoft-68e2c7,osm,way/694493127,https://www.openstreetmap.org/way/694493127,Microsoft
+unnamed-data-center-caf2e8,osm,way/410408079,https://www.openstreetmap.org/way/410408079,
+komo-plaza-east-bf9201,osm,way/417682780,https://www.openstreetmap.org/way/417682780,KOMO Plaza East
+komo-plaza-west-32e030,osm,way/417682781,https://www.openstreetmap.org/way/417682781,KOMO Plaza West
+intergate-columbia-b-74f7ff,osm,way/460167186,https://www.openstreetmap.org/way/460167186,Intergate Columbia B
+intergate-columbia-b-74f7ff,osm,way/460167187,https://www.openstreetmap.org/way/460167187,Intergate Columbia A
+intergate-columbia-b-74f7ff,osm,way/1071774674,https://www.openstreetmap.org/way/1071774674,Intergate Columbia D
+intergate-columbia-f7bac4,osm,way/460167190,https://www.openstreetmap.org/way/460167190,Intergate Columbia
+microsoft-247aac,osm,way/499403180,https://www.openstreetmap.org/way/499403180,Microsoft
+microsoft-247aac,osm,way/694493125,https://www.openstreetmap.org/way/694493125,Microsoft
+microsoft-247aac,osm,way/694493128,https://www.openstreetmap.org/way/694493128,Microsoft
+microsoft-247aac,osm,way/1429883881,https://www.openstreetmap.org/way/1429883881,Microsoft
+unnamed-data-center-7d0e4c,osm,way/499403698,https://www.openstreetmap.org/way/499403698,
+unnamed-data-center-ac9e71,osm,way/499403699,https://www.openstreetmap.org/way/499403699,
+digital-fortress-lyn-3693ff,osm,way/589360530,https://www.openstreetmap.org/way/589360530,Digital Fortress Lynnwood
+digital-fortress-lyn-3693ff,peeringdb,13022,https://www.peeringdb.com/fac/13022,Digital Fortress (LYN)
+centeris-sh2-build-to-suit-21a26c,osm,way/634635617,https://www.openstreetmap.org/way/634635617,Centeris SH2 Build-to-Suit
+centeris-sh1-colocation-26792c,osm,way/634638463,https://www.openstreetmap.org/way/634638463,Centeris SH1 Colocation
+centeris-1d5b6f,osm,way/680666647,https://www.openstreetmap.org/way/680666647,Centeris
+vantage-wa12-e41907,osm,way/694602725,https://www.openstreetmap.org/way/694602725,Vantage WA12
+unnamed-data-center-e750a8,osm,way/807374322,https://www.openstreetmap.org/way/807374322,
+unnamed-data-center-5711b7,osm,way/813688319,https://www.openstreetmap.org/way/813688319,
+actapio-1ec793,osm,way/813688320,https://www.openstreetmap.org/way/813688320,Actapio
+unnamed-data-center-2d244a,osm,way/814061068,https://www.openstreetmap.org/way/814061068,
+unnamed-data-center-028520,osm,way/814061069,https://www.openstreetmap.org/way/814061069,
+unnamed-data-center-fa68f4,osm,way/814061070,https://www.openstreetmap.org/way/814061070,
+unnamed-data-center-2d9605,osm,way/814061071,https://www.openstreetmap.org/way/814061071,
+norma-beach-cable-landing-station-b31bd0,osm,way/842544718,https://www.openstreetmap.org/way/842544718,Norma Beach Cable Landing Station
+iron-mountain-c22e67,osm,way/876020641,https://www.openstreetmap.org/way/876020641,Iron Mountain
+microsoft-eat02-f4c9a1,osm,way/1071772119,https://www.openstreetmap.org/way/1071772119,Microsoft EAT02
+microsoft-eat03-7071cc,osm,way/1173537116,https://www.openstreetmap.org/way/1173537116,Microsoft EAT03
+microsoft-eat04-104fef,osm,way/1173537117,https://www.openstreetmap.org/way/1173537117,Microsoft EAT04
+unnamed-data-center-b727c2,osm,way/1193914601,https://www.openstreetmap.org/way/1193914601,
+unnamed-data-center-887dbf,osm,way/1193914602,https://www.openstreetmap.org/way/1193914602,
+vantage-wa13-5ac64d,osm,way/1343760339,https://www.openstreetmap.org/way/1343760339,Vantage WA13
+unnamed-data-center-40ef09,osm,way/1343761104,https://www.openstreetmap.org/way/1343761104,
+unnamed-data-center-ef47ea,osm,way/1470108469,https://www.openstreetmap.org/way/1470108469,
+equinix-se2-se3-seattle-0937d0,peeringdb,86,https://www.peeringdb.com/fac/86,Equinix SE2/SE3 - Seattle
+komo-plaza-seattle-formerly-fisher-plaza-33363a,peeringdb,410,https://www.peeringdb.com/fac/410,KOMO Plaza Seattle (Formerly Fisher Plaza)
+tierpoint-spokane-d4c147,peeringdb,500,https://www.peeringdb.com/fac/500,TierPoint Spokane
+us-bank-building-e98622,peeringdb,501,https://www.peeringdb.com/fac/501,US Bank Building
+sbtc-ab4315,peeringdb,541,https://www.peeringdb.com/fac/541,SBTC
+kanobe-llc-141d85,peeringdb,784,https://www.peeringdb.com/fac/784,"Kanobe, LLC"
+level-3-seattle-denny-way-8dbba8,peeringdb,1038,https://www.peeringdb.com/fac/1038,Level(3) Seattle (Denny Way)
+databank-seattle-sea1-0c2585,peeringdb,1866,https://www.peeringdb.com/fac/1866,DataBank Seattle (SEA1)
+edgeconnex-seattle-edcsea01-76d187,peeringdb,2078,https://www.peeringdb.com/fac/2078,EdgeConneX Seattle (EDCSEA01)
+fibercloud-westin1809-65714c,peeringdb,2082,https://www.peeringdb.com/fac/2082,FiberCloud-Westin1809
+fibercloud-westin1809-65714c,peeringdb,2083,https://www.peeringdb.com/fac/2083,FiberCloud-Westin3205
+digital-fortress-sea-0d0b16,peeringdb,2140,https://www.peeringdb.com/fac/2140,Digital Fortress (SEA)
+digital-fortress-tuk-8d343d,peeringdb,2142,https://www.peeringdb.com/fac/2142,Digital Fortress (TUK)
+lunavi-westin1809-cb8942,peeringdb,2433,https://www.peeringdb.com/fac/2433,Lunavi - Westin1809
+lunavi-westin1809-cb8942,peeringdb,2434,https://www.peeringdb.com/fac/2434,Lunavi - Westin1969
+lunavi-westin1809-cb8942,peeringdb,2435,https://www.peeringdb.com/fac/2435,Lunavi - Westin3205
+centersquare-seattle-sea1-b-6d4985,peeringdb,2647,https://www.peeringdb.com/fac/2647,Centersquare Seattle (SEA1-B)
+databank-seattle-sea2-0c812d,peeringdb,2972,https://www.peeringdb.com/fac/2972,DataBank Seattle (SEA2)
+evocative-sea1-07a3c5,peeringdb,2985,https://www.peeringdb.com/fac/2985,Evocative SEA1
+optic-fusion-perkins-building-5bf558,peeringdb,3186,https://www.peeringdb.com/fac/3186,Optic Fusion - Perkins Building
+optic-fusion-westin-building-2505-93946d,peeringdb,3187,https://www.peeringdb.com/fac/3187,Optic Fusion - Westin Building 2505
+sabey-intergate-east-building-4-dabab1,peeringdb,4226,https://www.peeringdb.com/fac/4226,Sabey Intergate East Building 4
+cogent-seattle-97ec9f,peeringdb,4953,https://www.peeringdb.com/fac/4953,Cogent Seattle
+colocation-northwest-tacoma-424193,peeringdb,5020,https://www.peeringdb.com/fac/5020,Colocation Northwest - Tacoma
+wowrack-2446aa,peeringdb,5183,https://www.peeringdb.com/fac/5183,WowRack
+serverfarm-titan-moses-lake-c47d33,peeringdb,5437,https://www.peeringdb.com/fac/5437,Serverfarm TiTAN Moses Lake
+intergate-quincy-219c78,peeringdb,5545,https://www.peeringdb.com/fac/5545,Intergate.Quincy
+h5-data-centers-quincy-2bdaf7,peeringdb,6380,https://www.peeringdb.com/fac/6380,H5 Data Centers Quincy
+colocrossing-sea1-2eb5d8,peeringdb,6423,https://www.peeringdb.com/fac/6423,ColoCrossing SEA1
+colocation-northwest-bellevue-9049b6,peeringdb,6575,https://www.peeringdb.com/fac/6575,Colocation Northwest - Bellevue
+colocation-northwest-redmond-547618,peeringdb,6576,https://www.peeringdb.com/fac/6576,Colocation Northwest - Redmond
+colocation-northwest-seattle-634887,peeringdb,6577,https://www.peeringdb.com/fac/6577,Colocation Northwest - Seattle
+colocation-northwest-south-hill-e11638,peeringdb,6578,https://www.peeringdb.com/fac/6578,Colocation Northwest - South Hill
+equinix-se4-seattle-kent-daa571,peeringdb,7074,https://www.peeringdb.com/fac/7074,"Equinix SE4 - Seattle, Kent"
+neutron-spokane-9e46d2,peeringdb,7563,https://www.peeringdb.com/fac/7563,Neutron - Spokane
+tierpoint-seattle-8b3eff,peeringdb,8599,https://www.peeringdb.com/fac/8599,TierPoint Seattle
+scalematrix-seattle-data-center-us-west-02-cca86d,peeringdb,11010,https://www.peeringdb.com/fac/11010,ScaleMatrix Seattle Data Center US-West 02
+knwcwaxa-kennewick-central-office-dd4abf,peeringdb,14269,https://www.peeringdb.com/fac/14269,KNWCWAXA - Kennewick Central Office
+evrtwaxa-everett-primary-central-office-86267c,peeringdb,14270,https://www.peeringdb.com/fac/14270,EVRTWAXA - Everett Primary Central Office
+bothwaxb-bothell-central-office-ba8fb2,peeringdb,14272,https://www.peeringdb.com/fac/14272,BOTHWAXB - Bothell Central Office
+h5-data-centers-quincy-2-3-cdad74,peeringdb,16042,https://www.peeringdb.com/fac/16042,H5 Data Centers Quincy 2/3
+wowrack-datacenter-tukwila-a6e8e9,peeringdb,16321,https://www.peeringdb.com/fac/16321,Wowrack Datacenter - Tukwila
+yakmwafp-wholesail-yakima-dbcd66,peeringdb,16383,https://www.peeringdb.com/fac/16383,YAKMWAFP - Wholesail Yakima

@@ -1,0 +1,583 @@
+{
+ "elements": [
+  {
+   "id": 9669340912,
+   "lat": 39.2877017,
+   "lon": -76.6064893,
+   "tags": {
+    "addr:city": "Baltimore",
+    "addr:housenumber": "111",
+    "addr:postcode": "21202-4036",
+    "addr:state": "MD",
+    "addr:street": "Market Place",
+    "addr:unit": "Suite 123",
+    "name": "Crown Castle Baltimore",
+    "operator": "Crown Castle Fiber",
+    "phone": "+1 877 486 9377",
+    "ref": "Baltimore",
+    "telecom": "data_center",
+    "website": "https://www.crowncastle.com/communities/baltimore-md.aspx"
+   },
+   "type": "node"
+  },
+  {
+   "id": 9669405859,
+   "lat": 39.2917583,
+   "lon": -76.6203737,
+   "tags": {
+    "addr:city": "Baltimore",
+    "addr:housenumber": "300",
+    "addr:postcode": "21201",
+    "addr:state": "MD",
+    "addr:street": "West Lexington Street",
+    "name": "AiNET One Market Center",
+    "operator": "AiNET",
+    "phone": "+1 301 931 6574",
+    "ref": "BW1",
+    "telecom": "data_center",
+    "website": "https://www.ai.net/"
+   },
+   "type": "node"
+  },
+  {
+   "id": 11167641842,
+   "lat": 39.4273178,
+   "lon": -76.8115503,
+   "tags": {
+    "addr:city": "Owings Mills",
+    "addr:housenumber": "11155",
+    "addr:postcode": "21117",
+    "addr:state": "MD",
+    "addr:street": "Red Run Boulevard",
+    "addr:unit": "200",
+    "name": "Expedient Owings Mills",
+    "operator": "Expedient",
+    "telecom": "data_center",
+    "website": "https://www.expedient.com/data-centers/baltimore/"
+   },
+   "type": "node"
+  },
+  {
+   "id": 11168593074,
+   "lat": 39.2917592,
+   "lon": -76.6204024,
+   "tags": {
+    "name": "Lumen Baltimore",
+    "operator": "Lumen Technologies",
+    "operator:wikidata": "Q5063092",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 11168593094,
+   "lat": 39.2746554,
+   "lon": -76.5916709,
+   "tags": {
+    "name": "Expedient Tidepoint",
+    "operator": "Expedient",
+    "telecom": "data_center",
+    "website": "https://www.expedient.com/data-centers/baltimore/"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.0593673,
+    "maxlon": -76.9635985,
+    "minlat": 39.057849,
+    "minlon": -76.9653354
+   },
+   "geometry": [
+    {
+     "lat": 39.0580069,
+     "lon": -76.9638534
+    },
+    {
+     "lat": 39.0580129,
+     "lon": -76.963931
+    },
+    {
+     "lat": 39.0579866,
+     "lon": -76.9639342
+    },
+    {
+     "lat": 39.0579932,
+     "lon": -76.9640147
+    },
+    {
+     "lat": 39.0578957,
+     "lon": -76.9640266
+    },
+    {
+     "lat": 39.0579193,
+     "lon": -76.9642658
+    },
+    {
+     "lat": 39.057849,
+     "lon": -76.9642764
+    },
+    {
+     "lat": 39.0579008,
+     "lon": -76.9648384
+    },
+    {
+     "lat": 39.0579553,
+     "lon": -76.9648924
+    },
+    {
+     "lat": 39.0583969,
+     "lon": -76.964824
+    },
+    {
+     "lat": 39.0584572,
+     "lon": -76.9647236
+    },
+    {
+     "lat": 39.0584778,
+     "lon": -76.9647228
+    },
+    {
+     "lat": 39.0585503,
+     "lon": -76.964602
+    },
+    {
+     "lat": 39.0586551,
+     "lon": -76.9645873
+    },
+    {
+     "lat": 39.0586789,
+     "lon": -76.9648251
+    },
+    {
+     "lat": 39.0586544,
+     "lon": -76.9648266
+    },
+    {
+     "lat": 39.0586016,
+     "lon": -76.9649113
+    },
+    {
+     "lat": 39.0586432,
+     "lon": -76.9653354
+    },
+    {
+     "lat": 39.0593673,
+     "lon": -76.9641524
+    },
+    {
+     "lat": 39.0588149,
+     "lon": -76.9635985
+    },
+    {
+     "lat": 39.0585705,
+     "lon": -76.9636381
+    },
+    {
+     "lat": 39.0585824,
+     "lon": -76.9637657
+    },
+    {
+     "lat": 39.0580069,
+     "lon": -76.9638534
+    }
+   ],
+   "id": 93210344,
+   "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "12401",
+    "addr:postcode": "20904",
+    "addr:state": "MD",
+    "addr:street": "Prosperity Drive",
+    "building": "yes",
+    "name": "Lincoln Rackhouse Maryland",
+    "operator": "Lincoln Rackhouse",
+    "telecom": "data_center",
+    "website": "https://rackhouse.com/portfolio/maryland-data-center/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.3782559,
+    "maxlon": -77.4109069,
+    "minlat": 39.3773004,
+    "minlon": -77.4121828
+   },
+   "geometry": [
+    {
+     "lat": 39.3777919,
+     "lon": -77.4119573
+    },
+    {
+     "lat": 39.3782559,
+     "lon": -77.411606
+    },
+    {
+     "lat": 39.3779397,
+     "lon": -77.4109069
+    },
+    {
+     "lat": 39.3773004,
+     "lon": -77.4113909
+    },
+    {
+     "lat": 39.3776587,
+     "lon": -77.4121828
+    },
+    {
+     "lat": 39.3778339,
+     "lon": -77.4120501
+    },
+    {
+     "lat": 39.3777919,
+     "lon": -77.4119573
+    }
+   ],
+   "id": 178331621,
+   "tags": {
+    "building": "yes",
+    "source": "Bing",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.2757175,
+    "maxlon": -76.6251719,
+    "minlat": 39.2750165,
+    "minlon": -76.625848
+   },
+   "geometry": [
+    {
+     "lat": 39.2750231,
+     "lon": -76.625435
+    },
+    {
+     "lat": 39.2750165,
+     "lon": -76.6254381
+    },
+    {
+     "lat": 39.2750889,
+     "lon": -76.6256982
+    },
+    {
+     "lat": 39.2752219,
+     "lon": -76.6257735
+    },
+    {
+     "lat": 39.27527,
+     "lon": -76.6258368
+    },
+    {
+     "lat": 39.2753097,
+     "lon": -76.6258193
+    },
+    {
+     "lat": 39.2753179,
+     "lon": -76.625848
+    },
+    {
+     "lat": 39.2756164,
+     "lon": -76.62571
+    },
+    {
+     "lat": 39.2757175,
+     "lon": -76.6256158
+    },
+    {
+     "lat": 39.2755937,
+     "lon": -76.6251719
+    },
+    {
+     "lat": 39.2750231,
+     "lon": -76.625435
+    }
+   ],
+   "id": 336387583,
+   "tags": {
+    "addr:city": "Baltimore",
+    "addr:country": "US",
+    "addr:housenumber": "1401",
+    "addr:postcode": "21230",
+    "addr:state": "MD",
+    "addr:street": "Russell Street",
+    "building": "yes",
+    "name": "Baltimore Technology Park",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.0532079,
+    "maxlon": -76.9254131,
+    "minlat": 39.052473,
+    "minlon": -76.9264364
+   },
+   "geometry": [
+    {
+     "lat": 39.052473,
+     "lon": -76.925732
+    },
+    {
+     "lat": 39.0525379,
+     "lon": -76.9258939
+    },
+    {
+     "lat": 39.0525019,
+     "lon": -76.9259176
+    },
+    {
+     "lat": 39.0525142,
+     "lon": -76.9259485
+    },
+    {
+     "lat": 39.052493,
+     "lon": -76.9259625
+    },
+    {
+     "lat": 39.0525641,
+     "lon": -76.9261402
+    },
+    {
+     "lat": 39.0525816,
+     "lon": -76.9261287
+    },
+    {
+     "lat": 39.0526295,
+     "lon": -76.9262483
+    },
+    {
+     "lat": 39.0526125,
+     "lon": -76.9262595
+    },
+    {
+     "lat": 39.0526834,
+     "lon": -76.9264364
+    },
+    {
+     "lat": 39.0527426,
+     "lon": -76.9263974
+    },
+    {
+     "lat": 39.0527263,
+     "lon": -76.9263567
+    },
+    {
+     "lat": 39.0532079,
+     "lon": -76.9260394
+    },
+    {
+     "lat": 39.0529571,
+     "lon": -76.9254131
+    },
+    {
+     "lat": 39.052473,
+     "lon": -76.925732
+    }
+   ],
+   "id": 363017375,
+   "tags": {
+    "building": "yes",
+    "name": "AiNET",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.2137985,
+    "maxlon": -76.6822115,
+    "minlat": 39.2131116,
+    "minlon": -76.6834566
+   },
+   "geometry": [
+    {
+     "lat": 39.213354,
+     "lon": -76.6834566
+    },
+    {
+     "lat": 39.2137985,
+     "lon": -76.6823415
+    },
+    {
+     "lat": 39.2136028,
+     "lon": -76.6822115
+    },
+    {
+     "lat": 39.2134961,
+     "lon": -76.6824792
+    },
+    {
+     "lat": 39.2134703,
+     "lon": -76.6824622
+    },
+    {
+     "lat": 39.2134295,
+     "lon": -76.6825646
+    },
+    {
+     "lat": 39.2134085,
+     "lon": -76.6825507
+    },
+    {
+     "lat": 39.2131116,
+     "lon": -76.6832956
+    },
+    {
+     "lat": 39.213354,
+     "lon": -76.6834566
+    }
+   ],
+   "id": 610845529,
+   "tags": {
+    "addr:city": "Linthicum Heights",
+    "addr:housenumber": "813",
+    "addr:postcode": "21090",
+    "addr:state": "MD",
+    "addr:street": "Pinnacle Drive",
+    "building": "yes",
+    "name": "TierPoint Baltimore BWI",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.2936496,
+    "maxlon": -76.5515488,
+    "minlat": 39.2934689,
+    "minlon": -76.551914
+   },
+   "geometry": [
+    {
+     "lat": 39.2936496,
+     "lon": -76.5515846
+    },
+    {
+     "lat": 39.293588,
+     "lon": -76.5515661
+    },
+    {
+     "lat": 39.2935652,
+     "lon": -76.5516695
+    },
+    {
+     "lat": 39.293546,
+     "lon": -76.5516654
+    },
+    {
+     "lat": 39.2935665,
+     "lon": -76.5515603
+    },
+    {
+     "lat": 39.2935352,
+     "lon": -76.5515488
+    },
+    {
+     "lat": 39.2934689,
+     "lon": -76.5518747
+    },
+    {
+     "lat": 39.2935831,
+     "lon": -76.551914
+    },
+    {
+     "lat": 39.2936496,
+     "lon": -76.5515846
+    }
+   ],
+   "id": 931369845,
+   "tags": {
+    "building": "yes",
+    "name": "Johns Hopkins Data Center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.1343351,
+    "maxlon": -76.8504326,
+    "minlat": 39.1330389,
+    "minlon": -76.8524363
+   },
+   "geometry": [
+    {
+     "lat": 39.1333964,
+     "lon": -76.8524363
+    },
+    {
+     "lat": 39.1330389,
+     "lon": -76.8521344
+    },
+    {
+     "lat": 39.1333297,
+     "lon": -76.8515618
+    },
+    {
+     "lat": 39.1332715,
+     "lon": -76.8515127
+    },
+    {
+     "lat": 39.1338202,
+     "lon": -76.8504326
+    },
+    {
+     "lat": 39.1343351,
+     "lon": -76.8508673
+    },
+    {
+     "lat": 39.1337905,
+     "lon": -76.8519392
+    },
+    {
+     "lat": 39.1336914,
+     "lon": -76.8518555
+    },
+    {
+     "lat": 39.1333964,
+     "lon": -76.8524363
+    }
+   ],
+   "id": 1143804764,
+   "tags": {
+    "addr:city": "Laurel",
+    "addr:housenumber": "9800",
+    "addr:postcode": "20723",
+    "addr:state": "MD",
+    "addr:street": "South Eternal Rings Drive",
+    "building": "commercial",
+    "source": "esri/USA_NAD_Addresses",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.1408221,
+    "maxlon": -76.6058933,
+    "minlat": 39.1396384,
+    "minlon": -76.6069672
+   },
+   "id": 16282459,
+   "tags": {
+    "building": "yes",
+    "name": "CyberNAP Glen Burnie",
+    "operator": "AiNET",
+    "telecom": "data_center",
+    "type": "multipolygon"
+   },
+   "type": "relation"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:56:34Z",
+  "timestamp_osm_base": "2026-10-21T17:06:33Z"
+ },
+ "version": 0.6
+}

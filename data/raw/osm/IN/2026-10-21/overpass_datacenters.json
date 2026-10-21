@@ -1,0 +1,754 @@
+{
+ "elements": [
+  {
+   "id": 7264976228,
+   "lat": 40.42179,
+   "lon": -86.9141546,
+   "tags": {
+    "name": "Learning GIS!",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 7264976991,
+   "lat": 40.4218543,
+   "lon": -86.9165454,
+   "tags": {
+    "description": "Youthmapper generated Purdue GIS classroom or data labs.",
+    "name": "Agricultural and Biological Engineering",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.1750082,
+    "maxlon": -86.5000307,
+    "minlat": 39.1738375,
+    "minlon": -86.501345
+   },
+   "geometry": [
+    {
+     "lat": 39.1746152,
+     "lon": -86.501345
+    },
+    {
+     "lat": 39.1738375,
+     "lon": -86.5009373
+    },
+    {
+     "lat": 39.1739435,
+     "lon": -86.500597
+    },
+    {
+     "lat": 39.1739611,
+     "lon": -86.5005407
+    },
+    {
+     "lat": 39.1741203,
+     "lon": -86.5000307
+    },
+    {
+     "lat": 39.1750082,
+     "lon": -86.5005081
+    },
+    {
+     "lat": 39.1749209,
+     "lon": -86.5007951
+    },
+    {
+     "lat": 39.1749666,
+     "lon": -86.5008273
+    },
+    {
+     "lat": 39.1749188,
+     "lon": -86.5009767
+    },
+    {
+     "lat": 39.174871,
+     "lon": -86.5011224
+    },
+    {
+     "lat": 39.1747213,
+     "lon": -86.5010419
+    },
+    {
+     "lat": 39.1746152,
+     "lon": -86.501345
+    }
+   ],
+   "id": 203432103,
+   "tags": {
+    "addr:city": "Bloomington",
+    "addr:housenumber": "2750",
+    "addr:postcode": "47408",
+    "addr:state": "IN",
+    "addr:street": "East Discovery Parkway",
+    "architect": "SmithGroup",
+    "architect:wikidata": "Q7544941",
+    "building": "university",
+    "name": "IU Data Center",
+    "operator": "Indiana University",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.717456,
+    "maxlon": -85.9411058,
+    "minlat": 39.7169382,
+    "minlon": -85.9417163
+   },
+   "geometry": [
+    {
+     "lat": 39.7169382,
+     "lon": -85.9411132
+    },
+    {
+     "lat": 39.717454,
+     "lon": -85.9411058
+    },
+    {
+     "lat": 39.717456,
+     "lon": -85.9413386
+    },
+    {
+     "lat": 39.7173233,
+     "lon": -85.9413405
+    },
+    {
+     "lat": 39.7173251,
+     "lon": -85.9415565
+    },
+    {
+     "lat": 39.7172849,
+     "lon": -85.941557
+    },
+    {
+     "lat": 39.7172857,
+     "lon": -85.9416471
+    },
+    {
+     "lat": 39.7171741,
+     "lon": -85.9416487
+    },
+    {
+     "lat": 39.7171746,
+     "lon": -85.9417155
+    },
+    {
+     "lat": 39.7171186,
+     "lon": -85.9417163
+    },
+    {
+     "lat": 39.717118,
+     "lon": -85.9416472
+    },
+    {
+     "lat": 39.7171165,
+     "lon": -85.9414642
+    },
+    {
+     "lat": 39.7169412,
+     "lon": -85.9414667
+    },
+    {
+     "lat": 39.7169403,
+     "lon": -85.9413572
+    },
+    {
+     "lat": 39.7169398,
+     "lon": -85.9413033
+    },
+    {
+     "lat": 39.7169382,
+     "lon": -85.9411132
+    }
+   ],
+   "id": 349925359,
+   "tags": {
+    "addr:city": "New Palestine",
+    "addr:housenumber": "7510",
+    "addr:postcode": "46163",
+    "addr:state": "IN",
+    "addr:street": "West Stinemyer Road",
+    "building": "yes",
+    "operator": "Verizon Wireless",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.1859285,
+    "maxlon": -85.8869869,
+    "minlat": 39.1857835,
+    "minlon": -85.8871565
+   },
+   "geometry": [
+    {
+     "lat": 39.1857851,
+     "lon": -85.8871565
+    },
+    {
+     "lat": 39.1859285,
+     "lon": -85.8871542
+    },
+    {
+     "lat": 39.1859269,
+     "lon": -85.8869869
+    },
+    {
+     "lat": 39.1857835,
+     "lon": -85.8869893
+    },
+    {
+     "lat": 39.1857851,
+     "lon": -85.8871565
+    }
+   ],
+   "id": 567894059,
+   "tags": {
+    "building": "data_center",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 39.1833058,
+    "maxlon": -85.8959704,
+    "minlat": 39.1819632,
+    "minlon": -85.8974379
+   },
+   "geometry": [
+    {
+     "lat": 39.1833058,
+     "lon": -85.8959842
+    },
+    {
+     "lat": 39.1833043,
+     "lon": -85.8972582
+    },
+    {
+     "lat": 39.1824601,
+     "lon": -85.897277
+    },
+    {
+     "lat": 39.1822959,
+     "lon": -85.8974379
+    },
+    {
+     "lat": 39.1819632,
+     "lon": -85.8974379
+    },
+    {
+     "lat": 39.1819656,
+     "lon": -85.8959704
+    },
+    {
+     "lat": 39.183185,
+     "lon": -85.8959764
+    },
+    {
+     "lat": 39.1833058,
+     "lon": -85.8959842
+    }
+   ],
+   "id": 773684159,
+   "tags": {
+    "addr:city": "Columbus",
+    "addr:housenumber": "2425",
+    "addr:postcode": "47201",
+    "addr:state": "IN",
+    "addr:street": "Technology Boulevard",
+    "name": "DartPoints Columbus",
+    "operator": "DartPoints",
+    "ref": "CLU01",
+    "telecom": "data_center",
+    "website": "https://dartpoints.com/locations/clu01-columbus-in/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.7080883,
+    "maxlon": -87.519402,
+    "minlat": 41.706745,
+    "minlon": -87.5210638
+   },
+   "geometry": [
+    {
+     "lat": 41.7080883,
+     "lon": -87.5201809
+    },
+    {
+     "lat": 41.7075322,
+     "lon": -87.5210638
+    },
+    {
+     "lat": 41.706745,
+     "lon": -87.5201743
+    },
+    {
+     "lat": 41.7072314,
+     "lon": -87.519402
+    },
+    {
+     "lat": 41.7073572,
+     "lon": -87.5195442
+    },
+    {
+     "lat": 41.707427,
+     "lon": -87.5194334
+    },
+    {
+     "lat": 41.7080883,
+     "lon": -87.5201809
+    }
+   ],
+   "id": 978934687,
+   "tags": {
+    "addr:city": "Hammond",
+    "addr:housenumber": "100",
+    "addr:postcode": "46320",
+    "addr:state": "IN",
+    "addr:street": "Digital Crossroad Drive",
+    "building": "industrial",
+    "name": "Digital Crossroad",
+    "operator": "Digital Crossroad",
+    "telecom": "data_center",
+    "website": "https://digitalcrossroad.com/data-centers/indiana-data-center/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.6716977,
+    "maxlon": -86.4640764,
+    "minlat": 41.6638305,
+    "minlon": -86.4820347
+   },
+   "geometry": [
+    {
+     "lat": 41.6638305,
+     "lon": -86.4820347
+    },
+    {
+     "lat": 41.6706058,
+     "lon": -86.4818883
+    },
+    {
+     "lat": 41.6715745,
+     "lon": -86.4818693
+    },
+    {
+     "lat": 41.6716977,
+     "lon": -86.4681891
+    },
+    {
+     "lat": 41.6700789,
+     "lon": -86.4673158
+    },
+    {
+     "lat": 41.6685327,
+     "lon": -86.466297
+    },
+    {
+     "lat": 41.6664669,
+     "lon": -86.4640764
+    },
+    {
+     "lat": 41.6639263,
+     "lon": -86.4640991
+    },
+    {
+     "lat": 41.6638305,
+     "lon": -86.4820347
+    }
+   ],
+   "id": 1303947602,
+   "tags": {
+    "alt_name": "Project Rainier",
+    "landuse": "industrial",
+    "name": "Amazon AWS Data Center",
+    "owner": "Amazon",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.6899096,
+    "maxlon": -86.4726402,
+    "minlat": 41.6871875,
+    "minlon": -86.4734609
+   },
+   "geometry": [
+    {
+     "lat": 41.6899046,
+     "lon": -86.4726402
+    },
+    {
+     "lat": 41.6899096,
+     "lon": -86.4734456
+    },
+    {
+     "lat": 41.6886977,
+     "lon": -86.473459
+    },
+    {
+     "lat": 41.6886965,
+     "lon": -86.4732733
+    },
+    {
+     "lat": 41.6883934,
+     "lon": -86.4732768
+    },
+    {
+     "lat": 41.6883944,
+     "lon": -86.4734476
+    },
+    {
+     "lat": 41.6871923,
+     "lon": -86.4734609
+    },
+    {
+     "lat": 41.6871875,
+     "lon": -86.47267
+    },
+    {
+     "lat": 41.6899046,
+     "lon": -86.4726402
+    }
+   ],
+   "id": 1471517731,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.6898916,
+    "maxlon": -86.4694539,
+    "minlat": 41.6871695,
+    "minlon": -86.4702745
+   },
+   "geometry": [
+    {
+     "lat": 41.6898867,
+     "lon": -86.4694539
+    },
+    {
+     "lat": 41.6898916,
+     "lon": -86.4702593
+    },
+    {
+     "lat": 41.6886797,
+     "lon": -86.4702727
+    },
+    {
+     "lat": 41.6886785,
+     "lon": -86.470087
+    },
+    {
+     "lat": 41.6883754,
+     "lon": -86.4700904
+    },
+    {
+     "lat": 41.6883764,
+     "lon": -86.4702612
+    },
+    {
+     "lat": 41.6871743,
+     "lon": -86.4702745
+    },
+    {
+     "lat": 41.6871695,
+     "lon": -86.4694837
+    },
+    {
+     "lat": 41.6898867,
+     "lon": -86.4694539
+    }
+   ],
+   "id": 1471517732,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.693419,
+    "maxlon": -86.4644805,
+    "minlat": 41.6906971,
+    "minlon": -86.4653012
+   },
+   "geometry": [
+    {
+     "lat": 41.6934141,
+     "lon": -86.4644805
+    },
+    {
+     "lat": 41.693419,
+     "lon": -86.4652859
+    },
+    {
+     "lat": 41.6922072,
+     "lon": -86.4652993
+    },
+    {
+     "lat": 41.692206,
+     "lon": -86.4651137
+    },
+    {
+     "lat": 41.6919029,
+     "lon": -86.4651171
+    },
+    {
+     "lat": 41.691904,
+     "lon": -86.4652879
+    },
+    {
+     "lat": 41.6907019,
+     "lon": -86.4653012
+    },
+    {
+     "lat": 41.6906971,
+     "lon": -86.4645103
+    },
+    {
+     "lat": 41.6934141,
+     "lon": -86.4644805
+    }
+   ],
+   "id": 1471517733,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.6898994,
+    "maxlon": -86.4714649,
+    "minlat": 41.6871774,
+    "minlon": -86.4723001
+   },
+   "geometry": [
+    {
+     "lat": 41.6898994,
+     "lon": -86.4722703
+    },
+    {
+     "lat": 41.6898944,
+     "lon": -86.4714649
+    },
+    {
+     "lat": 41.6886826,
+     "lon": -86.4714781
+    },
+    {
+     "lat": 41.6886837,
+     "lon": -86.4716638
+    },
+    {
+     "lat": 41.6883805,
+     "lon": -86.471667
+    },
+    {
+     "lat": 41.6883795,
+     "lon": -86.4714962
+    },
+    {
+     "lat": 41.6871774,
+     "lon": -86.4715093
+    },
+    {
+     "lat": 41.6871822,
+     "lon": -86.4723001
+    },
+    {
+     "lat": 41.6898994,
+     "lon": -86.4722703
+    }
+   ],
+   "id": 1471517734,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.6899176,
+    "maxlon": -86.4746434,
+    "minlat": 41.6871956,
+    "minlon": -86.4754786
+   },
+   "geometry": [
+    {
+     "lat": 41.6899176,
+     "lon": -86.4754487
+    },
+    {
+     "lat": 41.6899127,
+     "lon": -86.4746434
+    },
+    {
+     "lat": 41.6887008,
+     "lon": -86.4746566
+    },
+    {
+     "lat": 41.6887019,
+     "lon": -86.4748422
+    },
+    {
+     "lat": 41.6883988,
+     "lon": -86.4748454
+    },
+    {
+     "lat": 41.6883977,
+     "lon": -86.4746746
+    },
+    {
+     "lat": 41.6871956,
+     "lon": -86.4746877
+    },
+    {
+     "lat": 41.6872005,
+     "lon": -86.4754786
+    },
+    {
+     "lat": 41.6899176,
+     "lon": -86.4754487
+    }
+   ],
+   "id": 1471517735,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.693419,
+    "maxlon": -86.4664664,
+    "minlat": 41.6906971,
+    "minlon": -86.4673016
+   },
+   "geometry": [
+    {
+     "lat": 41.693419,
+     "lon": -86.4672718
+    },
+    {
+     "lat": 41.6934141,
+     "lon": -86.4664664
+    },
+    {
+     "lat": 41.6922022,
+     "lon": -86.4664796
+    },
+    {
+     "lat": 41.6922033,
+     "lon": -86.4666653
+    },
+    {
+     "lat": 41.6919002,
+     "lon": -86.4666685
+    },
+    {
+     "lat": 41.6918992,
+     "lon": -86.4664977
+    },
+    {
+     "lat": 41.6906971,
+     "lon": -86.4665108
+    },
+    {
+     "lat": 41.690702,
+     "lon": -86.4673016
+    },
+    {
+     "lat": 41.693419,
+     "lon": -86.4672718
+    }
+   ],
+   "id": 1471517736,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.6934068,
+    "maxlon": -86.463297,
+    "minlat": 41.6906849,
+    "minlon": -86.4641321
+   },
+   "geometry": [
+    {
+     "lat": 41.6934068,
+     "lon": -86.4641023
+    },
+    {
+     "lat": 41.6934019,
+     "lon": -86.463297
+    },
+    {
+     "lat": 41.69219,
+     "lon": -86.4633102
+    },
+    {
+     "lat": 41.6921911,
+     "lon": -86.4634958
+    },
+    {
+     "lat": 41.691888,
+     "lon": -86.463499
+    },
+    {
+     "lat": 41.691887,
+     "lon": -86.4633282
+    },
+    {
+     "lat": 41.6906849,
+     "lon": -86.4633413
+    },
+    {
+     "lat": 41.6906898,
+     "lon": -86.4641321
+    },
+    {
+     "lat": 41.6934068,
+     "lon": -86.4641023
+    }
+   ],
+   "id": 1471517737,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:16:04Z",
+  "timestamp_osm_base": "2026-10-21T17:03:30Z"
+ },
+ "version": 0.6
+}

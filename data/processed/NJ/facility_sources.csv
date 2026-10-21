@@ -1,0 +1,103 @@
+facility_id,source,source_id,source_url,source_name
+open-data-centers-piscataway-5b8242,osm,node/12452254071,https://www.openstreetmap.org/node/12452254071,Open Data Centers Piscataway
+h5-data-centers-secaucus-nj01-f9e4e5,osm,node/12471740457,https://www.openstreetmap.org/node/12471740457,H5 Secaucus
+h5-data-centers-secaucus-nj01-f9e4e5,peeringdb,3919,https://www.peeringdb.com/fac/3919,H5 Data Centers Secaucus (NJ01)
+equinix-ny7-new-york-north-bergen-48b0b5,osm,way/95782052,https://www.openstreetmap.org/way/95782052,Equinix NY7 Data Center
+equinix-ny7-new-york-north-bergen-48b0b5,peeringdb,542,https://www.peeringdb.com/fac/542,"Equinix NY7 - New York, North Bergen"
+equinix-ny2-ny4-ny5-ny6-new-york-secaucus-5b96b8,osm,way/193611192,https://www.openstreetmap.org/way/193611192,Equinix New York Secaucus NY5
+equinix-ny2-ny4-ny5-ny6-new-york-secaucus-5b96b8,peeringdb,36,https://www.peeringdb.com/fac/36,"Equinix NY2/NY4/NY5/NY6 - New York, Secaucus"
+equinix-new-york-secaucus-ny4-b20f8f,osm,way/193611211,https://www.openstreetmap.org/way/193611211,Equinix New York Secaucus NY4
+equinix-ny3-new-york-secaucus-7d1ecd,osm,way/193611216,https://www.openstreetmap.org/way/193611216,Equinix NY3
+equinix-ny3-new-york-secaucus-7d1ecd,peeringdb,16827,https://www.peeringdb.com/fac/16827,"Equinix NY3 - New York, Secaucus"
+equinix-new-york-secaucus-ny2-d746e5,osm,way/193611219,https://www.openstreetmap.org/way/193611219,Equinix New York Secaucus NY2
+centersquare-nyc3-data-center-0ffd4d,osm,way/193612533,https://www.openstreetmap.org/way/193612533,Centersquare NYC3 Data Center
+io-datacenter-4fa3bf,osm,way/204316962,https://www.openstreetmap.org/way/204316962,IO Datacenter
+databank-piscataway-ewr2-5f10c8,osm,way/204460681,https://www.openstreetmap.org/way/204460681,DataBank Piscataway EWR2
+databank-piscataway-ewr2-5f10c8,peeringdb,10922,https://www.peeringdb.com/fac/10922,DataBank Piscataway (EWR2)
+optimum-6b2289,osm,way/204460799,https://www.openstreetmap.org/way/204460799,Optimum
+equinix-fbe1f7,osm,way/204460812,https://www.openstreetmap.org/way/204460812,Equinix
+barclays-datacenter-b7d3c0,osm,way/204460835,https://www.openstreetmap.org/way/204460835,Barclays Datacenter
+digital-realty-new-york-ewr12-fed3f1,osm,way/204460903,https://www.openstreetmap.org/way/204460903,Digital Realty New York EWR12
+digital-realty-ewr-3-corporate-pl-2c6325,osm,way/204460950,https://www.openstreetmap.org/way/204460950,Digital Realty New York EWR11
+digital-realty-ewr-3-corporate-pl-2c6325,peeringdb,2979,https://www.peeringdb.com/fac/2979,Digital Realty EWR (3 Corporate Pl)
+cyxtera-digital-realty-trust-citibank-data-c-8897dc,osm,way/279410762,https://www.openstreetmap.org/way/279410762,Cyxtera (Digital Realty Trust) Citibank Data Center
+digital-realty-new-jersey-ewr10-closed-88d791,osm,way/279410766,https://www.openstreetmap.org/way/279410766,Digital Realty New Jersey EWR10
+digital-realty-new-jersey-ewr10-closed-88d791,peeringdb,1736,https://www.peeringdb.com/fac/1736,Digital Realty New Jersey EWR10 (closed)
+unnamed-data-center-37f395,osm,way/345650474,https://www.openstreetmap.org/way/345650474,
+unnamed-data-center-d979c2,osm,way/354590432,https://www.openstreetmap.org/way/354590432,
+qts-piscataway-pnj1-8adb1a,osm,way/362662493,https://www.openstreetmap.org/way/362662493,QTS Piscataway Data Center
+qts-piscataway-pnj1-8adb1a,peeringdb,1177,https://www.peeringdb.com/fac/1177,QTS Piscataway (PNJ1)
+equinix-ny1-new-york-newark-5bfaa6,osm,way/387208881,https://www.openstreetmap.org/way/387208881,165 Halsey / Equinix NY1 / Databank EWR1
+equinix-ny1-new-york-newark-5bfaa6,peeringdb,9,https://www.peeringdb.com/fac/9,"Equinix NY1 - New York, Newark"
+unnamed-data-center-6e42b5,osm,way/451491797,https://www.openstreetmap.org/way/451491797,
+evocative-ewr1-76d3c1,osm,way/451497833,https://www.openstreetmap.org/way/451497833,Evocative Secaucus
+evocative-ewr1-76d3c1,peeringdb,2981,https://www.peeringdb.com/fac/2981,Evocative EWR1
+bt-radianz-492-river-road-75c73a,osm,way/452116337,https://www.openstreetmap.org/way/452116337,BT Radianz: 492 River Road
+manasquan-cable-landing-station-apollo-805dc2,osm,way/459188722,https://www.openstreetmap.org/way/459188722,Manasquan Cable Landing Station (Apollo)
+digital-realty-ewr-100-delawanna-8a4f64,osm,way/460177088,https://www.openstreetmap.org/way/460177088,Digital Realty New Jersey EWR20
+digital-realty-ewr-100-delawanna-8a4f64,peeringdb,908,https://www.peeringdb.com/fac/908,Digital Realty EWR (100 Delawanna)
+cyrusone-nj-1-1eb05a,osm,way/460182320,https://www.openstreetmap.org/way/460182320,CyrusOne
+cyrusone-nj-1-1eb05a,peeringdb,2180,https://www.peeringdb.com/fac/2180,CyrusOne NJ-1
+unnamed-data-center-968c0b,osm,way/460182330,https://www.openstreetmap.org/way/460182330,
+bny-mellon-somerset-c1f25d,osm,way/460182335,https://www.openstreetmap.org/way/460182335,BNY Mellon Somerset
+digital-realty-aa9fec,osm,way/460182337,https://www.openstreetmap.org/way/460182337,Digital Realty
+digital-realty-ewr-2-peekay-7c9497,osm,way/460182351,https://www.openstreetmap.org/way/460182351,Digital Realty New Jersey EWR21
+digital-realty-ewr-2-peekay-7c9497,peeringdb,4773,https://www.peeringdb.com/fac/4773,Digital Realty EWR (2 Peekay)
+nyse-data-center-2ad310,osm,way/472761713,https://www.openstreetmap.org/way/472761713,NYSE Data Center
+unnamed-data-center-b312e8,osm,way/607483487,https://www.openstreetmap.org/way/607483487,
+goldman-sachs-ac5477,osm,way/612045611,https://www.openstreetmap.org/way/612045611,Goldman Sachs
+365-data-centers-bridgewater-bw1-126164,osm,way/618339179,https://www.openstreetmap.org/way/618339179,365 Bridgewater NJ
+365-data-centers-bridgewater-bw1-126164,peeringdb,6085,https://www.peeringdb.com/fac/6085,365 Data Centers Bridgewater (BW1)
+equinix-secaucus-ny6-ea896f,osm,way/714139865,https://www.openstreetmap.org/way/714139865,Equinix Secaucus NY6
+coresite-secaucus-ny3-3bd3a3,osm,way/714139868,https://www.openstreetmap.org/way/714139868,CoreSite Secaucus Campus
+coresite-secaucus-ny3-3bd3a3,osm,way/1383916144,https://www.openstreetmap.org/way/1383916144,CoreSite NY3
+coresite-secaucus-ny3-3bd3a3,peeringdb,16467,https://www.peeringdb.com/fac/16467,CoreSite - Secaucus (NY3)
+pse-g-delivery-emergency-response-center-18fa46,osm,way/714943309,https://www.openstreetmap.org/way/714943309,PSE&G Delivery Emergency Response Center
+unnamed-data-center-55856c,osm,way/729376485,https://www.openstreetmap.org/way/729376485,
+vital-records-bf4d90,osm,way/758580536,https://www.openstreetmap.org/way/758580536,Vital Records
+wall-township-cable-landing-station-d03780,osm,way/808909814,https://www.openstreetmap.org/way/808909814,Wall Township Cable Landing Station
+credit-suisse-clifton-data-center-2d2751,osm,way/818790301,https://www.openstreetmap.org/way/818790301,Credit Suisse: Clifton Data Center
+unnamed-data-center-038a52,osm,way/936368014,https://www.openstreetmap.org/way/936368014,
+jpmorgan-chase-95a2ac,osm,way/966520234,https://www.openstreetmap.org/way/966520234,JPMorgan Chase
+unnamed-data-center-6e9314,osm,way/989352911,https://www.openstreetmap.org/way/989352911,
+rackspace-somerset-nyc1-a13da9,osm,way/998933381,https://www.openstreetmap.org/way/998933381,Rackspace Somerset NYC1
+rackspace-belmont-nyc2-6fd1b7,osm,way/998933389,https://www.openstreetmap.org/way/998933389,Rackspace Belmont NYC2
+unnamed-data-center-1bd2fc,osm,way/1189426328,https://www.openstreetmap.org/way/1189426328,
+manasquan-cable-landing-station-tat-14-42bf23,osm,way/1189437032,https://www.openstreetmap.org/way/1189437032,Manasquan Cable Landing Station (TAT-14)
+globenet-tuckerton-cable-landing-station-3eefa1,osm,way/1250867182,https://www.openstreetmap.org/way/1250867182,GlobeNet Tuckerton Cable Landing Station
+unnamed-data-center-59c52a,osm,way/1549253249,https://www.openstreetmap.org/way/1549253249,
+unnamed-data-center-47dec2,osm,way/1549253250,https://www.openstreetmap.org/way/1549253250,
+dataone-vineland-ed538c,osm,way/1553894888,https://www.openstreetmap.org/way/1553894888,DataOne Vineland
+cyrusone-totowa-7f5e3b,osm,way/1556797631,https://www.openstreetmap.org/way/1556797631,CyrusOne
+cyrusone-totowa-7f5e3b,peeringdb,2356,https://www.peeringdb.com/fac/2356,CyrusOne Totowa
+level-3-weehawken-4c2685,peeringdb,209,https://www.peeringdb.com/fac/209,Level(3) Weehawken
+centersquare-new-jersey-ewr5-7002d9,peeringdb,279,https://www.peeringdb.com/fac/279,Centersquare New Jersey (EWR5)
+newport-financial-center-67afec,peeringdb,330,https://www.peeringdb.com/fac/330,Newport Financial Center
+165-halsey-meet-me-room-b25e19,peeringdb,350,https://www.peeringdb.com/fac/350,165 Halsey Meet-Me Room
+qts-jersey-city-jcy1-9b11bf,peeringdb,579,https://www.peeringdb.com/fac/579,QTS Jersey City (JCY1)
+fibernet-telecom-group-newark-165-halsey-bad402,peeringdb,604,https://www.peeringdb.com/fac/604,FiberNet Telecom Group Newark - 165 Halsey
+level-3-jersey-city-ef973e,peeringdb,739,https://www.peeringdb.com/fac/739,Level(3) Jersey City
+level-3-newark-aed7a4,peeringdb,1601,https://www.peeringdb.com/fac/1601,Level(3) Newark
+coresite-secaucus-ny2-6de581,peeringdb,1671,https://www.peeringdb.com/fac/1671,CoreSite - Secaucus (NY2)
+databank-newark-ewr1-4c9c33,peeringdb,1820,https://www.peeringdb.com/fac/1820,DataBank Newark (EWR1)
+iron-mountain-data-center-new-jersey-nje-1-8a0eb4,peeringdb,2011,https://www.peeringdb.com/fac/2011,Iron Mountain Data Center - New Jersey (NJE-1)
+cologix-nnj2-130eb2,peeringdb,2508,https://www.peeringdb.com/fac/2508,Cologix NNJ2
+cologix-nnj3-fb9068,peeringdb,2509,https://www.peeringdb.com/fac/2509,Cologix NNJ3
+centersquare-new-jersey-ewr2-faeed4,peeringdb,2636,https://www.peeringdb.com/fac/2636,Centersquare New Jersey (EWR2)
+centersquare-new-jersey-ewr3-b250ad,peeringdb,2638,https://www.peeringdb.com/fac/2638,Centersquare New Jersey (EWR3)
+qts-princeton-pjc1-7ceb37,peeringdb,3360,https://www.peeringdb.com/fac/3360,QTS Princeton (PJC1)
+njdc1-100-delawanna-ave-e8d1d1,peeringdb,3430,https://www.peeringdb.com/fac/3430,NJDC1 - 100 Delawanna ave
+njdc2-300-j-f-kennedy-blvd-802c50,peeringdb,3431,https://www.peeringdb.com/fac/3431,NJDC2 - 300 J F Kennedy Blvd
+crown-castle-newark-165-halsey-9fc35a,peeringdb,3486,https://www.peeringdb.com/fac/3486,Crown Castle Newark (165 Halsey)
+anexio-nj1-137a98,peeringdb,3771,https://www.peeringdb.com/fac/3771,Anexio NJ1
+anexio-nj1-137a98,peeringdb,6425,https://www.peeringdb.com/fac/6425,ColoCrossing NJ1
+whitelabelitsolutions-4c712d,peeringdb,3876,https://www.peeringdb.com/fac/3876,WhiteLabelITSolutions
+njfx-ee33c7,peeringdb,5945,https://www.peeringdb.com/fac/5945,NJFX
+planet-networks-newton-datacenter-58fef1,peeringdb,7288,https://www.peeringdb.com/fac/7288,Planet Networks Newton Datacenter
+interserver-teb2-19b1df,peeringdb,8744,https://www.peeringdb.com/fac/8744,InterServer Teb2
+interserver-teb4-e54cd0,peeringdb,8745,https://www.peeringdb.com/fac/8745,InterServer Teb4
+365-data-centers-new-jersey-nj1-a03dbf,peeringdb,10349,https://www.peeringdb.com/fac/10349,365 Data Centers New Jersey (NJ1)
+sungard-as-carlstadt-777-028192,peeringdb,10866,https://www.peeringdb.com/fac/10866,Sungard AS Carlstadt 777
+digital-fortress-pnj-39b992,peeringdb,13023,https://www.peeringdb.com/fac/13023,Digital Fortress (PNJ)
+dataverge-jersey-city-9309d6,peeringdb,15092,https://www.peeringdb.com/fac/15092,Dataverge Jersey City
+365-data-centers-carlstadt-nj3-014dd3,peeringdb,15701,https://www.peeringdb.com/fac/15701,365 Data Centers Carlstadt (NJ3)

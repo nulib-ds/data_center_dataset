@@ -1,0 +1,111 @@
+{
+ "elements": [
+  {
+   "bounds": {
+    "maxlat": 43.6073727,
+    "maxlon": -96.8087878,
+    "minlat": 43.6065689,
+    "minlon": -96.8096019
+   },
+   "geometry": [
+    {
+     "lat": 43.6073396,
+     "lon": -96.8096019
+    },
+    {
+     "lat": 43.6065689,
+     "lon": -96.8095372
+    },
+    {
+     "lat": 43.606602,
+     "lon": -96.8087878
+    },
+    {
+     "lat": 43.6073727,
+     "lon": -96.8088527
+    },
+    {
+     "lat": 43.6073681,
+     "lon": -96.8089564
+    },
+    {
+     "lat": 43.6073396,
+     "lon": -96.8096019
+    }
+   ],
+   "id": 239032142,
+   "tags": {
+    "addr:city": "Sioux Falls",
+    "addr:housenumber": "5300",
+    "addr:postcode": "57107",
+    "addr:state": "SD",
+    "addr:street": "North La Mesa Drive",
+    "building": "yes",
+    "name": "TierPoint Sioux Falls West Data Center",
+    "source": "Bing",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.6008238,
+    "maxlon": -96.7934392,
+    "minlat": 43.599004,
+    "minlon": -96.7960754
+   },
+   "geometry": [
+    {
+     "lat": 43.6008238,
+     "lon": -96.7953231
+    },
+    {
+     "lat": 43.6001318,
+     "lon": -96.7936642
+    },
+    {
+     "lat": 43.6000589,
+     "lon": -96.7937222
+    },
+    {
+     "lat": 43.600005,
+     "lon": -96.7935932
+    },
+    {
+     "lat": 43.5998122,
+     "lon": -96.7937466
+    },
+    {
+     "lat": 43.599684,
+     "lon": -96.7934392
+    },
+    {
+     "lat": 43.599004,
+     "lon": -96.7939801
+    },
+    {
+     "lat": 43.5998781,
+     "lon": -96.7960754
+    },
+    {
+     "lat": 43.6008238,
+     "lon": -96.7953231
+    }
+   ],
+   "id": 545895086,
+   "tags": {
+    "building": "yes",
+    "name": "ADP South Dakota",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:16:04Z",
+  "timestamp_osm_base": "2026-10-21T17:27:41Z"
+ },
+ "version": 0.6
+}

@@ -1,0 +1,2 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+osm,node/13720841436,TulsaConnect,,osm,node/13720841438,TulsaConnect,,0.599,,561.3,0.467,1.0,0.0,1.0,[]|[]

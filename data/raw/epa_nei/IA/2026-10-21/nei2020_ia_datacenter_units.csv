@@ -1,0 +1,118 @@
+eis facility id,company name,site name,primary naics code,site latitude,site longitude,address,city,zip code,eis unit id,unit type,unit description,process description,scc
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,123943913,Reciprocating IC Engine,FIRE PUMP,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,123946513,Reciprocating IC Engine,GUARDHOUSE,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,137975313,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,DIESEL-FIRED IC ENGINE,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,137976713,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,DIESEL-FIRED IC ENGINE,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,137978213,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,DIESEL-FIRED IC ENGINE,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,134922413,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,134923613,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,136296813,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,136295913,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111701613,Reciprocating IC Engine,EMERGENCY DIESEL ENGINE 200001,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111703813,Reciprocating IC Engine,EMERGENCY DIESEL ENGINE 225001,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111705413,Reciprocating IC Engine,EMERGENCY DIESEL ENGINE 150001,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111705813,Reciprocating IC Engine,EMERGENCY DIESEL ENGINE 150005,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111707713,Reciprocating IC Engine,EMERGENCY DIESEL ENGINE 150006,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111708013,Reciprocating IC Engine,EMERGENCY DIESEL ENGINE 125001,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111708113,Reciprocating IC Engine,EMERGENCY DIESEL ENGINE 125002,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111708213,Reciprocating IC Engine,EMERGENCY DIESEL ENGINE,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111709213,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111709413,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111713913,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111710313,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111713513,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111714013,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111715713,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111718313,Reciprocating IC Engine,DIESEL-FIRED IC ENGINE,EMERGENCY GENERATOR,20200102
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,123946113,Cooling Tower,"COOLING MODULE 3M-1, CELL #1 AND 2",,38500110
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111703413,Cooling Tower,"COOLING MODULE 1, CELL#1 AND 2",COOLING TOWER,38500110
+16962311,GOOGLE LLC,GABLE CORPORATION,518210,41.17571,-95.80347,10420 BUNGE AVE,COUNCIL BLUFFS,51503,111721513,Cooling Tower,"COOLING MODULE 17, CELL #1 AND 2",COOLING TOWER,38500110
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,136326413,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,136326113,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,136326213,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,136326313,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,136326513,Reciprocating IC Engine,Emergency Generator,Emergency Generator,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127361113,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127361413,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127361213,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127361313,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127361513,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127361613,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127361713,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127361813,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127361913,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127362013,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127362113,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127362213,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127362313,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127362613,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127362413,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127362513,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127362713,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127362813,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127362913,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127363013,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127363213,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127363313,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127363413,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127363513,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127363613,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127363913,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127363713,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127363813,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127364113,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127364213,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127364313,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127364413,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127364513,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127364613,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127364713,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127364813,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127365113,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127364913,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127365013,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127365213,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127365313,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127365413,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127365513,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127365613,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127365713,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127365813,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127365913,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127366013,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127366313,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127366113,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127366213,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127366413,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127366613,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127366713,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127366813,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127366913,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127367013,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127367113,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127367213,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127367313,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127367513,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127367713,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127367413,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127367613,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127367813,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127367913,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127368013,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127368113,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127368313,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127368413,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127368513,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127368613,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127368713,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127368813,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127368913,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127369013,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127369113,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127369213,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127369313,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127369413,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,127369513,Reciprocating IC Engine,Emergency Generator,,20300101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,137988813,Cooling Tower,Cooling Tower,,38500101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,137988913,Cooling Tower,Cooling Tower,,38500101
+17928311,"Siculus, Inc.","Siculus, Inc.",518210,41.668,-93.512,100 Share Way NW,Altoona,50009,137989013,Cooling Tower,Cooling Tower,,38500101

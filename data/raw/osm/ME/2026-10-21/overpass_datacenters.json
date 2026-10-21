@@ -1,0 +1,202 @@
+{
+ "elements": [
+  {
+   "id": 7171975407,
+   "lat": 43.6578388,
+   "lon": -70.2613785,
+   "tags": {
+    "addr:city": "Portland",
+    "addr:housenumber": "340",
+    "addr:postcode": "04101",
+    "addr:state": "ME",
+    "addr:street": "Cumberland Avenue",
+    "addr:unit": "7",
+    "name": "FirstLight Data Center",
+    "operator": "FirstLight",
+    "telecom": "data_center",
+    "website": "https://www.firstlight.net/products/data-center/portland-me-data-center/"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.8956593,
+    "maxlon": -69.9227455,
+    "minlat": 43.8946553,
+    "minlon": -69.9241228
+   },
+   "geometry": [
+    {
+     "lat": 43.8948705,
+     "lon": -69.9239649
+    },
+    {
+     "lat": 43.8948682,
+     "lon": -69.923343
+    },
+    {
+     "lat": 43.8948203,
+     "lon": -69.9232753
+    },
+    {
+     "lat": 43.8947721,
+     "lon": -69.923341
+    },
+    {
+     "lat": 43.8948016,
+     "lon": -69.9233827
+    },
+    {
+     "lat": 43.8947709,
+     "lon": -69.9234245
+    },
+    {
+     "lat": 43.8946959,
+     "lon": -69.9233184
+    },
+    {
+     "lat": 43.8947258,
+     "lon": -69.9232777
+    },
+    {
+     "lat": 43.8947572,
+     "lon": -69.9233222
+    },
+    {
+     "lat": 43.8948042,
+     "lon": -69.9232583
+    },
+    {
+     "lat": 43.8946564,
+     "lon": -69.9230492
+    },
+    {
+     "lat": 43.8946553,
+     "lon": -69.9227524
+    },
+    {
+     "lat": 43.8956582,
+     "lon": -69.9227455
+    },
+    {
+     "lat": 43.8956593,
+     "lon": -69.9230513
+    },
+    {
+     "lat": 43.8952815,
+     "lon": -69.9230539
+    },
+    {
+     "lat": 43.8951285,
+     "lon": -69.9232446
+    },
+    {
+     "lat": 43.8952334,
+     "lon": -69.9233772
+    },
+    {
+     "lat": 43.8952568,
+     "lon": -69.9233413
+    },
+    {
+     "lat": 43.8952839,
+     "lon": -69.9233759
+    },
+    {
+     "lat": 43.8952422,
+     "lon": -69.9234402
+    },
+    {
+     "lat": 43.8951073,
+     "lon": -69.9232706
+    },
+    {
+     "lat": 43.8950832,
+     "lon": -69.9233011
+    },
+    {
+     "lat": 43.8950857,
+     "lon": -69.9239621
+    },
+    {
+     "lat": 43.8949675,
+     "lon": -69.9239629
+    },
+    {
+     "lat": 43.8949681,
+     "lon": -69.9241226
+    },
+    {
+     "lat": 43.894946,
+     "lon": -69.9241228
+    },
+    {
+     "lat": 43.8949454,
+     "lon": -69.9239644
+    },
+    {
+     "lat": 43.8948705,
+     "lon": -69.9239649
+    }
+   ],
+   "id": 667796922,
+   "tags": {
+    "addr:city": "Brunswick",
+    "addr:housenumber": "14",
+    "addr:postcode": "04011",
+    "addr:state": "ME",
+    "addr:street": "Resilient Circle",
+    "building": "yes",
+    "name": "Oxford Networks",
+    "operator": "FirstLight",
+    "telecom": "data_center",
+    "website": "https://www.firstlight.net/products/data-center/brunswick-me-data-center/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 46.9401458,
+    "maxlon": -67.9053716,
+    "minlat": 46.9398397,
+    "minlon": -67.9058038
+   },
+   "geometry": [
+    {
+     "lat": 46.9400899,
+     "lon": -67.9058038
+    },
+    {
+     "lat": 46.9401458,
+     "lon": -67.9054585
+    },
+    {
+     "lat": 46.9398957,
+     "lon": -67.9053716
+    },
+    {
+     "lat": 46.9398397,
+     "lon": -67.9057168
+    },
+    {
+     "lat": 46.9400899,
+     "lon": -67.9058038
+    }
+   ],
+   "id": 1534758773,
+   "tags": {
+    "building": "yes",
+    "name": "Datacenter",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:16:04Z",
+  "timestamp_osm_base": "2026-10-21T17:06:33Z"
+ },
+ "version": 0.6
+}

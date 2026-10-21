@@ -29,8 +29,8 @@ digital-realty-aus11-austin-56badb,osm,way/379204279,https://www.openstreetmap.o
 digital-realty-aus11-austin-56badb,peeringdb,4870,https://www.peeringdb.com/fac/4870,Digital Realty AUS11 - Austin
 lightedge-austin-2-aus2-e0725f,osm,way/379204643,https://www.openstreetmap.org/way/379204643,LightEdge Austin II
 lightedge-austin-2-aus2-e0725f,peeringdb,5971,https://www.peeringdb.com/fac/5971,LightEdge Austin 2 (AUS2)
-cyrusone-austin-met-2-23a6d3,osm,way/379204766,https://www.openstreetmap.org/way/379204766,CyrusOne Austin Data Center II
-cyrusone-austin-met-2-23a6d3,peeringdb,1483,https://www.peeringdb.com/fac/1483,CyrusOne Austin (Met 2)
+cyrusone-austin-met-2-e85f0a,osm,way/379204766,https://www.openstreetmap.org/way/379204766,CyrusOne
+cyrusone-austin-met-2-e85f0a,peeringdb,1483,https://www.peeringdb.com/fac/1483,CyrusOne Austin (Met 2)
 data-foundry-austin-1-1c400b,osm,way/379205427,https://www.openstreetmap.org/way/379205427,Data Foundry Austin 1 Data Center
 data-foundry-austin-1-1c400b,peeringdb,2340,https://www.peeringdb.com/fac/2340,Data Foundry Austin 1
 lightedge-austin-1-aus1-d0de14,osm,way/382785871,https://www.openstreetmap.org/way/382785871,LightEdge Austin I
@@ -40,8 +40,8 @@ data-foundry-texas-1-11ec1e,osm,way/577628941,https://www.openstreetmap.org/way/
 data-foundry-texas-1-11ec1e,peeringdb,1720,https://www.peeringdb.com/fac/1720,Data Foundry Texas 1
 element-critical-austin-aus1-278cc4,osm,way/384396017,https://www.openstreetmap.org/way/384396017,Element Critical
 element-critical-austin-aus1-278cc4,peeringdb,3922,https://www.peeringdb.com/fac/3922,Element Critical  Austin AUS1
-cyrusone-austin-met-3-19b923,osm,way/455171103,https://www.openstreetmap.org/way/455171103,CyrusOne Austin Data Center III
-cyrusone-austin-met-3-19b923,peeringdb,2354,https://www.peeringdb.com/fac/2354,CyrusOne Austin (Met 3)
+cyrusone-austin-met-3-012e88,osm,way/455171103,https://www.openstreetmap.org/way/455171103,CyrusOne
+cyrusone-austin-met-3-012e88,peeringdb,2354,https://www.peeringdb.com/fac/2354,CyrusOne Austin (Met 3)
 prime-dfw01-01-63a967,osm,way/465032380,https://www.openstreetmap.org/way/465032380,Prime DFW01-01
 prime-dfw01-01-63a967,osm,way/1461896928,https://www.openstreetmap.org/way/1461896928,Prime DFW01-01
 databank-dallas-dfw4-fd852f,osm,way/465032631,https://www.openstreetmap.org/way/465032631,DataBank Dallas Empire Central Data Center
@@ -52,8 +52,8 @@ live-oak-data-center-de0ecb,osm,way/471658485,https://www.openstreetmap.org/way/
 aligned-dallas-dfw-01-b121f1,osm,way/483286527,https://www.openstreetmap.org/way/483286527,Aligned  DFW-01
 aligned-dallas-dfw-01-b121f1,osm,way/1530200859,https://www.openstreetmap.org/way/1530200859,Aligned  DFW-02
 aligned-dallas-dfw-01-b121f1,peeringdb,7862,https://www.peeringdb.com/fac/7862,Aligned Dallas (DFW-01)
-tierpoint-dallas2-allen-34c5d5,osm,way/483307714,https://www.openstreetmap.org/way/483307714,Tierpoint Dallas-Allen
-tierpoint-dallas2-allen-34c5d5,peeringdb,4372,https://www.peeringdb.com/fac/4372,TierPoint Dallas2 - Allen
+tierpoint-dallas2-allen-c0fcf6,osm,way/483307714,https://www.openstreetmap.org/way/483307714,TierPoint
+tierpoint-dallas2-allen-c0fcf6,peeringdb,4372,https://www.peeringdb.com/fac/4372,TierPoint Dallas2 - Allen
 dxc-technology-6e55d2,osm,way/487170215,https://www.openstreetmap.org/way/487170215,DXC Technology
 facebook-fort-worth-datacenter-815631,osm,way/500820007,https://www.openstreetmap.org/way/500820007,Facebook Fort Worth Datacenter
 citigroup-technology-inc-49c337,osm,way/507673418,https://www.openstreetmap.org/way/507673418,CITIGROUP TECHNOLOGY INC
@@ -70,9 +70,9 @@ stream-san-antonio-ii-023eb8,osm,way/509611437,https://www.openstreetmap.org/way
 cyrusone-san-antonio-ii-93d672,osm,way/509611438,https://www.openstreetmap.org/way/509611438,CyrusOne San Antonio II
 cyrusone-san-antonio-ii-93d672,osm,way/509611439,https://www.openstreetmap.org/way/509611439,CyrusOne San Antonio III
 cyrusone-san-antonio-ii-93d672,osm,way/1121592786,https://www.openstreetmap.org/way/1121592786,CyrusOne San Antonio IV
-microsoft-texas-research-park-campus-6cb938,osm,way/521300038,https://www.openstreetmap.org/way/521300038,Microsoft Texas Research Park Campus
-microsoft-texas-research-park-campus-6cb938,osm,way/1010260676,https://www.openstreetmap.org/way/1010260676,Microsoft
-microsoft-texas-research-park-campus-6cb938,osm,way/1010260677,https://www.openstreetmap.org/way/1010260677,Microsoft
+microsoft-texas-research-park-campus-af63bd,osm,way/521300038,https://www.openstreetmap.org/way/521300038,Microsoft Texas Research Park Campus
+microsoft-texas-research-park-campus-af63bd,osm,way/1010260676,https://www.openstreetmap.org/way/1010260676,Microsoft
+microsoft-texas-research-park-campus-af63bd,osm,way/1010260677,https://www.openstreetmap.org/way/1010260677,Microsoft
 qts-irving-dallas-dfw1-d519c7,osm,way/526806006,https://www.openstreetmap.org/way/526806006,QTS Irving - Dallas Data Center Campus
 qts-irving-dallas-dfw1-d519c7,peeringdb,3363,https://www.peeringdb.com/fac/3363,QTS Irving - Dallas (DFW1)
 dxc-technology-e9f081,osm,way/543316327,https://www.openstreetmap.org/way/543316327,DXC Technology
@@ -83,9 +83,9 @@ experian-mckinney-data-center-167ce8,osm,way/549418041,https://www.openstreetmap
 amazon-web-services-819494,osm,way/557140229,https://www.openstreetmap.org/way/557140229,Amazon Web Services
 thin-nology-6b1dd1,osm,way/570397131,https://www.openstreetmap.org/way/570397131,Thin-nology
 unnamed-data-center-6b3e7b,osm,way/587103676,https://www.openstreetmap.org/way/587103676,
-unnamed-data-center-5ce93c,osm,way/590213770,https://www.openstreetmap.org/way/590213770,
-cyrusone-dallas-allen-a864f8,osm,way/590213771,https://www.openstreetmap.org/way/590213771,CyrusOne Allen
-cyrusone-dallas-allen-a864f8,peeringdb,5197,https://www.peeringdb.com/fac/5197,CyrusOne Dallas (Allen)
+scalematrix-6c7415,osm,way/590213770,https://www.openstreetmap.org/way/590213770,ScaleMatrix
+cyrusone-299ae0,osm,way/590213771,https://www.openstreetmap.org/way/590213771,CyrusOne
+cyrusone-299ae0,osm,way/1484435248,https://www.openstreetmap.org/way/1484435248,CyrusOne
 stream-dfw-iv-0b318d,osm,way/597835788,https://www.openstreetmap.org/way/597835788,Stream DFW IV
 rackspace-richardson-dfw3-ecfb98,osm,way/597876719,https://www.openstreetmap.org/way/597876719,Rackspace Richardson DFW3
 digital-realty-dallas-dfw17-bbedee,osm,way/597876721,https://www.openstreetmap.org/way/597876721,Digital Realty Dallas DFW17
@@ -108,10 +108,8 @@ ragingwire-tx1-ntt-6f035c,osm,way/1530199676,https://www.openstreetmap.org/way/1
 ragingwire-tx1-ntt-6f035c,peeringdb,6554,https://www.peeringdb.com/fac/6554,RagingWire TX1 - NTT
 rice-data-center-21d147,osm,way/671838900,https://www.openstreetmap.org/way/671838900,Rice Data Center
 facebook-fort-worth-datacenter-86c69e,osm,way/673145182,https://www.openstreetmap.org/way/673145182,Facebook Fort Worth Datacenter
-unnamed-data-center-f871c1,osm,way/713411278,https://www.openstreetmap.org/way/713411278,
-unnamed-data-center-19292c,osm,way/713411279,https://www.openstreetmap.org/way/713411279,
-databank-dallas-dfw3-e8a5b6,osm,way/714120969,https://www.openstreetmap.org/way/714120969,DataBank Plano Data Center
-databank-dallas-dfw3-e8a5b6,peeringdb,4286,https://www.peeringdb.com/fac/4286,DataBank Dallas (DFW3)
+databank-dallas-dfw3-8d984f,osm,way/714120969,https://www.openstreetmap.org/way/714120969,DataBank Plano Data Center
+databank-dallas-dfw3-8d984f,peeringdb,4286,https://www.peeringdb.com/fac/4286,DataBank Dallas (DFW3)
 skybox-houston-one-95a6f3,osm,way/714776107,https://www.openstreetmap.org/way/714776107,Skybox Houston One
 unnamed-data-center-cddbd9,osm,way/744177375,https://www.openstreetmap.org/way/744177375,
 unnamed-data-center-0d2c52,osm,way/747985149,https://www.openstreetmap.org/way/747985149,
@@ -124,7 +122,7 @@ unnamed-data-center-a51cf9,osm,way/1010260674,https://www.openstreetmap.org/way/
 microsoft-trp3-sat46-b5dabf,osm,way/1010260675,https://www.openstreetmap.org/way/1010260675,Microsoft TRP3 (SAT46)
 qts-san-antonio-ii-f851bd,osm,way/1081973944,https://www.openstreetmap.org/way/1081973944,QTS San Antonio II
 unnamed-data-center-7b52f8,osm,way/1177794153,https://www.openstreetmap.org/way/1177794153,
-cortex-supercomputer-dea65c,osm,way/1221574918,https://www.openstreetmap.org/way/1221574918,Cortex supercomputer
+cortex-supercomputer-c59156,osm,way/1221574918,https://www.openstreetmap.org/way/1221574918,Cortex supercomputer
 novartis-3c9e30,osm,way/1227550179,https://www.openstreetmap.org/way/1227550179,Novartis
 gvtc-9b3511,osm,way/1296723872,https://www.openstreetmap.org/way/1296723872,GVTC
 stream-data-centers-dfw-vii-dc0ef8,osm,way/1300765126,https://www.openstreetmap.org/way/1300765126,Stream Data Centers DFWA
@@ -134,9 +132,9 @@ heb-9f3819,osm,way/1310628998,https://www.openstreetmap.org/way/1310628998,HEB
 cyrusone-sat10-sat11-2f4e85,osm,way/1344366214,https://www.openstreetmap.org/way/1344366214,CyrusOne SAT10 & SAT11
 amazon-cb4d7a,osm,way/1344369104,https://www.openstreetmap.org/way/1344369104,Amazon
 unnamed-data-center-263cc0,osm,way/1344369111,https://www.openstreetmap.org/way/1344369111,
-vantage-san-antonio-i-96af5c,osm,way/1344369112,https://www.openstreetmap.org/way/1344369112,Vantage San Antonio I
-vantage-san-antonio-i-96af5c,osm,way/1533349843,https://www.openstreetmap.org/way/1533349843,Vantage TX12
-vantage-san-antonio-i-96af5c,osm,way/1533349844,https://www.openstreetmap.org/way/1533349844,Vantage TX12
+vantage-san-antonio-i-679d69,osm,way/1344369112,https://www.openstreetmap.org/way/1344369112,Vantage San Antonio I
+vantage-san-antonio-i-679d69,osm,way/1533349843,https://www.openstreetmap.org/way/1533349843,Vantage TX12
+vantage-san-antonio-i-679d69,osm,way/1533349844,https://www.openstreetmap.org/way/1533349844,Vantage TX12
 google-38e00d,osm,way/1426525184,https://www.openstreetmap.org/way/1426525184,Google
 compass-data-center-4270df,osm,way/1426525212,https://www.openstreetmap.org/way/1426525212,Compass Data Center
 compass-data-center-4270df,osm,way/1426525213,https://www.openstreetmap.org/way/1426525213,Compass Data Center
@@ -167,7 +165,6 @@ unnamed-data-center-d45484,osm,way/1472056711,https://www.openstreetmap.org/way/
 unnamed-data-center-ab32e8,osm,way/1472056712,https://www.openstreetmap.org/way/1472056712,
 unnamed-data-center-45c2ad,osm,way/1472056713,https://www.openstreetmap.org/way/1472056713,
 unnamed-data-center-4028cf,osm,way/1472056714,https://www.openstreetmap.org/way/1472056714,
-unnamed-data-center-7e1d47,osm,way/1484435248,https://www.openstreetmap.org/way/1484435248,
 aligned-data-centers-dfw-04-a9ac7f,osm,way/1486780799,https://www.openstreetmap.org/way/1486780799,Aligned Data Centers DFW-04
 argo-data-center-95ef30,osm,way/1490401523,https://www.openstreetmap.org/way/1490401523,Argo Data Center
 switch-the-rock-c961d1,osm,way/1493169641,https://www.openstreetmap.org/way/1493169641,Switch: The Rock
@@ -218,7 +215,7 @@ microsoft-sat-80-bbcd94,osm,way/1533392812,https://www.openstreetmap.org/way/153
 microsoft-sat-80-bbcd94,osm,way/1533392813,https://www.openstreetmap.org/way/1533392813,Microsoft SAT 81
 microsoft-sat-80-bbcd94,osm,way/1533392814,https://www.openstreetmap.org/way/1533392814,Microsoft SAT 82
 data-foundry-464b3c,osm,way/1535715798,https://www.openstreetmap.org/way/1535715798,Data Foundry
-vantage-data-centers-tx21-318bbd,osm,way/1535752110,https://www.openstreetmap.org/way/1535752110,Vantage Data Centers TX21
+vantage-data-centers-tx21-cc0fa1,osm,way/1535752110,https://www.openstreetmap.org/way/1535752110,Vantage Data Centers TX21
 unnamed-data-center-45657f,osm,way/1536086683,https://www.openstreetmap.org/way/1536086683,
 unnamed-data-center-154dea,osm,way/1536086684,https://www.openstreetmap.org/way/1536086684,
 unnamed-data-center-727c40,osm,way/1537390734,https://www.openstreetmap.org/way/1537390734,
@@ -242,6 +239,8 @@ unnamed-data-center-149792,osm,way/1537390751,https://www.openstreetmap.org/way/
 unnamed-data-center-ba5de9,osm,way/1547829413,https://www.openstreetmap.org/way/1547829413,
 unnamed-data-center-e20340,osm,way/1547829414,https://www.openstreetmap.org/way/1547829414,
 cyrusone-24d2b7,osm,way/1556702082,https://www.openstreetmap.org/way/1556702082,CyrusOne
+unnamed-data-center-8d8e5e,osm,way/1570250215,https://www.openstreetmap.org/way/1570250215,
+dfw2-dc1-project-8160e1,osm,way/1570250230,https://www.openstreetmap.org/way/1570250230,DFW2-DC1 Project
 equinix-da3-dallas-fadcfa,peeringdb,69,https://www.peeringdb.com/fac/69,Equinix DA3 - Dallas
 digital-realty-dfw-2323-bryan-st-a3dc62,peeringdb,402,https://www.peeringdb.com/fac/402,Digital Realty DFW (2323 Bryan St)
 netrality-houston-1301-fannin-a1ab76,peeringdb,409,https://www.peeringdb.com/fac/409,Netrality Houston - 1301 Fannin
@@ -288,6 +287,7 @@ smartcom-telephone-mcal2-3bfe35,peeringdb,4347,https://www.peeringdb.com/fac/434
 smartcom-telephone-mcal1-afb2d1,peeringdb,4348,https://www.peeringdb.com/fac/4348,Smartcom Telephone (MCAL1)
 mdc-el-paso-d6edf8,peeringdb,4580,https://www.peeringdb.com/fac/4580,MDC El Paso
 mdc-laredo-c0fedd,peeringdb,4581,https://www.peeringdb.com/fac/4581,MDC Laredo
+cyrusone-dallas-allen-4127ee,peeringdb,5197,https://www.peeringdb.com/fac/5197,CyrusOne Dallas (Allen)
 trg-datacenters-houston-hou1-hou2-de4bc1,peeringdb,5268,https://www.peeringdb.com/fac/5268,TRG Datacenters Houston (HOU1) (HOU2)
 equinix-ho1-houston-da170f,peeringdb,5334,https://www.peeringdb.com/fac/5334,Equinix HO1 - Houston
 interconnx-realty-6ab254,peeringdb,6064,https://www.peeringdb.com/fac/6064,InterConnX Realty

@@ -1,0 +1,12 @@
+facility_id,source,source_id,source_url,source_name
+center-for-computation-technology-cct-781e43,osm,node/3468203102,https://www.openstreetmap.org/node/3468203102,Center for Computation & Technology (CCT)
+dartpoints-baton-rouge-la-btr1-4c7207,osm,node/14124760832,https://www.openstreetmap.org/node/14124760832,DartPoints Baton Rouge 2
+dartpoints-baton-rouge-la-btr1-4c7207,osm,node/14124761022,https://www.openstreetmap.org/node/14124761022,DartPoints Baton Rouge 1
+dartpoints-baton-rouge-la-btr1-4c7207,peeringdb,13438,https://www.peeringdb.com/fac/13438,Venyu BTR1
+dartpoints-baton-rouge-la-btr1-4c7207,peeringdb,13669,https://www.peeringdb.com/fac/13669,"DartPoints Baton Rouge, LA - BTR1"
+dartpoints-shreveport-la-shv1-c97ae7,osm,node/14124769105,https://www.openstreetmap.org/node/14124769105,DartPoints Shreveport
+dartpoints-shreveport-la-shv1-c97ae7,peeringdb,15892,https://www.peeringdb.com/fac/15892,"DartPoints Shreveport, LA - SHV1"
+nola-broadband-e9ba66,peeringdb,9129,https://www.peeringdb.com/fac/9129,NOLA BROADBAND
+edgeconnex-new-orleans-edcsli01-ea0561,peeringdb,11786,https://www.peeringdb.com/fac/11786,EdgeConneX New Orleans (EDCSLI01)
+cogent-new-orleans-bffcb4,peeringdb,12396,https://www.peeringdb.com/fac/12396,Cogent New Orleans
+dartpoints-baton-rouge-la-btr2-2f0cfb,peeringdb,15844,https://www.peeringdb.com/fac/15844,"DartPoints Baton Rouge, LA - BTR2"

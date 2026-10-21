@@ -1,0 +1,6 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+peeringdb,362,710 Tucker St Louis,710 North Tucker,peeringdb,3928,H5 Data Centers St. Louis (MO01),"710 North Tucker Blvd., Suite 610",0.673,,0.0,1.0,0.333,1.0,0.167,[]|['mo01']
+peeringdb,2793,NetSolus Inc,324 East 11th STE 500,peeringdb,14908,IP Pathways KC1,324 East 11th STE 500,0.615,,10.0,1.0,0.0,1.0,0.276,[]|['kc1']
+peeringdb,332,Netrality St. Louis - 900 Walnut,900 Walnut - Netrality Data Center Meet Me Room 900 Walnut Street,peeringdb,5270,TierPoint St. Louis - Walnut,900 Walnut Street,0.604,,0.0,1.0,0.5,0.361,0.323,[]|[]
+peeringdb,829,Oak Tower,324 E. 11th St.,peeringdb,2793,NetSolus Inc,324 East 11th STE 500,0.575,,17.7,1.0,0.0,1.0,0.074,[]|[]
+peeringdb,829,Oak Tower,324 E. 11th St.,peeringdb,14908,IP Pathways KC1,324 East 11th STE 500,0.573,,7.8,1.0,0.0,1.0,0.067,[]|['kc1']

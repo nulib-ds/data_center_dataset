@@ -1,0 +1,4189 @@
+{
+ "elements": [
+  {
+   "id": 10537283366,
+   "lat": 41.8728811,
+   "lon": -87.63344,
+   "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "717",
+    "addr:postcode": "60607",
+    "addr:state": "IL",
+    "addr:street": "South Wells Street",
+    "name": "Netrality",
+    "operator": "Netrality",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 10910879064,
+   "lat": 41.8533507,
+   "lon": -87.6183067,
+   "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "350",
+    "addr:postcode": "60616",
+    "addr:state": "IL",
+    "addr:street": "East Cermak Road",
+    "name": "Digital Realty ORD10",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "ORD10",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 10910879065,
+   "lat": 41.8533827,
+   "lon": -87.6186071,
+   "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "350",
+    "addr:postcode": "60616",
+    "addr:state": "IL",
+    "addr:street": "East Cermak Road",
+    "name": "Centersquare Chicago Data Center - ORD1",
+    "operator": "Centersquare",
+    "operator:wikidata": "Q127304226",
+    "ref": "ORD1",
+    "telecom": "data_center",
+    "website": "https://centersquaredc.com/data-centers/chicago#chicagocermak-ord1"
+   },
+   "type": "node"
+  },
+  {
+   "id": 10945121336,
+   "lat": 41.8805271,
+   "lon": -87.6359383,
+   "tags": {
+    "name": "West Monroe",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 11098469355,
+   "lat": 41.8759405,
+   "lon": -87.6314655,
+   "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "427",
+    "addr:postcode": "60605",
+    "addr:state": "IL",
+    "addr:street": "South LaSalle Street",
+    "clli": "CHCGILWU",
+    "communication": "fiber",
+    "name": "CoreSite Chicago Data Center (CH1)",
+    "old_ref": "Western Union",
+    "operator": "CoreSite",
+    "operator:wikidata": "Q5170140",
+    "ref": "CH1",
+    "telecom": "data_center",
+    "telecom:medium": "fibre",
+    "website": "https://www.coresite.com/data-center/ch1-chicago-il"
+   },
+   "type": "node"
+  },
+  {
+   "id": 12695496267,
+   "lat": 41.8535578,
+   "lon": -87.6180475,
+   "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "350",
+    "addr:postcode": "60616",
+    "addr:state": "IL",
+    "addr:street": "East Cermak Road",
+    "name": "Equinix Chicago Data Center - CH1",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "CH1",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/chicago-data-centers/ch1"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.7725361,
+    "maxlon": -88.2163537,
+    "minlat": 41.7716707,
+    "minlon": -88.2178104
+   },
+   "geometry": [
+    {
+     "lat": 41.7724801,
+     "lon": -88.2178104
+    },
+    {
+     "lat": 41.7721551,
+     "lon": -88.2177761
+    },
+    {
+     "lat": 41.7721703,
+     "lon": -88.2175412
+    },
+    {
+     "lat": 41.7720501,
+     "lon": -88.2175295
+    },
+    {
+     "lat": 41.7716707,
+     "lon": -88.2168096
+    },
+    {
+     "lat": 41.7721588,
+     "lon": -88.2163537
+    },
+    {
+     "lat": 41.7725361,
+     "lon": -88.2170711
+    },
+    {
+     "lat": 41.7724561,
+     "lon": -88.2171463
+    },
+    {
+     "lat": 41.7724829,
+     "lon": -88.2172066
+    },
+    {
+     "lat": 41.7725189,
+     "lon": -88.217212
+    },
+    {
+     "lat": 41.7724801,
+     "lon": -88.2178104
+    }
+   ],
+   "id": 124088810,
+   "tags": {
+    "building": "yes",
+    "name": "Lincoln Rackhouse",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9951484,
+    "maxlon": -87.9602836,
+    "minlat": 41.9933519,
+    "minlon": -87.9636253
+   },
+   "geometry": [
+    {
+     "lat": 41.9940321,
+     "lon": -87.96094
+    },
+    {
+     "lat": 41.9933904,
+     "lon": -87.9609234
+    },
+    {
+     "lat": 41.9933519,
+     "lon": -87.9636211
+    },
+    {
+     "lat": 41.9935134,
+     "lon": -87.9636253
+    },
+    {
+     "lat": 41.9935148,
+     "lon": -87.9635259
+    },
+    {
+     "lat": 41.9951117,
+     "lon": -87.9635667
+    },
+    {
+     "lat": 41.9951484,
+     "lon": -87.9609663
+    },
+    {
+     "lat": 41.9942468,
+     "lon": -87.9609433
+    },
+    {
+     "lat": 41.9942404,
+     "lon": -87.9609345
+    },
+    {
+     "lat": 41.9944921,
+     "lon": -87.9606059
+    },
+    {
+     "lat": 41.9942597,
+     "lon": -87.9602836
+    },
+    {
+     "lat": 41.9940219,
+     "lon": -87.9605941
+    },
+    {
+     "lat": 41.994141,
+     "lon": -87.9607593
+    },
+    {
+     "lat": 41.9941553,
+     "lon": -87.9607791
+    },
+    {
+     "lat": 41.9940395,
+     "lon": -87.9609304
+    },
+    {
+     "lat": 41.9940321,
+     "lon": -87.96094
+    }
+   ],
+   "id": 128499684,
+   "tags": {
+    "addr:city": "Elk Grove Village",
+    "addr:housenumber": "2200",
+    "addr:postcode": "60007",
+    "addr:state": "IL",
+    "addr:street": "Busse Road",
+    "building": "data_center",
+    "building:levels": "3",
+    "building:use": "industrial",
+    "name": "Digital Realty CH1",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "CH1",
+    "source": "bing",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/chicago/ch1"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.0957485,
+    "maxlon": -88.241797,
+    "minlat": 40.0947697,
+    "minlon": -88.2422658
+   },
+   "geometry": [
+    {
+     "lat": 40.0957485,
+     "lon": -88.2418072
+    },
+    {
+     "lat": 40.0947725,
+     "lon": -88.241797
+    },
+    {
+     "lat": 40.094772,
+     "lon": -88.2418843
+    },
+    {
+     "lat": 40.0947697,
+     "lon": -88.2422556
+    },
+    {
+     "lat": 40.0951238,
+     "lon": -88.2422593
+    },
+    {
+     "lat": 40.0957457,
+     "lon": -88.2422658
+    },
+    {
+     "lat": 40.0957485,
+     "lon": -88.2418072
+    }
+   ],
+   "id": 138260136,
+   "tags": {
+    "addr:city": "Champaign",
+    "addr:housenumber": "1725",
+    "addr:postcode": "61820",
+    "addr:state": "IL",
+    "addr:street": "South Oak Street",
+    "alt_name": "Blue Waters",
+    "building": "data_center",
+    "name": "NCSA Petascale Computing Facility",
+    "short_name": "NPCF",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.8744424,
+    "maxlon": -87.6297514,
+    "minlat": 41.8741648,
+    "minlon": -87.6301294
+   },
+   "geometry": [
+    {
+     "lat": 41.8741698,
+     "lon": -87.6297514
+    },
+    {
+     "lat": 41.8741648,
+     "lon": -87.6301227
+    },
+    {
+     "lat": 41.8744392,
+     "lon": -87.6301294
+    },
+    {
+     "lat": 41.8744408,
+     "lon": -87.6300094
+    },
+    {
+     "lat": 41.8744414,
+     "lon": -87.6299691
+    },
+    {
+     "lat": 41.8744424,
+     "lon": -87.6298899
+    },
+    {
+     "lat": 41.8743995,
+     "lon": -87.6298888
+    },
+    {
+     "lat": 41.8743514,
+     "lon": -87.6298136
+    },
+    {
+     "lat": 41.8743522,
+     "lon": -87.6297558
+    },
+    {
+     "lat": 41.8742607,
+     "lon": -87.6297536
+    },
+    {
+     "lat": 41.8741698,
+     "lon": -87.6297514
+    }
+   ],
+   "id": 149379943,
+   "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "600",
+    "addr:postcode": "60605",
+    "addr:state": "IL",
+    "addr:street": "South Federal Street",
+    "addr:street:name": "Federal",
+    "addr:street:prefix": "South",
+    "addr:street:type": "Street",
+    "building": "commercial",
+    "building:levels": "1",
+    "chicago:building_id": "824181;851794",
+    "name": "Digital Realty ORD11",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "ORD11",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.871242,
+    "maxlon": -87.6396455,
+    "minlat": 41.8706457,
+    "minlon": -87.6406372
+   },
+   "geometry": [
+    {
+     "lat": 41.8712277,
+     "lon": -87.6406372
+    },
+    {
+     "lat": 41.871242,
+     "lon": -87.6396609
+    },
+    {
+     "lat": 41.8709777,
+     "lon": -87.6396542
+    },
+    {
+     "lat": 41.870948,
+     "lon": -87.6396531
+    },
+    {
+     "lat": 41.8709206,
+     "lon": -87.6396522
+    },
+    {
+     "lat": 41.87066,
+     "lon": -87.6396455
+    },
+    {
+     "lat": 41.8706457,
+     "lon": -87.6406219
+    },
+    {
+     "lat": 41.8712277,
+     "lon": -87.6406372
+    }
+   ],
+   "id": 152449872,
+   "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "840",
+    "addr:postcode": "60607",
+    "addr:state": "IL",
+    "addr:street": "South Canal Street",
+    "addr:street:name": "Canal",
+    "addr:street:prefix": "South",
+    "addr:street:type": "Street",
+    "building": "office",
+    "building:levels": "8",
+    "chicago:building_id": "367970",
+    "name": "Serverfarm CH1",
+    "operator": "Serverfarm",
+    "ref": "CH1",
+    "telecom": "data_center",
+    "website": "https://www.serverfarmllc.com/chicago-data-center/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.8542707,
+    "maxlon": -87.6175982,
+    "minlat": 41.8531125,
+    "minlon": -87.6189449
+   },
+   "geometry": [
+    {
+     "lat": 41.8531125,
+     "lon": -87.6189241
+    },
+    {
+     "lat": 41.8531247,
+     "lon": -87.6175982
+    },
+    {
+     "lat": 41.8532471,
+     "lon": -87.6176021
+    },
+    {
+     "lat": 41.8542707,
+     "lon": -87.6180501
+    },
+    {
+     "lat": 41.8542626,
+     "lon": -87.6186332
+    },
+    {
+     "lat": 41.8542602,
+     "lon": -87.6189449
+    },
+    {
+     "lat": 41.8531125,
+     "lon": -87.6189241
+    }
+   ],
+   "id": 156520409,
+   "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "350",
+    "addr:postcode": "60616",
+    "addr:state": "IL",
+    "addr:street": "East Cermak Road",
+    "addr:street:name": "Cermak",
+    "addr:street:prefix": "East",
+    "addr:street:type": "Road",
+    "building": "office",
+    "building:levels": "14",
+    "chicago:building_id": "838359",
+    "clli": "CHCGIL",
+    "name": "Lakeside Technology Center",
+    "source": "Bing",
+    "telecom": "data_center",
+    "wikidata": "Q7273403",
+    "wikipedia": "en:R.R. Donnelley and Sons Co. Calumet Plant"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.0010601,
+    "maxlon": -87.9496173,
+    "minlat": 42.0004902,
+    "minlon": -87.9519199
+   },
+   "geometry": [
+    {
+     "lat": 42.0010208,
+     "lon": -87.9519199
+    },
+    {
+     "lat": 42.0010601,
+     "lon": -87.9496339
+    },
+    {
+     "lat": 42.0005297,
+     "lon": -87.9496173
+    },
+    {
+     "lat": 42.0004902,
+     "lon": -87.9519034
+    },
+    {
+     "lat": 42.0010208,
+     "lon": -87.9519199
+    }
+   ],
+   "id": 174242795,
+   "tags": {
+    "addr:city": "Elk Grove Village",
+    "addr:housenumber": "1800",
+    "addr:postcode": "60007",
+    "addr:state": "IL",
+    "addr:street": "Nicholas Boulevard",
+    "building": "data_center",
+    "name": "EdgeConneX CHI01",
+    "operator": "EdgeConneX",
+    "operator:wikidata": "Q115477226",
+    "ref": "CHI01",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.7976763,
+    "maxlon": -88.2436634,
+    "minlat": 41.7960357,
+    "minlon": -88.2453259
+   },
+   "geometry": [
+    {
+     "lat": 41.797543,
+     "lon": -88.2436634
+    },
+    {
+     "lat": 41.797543,
+     "lon": -88.2437096
+    },
+    {
+     "lat": 41.7976097,
+     "lon": -88.2437096
+    },
+    {
+     "lat": 41.7976097,
+     "lon": -88.2437916
+    },
+    {
+     "lat": 41.7976421,
+     "lon": -88.2437916
+    },
+    {
+     "lat": 41.7976421,
+     "lon": -88.2440494
+    },
+    {
+     "lat": 41.7976527,
+     "lon": -88.2440494
+    },
+    {
+     "lat": 41.7976526,
+     "lon": -88.2443574
+    },
+    {
+     "lat": 41.7976526,
+     "lon": -88.2444183
+    },
+    {
+     "lat": 41.7976431,
+     "lon": -88.2444183
+    },
+    {
+     "lat": 41.797643,
+     "lon": -88.2447425
+    },
+    {
+     "lat": 41.7976763,
+     "lon": -88.2447425
+    },
+    {
+     "lat": 41.7976762,
+     "lon": -88.2448016
+    },
+    {
+     "lat": 41.7976762,
+     "lon": -88.2448539
+    },
+    {
+     "lat": 41.797645,
+     "lon": -88.2448539
+    },
+    {
+     "lat": 41.7976448,
+     "lon": -88.24526
+    },
+    {
+     "lat": 41.797598,
+     "lon": -88.24526
+    },
+    {
+     "lat": 41.797598,
+     "lon": -88.2452935
+    },
+    {
+     "lat": 41.7975979,
+     "lon": -88.2453259
+    },
+    {
+     "lat": 41.7975163,
+     "lon": -88.2453259
+    },
+    {
+     "lat": 41.7975164,
+     "lon": -88.2450861
+    },
+    {
+     "lat": 41.7975068,
+     "lon": -88.2450861
+    },
+    {
+     "lat": 41.7974446,
+     "lon": -88.2450861
+    },
+    {
+     "lat": 41.7974446,
+     "lon": -88.2450344
+    },
+    {
+     "lat": 41.7961581,
+     "lon": -88.2450338
+    },
+    {
+     "lat": 41.7961582,
+     "lon": -88.2446927
+    },
+    {
+     "lat": 41.7961183,
+     "lon": -88.2446927
+    },
+    {
+     "lat": 41.7961183,
+     "lon": -88.2445954
+    },
+    {
+     "lat": 41.7960358,
+     "lon": -88.2445954
+    },
+    {
+     "lat": 41.7960357,
+     "lon": -88.2437676
+    },
+    {
+     "lat": 41.7961687,
+     "lon": -88.2437676
+    },
+    {
+     "lat": 41.7961687,
+     "lon": -88.2436637
+    },
+    {
+     "lat": 41.797543,
+     "lon": -88.2436634
+    }
+   ],
+   "id": 199252950,
+   "tags": {
+    "addr:city": "Aurora",
+    "addr:housenumber": "2805",
+    "addr:postcode": "60502",
+    "addr:state": "IL",
+    "addr:street": "Diehl Road",
+    "building": "industrial",
+    "building:levels": "2",
+    "operator": "CyrusOne",
+    "operator:wikidata": "Q16953751",
+    "ref": "CHI2",
+    "telecom": "data_center",
+    "website": "https://www.cyrusone.com/data-centers/north-america/aurora-il"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.8428548,
+    "maxlon": -87.6672118,
+    "minlat": 41.8414695,
+    "minlon": -87.6706513
+   },
+   "geometry": [
+    {
+     "lat": 41.8419633,
+     "lon": -87.6705911
+    },
+    {
+     "lat": 41.8419622,
+     "lon": -87.6706513
+    },
+    {
+     "lat": 41.8418922,
+     "lon": -87.670649
+    },
+    {
+     "lat": 41.8419276,
+     "lon": -87.6687306
+    },
+    {
+     "lat": 41.8415437,
+     "lon": -87.6687178
+    },
+    {
+     "lat": 41.8415457,
+     "lon": -87.6686085
+    },
+    {
+     "lat": 41.8414695,
+     "lon": -87.6686059
+    },
+    {
+     "lat": 41.8414714,
+     "lon": -87.6685011
+    },
+    {
+     "lat": 41.8415493,
+     "lon": -87.6685037
+    },
+    {
+     "lat": 41.8415503,
+     "lon": -87.6684504
+    },
+    {
+     "lat": 41.8414731,
+     "lon": -87.6684478
+    },
+    {
+     "lat": 41.8414739,
+     "lon": -87.6684039
+    },
+    {
+     "lat": 41.841553,
+     "lon": -87.6684067
+    },
+    {
+     "lat": 41.8415549,
+     "lon": -87.6683049
+    },
+    {
+     "lat": 41.8414751,
+     "lon": -87.6683022
+    },
+    {
+     "lat": 41.8414789,
+     "lon": -87.6681054
+    },
+    {
+     "lat": 41.8415571,
+     "lon": -87.6681081
+    },
+    {
+     "lat": 41.8415582,
+     "lon": -87.6680492
+    },
+    {
+     "lat": 41.8414769,
+     "lon": -87.6680464
+    },
+    {
+     "lat": 41.8414808,
+     "lon": -87.6678414
+    },
+    {
+     "lat": 41.8415568,
+     "lon": -87.6678441
+    },
+    {
+     "lat": 41.8415574,
+     "lon": -87.6678137
+    },
+    {
+     "lat": 41.8414789,
+     "lon": -87.667811
+    },
+    {
+     "lat": 41.8414858,
+     "lon": -87.6674457
+    },
+    {
+     "lat": 41.8415628,
+     "lon": -87.6674484
+    },
+    {
+     "lat": 41.841563,
+     "lon": -87.6674378
+    },
+    {
+     "lat": 41.8418278,
+     "lon": -87.6674459
+    },
+    {
+     "lat": 41.8418298,
+     "lon": -87.6673282
+    },
+    {
+     "lat": 41.8420126,
+     "lon": -87.6673338
+    },
+    {
+     "lat": 41.8420146,
+     "lon": -87.6672118
+    },
+    {
+     "lat": 41.8421301,
+     "lon": -87.6672153
+    },
+    {
+     "lat": 41.8421285,
+     "lon": -87.6673088
+    },
+    {
+     "lat": 41.842629,
+     "lon": -87.6673238
+    },
+    {
+     "lat": 41.8426272,
+     "lon": -87.6674333
+    },
+    {
+     "lat": 41.8426501,
+     "lon": -87.667434
+    },
+    {
+     "lat": 41.8426488,
+     "lon": -87.6675152
+    },
+    {
+     "lat": 41.8425882,
+     "lon": -87.6675134
+    },
+    {
+     "lat": 41.8425886,
+     "lon": -87.6674859
+    },
+    {
+     "lat": 41.8423792,
+     "lon": -87.6674799
+    },
+    {
+     "lat": 41.842376,
+     "lon": -87.667677
+    },
+    {
+     "lat": 41.8423155,
+     "lon": -87.6676753
+    },
+    {
+     "lat": 41.8423002,
+     "lon": -87.6686349
+    },
+    {
+     "lat": 41.8423345,
+     "lon": -87.6686359
+    },
+    {
+     "lat": 41.842333,
+     "lon": -87.668732
+    },
+    {
+     "lat": 41.8423734,
+     "lon": -87.6687331
+    },
+    {
+     "lat": 41.8423714,
+     "lon": -87.6688567
+    },
+    {
+     "lat": 41.8423864,
+     "lon": -87.6688571
+    },
+    {
+     "lat": 41.8423883,
+     "lon": -87.6687335
+    },
+    {
+     "lat": 41.8424635,
+     "lon": -87.6687355
+    },
+    {
+     "lat": 41.8424616,
+     "lon": -87.6688572
+    },
+    {
+     "lat": 41.8424759,
+     "lon": -87.6688576
+    },
+    {
+     "lat": 41.8424778,
+     "lon": -87.6687356
+    },
+    {
+     "lat": 41.8425535,
+     "lon": -87.6687377
+    },
+    {
+     "lat": 41.8425517,
+     "lon": -87.6688622
+    },
+    {
+     "lat": 41.8425694,
+     "lon": -87.6688627
+    },
+    {
+     "lat": 41.8425712,
+     "lon": -87.668739
+    },
+    {
+     "lat": 41.8426433,
+     "lon": -87.668741
+    },
+    {
+     "lat": 41.8426415,
+     "lon": -87.6688649
+    },
+    {
+     "lat": 41.8426608,
+     "lon": -87.6688654
+    },
+    {
+     "lat": 41.8426633,
+     "lon": -87.6686932
+    },
+    {
+     "lat": 41.8428405,
+     "lon": -87.6686978
+    },
+    {
+     "lat": 41.8428378,
+     "lon": -87.6688837
+    },
+    {
+     "lat": 41.8427655,
+     "lon": -87.6688818
+    },
+    {
+     "lat": 41.8427654,
+     "lon": -87.6688927
+    },
+    {
+     "lat": 41.8428548,
+     "lon": -87.6688948
+    },
+    {
+     "lat": 41.8428533,
+     "lon": -87.6690043
+    },
+    {
+     "lat": 41.8427611,
+     "lon": -87.6690021
+    },
+    {
+     "lat": 41.8427608,
+     "lon": -87.6690296
+    },
+    {
+     "lat": 41.84285,
+     "lon": -87.6690316
+    },
+    {
+     "lat": 41.8428488,
+     "lon": -87.6691259
+    },
+    {
+     "lat": 41.84276,
+     "lon": -87.6691238
+    },
+    {
+     "lat": 41.8427597,
+     "lon": -87.6691516
+    },
+    {
+     "lat": 41.8428505,
+     "lon": -87.6691536
+    },
+    {
+     "lat": 41.8428493,
+     "lon": -87.6692531
+    },
+    {
+     "lat": 41.8427602,
+     "lon": -87.6692512
+    },
+    {
+     "lat": 41.8427599,
+     "lon": -87.6692734
+    },
+    {
+     "lat": 41.8428494,
+     "lon": -87.6692752
+    },
+    {
+     "lat": 41.8428482,
+     "lon": -87.6693793
+    },
+    {
+     "lat": 41.8427573,
+     "lon": -87.6693775
+    },
+    {
+     "lat": 41.8427571,
+     "lon": -87.669399
+    },
+    {
+     "lat": 41.842847,
+     "lon": -87.6694007
+    },
+    {
+     "lat": 41.8428459,
+     "lon": -87.6695008
+    },
+    {
+     "lat": 41.8427539,
+     "lon": -87.6694991
+    },
+    {
+     "lat": 41.8427536,
+     "lon": -87.6695249
+    },
+    {
+     "lat": 41.8428416,
+     "lon": -87.6695264
+    },
+    {
+     "lat": 41.8428406,
+     "lon": -87.6696222
+    },
+    {
+     "lat": 41.8427504,
+     "lon": -87.6696206
+    },
+    {
+     "lat": 41.8427501,
+     "lon": -87.6696493
+    },
+    {
+     "lat": 41.8428389,
+     "lon": -87.6696508
+    },
+    {
+     "lat": 41.8428379,
+     "lon": -87.6697504
+    },
+    {
+     "lat": 41.8427483,
+     "lon": -87.6697488
+    },
+    {
+     "lat": 41.8427481,
+     "lon": -87.6697769
+    },
+    {
+     "lat": 41.8428363,
+     "lon": -87.6697785
+    },
+    {
+     "lat": 41.8428353,
+     "lon": -87.669872
+    },
+    {
+     "lat": 41.8427437,
+     "lon": -87.6698703
+    },
+    {
+     "lat": 41.8427433,
+     "lon": -87.6699037
+    },
+    {
+     "lat": 41.8428375,
+     "lon": -87.6699056
+    },
+    {
+     "lat": 41.8428365,
+     "lon": -87.6699993
+    },
+    {
+     "lat": 41.8427437,
+     "lon": -87.6699974
+    },
+    {
+     "lat": 41.8427433,
+     "lon": -87.6700287
+    },
+    {
+     "lat": 41.8428324,
+     "lon": -87.6700306
+    },
+    {
+     "lat": 41.8428313,
+     "lon": -87.6701192
+    },
+    {
+     "lat": 41.8427383,
+     "lon": -87.6701171
+    },
+    {
+     "lat": 41.8427378,
+     "lon": -87.6701545
+    },
+    {
+     "lat": 41.8428262,
+     "lon": -87.6701567
+    },
+    {
+     "lat": 41.842825,
+     "lon": -87.6702411
+    },
+    {
+     "lat": 41.8427336,
+     "lon": -87.6702388
+    },
+    {
+     "lat": 41.8427329,
+     "lon": -87.6702857
+    },
+    {
+     "lat": 41.8428235,
+     "lon": -87.6702881
+    },
+    {
+     "lat": 41.8428223,
+     "lon": -87.6703645
+    },
+    {
+     "lat": 41.8427326,
+     "lon": -87.670362
+    },
+    {
+     "lat": 41.8427319,
+     "lon": -87.6704091
+    },
+    {
+     "lat": 41.8428233,
+     "lon": -87.6704118
+    },
+    {
+     "lat": 41.8428219,
+     "lon": -87.6704989
+    },
+    {
+     "lat": 41.8427367,
+     "lon": -87.6704964
+    },
+    {
+     "lat": 41.8427363,
+     "lon": -87.6705221
+    },
+    {
+     "lat": 41.8428054,
+     "lon": -87.6705243
+    },
+    {
+     "lat": 41.8428032,
+     "lon": -87.6706485
+    },
+    {
+     "lat": 41.8426348,
+     "lon": -87.6706431
+    },
+    {
+     "lat": 41.842637,
+     "lon": -87.670523
+    },
+    {
+     "lat": 41.8424316,
+     "lon": -87.6705163
+    },
+    {
+     "lat": 41.8424294,
+     "lon": -87.6706401
+    },
+    {
+     "lat": 41.842358,
+     "lon": -87.6706377
+    },
+    {
+     "lat": 41.8423602,
+     "lon": -87.6705171
+    },
+    {
+     "lat": 41.8423403,
+     "lon": -87.6705164
+    },
+    {
+     "lat": 41.8423381,
+     "lon": -87.670633
+    },
+    {
+     "lat": 41.8420725,
+     "lon": -87.6706241
+    },
+    {
+     "lat": 41.842073,
+     "lon": -87.6705948
+    },
+    {
+     "lat": 41.8419633,
+     "lon": -87.6705911
+    }
+   ],
+   "id": 209786637,
+   "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "2800",
+    "addr:postcode": "60608",
+    "addr:state": "IL",
+    "addr:street": "South Ashland Avenue",
+    "addr:street:name": "Ashland",
+    "addr:street:prefix": "South",
+    "addr:street:type": "Avenue",
+    "building": "industrial",
+    "chicago:building_id": "836825",
+    "name": "QTS Chicago",
+    "operator": "Quality Technology Services",
+    "operator:short": "QTS",
+    "operator:wikidata": "Q18392800",
+    "operator:wikipedia": "en:Quality Technology Services",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.8491625,
+    "maxlon": -87.644509,
+    "minlat": 41.8482474,
+    "minlon": -87.6464064
+   },
+   "geometry": [
+    {
+     "lat": 41.8482502,
+     "lon": -87.6462767
+    },
+    {
+     "lat": 41.8482474,
+     "lon": -87.6464002
+    },
+    {
+     "lat": 41.8484754,
+     "lon": -87.6464064
+    },
+    {
+     "lat": 41.8485053,
+     "lon": -87.6462806
+    },
+    {
+     "lat": 41.8485281,
+     "lon": -87.646289
+    },
+    {
+     "lat": 41.8488546,
+     "lon": -87.6462894
+    },
+    {
+     "lat": 41.8490731,
+     "lon": -87.6462896
+    },
+    {
+     "lat": 41.849125,
+     "lon": -87.6452837
+    },
+    {
+     "lat": 41.8490708,
+     "lon": -87.6452758
+    },
+    {
+     "lat": 41.8490748,
+     "lon": -87.6452032
+    },
+    {
+     "lat": 41.8491288,
+     "lon": -87.6452097
+    },
+    {
+     "lat": 41.8491625,
+     "lon": -87.6445572
+    },
+    {
+     "lat": 41.8487407,
+     "lon": -87.6445142
+    },
+    {
+     "lat": 41.8486862,
+     "lon": -87.644509
+    },
+    {
+     "lat": 41.8486705,
+     "lon": -87.6446395
+    },
+    {
+     "lat": 41.8486534,
+     "lon": -87.6447718
+    },
+    {
+     "lat": 41.848635,
+     "lon": -87.6449005
+    },
+    {
+     "lat": 41.8486152,
+     "lon": -87.645031
+    },
+    {
+     "lat": 41.8485927,
+     "lon": -87.6451615
+    },
+    {
+     "lat": 41.8485701,
+     "lon": -87.6452902
+    },
+    {
+     "lat": 41.8485448,
+     "lon": -87.6454171
+    },
+    {
+     "lat": 41.8485167,
+     "lon": -87.6455459
+    },
+    {
+     "lat": 41.848498,
+     "lon": -87.6456268
+    },
+    {
+     "lat": 41.8484448,
+     "lon": -87.6458715
+    },
+    {
+     "lat": 41.8483255,
+     "lon": -87.6461647
+    },
+    {
+     "lat": 41.8483033,
+     "lon": -87.6461489
+    },
+    {
+     "lat": 41.8482502,
+     "lon": -87.6462767
+    }
+   ],
+   "id": 210222970,
+   "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "2425",
+    "addr:postcode": "60608",
+    "addr:state": "IL",
+    "addr:street": "South Halsted Street",
+    "addr:street:name": "Halsted",
+    "addr:street:prefix": "South",
+    "addr:street:type": "Street",
+    "brand": "Iron Mountain",
+    "brand:wikidata": "Q1673079",
+    "building": "industrial",
+    "chicago:building_id": "390763",
+    "name": "Iron Mountain Data & Record Storage",
+    "operator": "Iron Mountain",
+    "operator:wikidata": "Q1673079",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.8128535,
+    "maxlon": -87.972406,
+    "minlat": 41.8122719,
+    "minlon": -87.9732947
+   },
+   "geometry": [
+    {
+     "lat": 41.8122719,
+     "lon": -87.9732736
+    },
+    {
+     "lat": 41.8122922,
+     "lon": -87.972406
+    },
+    {
+     "lat": 41.8128535,
+     "lon": -87.9724296
+    },
+    {
+     "lat": 41.8128376,
+     "lon": -87.9731119
+    },
+    {
+     "lat": 41.8127783,
+     "lon": -87.9731095
+    },
+    {
+     "lat": 41.812774,
+     "lon": -87.9732947
+    },
+    {
+     "lat": 41.8122719,
+     "lon": -87.9732736
+    }
+   ],
+   "id": 243242167,
+   "tags": {
+    "building": "commercial",
+    "name": "Equinix Chicago Data CH7",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/locations/united-states-colocation/chicago-data-centers/ch7/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.2170955,
+    "maxlon": -87.9523677,
+    "minlat": 42.2164571,
+    "minlon": -87.9534929
+   },
+   "geometry": [
+    {
+     "lat": 42.2164571,
+     "lon": -87.9529033
+    },
+    {
+     "lat": 42.2164585,
+     "lon": -87.9524442
+    },
+    {
+     "lat": 42.2164586,
+     "lon": -87.9524265
+    },
+    {
+     "lat": 42.2164589,
+     "lon": -87.9523712
+    },
+    {
+     "lat": 42.2170881,
+     "lon": -87.9523677
+    },
+    {
+     "lat": 42.2170955,
+     "lon": -87.9529068
+    },
+    {
+     "lat": 42.2169079,
+     "lon": -87.9529033
+    },
+    {
+     "lat": 42.2169053,
+     "lon": -87.9529745
+    },
+    {
+     "lat": 42.2169235,
+     "lon": -87.952978
+    },
+    {
+     "lat": 42.2169269,
+     "lon": -87.9533703
+    },
+    {
+     "lat": 42.2169433,
+     "lon": -87.9533703
+    },
+    {
+     "lat": 42.2169381,
+     "lon": -87.953431
+    },
+    {
+     "lat": 42.2169174,
+     "lon": -87.9534684
+    },
+    {
+     "lat": 42.216888,
+     "lon": -87.9534894
+    },
+    {
+     "lat": 42.2167401,
+     "lon": -87.9534929
+    },
+    {
+     "lat": 42.2167367,
+     "lon": -87.9534084
+    },
+    {
+     "lat": 42.2167356,
+     "lon": -87.953382
+    },
+    {
+     "lat": 42.216509,
+     "lon": -87.953375
+    },
+    {
+     "lat": 42.2165075,
+     "lon": -87.9529421
+    },
+    {
+     "lat": 42.2165074,
+     "lon": -87.9529244
+    },
+    {
+     "lat": 42.2165073,
+     "lon": -87.9529033
+    },
+    {
+     "lat": 42.2164571,
+     "lon": -87.9529033
+    }
+   ],
+   "id": 317466755,
+   "tags": {
+    "addr:city": "Vernon Hills",
+    "addr:housenumber": "475",
+    "addr:postcode": "60061",
+    "addr:state": "IL",
+    "addr:street": "Corporate Woods Parkway",
+    "building": "yes",
+    "name": "VISA",
+    "operator": "VISA",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9055285,
+    "maxlon": -88.2192877,
+    "minlat": 41.9051518,
+    "minlon": -88.2197248
+   },
+   "geometry": [
+    {
+     "lat": 41.9055285,
+     "lon": -88.2197248
+    },
+    {
+     "lat": 41.9055224,
+     "lon": -88.2192877
+    },
+    {
+     "lat": 41.9051972,
+     "lon": -88.2192979
+    },
+    {
+     "lat": 41.9052017,
+     "lon": -88.2195703
+    },
+    {
+     "lat": 41.9051518,
+     "lon": -88.2195703
+    },
+    {
+     "lat": 41.9051518,
+     "lon": -88.2197166
+    },
+    {
+     "lat": 41.9055285,
+     "lon": -88.2197248
+    }
+   ],
+   "id": 343593591,
+   "tags": {
+    "addr:city": "West Chicago",
+    "addr:housenumber": "1215",
+    "addr:postcode": "60185",
+    "addr:street": "Carolina Drive",
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.0020239,
+    "maxlon": -87.9522392,
+    "minlat": 42.0009665,
+    "minlon": -87.9528856
+   },
+   "geometry": [
+    {
+     "lat": 42.0020161,
+     "lon": -87.9528856
+    },
+    {
+     "lat": 42.0020239,
+     "lon": -87.9522691
+    },
+    {
+     "lat": 42.0009733,
+     "lon": -87.9522392
+    },
+    {
+     "lat": 42.0009665,
+     "lon": -87.9528598
+    },
+    {
+     "lat": 42.0020161,
+     "lon": -87.9528856
+    }
+   ],
+   "id": 377032058,
+   "tags": {
+    "addr:city": "Elk Grove Village",
+    "addr:housenumber": "2021",
+    "addr:postcode": "60007",
+    "addr:state": "IL",
+    "addr:street": "Lunt Avenue",
+    "building": "data_center",
+    "building:levels": "2",
+    "name": "EdgeConneX CHI02",
+    "operator": "EdgeConneX",
+    "operator:wikidata": "Q115477226",
+    "ref": "CHI02",
+    "telecom": "data_center",
+    "website": "https://www.edgeconnex.com/locations/americas/chicago-il/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.0019199,
+    "maxlon": -87.9544762,
+    "minlat": 42.0005222,
+    "minlon": -87.9559233
+   },
+   "geometry": [
+    {
+     "lat": 42.0019199,
+     "lon": -87.9546331
+    },
+    {
+     "lat": 42.0007277,
+     "lon": -87.9546076
+    },
+    {
+     "lat": 42.0007292,
+     "lon": -87.9544771
+    },
+    {
+     "lat": 42.0006841,
+     "lon": -87.9544762
+    },
+    {
+     "lat": 42.0006744,
+     "lon": -87.9552968
+    },
+    {
+     "lat": 42.0005229,
+     "lon": -87.9552936
+    },
+    {
+     "lat": 42.0005222,
+     "lon": -87.955353
+    },
+    {
+     "lat": 42.0005473,
+     "lon": -87.9553535
+    },
+    {
+     "lat": 42.0005407,
+     "lon": -87.9559035
+    },
+    {
+     "lat": 42.0014519,
+     "lon": -87.9559233
+    },
+    {
+     "lat": 42.0014542,
+     "lon": -87.9557346
+    },
+    {
+     "lat": 42.0014213,
+     "lon": -87.9557339
+    },
+    {
+     "lat": 42.0014261,
+     "lon": -87.9553263
+    },
+    {
+     "lat": 42.0017381,
+     "lon": -87.955333
+    },
+    {
+     "lat": 42.0017408,
+     "lon": -87.9551093
+    },
+    {
+     "lat": 42.0019142,
+     "lon": -87.955113
+    },
+    {
+     "lat": 42.0019199,
+     "lon": -87.9546331
+    }
+   ],
+   "id": 377032061,
+   "tags": {
+    "addr:city": "Elk Grove Village",
+    "addr:housenumber": "1905",
+    "addr:postcode": "60007",
+    "addr:state": "IL",
+    "addr:street": "Lunt Avenue",
+    "building": "data_center",
+    "building:levels": "4",
+    "name": "Equinix Chicago CH3",
+    "operator": "Equinix",
+    "operator:wikidata": "Q851641",
+    "ref": "CH3",
+    "telecom": "data_center",
+    "website": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/chicago-data-centers/ch3"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.974522,
+    "maxlon": -87.9667786,
+    "minlat": 41.9739318,
+    "minlon": -87.9675725
+   },
+   "geometry": [
+    {
+     "lat": 41.9745133,
+     "lon": -87.9675725
+    },
+    {
+     "lat": 41.9739318,
+     "lon": -87.9675492
+    },
+    {
+     "lat": 41.9739422,
+     "lon": -87.9667786
+    },
+    {
+     "lat": 41.974522,
+     "lon": -87.966802
+    },
+    {
+     "lat": 41.9745133,
+     "lon": -87.9675725
+    }
+   ],
+   "id": 377212693,
+   "tags": {
+    "addr:city": "Wood Dale",
+    "addr:housenumber": "341",
+    "addr:postcode": "60191",
+    "addr:state": "IL",
+    "addr:street": "Haynes Drive",
+    "building": "data_center",
+    "building:levels": "2",
+    "name": "Element Critical CH2",
+    "operator": "Element Critical",
+    "ref": "CH2",
+    "telecom": "data_center",
+    "website": "https://elementcritical.com/data-centers/chicago-two/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9929071,
+    "maxlon": -87.9572262,
+    "minlat": 41.9912698,
+    "minlon": -87.958801
+   },
+   "geometry": [
+    {
+     "lat": 41.992903,
+     "lon": -87.958801
+    },
+    {
+     "lat": 41.9929071,
+     "lon": -87.9576713
+    },
+    {
+     "lat": 41.991731,
+     "lon": -87.9576637
+    },
+    {
+     "lat": 41.9917319,
+     "lon": -87.9573953
+    },
+    {
+     "lat": 41.9914809,
+     "lon": -87.9573937
+    },
+    {
+     "lat": 41.9914814,
+     "lon": -87.9572275
+    },
+    {
+     "lat": 41.9912754,
+     "lon": -87.9572262
+    },
+    {
+     "lat": 41.9912698,
+     "lon": -87.9587903
+    },
+    {
+     "lat": 41.992903,
+     "lon": -87.958801
+    }
+   ],
+   "id": 377345296,
+   "tags": {
+    "addr:city": "Elk Grove Village",
+    "addr:housenumber": "2425",
+    "addr:postcode": "60007",
+    "addr:state": "IL",
+    "addr:street": "Busse Road",
+    "building": "data_center",
+    "building:levels": "2",
+    "name": "Centersquare Elk Grove Village Data Center Campus ORD2",
+    "operator": "Centersquare",
+    "operator:wikidata": "Q127304226",
+    "ref": "ORD2",
+    "telecom": "data_center",
+    "website": "https://centersquaredc.com/data-centers/chicago#elkgrovevillage-ord2"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9940017,
+    "maxlon": -87.9720481,
+    "minlat": 41.9933206,
+    "minlon": -87.974994
+   },
+   "geometry": [
+    {
+     "lat": 41.9939378,
+     "lon": -87.974994
+    },
+    {
+     "lat": 41.9933504,
+     "lon": -87.9749708
+    },
+    {
+     "lat": 41.9933321,
+     "lon": -87.9749399
+    },
+    {
+     "lat": 41.9933206,
+     "lon": -87.9749045
+    },
+    {
+     "lat": 41.9933275,
+     "lon": -87.9748752
+    },
+    {
+     "lat": 41.9933412,
+     "lon": -87.9748598
+    },
+    {
+     "lat": 41.9933945,
+     "lon": -87.972167
+    },
+    {
+     "lat": 41.993383,
+     "lon": -87.9721593
+    },
+    {
+     "lat": 41.9933779,
+     "lon": -87.9721331
+    },
+    {
+     "lat": 41.993379,
+     "lon": -87.9721085
+    },
+    {
+     "lat": 41.9933905,
+     "lon": -87.9720854
+    },
+    {
+     "lat": 41.9933913,
+     "lon": -87.9720481
+    },
+    {
+     "lat": 41.9940017,
+     "lon": -87.9720722
+    },
+    {
+     "lat": 41.9939378,
+     "lon": -87.974994
+    }
+   ],
+   "id": 383545769,
+   "tags": {
+    "addr:city": "Elk Grove Village",
+    "addr:housenumber": "800",
+    "addr:postcode": "60007",
+    "addr:state": "IL",
+    "addr:street": "Devon Avenue",
+    "building": "data_center",
+    "building:levels": "3",
+    "name": "Skybox Chicago I",
+    "operator": "Skybox",
+    "ref": "Chicago I",
+    "telecom": "data_center",
+    "website": "https://www.skyboxdatacenters.com/locations/skybox-chicago"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9763107,
+    "maxlon": -87.9642461,
+    "minlat": 41.9751542,
+    "minlon": -87.9651365
+   },
+   "geometry": [
+    {
+     "lat": 41.9752379,
+     "lon": -87.9642514
+    },
+    {
+     "lat": 41.975222,
+     "lon": -87.9648093
+    },
+    {
+     "lat": 41.9751562,
+     "lon": -87.9648093
+    },
+    {
+     "lat": 41.9751542,
+     "lon": -87.9650266
+    },
+    {
+     "lat": 41.9753057,
+     "lon": -87.9650373
+    },
+    {
+     "lat": 41.9753037,
+     "lon": -87.9650963
+    },
+    {
+     "lat": 41.9753815,
+     "lon": -87.9651044
+    },
+    {
+     "lat": 41.9753775,
+     "lon": -87.9651339
+    },
+    {
+     "lat": 41.9756327,
+     "lon": -87.9651365
+    },
+    {
+     "lat": 41.9756327,
+     "lon": -87.9650427
+    },
+    {
+     "lat": 41.9758022,
+     "lon": -87.9650534
+    },
+    {
+     "lat": 41.9758102,
+     "lon": -87.9651178
+    },
+    {
+     "lat": 41.976227,
+     "lon": -87.9651339
+    },
+    {
+     "lat": 41.976227,
+     "lon": -87.965107
+    },
+    {
+     "lat": 41.9762968,
+     "lon": -87.965107
+    },
+    {
+     "lat": 41.9763107,
+     "lon": -87.9642514
+    },
+    {
+     "lat": 41.975882,
+     "lon": -87.9642461
+    },
+    {
+     "lat": 41.975878,
+     "lon": -87.9642702
+    },
+    {
+     "lat": 41.9752379,
+     "lon": -87.9642514
+    }
+   ],
+   "id": 384690290,
+   "tags": {
+    "addr:city": "Wood Dale",
+    "addr:housenumber": "711",
+    "addr:postcode": "60191",
+    "addr:state": "IL",
+    "addr:street": "North Edgewood Avenue",
+    "building": "industrial",
+    "building:levels": "2",
+    "name": "Element Critical CH1",
+    "operator": "Element Critical",
+    "ref": "CH1",
+    "telecom": "data_center",
+    "website": "https://elementcritical.com/data-centers/chicago-one/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9287365,
+    "maxlon": -87.8585611,
+    "minlat": 41.9279748,
+    "minlon": -87.8599478
+   },
+   "geometry": [
+    {
+     "lat": 41.9286956,
+     "lon": -87.8599073
+    },
+    {
+     "lat": 41.9286946,
+     "lon": -87.8599478
+    },
+    {
+     "lat": 41.9280754,
+     "lon": -87.8599213
+    },
+    {
+     "lat": 41.9280945,
+     "lon": -87.8591179
+    },
+    {
+     "lat": 41.9279748,
+     "lon": -87.8590527
+    },
+    {
+     "lat": 41.9279857,
+     "lon": -87.8585611
+    },
+    {
+     "lat": 41.92865,
+     "lon": -87.8585876
+    },
+    {
+     "lat": 41.9286466,
+     "lon": -87.8587427
+    },
+    {
+     "lat": 41.9287257,
+     "lon": -87.8587459
+    },
+    {
+     "lat": 41.9287243,
+     "lon": -87.8588079
+    },
+    {
+     "lat": 41.9287365,
+     "lon": -87.8588084
+    },
+    {
+     "lat": 41.9287115,
+     "lon": -87.8599079
+    },
+    {
+     "lat": 41.9286956,
+     "lon": -87.8599073
+    }
+   ],
+   "id": 409296605,
+   "tags": {
+    "addr:city": "Franklin Park",
+    "addr:housenumber": "9333",
+    "addr:postcode": "60131",
+    "addr:state": "IL",
+    "addr:street": "West Grand Avenue",
+    "building": "industrial",
+    "building:levels": "3",
+    "name": "Digital Realty Chicago ORD12",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "ORD12",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/chicago/ord12"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.803192,
+    "maxlon": -88.09376,
+    "minlat": 41.8014893,
+    "minlon": -88.0960112
+   },
+   "geometry": [
+    {
+     "lat": 41.8031475,
+     "lon": -88.0960112
+    },
+    {
+     "lat": 41.803192,
+     "lon": -88.0938205
+    },
+    {
+     "lat": 41.8015337,
+     "lon": -88.09376
+    },
+    {
+     "lat": 41.8014893,
+     "lon": -88.0959507
+    },
+    {
+     "lat": 41.8031475,
+     "lon": -88.0960112
+    }
+   ],
+   "id": 530024353,
+   "tags": {
+    "addr:city": "Lisle",
+    "addr:housenumber": "4513",
+    "addr:postcode": "60532",
+    "addr:state": "IL",
+    "addr:street": "Western Avenue",
+    "building": "warehouse",
+    "name": "Centersquare Lisle ORD4 Data Center",
+    "operator": "Centersquare",
+    "operator:wikidata": "Q127304226",
+    "ref": "ORD4",
+    "telecom": "data_center",
+    "website": "https://centersquaredc.com/data-centers/chicago#lisle-ord4"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9241829,
+    "maxlon": -87.9175826,
+    "minlat": 41.9217301,
+    "minlon": -87.918944
+   },
+   "geometry": [
+    {
+     "lat": 41.9241829,
+     "lon": -87.9189323
+    },
+    {
+     "lat": 41.9220594,
+     "lon": -87.918944
+    },
+    {
+     "lat": 41.9220577,
+     "lon": -87.9183903
+    },
+    {
+     "lat": 41.9217325,
+     "lon": -87.9183921
+    },
+    {
+     "lat": 41.9217301,
+     "lon": -87.9175959
+    },
+    {
+     "lat": 41.9241529,
+     "lon": -87.9175826
+    },
+    {
+     "lat": 41.9241567,
+     "lon": -87.9188253
+    },
+    {
+     "lat": 41.9241825,
+     "lon": -87.9188251
+    },
+    {
+     "lat": 41.9241829,
+     "lon": -87.9189323
+    }
+   ],
+   "id": 578443547,
+   "tags": {
+    "addr:city": "Northlake",
+    "addr:housenumber": "601",
+    "addr:postcode": "60164",
+    "addr:state": "IL",
+    "addr:street": "Northwest Avenue",
+    "building": "industrial",
+    "name": "Microsoft - Azure Datacenter",
+    "operator": "Microsoft",
+    "operator:wikidata": "Q2283",
+    "operator:wikipedia": "en:Microsoft",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9953586,
+    "maxlon": -87.9639058,
+    "minlat": 41.9933476,
+    "minlon": -87.9659785
+   },
+   "geometry": [
+    {
+     "lat": 41.9953349,
+     "lon": -87.9656499
+    },
+    {
+     "lat": 41.9953586,
+     "lon": -87.9641528
+    },
+    {
+     "lat": 41.9953273,
+     "lon": -87.964152
+    },
+    {
+     "lat": 41.9953307,
+     "lon": -87.963935
+    },
+    {
+     "lat": 41.9943127,
+     "lon": -87.9639058
+    },
+    {
+     "lat": 41.9943095,
+     "lon": -87.9641109
+    },
+    {
+     "lat": 41.9933681,
+     "lon": -87.964084
+    },
+    {
+     "lat": 41.9933476,
+     "lon": -87.9653763
+    },
+    {
+     "lat": 41.9937584,
+     "lon": -87.9653881
+    },
+    {
+     "lat": 41.9937496,
+     "lon": -87.9659458
+    },
+    {
+     "lat": 41.9948936,
+     "lon": -87.9659785
+    },
+    {
+     "lat": 41.994899,
+     "lon": -87.9656375
+    },
+    {
+     "lat": 41.9953349,
+     "lon": -87.9656499
+    }
+   ],
+   "id": 713428715,
+   "tags": {
+    "addr:city": "Elk Grove Village",
+    "addr:housenumber": "1400",
+    "addr:state": "IL",
+    "addr:street": "Devon Avenue",
+    "building": "data_center",
+    "name": "Digital Realty CH3",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "CH3",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.com/data-centers/americas/chicago/ch3"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9955383,
+    "maxlon": -87.9568629,
+    "minlat": 41.9935281,
+    "minlon": -87.9586396
+   },
+   "geometry": [
+    {
+     "lat": 41.9935456,
+     "lon": -87.9568629
+    },
+    {
+     "lat": 41.9935281,
+     "lon": -87.9583618
+    },
+    {
+     "lat": 41.9936169,
+     "lon": -87.9583637
+    },
+    {
+     "lat": 41.9936146,
+     "lon": -87.9585625
+    },
+    {
+     "lat": 41.9936974,
+     "lon": -87.9585642
+    },
+    {
+     "lat": 41.9936967,
+     "lon": -87.9586288
+    },
+    {
+     "lat": 41.9941961,
+     "lon": -87.9586396
+    },
+    {
+     "lat": 41.9941964,
+     "lon": -87.958611
+    },
+    {
+     "lat": 41.9945483,
+     "lon": -87.9586186
+    },
+    {
+     "lat": 41.994551,
+     "lon": -87.9583933
+    },
+    {
+     "lat": 41.9955235,
+     "lon": -87.9584141
+    },
+    {
+     "lat": 41.9955383,
+     "lon": -87.9571645
+    },
+    {
+     "lat": 41.9948671,
+     "lon": -87.9571502
+    },
+    {
+     "lat": 41.9948701,
+     "lon": -87.956891
+    },
+    {
+     "lat": 41.9935456,
+     "lon": -87.9568629
+    }
+   ],
+   "id": 713433204,
+   "tags": {
+    "addr:city": "Elk Grove Village",
+    "addr:housenumber": "2299",
+    "addr:postcode": "60007",
+    "addr:state": "IL",
+    "addr:street": "Busse Road",
+    "building": "data_center",
+    "name": "Digital Realty CH2",
+    "operator": "Digital Realty",
+    "operator:wikidata": "Q5275969",
+    "ref": "CH2",
+    "telecom": "data_center",
+    "website": "https://www.digitalrealty.nl/data-centers/americas/chicago/ch2"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.8630707,
+    "maxlon": -87.6407039,
+    "minlat": 41.8625237,
+    "minlon": -87.6418984
+   },
+   "geometry": [
+    {
+     "lat": 41.8630544,
+     "lon": -87.6418984
+    },
+    {
+     "lat": 41.8630707,
+     "lon": -87.6407237
+    },
+    {
+     "lat": 41.8625456,
+     "lon": -87.6407039
+    },
+    {
+     "lat": 41.8625237,
+     "lon": -87.6418857
+    },
+    {
+     "lat": 41.8630544,
+     "lon": -87.6418984
+    }
+   ],
+   "id": 841813139,
+   "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "1432",
+    "addr:postcode": "60607",
+    "addr:state": "IL",
+    "addr:street": "South Clinton Street",
+    "building": "warehouse",
+    "name": "CoreSite Chicago Data Center (CH2)",
+    "operator": "CoreSite",
+    "operator:wikidata": "Q5170140",
+    "telecom": "data_center",
+    "website": "https://www.coresite.com/data-center/ch2-chicago-il"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9995923,
+    "maxlon": -87.9565262,
+    "minlat": 41.9986574,
+    "minlon": -87.9589606
+   },
+   "geometry": [
+    {
+     "lat": 41.9995483,
+     "lon": -87.9589606
+    },
+    {
+     "lat": 41.9995923,
+     "lon": -87.9565561
+    },
+    {
+     "lat": 41.9987019,
+     "lon": -87.9565262
+    },
+    {
+     "lat": 41.9986574,
+     "lon": -87.9589498
+    },
+    {
+     "lat": 41.9995483,
+     "lon": -87.9589606
+    }
+   ],
+   "id": 863162820,
+   "tags": {
+    "addr:city": "Elk Grove Village",
+    "addr:housenumber": "1925",
+    "addr:postcode": "60007",
+    "addr:state": "IL",
+    "addr:street": "Busse Road",
+    "building": "data_center",
+    "name": "Stream Chicago II",
+    "operator": "Stream",
+    "ref": "Chicago II",
+    "telecom": "data_center",
+    "website": "https://www.streamdatacenters.com/datacenters/chicago-ii/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.0073265,
+    "maxlon": -87.9634111,
+    "minlat": 42.0063758,
+    "minlon": -87.9669596
+   },
+   "geometry": [
+    {
+     "lat": 42.0072966,
+     "lon": -87.9634331
+    },
+    {
+     "lat": 42.0064249,
+     "lon": -87.9634111
+    },
+    {
+     "lat": 42.0063758,
+     "lon": -87.9669344
+    },
+    {
+     "lat": 42.0066822,
+     "lon": -87.9669421
+    },
+    {
+     "lat": 42.0066828,
+     "lon": -87.9668975
+    },
+    {
+     "lat": 42.0070638,
+     "lon": -87.966907
+    },
+    {
+     "lat": 42.0070632,
+     "lon": -87.9669558
+    },
+    {
+     "lat": 42.007213,
+     "lon": -87.9669596
+    },
+    {
+     "lat": 42.0072136,
+     "lon": -87.9669132
+    },
+    {
+     "lat": 42.0073189,
+     "lon": -87.9669159
+    },
+    {
+     "lat": 42.0073265,
+     "lon": -87.9663666
+    },
+    {
+     "lat": 42.0072557,
+     "lon": -87.9663648
+    },
+    {
+     "lat": 42.0072966,
+     "lon": -87.9634331
+    }
+   ],
+   "id": 863162822,
+   "tags": {
+    "building": "data_center",
+    "name": "STACK Chicago CHI01",
+    "operator": "Stack Infrastructure",
+    "operator:wikidata": "Q115477173",
+    "ref": "CHI01",
+    "telecom": "data_center",
+    "website": "https://www.stackinfra.com/locations/chicago/?data_center=chi01"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.0029536,
+    "maxlon": -87.9499769,
+    "minlat": 42.0023072,
+    "minlon": -87.9522469
+   },
+   "geometry": [
+    {
+     "lat": 42.0029153,
+     "lon": -87.9522469
+    },
+    {
+     "lat": 42.0029217,
+     "lon": -87.9519159
+    },
+    {
+     "lat": 42.0028446,
+     "lon": -87.9519132
+    },
+    {
+     "lat": 42.0028743,
+     "lon": -87.9503631
+    },
+    {
+     "lat": 42.0029505,
+     "lon": -87.9503658
+    },
+    {
+     "lat": 42.0029536,
+     "lon": -87.9502019
+    },
+    {
+     "lat": 42.0028053,
+     "lon": -87.9501967
+    },
+    {
+     "lat": 42.0028092,
+     "lon": -87.949993
+    },
+    {
+     "lat": 42.0023508,
+     "lon": -87.9499769
+    },
+    {
+     "lat": 42.0023072,
+     "lon": -87.9522256
+    },
+    {
+     "lat": 42.0029153,
+     "lon": -87.9522469
+    }
+   ],
+   "id": 863162825,
+   "tags": {
+    "addr:city": "Elk Grove Village",
+    "addr:housenumber": "2080",
+    "addr:postcode": "60007",
+    "addr:state": "IL",
+    "addr:street": "Lunt Avenue",
+    "building": "warehouse",
+    "name": "Stream Chicago I",
+    "operator": "Stream",
+    "telecom": "data_center",
+    "website": "https://www.streamdatacenters.com/datacenters/chicago-i/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 38.8105841,
+    "maxlon": -89.9486797,
+    "minlat": 38.8105362,
+    "minlon": -89.9487269
+   },
+   "geometry": [
+    {
+     "lat": 38.8105817,
+     "lon": -89.9486797
+    },
+    {
+     "lat": 38.8105841,
+     "lon": -89.9487228
+    },
+    {
+     "lat": 38.8105386,
+     "lon": -89.9487269
+    },
+    {
+     "lat": 38.8105362,
+     "lon": -89.9486837
+    },
+    {
+     "lat": 38.8105817,
+     "lon": -89.9486797
+    }
+   ],
+   "id": 1133944585,
+   "tags": {
+    "building": "yes",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.7073507,
+    "maxlon": -87.9756895,
+    "minlat": 41.7069176,
+    "minlon": -87.9762224
+   },
+   "geometry": [
+    {
+     "lat": 41.7072276,
+     "lon": -87.9762224
+    },
+    {
+     "lat": 41.7073507,
+     "lon": -87.9759059
+    },
+    {
+     "lat": 41.707075,
+     "lon": -87.9757134
+    },
+    {
+     "lat": 41.7070408,
+     "lon": -87.9756895
+    },
+    {
+     "lat": 41.7069798,
+     "lon": -87.9758463
+    },
+    {
+     "lat": 41.7069176,
+     "lon": -87.976006
+    },
+    {
+     "lat": 41.7069518,
+     "lon": -87.9760299
+    },
+    {
+     "lat": 41.7069798,
+     "lon": -87.9760495
+    },
+    {
+     "lat": 41.7072276,
+     "lon": -87.9762224
+    }
+   ],
+   "id": 1154349280,
+   "tags": {
+    "building": "yes",
+    "building:prefabricated": "no",
+    "check_date": "2025-06-19",
+    "image": "https://map.anl.gov/images/IMG_20250915182559769_DETE.jpg",
+    "name": "Datacenter (386)",
+    "operator": "UChicago Argonne LLC",
+    "ref": "386",
+    "source": "survey",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9882756,
+    "maxlon": -88.0060254,
+    "minlat": 41.9876481,
+    "minlon": -88.008418
+   },
+   "geometry": [
+    {
+     "lat": 41.9882756,
+     "lon": -88.008406
+    },
+    {
+     "lat": 41.9876673,
+     "lon": -88.008418
+    },
+    {
+     "lat": 41.9876608,
+     "lon": -88.0080429
+    },
+    {
+     "lat": 41.9876936,
+     "lon": -88.0080429
+    },
+    {
+     "lat": 41.9876897,
+     "lon": -88.0075757
+    },
+    {
+     "lat": 41.9876608,
+     "lon": -88.0075757
+    },
+    {
+     "lat": 41.9876587,
+     "lon": -88.0073975
+    },
+    {
+     "lat": 41.9876911,
+     "lon": -88.0073975
+    },
+    {
+     "lat": 41.9876851,
+     "lon": -88.0068761
+    },
+    {
+     "lat": 41.9876549,
+     "lon": -88.0068771
+    },
+    {
+     "lat": 41.9876541,
+     "lon": -88.0067013
+    },
+    {
+     "lat": 41.9876851,
+     "lon": -88.0067013
+    },
+    {
+     "lat": 41.9876813,
+     "lon": -88.0062033
+    },
+    {
+     "lat": 41.9876496,
+     "lon": -88.0062033
+    },
+    {
+     "lat": 41.9876481,
+     "lon": -88.0060264
+    },
+    {
+     "lat": 41.9876889,
+     "lon": -88.0060254
+    },
+    {
+     "lat": 41.9876889,
+     "lon": -88.0060386
+    },
+    {
+     "lat": 41.9881323,
+     "lon": -88.0060345
+    },
+    {
+     "lat": 41.9881497,
+     "lon": -88.0080947
+    },
+    {
+     "lat": 41.9882736,
+     "lon": -88.0080927
+    },
+    {
+     "lat": 41.9882756,
+     "lon": -88.008406
+    }
+   ],
+   "id": 1154636644,
+   "tags": {
+    "addr:city": "Itasca",
+    "addr:housenumber": "255",
+    "addr:postcode": "60143",
+    "addr:state": "IL",
+    "addr:street": "East Pierce Road",
+    "building": "commercial",
+    "name": "NTT Chicago CH1",
+    "operator": "NTT",
+    "operator:wikidata": "Q1054787",
+    "ref": "CH1",
+    "telecom": "data_center",
+    "website": "https://services.global.ntt/en-us/services-and-products/global-data-centers/global-locations/americas/chicago-ch1-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9143535,
+    "maxlon": -87.9159976,
+    "minlat": 41.9136532,
+    "minlon": -87.9190351
+   },
+   "geometry": [
+    {
+     "lat": 41.9136617,
+     "lon": -87.9190351
+    },
+    {
+     "lat": 41.9136532,
+     "lon": -87.9159976
+    },
+    {
+     "lat": 41.9142356,
+     "lon": -87.9160031
+    },
+    {
+     "lat": 41.9142372,
+     "lon": -87.9161151
+    },
+    {
+     "lat": 41.9143472,
+     "lon": -87.9161383
+    },
+    {
+     "lat": 41.9143535,
+     "lon": -87.91785
+    },
+    {
+     "lat": 41.9142435,
+     "lon": -87.9178437
+    },
+    {
+     "lat": 41.9142497,
+     "lon": -87.9190228
+    },
+    {
+     "lat": 41.9136617,
+     "lon": -87.9190351
+    }
+   ],
+   "id": 1217649348,
+   "tags": {
+    "addr:city": "Northlake",
+    "addr:housenumber": "505",
+    "addr:postcode": "60164",
+    "addr:state": "IL",
+    "addr:street": "North Northwest Avenue",
+    "building": "warehouse",
+    "name": "Aligned Data Center - Chicago ORD-01",
+    "operator": "Aligned",
+    "ref": "ORD-01",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9132499,
+    "maxlon": -87.9164992,
+    "minlat": 41.9126758,
+    "minlon": -87.9186797
+   },
+   "geometry": [
+    {
+     "lat": 41.9132499,
+     "lon": -87.9165012
+    },
+    {
+     "lat": 41.9132464,
+     "lon": -87.9183223
+    },
+    {
+     "lat": 41.9130731,
+     "lon": -87.9183217
+    },
+    {
+     "lat": 41.9130723,
+     "lon": -87.9186797
+    },
+    {
+     "lat": 41.9128387,
+     "lon": -87.9186789
+    },
+    {
+     "lat": 41.9128394,
+     "lon": -87.9183244
+    },
+    {
+     "lat": 41.9126758,
+     "lon": -87.9183238
+    },
+    {
+     "lat": 41.9126793,
+     "lon": -87.9164992
+    },
+    {
+     "lat": 41.9132499,
+     "lon": -87.9165012
+    }
+   ],
+   "id": 1217649350,
+   "tags": {
+    "addr:city": "Northlake",
+    "addr:housenumber": "501",
+    "addr:postcode": "60164",
+    "addr:state": "IL",
+    "addr:street": "North Northwest Avenue",
+    "building": "warehouse",
+    "name": "Aligned Data Center - Chicago ORD-02",
+    "operator": "Aligned",
+    "ref": "ORD-02",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.0234162,
+    "maxlon": -87.9711459,
+    "minlat": 42.0228706,
+    "minlon": -87.9732264
+   },
+   "geometry": [
+    {
+     "lat": 42.0228788,
+     "lon": -87.9732264
+    },
+    {
+     "lat": 42.0228706,
+     "lon": -87.9711498
+    },
+    {
+     "lat": 42.0234077,
+     "lon": -87.9711459
+    },
+    {
+     "lat": 42.0234162,
+     "lon": -87.9732224
+    },
+    {
+     "lat": 42.0228788,
+     "lon": -87.9732264
+    }
+   ],
+   "id": 1219083552,
+   "tags": {
+    "addr:city": "Elk Grove Village",
+    "addr:housenumber": "201",
+    "addr:postcode": "60007",
+    "addr:state": "IL",
+    "addr:street": "Innovation Drive",
+    "building": "warehouse",
+    "name": "Microsoft CHI11",
+    "operator": "Microsoft",
+    "operator:wikidata": "Q2283",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.0233353,
+    "maxlon": -87.9741124,
+    "minlat": 42.0227495,
+    "minlon": -87.9770011
+   },
+   "geometry": [
+    {
+     "lat": 42.0227635,
+     "lon": -87.9770011
+    },
+    {
+     "lat": 42.0227495,
+     "lon": -87.9741174
+    },
+    {
+     "lat": 42.023321,
+     "lon": -87.9741124
+    },
+    {
+     "lat": 42.0233353,
+     "lon": -87.9769961
+    },
+    {
+     "lat": 42.0227635,
+     "lon": -87.9770011
+    }
+   ],
+   "id": 1219083554,
+   "tags": {
+    "addr:city": "Elk Grove Village",
+    "addr:housenumber": "200",
+    "addr:postcode": "60007",
+    "addr:state": "IL",
+    "addr:street": "Innovation Drive",
+    "building": "warehouse",
+    "name": "T5 Chicago II",
+    "operator": "T5 Data Centers",
+    "operator:wikidata": "Q115477191",
+    "ref": "Chicago II",
+    "telecom": "data_center",
+    "website": "https://t5datacenters.com/locations/t5-chicago/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9893418,
+    "maxlon": -88.0060308,
+    "minlat": 41.9886881,
+    "minlon": -88.0083954
+   },
+   "geometry": [
+    {
+     "lat": 41.9893418,
+     "lon": -88.0083868
+    },
+    {
+     "lat": 41.9886992,
+     "lon": -88.0083954
+    },
+    {
+     "lat": 41.9886966,
+     "lon": -88.0080393
+    },
+    {
+     "lat": 41.9887351,
+     "lon": -88.0080388
+    },
+    {
+     "lat": 41.9887315,
+     "lon": -88.0075661
+    },
+    {
+     "lat": 41.9886945,
+     "lon": -88.0075666
+    },
+    {
+     "lat": 41.9886932,
+     "lon": -88.0074002
+    },
+    {
+     "lat": 41.9887318,
+     "lon": -88.0073996
+    },
+    {
+     "lat": 41.9887277,
+     "lon": -88.0068628
+    },
+    {
+     "lat": 41.9886949,
+     "lon": -88.0068633
+    },
+    {
+     "lat": 41.9886938,
+     "lon": -88.0067137
+    },
+    {
+     "lat": 41.9887278,
+     "lon": -88.0067132
+    },
+    {
+     "lat": 41.9887239,
+     "lon": -88.0061898
+    },
+    {
+     "lat": 41.9886892,
+     "lon": -88.0061903
+    },
+    {
+     "lat": 41.9886881,
+     "lon": -88.0060374
+    },
+    {
+     "lat": 41.9891857,
+     "lon": -88.0060308
+    },
+    {
+     "lat": 41.9892009,
+     "lon": -88.0080901
+    },
+    {
+     "lat": 41.9893396,
+     "lon": -88.0080882
+    },
+    {
+     "lat": 41.9893418,
+     "lon": -88.0083868
+    }
+   ],
+   "id": 1271571726,
+   "tags": {
+    "addr:city": "Itasca",
+    "addr:housenumber": "275",
+    "addr:postcode": "60143",
+    "addr:state": "IL",
+    "addr:street": "East Pierce Road",
+    "building": "commercial",
+    "name": "NTT Chicago CH2",
+    "operator": "NTT",
+    "operator:wikidata": "Q1054787",
+    "ref": "CH2",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.8902587,
+    "maxlon": -88.7206151,
+    "minlat": 41.8868334,
+    "minlon": -88.7230531
+   },
+   "geometry": [
+    {
+     "lat": 41.8868334,
+     "lon": -88.7229927
+    },
+    {
+     "lat": 41.8902507,
+     "lon": -88.7230531
+    },
+    {
+     "lat": 41.8902587,
+     "lon": -88.7222353
+    },
+    {
+     "lat": 41.888694,
+     "lon": -88.7222077
+    },
+    {
+     "lat": 41.8886953,
+     "lon": -88.7220755
+    },
+    {
+     "lat": 41.8885441,
+     "lon": -88.7220728
+    },
+    {
+     "lat": 41.8885445,
+     "lon": -88.7220315
+    },
+    {
+     "lat": 41.888809,
+     "lon": -88.7220363
+    },
+    {
+     "lat": 41.8888133,
+     "lon": -88.7216041
+    },
+    {
+     "lat": 41.8885216,
+     "lon": -88.7215988
+    },
+    {
+     "lat": 41.8885226,
+     "lon": -88.7214967
+    },
+    {
+     "lat": 41.8886543,
+     "lon": -88.721499
+    },
+    {
+     "lat": 41.8886556,
+     "lon": -88.7213664
+    },
+    {
+     "lat": 41.8902025,
+     "lon": -88.7213939
+    },
+    {
+     "lat": 41.8902096,
+     "lon": -88.7206744
+    },
+    {
+     "lat": 41.8868748,
+     "lon": -88.7206151
+    },
+    {
+     "lat": 41.8868674,
+     "lon": -88.7213645
+    },
+    {
+     "lat": 41.8880892,
+     "lon": -88.7213861
+    },
+    {
+     "lat": 41.888081,
+     "lon": -88.7222258
+    },
+    {
+     "lat": 41.8868411,
+     "lon": -88.7222038
+    },
+    {
+     "lat": 41.8868334,
+     "lon": -88.7229927
+    }
+   ],
+   "id": 1312792611,
+   "tags": {
+    "building": "yes",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.8910121,
+    "maxlon": -88.7298108,
+    "minlat": 41.8875868,
+    "minlon": -88.7322488
+   },
+   "geometry": [
+    {
+     "lat": 41.8875868,
+     "lon": -88.7321884
+    },
+    {
+     "lat": 41.8910041,
+     "lon": -88.7322488
+    },
+    {
+     "lat": 41.8910121,
+     "lon": -88.731431
+    },
+    {
+     "lat": 41.8894474,
+     "lon": -88.7314034
+    },
+    {
+     "lat": 41.8894487,
+     "lon": -88.7312713
+    },
+    {
+     "lat": 41.8892975,
+     "lon": -88.7312686
+    },
+    {
+     "lat": 41.8892979,
+     "lon": -88.7312273
+    },
+    {
+     "lat": 41.8895624,
+     "lon": -88.731232
+    },
+    {
+     "lat": 41.8895667,
+     "lon": -88.7307998
+    },
+    {
+     "lat": 41.889275,
+     "lon": -88.7307946
+    },
+    {
+     "lat": 41.889276,
+     "lon": -88.7306924
+    },
+    {
+     "lat": 41.8894077,
+     "lon": -88.7306947
+    },
+    {
+     "lat": 41.889409,
+     "lon": -88.7305621
+    },
+    {
+     "lat": 41.8909559,
+     "lon": -88.7305896
+    },
+    {
+     "lat": 41.890963,
+     "lon": -88.7298701
+    },
+    {
+     "lat": 41.8876282,
+     "lon": -88.7298108
+    },
+    {
+     "lat": 41.8876208,
+     "lon": -88.7305602
+    },
+    {
+     "lat": 41.8888426,
+     "lon": -88.7305818
+    },
+    {
+     "lat": 41.8888344,
+     "lon": -88.7314215
+    },
+    {
+     "lat": 41.8875946,
+     "lon": -88.7313995
+    },
+    {
+     "lat": 41.8875868,
+     "lon": -88.7321884
+    }
+   ],
+   "id": 1312792612,
+   "tags": {
+    "building": "yes",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.8920059,
+    "maxlon": -88.7258239,
+    "minlat": 41.8886042,
+    "minlon": -88.7274313
+   },
+   "geometry": [
+    {
+     "lat": 41.8901142,
+     "lon": -88.7274313
+    },
+    {
+     "lat": 41.890115,
+     "lon": -88.7273098
+    },
+    {
+     "lat": 41.8902384,
+     "lon": -88.7273112
+    },
+    {
+     "lat": 41.8902388,
+     "lon": -88.7272546
+    },
+    {
+     "lat": 41.8905113,
+     "lon": -88.7272577
+    },
+    {
+     "lat": 41.8905144,
+     "lon": -88.7267546
+    },
+    {
+     "lat": 41.8904358,
+     "lon": -88.7267537
+    },
+    {
+     "lat": 41.8904349,
+     "lon": -88.726895
+    },
+    {
+     "lat": 41.8902972,
+     "lon": -88.7268934
+    },
+    {
+     "lat": 41.8902979,
+     "lon": -88.7267793
+    },
+    {
+     "lat": 41.8904329,
+     "lon": -88.72678
+    },
+    {
+     "lat": 41.8904323,
+     "lon": -88.7266523
+    },
+    {
+     "lat": 41.8920038,
+     "lon": -88.7266472
+    },
+    {
+     "lat": 41.8920059,
+     "lon": -88.7261845
+    },
+    {
+     "lat": 41.8919767,
+     "lon": -88.7261849
+    },
+    {
+     "lat": 41.8919803,
+     "lon": -88.7258421
+    },
+    {
+     "lat": 41.8886094,
+     "lon": -88.7258239
+    },
+    {
+     "lat": 41.8886042,
+     "lon": -88.7266211
+    },
+    {
+     "lat": 41.8897808,
+     "lon": -88.7266349
+    },
+    {
+     "lat": 41.8897756,
+     "lon": -88.7274274
+    },
+    {
+     "lat": 41.8901142,
+     "lon": -88.7274313
+    }
+   ],
+   "id": 1312792613,
+   "tags": {
+    "building": "yes",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.0233394,
+    "maxlon": -87.9605165,
+    "minlat": 42.0228137,
+    "minlon": -87.9624174
+   },
+   "geometry": [
+    {
+     "lat": 42.0233299,
+     "lon": -87.9605165
+    },
+    {
+     "lat": 42.0228137,
+     "lon": -87.9605213
+    },
+    {
+     "lat": 42.0228235,
+     "lon": -87.9624174
+    },
+    {
+     "lat": 42.0233394,
+     "lon": -87.9624127
+    },
+    {
+     "lat": 42.0233299,
+     "lon": -87.9605165
+    }
+   ],
+   "id": 1316005112,
+   "tags": {
+    "building": "commercial",
+    "building:prefabricated": "no",
+    "check_date": "2026-02-14",
+    "source": "survey",
+    "start_date": "2026",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.7961771,
+    "maxlon": -88.246146,
+    "minlat": 41.7945768,
+    "minlon": -88.2477836
+   },
+   "geometry": [
+    {
+     "lat": 41.7959716,
+     "lon": -88.2477836
+    },
+    {
+     "lat": 41.7959821,
+     "lon": -88.2477189
+    },
+    {
+     "lat": 41.7960596,
+     "lon": -88.2472447
+    },
+    {
+     "lat": 41.7959005,
+     "lon": -88.2471979
+    },
+    {
+     "lat": 41.795918,
+     "lon": -88.2470904
+    },
+    {
+     "lat": 41.7959548,
+     "lon": -88.2471012
+    },
+    {
+     "lat": 41.7959572,
+     "lon": -88.2470863
+    },
+    {
+     "lat": 41.7959782,
+     "lon": -88.2469582
+    },
+    {
+     "lat": 41.7960311,
+     "lon": -88.246974
+    },
+    {
+     "lat": 41.7961001,
+     "lon": -88.2469938
+    },
+    {
+     "lat": 41.7961188,
+     "lon": -88.246876
+    },
+    {
+     "lat": 41.7961771,
+     "lon": -88.2465207
+    },
+    {
+     "lat": 41.7960169,
+     "lon": -88.2464736
+    },
+    {
+     "lat": 41.796024,
+     "lon": -88.2464305
+    },
+    {
+     "lat": 41.7960111,
+     "lon": -88.2464267
+    },
+    {
+     "lat": 41.7959292,
+     "lon": -88.2464026
+    },
+    {
+     "lat": 41.7959215,
+     "lon": -88.2464004
+    },
+    {
+     "lat": 41.7959131,
+     "lon": -88.246452
+    },
+    {
+     "lat": 41.7948719,
+     "lon": -88.246146
+    },
+    {
+     "lat": 41.7948712,
+     "lon": -88.24615
+    },
+    {
+     "lat": 41.7948677,
+     "lon": -88.2461714
+    },
+    {
+     "lat": 41.7948656,
+     "lon": -88.2461846
+    },
+    {
+     "lat": 41.7947588,
+     "lon": -88.2461532
+    },
+    {
+     "lat": 41.7947492,
+     "lon": -88.2462119
+    },
+    {
+     "lat": 41.794735,
+     "lon": -88.2462984
+    },
+    {
+     "lat": 41.7947717,
+     "lon": -88.2463092
+    },
+    {
+     "lat": 41.7946306,
+     "lon": -88.2471729
+    },
+    {
+     "lat": 41.7945935,
+     "lon": -88.247162
+    },
+    {
+     "lat": 41.7945798,
+     "lon": -88.2472457
+    },
+    {
+     "lat": 41.7945789,
+     "lon": -88.2472516
+    },
+    {
+     "lat": 41.7945768,
+     "lon": -88.2472644
+    },
+    {
+     "lat": 41.7946843,
+     "lon": -88.2472959
+    },
+    {
+     "lat": 41.7946812,
+     "lon": -88.2473148
+    },
+    {
+     "lat": 41.7946781,
+     "lon": -88.2473338
+    },
+    {
+     "lat": 41.7957255,
+     "lon": -88.2476416
+    },
+    {
+     "lat": 41.7957147,
+     "lon": -88.2477081
+    },
+    {
+     "lat": 41.7959716,
+     "lon": -88.2477836
+    }
+   ],
+   "id": 1426146790,
+   "tags": {
+    "building": "yes",
+    "operator": "CyrusOne",
+    "operator:wikidata": "Q16953751",
+    "ref": "CHI3",
+    "telecom": "data_center",
+    "website": "https://www.cyrusone.com/data-centers/north-america/aurora-il"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.987435,
+    "maxlon": -88.0070705,
+    "minlat": 41.9864466,
+    "minlon": -88.0088987
+   },
+   "geometry": [
+    {
+     "lat": 41.987435,
+     "lon": -88.00863
+    },
+    {
+     "lat": 41.9868604,
+     "lon": -88.0088987
+    },
+    {
+     "lat": 41.9867665,
+     "lon": -88.0085454
+    },
+    {
+     "lat": 41.9867977,
+     "lon": -88.0085315
+    },
+    {
+     "lat": 41.9866848,
+     "lon": -88.0080896
+    },
+    {
+     "lat": 41.9866573,
+     "lon": -88.0081019
+    },
+    {
+     "lat": 41.9866137,
+     "lon": -88.0079336
+    },
+    {
+     "lat": 41.9866444,
+     "lon": -88.0079199
+    },
+    {
+     "lat": 41.9865169,
+     "lon": -88.0074275
+    },
+    {
+     "lat": 41.9864885,
+     "lon": -88.0074412
+    },
+    {
+     "lat": 41.9864466,
+     "lon": -88.0072747
+    },
+    {
+     "lat": 41.986476,
+     "lon": -88.0072615
+    },
+    {
+     "lat": 41.9869194,
+     "lon": -88.0070705
+    },
+    {
+     "lat": 41.9872427,
+     "lon": -88.0083877
+    },
+    {
+     "lat": 41.9873599,
+     "lon": -88.0083334
+    },
+    {
+     "lat": 41.987435,
+     "lon": -88.00863
+    }
+   ],
+   "id": 1446350367,
+   "tags": {
+    "addr:city": "Itasca",
+    "addr:housenumber": "235",
+    "addr:postcode": "60143",
+    "addr:state": "IL",
+    "addr:street": "East Pierce Road",
+    "building": "commercial",
+    "name": "NTT Chicago CH3",
+    "operator": "NTT",
+    "operator:wikidata": "Q1054787",
+    "ref": "CH3",
+    "telecom": "data_center",
+    "website": "https://services.global.ntt/en-us/services-and-products/global-data-centers/global-locations/americas/chicago-ch1-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.989926,
+    "maxlon": -88.0044145,
+    "minlat": 41.9882767,
+    "minlon": -88.0051022
+   },
+   "geometry": [
+    {
+     "lat": 41.9882886,
+     "lon": -88.0051022
+    },
+    {
+     "lat": 41.9882767,
+     "lon": -88.0044493
+    },
+    {
+     "lat": 41.9885555,
+     "lon": -88.0044368
+    },
+    {
+     "lat": 41.9885558,
+     "lon": -88.004481
+    },
+    {
+     "lat": 41.988903,
+     "lon": -88.0044711
+    },
+    {
+     "lat": 41.9889027,
+     "lon": -88.0044322
+    },
+    {
+     "lat": 41.9890351,
+     "lon": -88.0044276
+    },
+    {
+     "lat": 41.9890354,
+     "lon": -88.0044712
+    },
+    {
+     "lat": 41.9894229,
+     "lon": -88.0044579
+    },
+    {
+     "lat": 41.9894219,
+     "lon": -88.0044173
+    },
+    {
+     "lat": 41.9895525,
+     "lon": -88.0044145
+    },
+    {
+     "lat": 41.9895528,
+     "lon": -88.0044562
+    },
+    {
+     "lat": 41.9899229,
+     "lon": -88.0044461
+    },
+    {
+     "lat": 41.989926,
+     "lon": -88.0050511
+    },
+    {
+     "lat": 41.9882886,
+     "lon": -88.0051022
+    }
+   ],
+   "id": 1446350370,
+   "tags": {
+    "addr:city": "Itasca",
+    "addr:housenumber": "1200",
+    "addr:postcode": "60143",
+    "addr:state": "IL",
+    "addr:street": "Arlington Heights Road",
+    "building": "commercial",
+    "name": "NTT Chicago CH4",
+    "operator": "NTT",
+    "operator:wikidata": "Q1054787",
+    "ref": "CH4",
+    "telecom": "data_center",
+    "website": "https://services.global.ntt/en-us/services-and-products/global-data-centers/global-locations/americas/chicago-ch1-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.8035608,
+    "maxlon": -88.2453652,
+    "minlat": 41.8021615,
+    "minlon": -88.2481394
+   },
+   "geometry": [
+    {
+     "lat": 41.8035608,
+     "lon": -88.245668
+    },
+    {
+     "lat": 41.8029356,
+     "lon": -88.2453652
+    },
+    {
+     "lat": 41.8028875,
+     "lon": -88.2455528
+    },
+    {
+     "lat": 41.802788,
+     "lon": -88.245503
+    },
+    {
+     "lat": 41.8027821,
+     "lon": -88.2455423
+    },
+    {
+     "lat": 41.8027021,
+     "lon": -88.2455135
+    },
+    {
+     "lat": 41.8025479,
+     "lon": -88.2461445
+    },
+    {
+     "lat": 41.8026592,
+     "lon": -88.2461994
+    },
+    {
+     "lat": 41.8025655,
+     "lon": -88.2465555
+    },
+    {
+     "lat": 41.8024991,
+     "lon": -88.2465188
+    },
+    {
+     "lat": 41.8021615,
+     "lon": -88.2477519
+    },
+    {
+     "lat": 41.8029948,
+     "lon": -88.2481394
+    },
+    {
+     "lat": 41.803352,
+     "lon": -88.2467492
+    },
+    {
+     "lat": 41.8032622,
+     "lon": -88.2467073
+    },
+    {
+     "lat": 41.803309,
+     "lon": -88.2465136
+    },
+    {
+     "lat": 41.8033364,
+     "lon": -88.2465188
+    },
+    {
+     "lat": 41.8035608,
+     "lon": -88.245668
+    }
+   ],
+   "id": 1481581947,
+   "tags": {
+    "addr:city": "Aurora",
+    "addr:housenumber": "2725",
+    "addr:postcode": "60502",
+    "addr:state": "IL",
+    "addr:street": "Bilter Road",
+    "building": "yes",
+    "name": "CyrusOne CHI3",
+    "operator": "CyrusOne",
+    "operator:wikidata": "Q16953751",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.8075987,
+    "maxlon": -88.2401773,
+    "minlat": 41.806263,
+    "minlon": -88.2420164
+   },
+   "geometry": [
+    {
+     "lat": 41.8067996,
+     "lon": -88.2420164
+    },
+    {
+     "lat": 41.8075987,
+     "lon": -88.2408941
+    },
+    {
+     "lat": 41.8070644,
+     "lon": -88.2401773
+    },
+    {
+     "lat": 41.806263,
+     "lon": -88.2413373
+    },
+    {
+     "lat": 41.8067996,
+     "lon": -88.2420164
+    }
+   ],
+   "id": 1481581948,
+   "tags": {
+    "building": "yes",
+    "name": "Edged Chicago ORD01",
+    "operator": "Edged",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.7976737,
+    "maxlon": -88.242303,
+    "minlat": 41.795535,
+    "minlon": -88.2436675
+   },
+   "geometry": [
+    {
+     "lat": 41.7976132,
+     "lon": -88.2436197
+    },
+    {
+     "lat": 41.7975413,
+     "lon": -88.2436198
+    },
+    {
+     "lat": 41.797543,
+     "lon": -88.2436634
+    },
+    {
+     "lat": 41.7961687,
+     "lon": -88.2436637
+    },
+    {
+     "lat": 41.7955357,
+     "lon": -88.2436675
+    },
+    {
+     "lat": 41.795535,
+     "lon": -88.2423039
+    },
+    {
+     "lat": 41.7956815,
+     "lon": -88.2423038
+    },
+    {
+     "lat": 41.7956815,
+     "lon": -88.2423322
+    },
+    {
+     "lat": 41.7975,
+     "lon": -88.2423303
+    },
+    {
+     "lat": 41.7974999,
+     "lon": -88.2423031
+    },
+    {
+     "lat": 41.7976204,
+     "lon": -88.242303
+    },
+    {
+     "lat": 41.7976205,
+     "lon": -88.2424039
+    },
+    {
+     "lat": 41.7976736,
+     "lon": -88.2424039
+    },
+    {
+     "lat": 41.7976737,
+     "lon": -88.242602
+    },
+    {
+     "lat": 41.797623,
+     "lon": -88.242602
+    },
+    {
+     "lat": 41.7976128,
+     "lon": -88.242602
+    },
+    {
+     "lat": 41.797613,
+     "lon": -88.2432174
+    },
+    {
+     "lat": 41.7976132,
+     "lon": -88.2436197
+    }
+   ],
+   "id": 1556760955,
+   "tags": {
+    "building": "yes",
+    "operator": "CyrusOne",
+    "operator:wikidata": "Q16953751",
+    "ref": "CHI1",
+    "telecom": "data_center",
+    "website": "https://www.cyrusone.com/data-centers/north-america/aurora-il"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.9779983,
+    "maxlon": -87.9621578,
+    "minlat": 41.9767267,
+    "minlon": -87.9638719
+   },
+   "geometry": [
+    {
+     "lat": 41.9779903,
+     "lon": -87.9621578
+    },
+    {
+     "lat": 41.9768638,
+     "lon": -87.9621674
+    },
+    {
+     "lat": 41.9768663,
+     "lon": -87.9627162
+    },
+    {
+     "lat": 41.9767267,
+     "lon": -87.9627174
+    },
+    {
+     "lat": 41.9767292,
+     "lon": -87.9632506
+    },
+    {
+     "lat": 41.9768637,
+     "lon": -87.9632494
+    },
+    {
+     "lat": 41.9768666,
+     "lon": -87.9638719
+    },
+    {
+     "lat": 41.9779983,
+     "lon": -87.9638623
+    },
+    {
+     "lat": 41.9779903,
+     "lon": -87.9621578
+    }
+   ],
+   "id": 1557957010,
+   "tags": {
+    "building": "yes",
+    "fixme": "fix footprint and area when new images are available",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.0354614,
+    "maxlon": -87.9818902,
+    "minlat": 42.0334352,
+    "minlon": -87.984436
+   },
+   "geometry": [
+    {
+     "lat": 42.0350849,
+     "lon": -87.9818902
+    },
+    {
+     "lat": 42.0334352,
+     "lon": -87.9824599
+    },
+    {
+     "lat": 42.0338118,
+     "lon": -87.984436
+    },
+    {
+     "lat": 42.0354614,
+     "lon": -87.9838663
+    },
+    {
+     "lat": 42.0350849,
+     "lon": -87.9818902
+    }
+   ],
+   "id": 1558344919,
+   "tags": {
+    "building": "commercial",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 41.8111717,
+    "maxlon": -88.1949516,
+    "minlat": 41.810743,
+    "minlon": -88.1955035
+   },
+   "geometry": [
+    {
+     "lat": 41.8111717,
+     "lon": -88.1953942
+    },
+    {
+     "lat": 41.8108192,
+     "lon": -88.1955035
+    },
+    {
+     "lat": 41.810743,
+     "lon": -88.1950608
+    },
+    {
+     "lat": 41.8110954,
+     "lon": -88.1949516
+    },
+    {
+     "lat": 41.8111717,
+     "lon": -88.1953942
+    }
+   ],
+   "id": 1562274525,
+   "tags": {
+    "addr:city": "Naperville",
+    "addr:housenumber": "2368",
+    "addr:postcode": "60563",
+    "addr:state": "IL",
+    "addr:street": "Corporate Lane",
+    "addr:unit": "112",
+    "building": "commercial",
+    "name": "NetSource Communications, Inc",
+    "operator": "NetSource",
+    "telecom": "data_center",
+    "website": "https://www.netsource.com/",
+    "wikidata": "Q141560840"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:16:04Z",
+  "timestamp_osm_base": "2026-10-21T16:52:20Z"
+ },
+ "version": 0.6
+}

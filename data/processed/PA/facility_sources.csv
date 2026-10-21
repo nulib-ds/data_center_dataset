@@ -1,0 +1,88 @@
+facility_id,source,source_id,source_url,source_name
+d-stor-3400-horizon-drive-95aba1,osm,node/13409186015,https://www.openstreetmap.org/node/13409186015,DāStor: 3400 Horizon Drive
+iron-city-no-1-power-generator-and-compute-c-4075aa,osm,node/13908533343,https://www.openstreetmap.org/node/13908533343,Iron City No. 1 Power Generator and Compute Center
+expedient-pittsburgh-nova-place-f63b5e,osm,node/14277048779,https://www.openstreetmap.org/node/14277048779,Expedient Pittsburgh Nova Place
+databank-pittsburgh-pit2-126845,osm,way/168129695,https://www.openstreetmap.org/way/168129695,DataBank Pittsburgh PIT2
+databank-pittsburgh-pit2-126845,peeringdb,10917,https://www.peeringdb.com/fac/10917,DataBank Pittsburgh (PIT2)
+flexential-allentown-data-center-1810ad,osm,way/296374269,https://www.openstreetmap.org/way/296374269,Flexential Allentown Data Center
+terminal-commerce-building-eb060e,osm,way/334264478,https://www.openstreetmap.org/way/334264478,Terminal Commerce Building
+expedient-pittsburgh-green-tree-a70bfd,osm,way/537807168,https://www.openstreetmap.org/way/537807168,Expedient Pittsburgh South
+expedient-pittsburgh-green-tree-a70bfd,peeringdb,8477,https://www.peeringdb.com/fac/8477,Expedient Pittsburgh - Green Tree
+allentown-tekpark-47f7ce,osm,way/777196805,https://www.openstreetmap.org/way/777196805,Allentown-TekPark
+tierpoint-valley-forge-475f08,osm,way/1109881281,https://www.openstreetmap.org/way/1109881281,TierPoint Valley Forge
+tierpoint-valley-forge-475f08,peeringdb,3666,https://www.peeringdb.com/fac/3666,TierPoint Valley Forge
+tierpoint-valley-forge-475f08,epa_nei,21258611,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=21258611,VALLEY FORGE DIGITAL UTILITY FACILITY / LOWER PROVIDENCE
+flexential-philadelphia-collegeville-915c9c,osm,way/1178609569,https://www.openstreetmap.org/way/1178609569,Flexential Philadelphia - Collegeville
+flexential-philadelphia-collegeville-915c9c,epa_nei,14662011,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=14662011,FLEXENTIAL/ UPPER PROVIDENCE TWP
+nautilus-cryptomine-a4fa56,osm,way/1334234454,https://www.openstreetmap.org/way/1334234454,Nautilus Cryptomine
+nautilus-cryptomine-a4fa56,osm,way/1334234455,https://www.openstreetmap.org/way/1334234455,Nautilus Cryptomine
+amazon-aws-phl-862760,osm,way/1334234458,https://www.openstreetmap.org/way/1334234458,Amazon AWS PHL
+unnamed-data-center-ab9463,osm,way/1539600946,https://www.openstreetmap.org/way/1539600946,
+unnamed-data-center-58c7c4,osm,way/1539600947,https://www.openstreetmap.org/way/1539600947,
+unnamed-data-center-9eb515,osm,way/1539600948,https://www.openstreetmap.org/way/1539600948,
+unnamed-data-center-59e241,osm,way/1539600949,https://www.openstreetmap.org/way/1539600949,
+unnamed-data-center-0b5704,osm,way/1539600950,https://www.openstreetmap.org/way/1539600950,
+unnamed-data-center-ad7fad,osm,way/1539600951,https://www.openstreetmap.org/way/1539600951,
+unnamed-data-center-5b0f6d,osm,way/1539600952,https://www.openstreetmap.org/way/1539600952,
+unnamed-data-center-901420,osm,way/1539600953,https://www.openstreetmap.org/way/1539600953,
+unnamed-data-center-5146e6,osm,way/1539600954,https://www.openstreetmap.org/way/1539600954,
+unnamed-data-center-49d69f,osm,way/1539600955,https://www.openstreetmap.org/way/1539600955,
+unnamed-data-center-9c2796,osm,way/1539600956,https://www.openstreetmap.org/way/1539600956,
+unnamed-data-center-e0ed80,osm,way/1539600957,https://www.openstreetmap.org/way/1539600957,
+unnamed-data-center-ba8968,osm,way/1539600958,https://www.openstreetmap.org/way/1539600958,
+unnamed-data-center-7a04ec,osm,way/1539600959,https://www.openstreetmap.org/way/1539600959,
+unnamed-data-center-ee5c99,osm,way/1539600960,https://www.openstreetmap.org/way/1539600960,
+unnamed-data-center-196f48,osm,way/1539600961,https://www.openstreetmap.org/way/1539600961,
+unnamed-data-center-76c360,osm,way/1539600962,https://www.openstreetmap.org/way/1539600962,
+unnamed-data-center-2336da,osm,way/1539600963,https://www.openstreetmap.org/way/1539600963,
+unnamed-data-center-636a62,osm,way/1539600964,https://www.openstreetmap.org/way/1539600964,
+unnamed-data-center-83ec24,osm,way/1539600965,https://www.openstreetmap.org/way/1539600965,
+unnamed-data-center-1e4ff4,osm,way/1539600966,https://www.openstreetmap.org/way/1539600966,
+unnamed-data-center-a24f4e,osm,way/1539600967,https://www.openstreetmap.org/way/1539600967,
+unnamed-data-center-6aba50,osm,way/1539600968,https://www.openstreetmap.org/way/1539600968,
+unnamed-data-center-dfcd3a,osm,way/1539600969,https://www.openstreetmap.org/way/1539600969,
+unnamed-data-center-f09ecb,osm,way/1539600971,https://www.openstreetmap.org/way/1539600971,
+unnamed-data-center-74206d,osm,way/1539600972,https://www.openstreetmap.org/way/1539600972,
+unnamed-data-center-a887d8,osm,way/1539603377,https://www.openstreetmap.org/way/1539603377,
+unnamed-data-center-bbb87f,osm,way/1539603378,https://www.openstreetmap.org/way/1539603378,
+unnamed-data-center-2313f8,osm,way/1539603379,https://www.openstreetmap.org/way/1539603379,
+unnamed-data-center-047de3,osm,way/1539603380,https://www.openstreetmap.org/way/1539603380,
+unnamed-data-center-b209d6,osm,way/1539603381,https://www.openstreetmap.org/way/1539603381,
+unnamed-data-center-ef241a,osm,way/1539603382,https://www.openstreetmap.org/way/1539603382,
+equinix-ph1-philadelphia-d65466,peeringdb,146,https://www.peeringdb.com/fac/146,Equinix PH1 - Philadelphia
+citynet-pittsburgh-f40941,peeringdb,268,https://www.peeringdb.com/fac/268,Citynet Pittsburgh
+quonix-datacenter-2401-locust-st-e97d95,peeringdb,895,https://www.peeringdb.com/fac/895,Quonix Datacenter (2401 Locust St)
+crown-castle-pittsburgh-allegheny-center-mal-e93231,peeringdb,1423,https://www.peeringdb.com/fac/1423,Crown Castle Pittsburgh (Allegheny Center Mall)
+edgeconnex-pittsburgh-edcpit01-77a17d,peeringdb,1925,https://www.peeringdb.com/fac/1925,EdgeConneX Pittsburgh (EDCPIT01)
+365-data-centers-philadelphia-ph2-8afe27,peeringdb,2015,https://www.peeringdb.com/fac/2015,365 Data Centers Philadelphia (PH2)
+databank-philadelphia-phl1-75a05d,peeringdb,2068,https://www.peeringdb.com/fac/2068,DataBank Philadelphia (PHL1)
+netrality-philadelphia-401-n-broad-2f693c,peeringdb,2111,https://www.peeringdb.com/fac/2111,Netrality Philadelphia - 401 N Broad
+833-chestnut-street-ee9dd4,peeringdb,2112,https://www.peeringdb.com/fac/2112,833 Chestnut Street
+h5-data-centers-philadelphia-pa01-66b6fb,peeringdb,2113,https://www.peeringdb.com/fac/2113,H5 Data Centers Philadelphia (PA01)
+zayo-pittsburgh-2500-allegheny-center-mall-4ff4a7,peeringdb,2929,https://www.peeringdb.com/fac/2929,Zayo Pittsburgh - 2500 Allegheny Center Mall
+tierpoint-philadelphia-e93be0,peeringdb,3013,https://www.peeringdb.com/fac/3013,TierPoint Philadelphia
+pdc1-9999-hamilton-blvd-3e3724,peeringdb,3433,https://www.peeringdb.com/fac/3433,PDC1 - 9999 Hamilton blvd
+pdc2-1000-adams-ave-0adbcd,peeringdb,3434,https://www.peeringdb.com/fac/3434,PDC2 - 1000 Adams ave
+pdc3-3949-schelden-cir-ff7709,peeringdb,3435,https://www.peeringdb.com/fac/3435,PDC3 - 3949 Schelden Cir
+crown-castle-philadelphia-401-n-broad-336d74,peeringdb,3482,https://www.peeringdb.com/fac/3482,Crown Castle Philadelphia (401 N Broad)
+tierpoint-allentown-tekpark-8c61cd,peeringdb,3664,https://www.peeringdb.com/fac/3664,TierPoint Allentown-TekPark
+tierpoint-lehigh-valley-5cf659,peeringdb,3665,https://www.peeringdb.com/fac/3665,TierPoint Lehigh Valley
+h5-data-centers-pittsburgh-pa02-7d2fc6,peeringdb,3931,https://www.peeringdb.com/fac/3931,H5 Data Centers Pittsburgh (PA02)
+databank-pittsburgh-pit1-9bbd23,peeringdb,4292,https://www.peeringdb.com/fac/4292,DataBank Pittsburgh (PIT1)
+flexential-philadelphia-collegeville-phl01-6d0818,peeringdb,4992,https://www.peeringdb.com/fac/4992,Flexential - Philadelphia/Collegeville (PHL01)
+iron-mountain-data-center-western-pennsylvan-a6b7d3,peeringdb,6340,https://www.peeringdb.com/fac/6340,Iron Mountain Data Center - Western Pennsylvania (WPA-1)
+dqe-communications-downtown-pittsburgh-9bfba5,peeringdb,8125,https://www.peeringdb.com/fac/8125,DQE Communications (Downtown Pittsburgh)
+dqe-communications-butler-0cb4af,peeringdb,8126,https://www.peeringdb.com/fac/8126,DQE Communications (Butler)
+dqe-communications-allegheny-center-mall-dc8df7,peeringdb,8127,https://www.peeringdb.com/fac/8127,DQE Communications (Allegheny Center Mall)
+expedient-pittsburgh-nova-place-3986ad,peeringdb,8475,https://www.peeringdb.com/fac/8475,Expedient Pittsburgh - Nova Place
+direct-ltx-reading-e80ed6,peeringdb,9925,https://www.peeringdb.com/fac/9925,Direct LTx Reading
+sungard-as-philadelphia-dda8b1,peeringdb,10864,https://www.peeringdb.com/fac/10864,Sungard AS Philadelphia
+tierpoint-bethlehem-7409aa,peeringdb,11363,https://www.peeringdb.com/fac/11363,TierPoint Bethlehem
+ark-data-centers-pittsburgh-pa-ba84f1,peeringdb,12239,https://www.peeringdb.com/fac/12239,"ark data centers - Pittsburgh, PA"
+crown-castle-philadelphia-1309-noble-e23745,peeringdb,13441,https://www.peeringdb.com/fac/13441,Crown Castle Philadelphia (1309 Noble)
+lumen-pittsburgh-8fa73d,peeringdb,13513,https://www.peeringdb.com/fac/13513,Lumen Pittsburgh
+lumen-philadelphia-2c19b6,peeringdb,13514,https://www.peeringdb.com/fac/13514,Lumen Philadelphia
+aspstation-inc-f665f8,peeringdb,14479,https://www.peeringdb.com/fac/14479,"aspStation, Inc."
+365-data-centers-buffalo-pa1-391d60,peeringdb,16125,https://www.peeringdb.com/fac/16125,365 Data Centers Buffalo (PA1)
+365-data-centers-buffalo-pa1-391d60,peeringdb,16126,https://www.peeringdb.com/fac/16126,365 Data Centers Philadelphia (PA1)
+omega-pa1-b58f13,peeringdb,16943,https://www.peeringdb.com/fac/16943,Omega PA1

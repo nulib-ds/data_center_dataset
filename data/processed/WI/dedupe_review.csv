@@ -1,0 +1,3 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+peeringdb,507,324 E Wisconsin,324 E. Wisconsin Ave,peeringdb,7173,TSR Solutions Data Center,"324 E Wisconsin Ave #825, Milwaukee, WI 53202",0.61,,9.2,1.0,0.0,1.0,0.25,[]|[]
+peeringdb,372,Network 222,222 West Washington Avenue,peeringdb,559,5Nines Data,"222 West Washington Avenue, Suite 170",0.591,,0.0,1.0,0.0,1.0,0.154,[]|[]

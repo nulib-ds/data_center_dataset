@@ -1,0 +1,4 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+osm,way/1160814415,Meta Huntsville Data center,,osm,way/1160814416,Meta Huntsville Data center,,0.69,,307.7,0.736,1.0,0.0,1.0,[]|[]
+osm,way/1160814413,Meta Huntsville Data center,,osm,way/1160814415,Meta Huntsville Data center,,0.622,,496.9,0.535,1.0,0.0,1.0,[]|[]
+osm,way/1160814413,Meta Huntsville Data center,,osm,way/1160814416,Meta Huntsville Data center,,0.515,,791.6,0.222,1.0,0.0,1.0,[]|[]

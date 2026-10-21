@@ -1,0 +1,51 @@
+facility_id,source,source_id,source_url,source_name
+flexential-minneapolis-chaska-msp01-c0fd99,osm,way/52227492,https://www.openstreetmap.org/way/52227492,Flexential Minneapolis - Chaska
+flexential-minneapolis-chaska-msp01-c0fd99,peeringdb,2440,https://www.peeringdb.com/fac/2440,Flexential - Minneapolis/Chaska (MSP01)
+minnesota-gateway-data-center-3bf982,osm,way/63619642,https://www.openstreetmap.org/way/63619642,Minnesota Gateway Data Center
+h5-data-centers-minneapolis-3dccea,osm,way/131874718,https://www.openstreetmap.org/way/131874718,H5 Minneapolis
+h5-data-centers-minneapolis-3dccea,peeringdb,3927,https://www.peeringdb.com/fac/3927,H5 Data Centers Minneapolis
+uhg-data-center-10e02b,osm,way/304754549,https://www.openstreetmap.org/way/304754549,UHG Data Center
+epic-mayo-data-center-212bc4,osm,way/718465287,https://www.openstreetmap.org/way/718465287,Epic / Mayo Data Center
+lightedge-data-center-a7ef74,osm,way/874888709,https://www.openstreetmap.org/way/874888709,Lightedge Data Center
+streamdata-center-2fdd8b,osm,way/1015258645,https://www.openstreetmap.org/way/1015258645,StreamData Center
+ark-duluth-data-center-e5afa4,osm,way/1307072785,https://www.openstreetmap.org/way/1307072785,Ark Duluth Data Center
+databank-minneapolis-msp3-ca89ae,osm,way/1343100173,https://www.openstreetmap.org/way/1343100173,DataBank
+databank-minneapolis-msp3-ca89ae,peeringdb,13254,https://www.peeringdb.com/fac/13254,DataBank Minneapolis (MSP3)
+encompass-minneapolis-facility-388f4f,osm,way/1391966326,https://www.openstreetmap.org/way/1391966326,Encompass Minneapolis Facility
+unnamed-data-center-610f09,osm,way/1454573842,https://www.openstreetmap.org/way/1454573842,
+unnamed-data-center-923b0f,osm,way/1454573843,https://www.openstreetmap.org/way/1454573843,
+advanced-operations-center-5e7a64,osm,way/1544712660,https://www.openstreetmap.org/way/1544712660,Advanced Operations Center
+cologix-min1-37c5a0,peeringdb,803,https://www.peeringdb.com/fac/803,Cologix MIN1
+232-20th-st-nw-east-grand-forks-08ee43,peeringdb,1115,https://www.peeringdb.com/fac/1115,"232 20th St NW, East Grand Forks"
+np-rochester-b602f2,peeringdb,1327,https://www.peeringdb.com/fac/1327,NP Rochester
+duluth-missabe-ab8ca1,peeringdb,1334,https://www.peeringdb.com/fac/1334,Duluth Missabe
+implex-minneapolis-26f025,peeringdb,1454,https://www.peeringdb.com/fac/1454,Implex Minneapolis
+cologix-min2-2fd90a,peeringdb,2325,https://www.peeringdb.com/fac/2325,Cologix MIN2
+tritech-center-863d1b,peeringdb,2349,https://www.peeringdb.com/fac/2349,TriTech Center
+edgeconnex-minneapolis-edcmsp01-870d67,peeringdb,2601,https://www.peeringdb.com/fac/2601,EdgeConneX Minneapolis (EDCMSP01)
+centersquare-minneapolis-msp1-5905a7,peeringdb,2633,https://www.peeringdb.com/fac/2633,Centersquare Minneapolis (MSP1)
+np-belle-plaine-msp1-0901e5,peeringdb,2733,https://www.peeringdb.com/fac/2733,NP Belle Plaine (MSP1)
+zayo-minneapolis-10300-6th-ave-n-2d14be,peeringdb,2959,https://www.peeringdb.com/fac/2959,Zayo Minneapolis - 10300 6th Ave N
+cologix-min3-1cf7f4,peeringdb,3312,https://www.peeringdb.com/fac/3312,Cologix MIN3
+us-internet-minnetonka-8c2c5e,peeringdb,3378,https://www.peeringdb.com/fac/3378,US Internet - Minnetonka
+cologix-min4-ab49ea,peeringdb,3924,https://www.peeringdb.com/fac/3924,Cologix MIN4
+verus-corportation-b83385,peeringdb,4279,https://www.peeringdb.com/fac/4279,Verus Corportation
+databank-minneapolis-msp1-a1e044,peeringdb,4287,https://www.peeringdb.com/fac/4287,DataBank Minneapolis (MSP1)
+databank-minneapolis-msp2-3f539c,peeringdb,4288,https://www.peeringdb.com/fac/4288,DataBank Minneapolis (MSP2)
+jaguar-communications-c70ea0,peeringdb,4906,https://www.peeringdb.com/fac/4906,Jaguar Communications
+702-communications-moorhead-mn-55fcd8,peeringdb,5042,https://www.peeringdb.com/fac/5042,"702 Communications - Moorhead, MN"
+ark-data-centers-duluth-mn-f99815,peeringdb,6317,https://www.peeringdb.com/fac/6317,"ark data centers - Duluth, MN"
+sfn-mn-albert-lea-37c289,peeringdb,6352,https://www.peeringdb.com/fac/6352,SFN MN-Albert Lea
+stream-data-centers-mn-i-58862d,peeringdb,8083,https://www.peeringdb.com/fac/8083,Stream Data Centers - MN I
+mindshift-minneapolis-29f183,peeringdb,8782,https://www.peeringdb.com/fac/8782,mindSHIFT Minneapolis
+t5-minneapolis-6d17cc,peeringdb,9855,https://www.peeringdb.com/fac/9855,T5@Minneapolis
+databank-minneapolis-msp4-a004ab,peeringdb,10928,https://www.peeringdb.com/fac/10928,DataBank Minneapolis (MSP4)
+ridgeview-minnetonka-e291ed,peeringdb,11694,https://www.peeringdb.com/fac/11694,Ridgeview Minnetonka
+421-n-6th-ave-east-ac7fbf,peeringdb,12236,https://www.peeringdb.com/fac/12236,421 N 6th Ave East
+us-signal-mn01-minneapolis-94f330,peeringdb,12302,https://www.peeringdb.com/fac/12302,US Signal MN01 - Minneapolis
+sfn-mn-rochester-0f4896,peeringdb,13093,https://www.peeringdb.com/fac/13093,SFN MN-Rochester
+aureon-minneapolis-32cdf1,peeringdb,13102,https://www.peeringdb.com/fac/13102,Aureon Minneapolis
+atomic-data-msp250-8aacbe,peeringdb,13661,https://www.peeringdb.com/fac/13661,Atomic Data MSP250
+cologix-min5-48c4ee,peeringdb,14986,https://www.peeringdb.com/fac/14986,Cologix MIN5
+optum-c-o-united-health-group-7c8a37,epa_nei,15995811,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=15995811,OPTUM C/O UNITED HEALTH GROUP
+supercomputer-llc-7a4383,epa_nei,6957611,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=6957611,Supercomputer LLC

@@ -1,0 +1,104 @@
+{
+ "elements": [
+  {
+   "bounds": {
+    "maxlat": 34.7565627,
+    "maxlon": -92.4443233,
+    "minlat": 34.7559164,
+    "minlon": -92.4451235
+   },
+   "geometry": [
+    {
+     "lat": 34.7559164,
+     "lon": -92.4445483
+    },
+    {
+     "lat": 34.7561329,
+     "lon": -92.4451235
+    },
+    {
+     "lat": 34.7565627,
+     "lon": -92.4448838
+    },
+    {
+     "lat": 34.7564389,
+     "lon": -92.4445547
+    },
+    {
+     "lat": 34.7564125,
+     "lon": -92.4445694
+    },
+    {
+     "lat": 34.7563199,
+     "lon": -92.4443233
+    },
+    {
+     "lat": 34.7559164,
+     "lon": -92.4445483
+    }
+   ],
+   "id": 388148510,
+   "tags": {
+    "building": "yes",
+    "name": "TierPoint Little Rock",
+    "telecom": "data_center",
+    "website": "https://www.tierpoint.com/data-centers/arkansas/little-rock/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 35.2492958,
+    "maxlon": -91.7407729,
+    "minlat": 35.2491364,
+    "minlon": -91.7410387
+   },
+   "geometry": [
+    {
+     "lat": 35.2492958,
+     "lon": -91.7410387
+    },
+    {
+     "lat": 35.2491364,
+     "lon": -91.7410385
+    },
+    {
+     "lat": 35.2491366,
+     "lon": -91.7407729
+    },
+    {
+     "lat": 35.2492951,
+     "lon": -91.7407731
+    },
+    {
+     "lat": 35.2492952,
+     "lon": -91.7410203
+    },
+    {
+     "lat": 35.2492958,
+     "lon": -91.7410387
+    }
+   ],
+   "id": 1020721870,
+   "tags": {
+    "addr:city": "Searcy",
+    "addr:housenumber": "101",
+    "addr:postcode": "72143",
+    "addr:state": "AR",
+    "addr:street": "North Elm Street",
+    "building": "yes",
+    "name": "Searcy Information Technologies",
+    "operator": "City of Searcy",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:56:34Z",
+  "timestamp_osm_base": "2026-10-21T16:46:10Z"
+ },
+ "version": 0.6
+}

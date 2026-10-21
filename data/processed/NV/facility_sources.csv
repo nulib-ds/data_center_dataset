@@ -1,0 +1,48 @@
+facility_id,source,source_id,source_url,source_name
+fiberhub-las1-19ebd4,osm,node/13311012216,https://www.openstreetmap.org/node/13311012216,Fiberhub LAS1
+fiberhub-las1-19ebd4,peeringdb,1297,https://www.peeringdb.com/fac/1297,Fiberhub LAS1
+switch12-21f86f,osm,way/172739950,https://www.openstreetmap.org/way/172739950,Switch12
+switch-las-vegas-d5b3e0,osm,way/172739953,https://www.openstreetmap.org/way/172739953,Switch Las Vegas 7
+switch-las-vegas-d5b3e0,osm,way/1314355599,https://www.openstreetmap.org/way/1314355599,Switch Las Vegas 12
+switch-las-vegas-d5b3e0,peeringdb,770,https://www.peeringdb.com/fac/770,Switch Las Vegas
+unnamed-data-center-bae8cd,osm,way/464097467,https://www.openstreetmap.org/way/464097467,
+switch-las-vegas-8-dc73ca,osm,way/585998677,https://www.openstreetmap.org/way/585998677,Switch Las Vegas 8
+switch-las-vegas-8-dc73ca,osm,way/617194689,https://www.openstreetmap.org/way/617194689,Switch Las Vegas 11
+switch-las-vegas-8-dc73ca,osm,way/1017048670,https://www.openstreetmap.org/way/1017048670,Switch Edge 1
+switch-las-vegas-9-cc059b,osm,way/585998678,https://www.openstreetmap.org/way/585998678,Switch Las Vegas 9
+flexential-las-vegas-north-las04-d60932,osm,way/746278786,https://www.openstreetmap.org/way/746278786,Flexential Las Vegas - North
+flexential-las-vegas-north-las04-d60932,peeringdb,2443,https://www.peeringdb.com/fac/2443,Flexential - Las Vegas/North (LAS04)
+unnamed-data-center-c8d50f,osm,way/775412066,https://www.openstreetmap.org/way/775412066,
+unnamed-data-center-76c365,osm,way/775412067,https://www.openstreetmap.org/way/775412067,
+unnamed-data-center-a94da7,osm,way/775412068,https://www.openstreetmap.org/way/775412068,
+unnamed-data-center-5c3661,osm,way/775412069,https://www.openstreetmap.org/way/775412069,
+unnamed-data-center-e0a469,osm,way/775412072,https://www.openstreetmap.org/way/775412072,
+unnamed-data-center-8b91c9,osm,way/775412073,https://www.openstreetmap.org/way/775412073,
+google-16d271,osm,way/844359206,https://www.openstreetmap.org/way/844359206,Google
+google-f7d4a6,osm,way/844359207,https://www.openstreetmap.org/way/844359207,Google
+switch-las-vegas-10-929b1e,osm,way/984796364,https://www.openstreetmap.org/way/984796364,Switch Las Vegas 10
+switch-las-vegas-4-884e45,osm,way/1017460713,https://www.openstreetmap.org/way/1017460713,Switch Las Vegas 4
+switch-las-vegas-5-76d96a,osm,way/1017460715,https://www.openstreetmap.org/way/1017460715,Switch Las Vegas 5
+databank-las-vegas-las1-4a8a16,osm,way/1034475557,https://www.openstreetmap.org/way/1034475557,DataBank Las Vegas LAS1
+databank-las-vegas-las1-4a8a16,peeringdb,1594,https://www.peeringdb.com/fac/1594,DataBank Las Vegas (LAS1)
+switch-tahoe-reno-49becd,osm,way/1116775094,https://www.openstreetmap.org/way/1116775094,Tahoe Reno 1
+switch-tahoe-reno-49becd,osm,way/1116775095,https://www.openstreetmap.org/way/1116775095,Tahoe Reno 2
+switch-tahoe-reno-49becd,osm,way/1320683840,https://www.openstreetmap.org/way/1320683840,Tahoe Reno 3
+switch-tahoe-reno-49becd,osm,way/1494498031,https://www.openstreetmap.org/way/1494498031,Tahoe Reno 4
+switch-tahoe-reno-49becd,osm,way/1494498032,https://www.openstreetmap.org/way/1494498032,Tahoe Reno 5
+switch-tahoe-reno-49becd,peeringdb,4165,https://www.peeringdb.com/fac/4165,Switch Tahoe Reno
+unnamed-data-center-14e8e1,osm,way/1210199365,https://www.openstreetmap.org/way/1210199365,
+unnamed-data-center-43c95d,osm,way/1210199366,https://www.openstreetmap.org/way/1210199366,
+unnamed-data-center-a0af6b,osm,way/1210199367,https://www.openstreetmap.org/way/1210199367,
+unnamed-data-center-d3daf6,osm,way/1210199368,https://www.openstreetmap.org/way/1210199368,
+switch-las-vegas-15-e23b24,osm,way/1263819877,https://www.openstreetmap.org/way/1263819877,Switch Las Vegas 15
+switch-las-vegas-15-e23b24,osm,way/1421212901,https://www.openstreetmap.org/way/1421212901,Switch Las Vegas 14
+flexential-las-vegas-downtown-las05-a7c162,osm,way/1379421123,https://www.openstreetmap.org/way/1379421123,Flexential Las Vegas - Downtown
+flexential-las-vegas-downtown-las05-a7c162,peeringdb,2442,https://www.peeringdb.com/fac/2442,Flexential - Las Vegas/Downtown (LAS05)
+switch-las-vegas-16-e30e2f,osm,way/1558897570,https://www.openstreetmap.org/way/1558897570,Switch Las Vegas 16
+edgeconnex-las-vegas-edclas01-f1caef,peeringdb,1918,https://www.peeringdb.com/fac/1918,EdgeConneX Las Vegas (EDCLAS01)
+flexential-las-vegas-downtown-las03-123603,peeringdb,2441,https://www.peeringdb.com/fac/2441,Flexential - Las Vegas/Downtown (LAS03)
+roller-network-reno-nv-51ac13,peeringdb,2961,https://www.peeringdb.com/fac/2961,"Roller Network (Reno, NV)"
+200-south-virginia-reno-6785e2,peeringdb,9659,https://www.peeringdb.com/fac/9659,200 South Virginia - Reno
+centra-rno01-reno-nevada-200-s-virginia-5a58b1,peeringdb,11380,https://www.peeringdb.com/fac/11380,CENTRA RNO01 - Reno Nevada (200 S. Virginia)
+edgecore-reno-1-8828e9,peeringdb,13481,https://www.peeringdb.com/fac/13481,EdgeCore Reno 1

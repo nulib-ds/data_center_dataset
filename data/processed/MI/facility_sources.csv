@@ -1,0 +1,35 @@
+facility_id,source,source_id,source_url,source_name
+chick-fil-a-hiring-center-37da18,osm,node/8641856300,https://www.openstreetmap.org/node/8641856300,Chick-fil-A Hiring Center
+unnamed-data-center-adaa8e,osm,node/11815482844,https://www.openstreetmap.org/node/11815482844,
+edgeconnex-detroit-edcdet01-4af3e6,osm,way/377585075,https://www.openstreetmap.org/way/377585075,EdgeConneX Detroit DET01
+edgeconnex-detroit-edcdet01-4af3e6,peeringdb,1927,https://www.peeringdb.com/fac/1927,EdgeConneX Detroit (EDCDET01)
+liquid-web-dc0e48,osm,way/544536822,https://www.openstreetmap.org/way/544536822,Liquid Web
+liquid-web-dc3-168750,osm,way/545060574,https://www.openstreetmap.org/way/545060574,"Liquid Web, Inc"
+liquid-web-dc3-168750,peeringdb,3524,https://www.peeringdb.com/fac/3524,Liquid Web DC3
+unnamed-data-center-880482,osm,way/755540694,https://www.openstreetmap.org/way/755540694,
+us-signal-724269,osm,way/773848531,https://www.openstreetmap.org/way/773848531,US Signal
+comcast-dc3fcf,osm,way/812630939,https://www.openstreetmap.org/way/812630939,Comcast
+quicken-loans-1ba451,osm,way/903236619,https://www.openstreetmap.org/way/903236619,Quicken Loans
+unnamed-data-center-f1f51c,osm,way/1545590995,https://www.openstreetmap.org/way/1545590995,
+365-data-centers-detroit-dt1-bcedff,peeringdb,2021,https://www.peeringdb.com/fac/2021,365 Data Centers Detroit (DT1)
+123-net-dc1-24700-northwestern-hwy-33846f,peeringdb,2084,https://www.peeringdb.com/fac/2084,123.NET - DC1 - 24700 Northwestern Hwy.
+mi-tech-main-campus-aba05a,peeringdb,3469,https://www.peeringdb.com/fac/3469,MI Tech - Main Campus
+managedway-tym1-204c4f,peeringdb,3498,https://www.peeringdb.com/fac/3498,ManagedWay TYM1
+managedway-tym2-900397,peeringdb,3499,https://www.peeringdb.com/fac/3499,ManagedWay TYM2
+managedway-byk1-142def,peeringdb,3500,https://www.peeringdb.com/fac/3500,ManagedWay BYK1
+managedway-sfj1-b13029,peeringdb,3501,https://www.peeringdb.com/fac/3501,ManagedWay SFJ1
+managedway-sfj2-b4b8f4,peeringdb,3502,https://www.peeringdb.com/fac/3502,ManagedWay SFJ2
+edcdet01-0809f3,peeringdb,4505,https://www.peeringdb.com/fac/4505,EDCDET01
+aunalytics-kalamazoo-datacenter-71aa23,peeringdb,5363,https://www.peeringdb.com/fac/5363,Aunalytics Kalamazoo Datacenter
+subrigo-det11-bb53aa,peeringdb,5601,https://www.peeringdb.com/fac/5601,Subrigo DET11
+liberty-center-one-ad1e19,peeringdb,6937,https://www.peeringdb.com/fac/6937,Liberty Center One
+synergy-fiber-207ec5,peeringdb,8859,https://www.peeringdb.com/fac/8859,Synergy Fiber
+123-net-dc4-400-76th-st-sw-4e665f,peeringdb,9381,https://www.peeringdb.com/fac/9381,123.NET - DC4 - 400 76th St SW
+123-net-dc2-24275-northwestern-hwy-656d99,peeringdb,9382,https://www.peeringdb.com/fac/9382,123.NET - DC2 - 24275 Northwestern Hwy.
+123-net-dc3-24245-northwestern-hwy-b24a75,peeringdb,9403,https://www.peeringdb.com/fac/9403,123.NET - DC3 - 24245 Northwestern Hwy.
+otava-metro-detroit-8b9298,peeringdb,13439,https://www.peeringdb.com/fac/13439,Otava Metro Detroit
+midwest-energy-communications-6e46f6,peeringdb,14189,https://www.peeringdb.com/fac/14189,Midwest Energy & Communications
+us-signal-grand-rapids-south-087586,peeringdb,14784,https://www.peeringdb.com/fac/14784,US Signal - Grand Rapids South
+raeden-michigan-1-82f8d7,peeringdb,14834,https://www.peeringdb.com/fac/14834,Raeden Michigan 1
+cogent-detroit-36be9d,peeringdb,15594,https://www.peeringdb.com/fac/15594,Cogent Detroit
+fca-us-llc-6861c3,epa_nei,17692411,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=17692411,FCA US LLC

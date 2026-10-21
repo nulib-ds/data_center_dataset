@@ -1,0 +1,13 @@
+{
+  "bottom_up_annual_twh": 0.75,
+  "bottom_up_it_load_mw": 84.0,
+  "calibration_applied": false,
+  "implied_calibration_factor": 1.605,
+  "n_facilities_with_power": 6,
+  "top_down_anchor_twh": 1.2,
+  "top_down_range_twh": [
+    0.72,
+    1.92
+  ],
+  "within_anchor_range": true
+}

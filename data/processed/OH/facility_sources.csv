@@ -1,0 +1,151 @@
+facility_id,source,source_id,source_url,source_name
+flexential-cincinnati-cin1-2-8262c4,osm,node/12112201416,https://www.openstreetmap.org/node/12112201416,Flexential Cincinnati
+flexential-cincinnati-cin1-2-8262c4,peeringdb,2381,https://www.peeringdb.com/fac/2381,Flexential - Cincinnati (CIN1/2)
+cyrusone-mason-72ae02,osm,way/31250931,https://www.openstreetmap.org/way/31250931,CyrusOne Cincinnati-Mason CIN3
+cyrusone-mason-72ae02,peeringdb,1470,https://www.peeringdb.com/fac/1470,CyrusOne Mason
+unnamed-data-center-591316,osm,way/36897140,https://www.openstreetmap.org/way/36897140,
+cyrusone-cin2-d3ace7,osm,way/46128119,https://www.openstreetmap.org/way/46128119,CyrusOne CIN2
+cyrusone-lebanon-fa6696,osm,way/95349317,https://www.openstreetmap.org/way/95349317,CyrusOne Cincinnati-Lebanon
+cyrusone-lebanon-fa6696,peeringdb,1468,https://www.peeringdb.com/fac/1468,CyrusOne Lebanon
+lexisnexus-springfield-113fd9,osm,way/138643160,https://www.openstreetmap.org/way/138643160,LexisNexus Springfield
+aligned-data-centers-d45611,osm,way/383796776,https://www.openstreetmap.org/way/383796776,Aligned Data Centers
+amazon-web-services-datacenter-complex-e87605,osm,way/460067220,https://www.openstreetmap.org/way/460067220,Amazon Web Services Datacenter Complex
+amazon-web-services-datacenter-complex-e87605,osm,way/1020374277,https://www.openstreetmap.org/way/1020374277,Amazon Web Services  CMH53
+amazon-aws-hilliard-data-center-ebb0aa,osm,way/460067225,https://www.openstreetmap.org/way/460067225,Amazon AWS: Hilliard Data Center
+amazon-aws-hilliard-data-center-ebb0aa,osm,way/673532692,https://www.openstreetmap.org/way/673532692,Amazon Web Services
+amazon-aws-hilliard-data-center-ebb0aa,osm,way/874506250,https://www.openstreetmap.org/way/874506250,Amazon Web Services
+amazon-aws-hilliard-data-center-ebb0aa,osm,way/975484796,https://www.openstreetmap.org/way/975484796,Amazon Web Services
+amazon-aws-hilliard-data-center-ebb0aa,osm,way/975484797,https://www.openstreetmap.org/way/975484797,Amazon Web Services
+amazon-aws-hilliard-data-center-ebb0aa,osm,way/975484798,https://www.openstreetmap.org/way/975484798,Amazon Web Services
+h5-data-centers-cleveland-e72aa3,osm,way/491914767,https://www.openstreetmap.org/way/491914767,H5 Data Center
+h5-data-centers-cleveland-e72aa3,peeringdb,2975,https://www.peeringdb.com/fac/2975,H5 Data Centers Cleveland
+tjx-corporate-techno-6baba5,osm,way/547156394,https://www.openstreetmap.org/way/547156394,TJX Corporate Techno
+compugen-new-albany-20740e,osm,way/547156405,https://www.openstreetmap.org/way/547156405,Compugen New Albany
+compugen-new-albany-faed45,osm,way/547277699,https://www.openstreetmap.org/way/547277699,Compugen New Albany
+unnamed-data-center-bc8521,osm,way/551387747,https://www.openstreetmap.org/way/551387747,
+amazon-web-services-cmh50-8d3576,osm,way/562775657,https://www.openstreetmap.org/way/562775657,Amazon Web Services  CMH50
+nao-1-nao-2-56203b,osm,way/671301768,https://www.openstreetmap.org/way/671301768,NAO 1/NAO 2
+stack-new-albany-344600,osm,way/723117951,https://www.openstreetmap.org/way/723117951,STACK New Albany
+nao-3-3cd734,osm,way/802160675,https://www.openstreetmap.org/way/802160675,NAO 3
+amazon-web-services-5cc430,osm,way/821081357,https://www.openstreetmap.org/way/821081357,Amazon Web Services
+amazon-web-services-5cc430,osm,way/821081358,https://www.openstreetmap.org/way/821081358,Amazon Web Services
+amazon-web-services-5cc430,osm,way/1154503131,https://www.openstreetmap.org/way/1154503131,Amazon Web Services
+amazon-web-services-5cc430,osm,way/1154503132,https://www.openstreetmap.org/way/1154503132,Amazon Web Services
+amazon-web-services-5cc430,osm,way/1154503133,https://www.openstreetmap.org/way/1154503133,Amazon Web Services
+google-nby-1-72a8fd,osm,way/844391358,https://www.openstreetmap.org/way/844391358,Google NBY-1
+google-nby-1-72a8fd,osm,way/1222007663,https://www.openstreetmap.org/way/1222007663,Google NBY-2
+google-nby-1-72a8fd,osm,way/1252196811,https://www.openstreetmap.org/way/1252196811,Google NBY-3
+amazon-web-services-cmh56-8a124e,osm,way/1020374278,https://www.openstreetmap.org/way/1020374278,Amazon Web Services CMH56
+amazon-web-services-cmh59-72fdc9,osm,way/1020374279,https://www.openstreetmap.org/way/1020374279,Amazon Web Services  CMH59
+carrier-services-group-262dea,osm,way/1210421871,https://www.openstreetmap.org/way/1210421871,Carrier Services Group
+involta-independence-870686,osm,way/1238705019,https://www.openstreetmap.org/way/1238705019,Involta Independence
+amazon-web-services-cmh62-4bcbd8,osm,way/1252196801,https://www.openstreetmap.org/way/1252196801,Amazon Web Services CMH62
+amazon-web-services-15d566,osm,way/1252196802,https://www.openstreetmap.org/way/1252196802,Amazon Web Services
+amazon-web-services-15d566,osm,way/1386016629,https://www.openstreetmap.org/way/1386016629,Amazon Web Services
+amazon-web-services-15d566,osm,way/1386016630,https://www.openstreetmap.org/way/1386016630,Amazon Web Services
+amazon-web-services-15d566,osm,way/1386016631,https://www.openstreetmap.org/way/1386016631,Amazon Web Services
+amazon-web-services-76084f,osm,way/1252196803,https://www.openstreetmap.org/way/1252196803,Amazon Web Services
+amazon-web-services-76084f,osm,way/1252196804,https://www.openstreetmap.org/way/1252196804,Amazon Web Services
+amazon-web-services-dbd029,osm,way/1252196805,https://www.openstreetmap.org/way/1252196805,Amazon Web Services
+amazon-web-services-dbd029,osm,way/1252196806,https://www.openstreetmap.org/way/1252196806,Amazon Web Services
+amazon-web-services-dbd029,osm,way/1252196807,https://www.openstreetmap.org/way/1252196807,Amazon Web Services
+amazon-web-services-dbd029,osm,way/1386016637,https://www.openstreetmap.org/way/1386016637,Amazon Web Services
+amazon-web-services-dbd029,osm,way/1386016638,https://www.openstreetmap.org/way/1386016638,Amazon Web Services
+amazon-web-services-dbd029,osm,way/1386016639,https://www.openstreetmap.org/way/1386016639,Amazon Web Services
+amazon-web-services-cb46a1,osm,way/1252196808,https://www.openstreetmap.org/way/1252196808,Amazon Web Services
+amazon-web-services-cb46a1,osm,way/1252196809,https://www.openstreetmap.org/way/1252196809,Amazon Web Services
+amazon-web-services-cb46a1,osm,way/1252196810,https://www.openstreetmap.org/way/1252196810,Amazon Web Services
+amazon-web-services-cb46a1,osm,way/1386016640,https://www.openstreetmap.org/way/1386016640,Amazon Web Services
+amazon-web-services-cb46a1,osm,way/1386016641,https://www.openstreetmap.org/way/1386016641,Amazon Web Services
+google-nby-4-33b99c,osm,way/1252196812,https://www.openstreetmap.org/way/1252196812,Google NBY-4
+nao-5-nao-6-9e0897,osm,way/1252196813,https://www.openstreetmap.org/way/1252196813,NAO 5/NAO 6
+google-10d2db,osm,way/1252196814,https://www.openstreetmap.org/way/1252196814,Google
+google-02887a,osm,way/1252196824,https://www.openstreetmap.org/way/1252196824,Google
+involta-akron-cd3e04,osm,way/1278541792,https://www.openstreetmap.org/way/1278541792,Involta-Akron
+amazon-web-services-40de8d,osm,way/1280344148,https://www.openstreetmap.org/way/1280344148,Amazon Web Services
+google-lockbourne-oh-964ad9,osm,way/1281982556,https://www.openstreetmap.org/way/1281982556,"Google Lockbourne, OH"
+amazon-new-albany-jug-and-beach-road-5fb469,osm,way/1281982572,https://www.openstreetmap.org/way/1281982572,Amazon New Albany: Jug and Beach Road
+t5-cleveland-4fc72c,osm,way/1292169104,https://www.openstreetmap.org/way/1292169104,T5@Cleveland
+t5-cleveland-4fc72c,osm,way/1382205749,https://www.openstreetmap.org/way/1382205749,T5@Cleveland
+unnamed-data-center-b50f04,osm,way/1319724559,https://www.openstreetmap.org/way/1319724559,
+cyrusone-hamilton-74179b,osm,way/1346610234,https://www.openstreetmap.org/way/1346610234,CyrusOne Cincinnati-Hamilton CIN4
+cyrusone-hamilton-74179b,peeringdb,1471,https://www.peeringdb.com/fac/1471,CyrusOne Hamilton
+unnamed-data-center-523c5f,osm,way/1375443893,https://www.openstreetmap.org/way/1375443893,
+amazon-web-services-890662,osm,way/1386016627,https://www.openstreetmap.org/way/1386016627,Amazon Web Services
+amazon-web-services-890662,osm,way/1386016628,https://www.openstreetmap.org/way/1386016628,Amazon Web Services
+google-nby-5-8d6c9e,osm,way/1386016632,https://www.openstreetmap.org/way/1386016632,Google NBY-5
+google-nby-6-b916b0,osm,way/1386016633,https://www.openstreetmap.org/way/1386016633,Google NBY-6
+lco-1-8dca54,osm,way/1386016634,https://www.openstreetmap.org/way/1386016634,LCO 1
+lco-2-1e1188,osm,way/1386016635,https://www.openstreetmap.org/way/1386016635,LCO 2
+amazon-web-services-cf4c46,osm,way/1386016636,https://www.openstreetmap.org/way/1386016636,Amazon Web Services
+amazon-web-services-da5183,osm,way/1386016642,https://www.openstreetmap.org/way/1386016642,Amazon Web Services
+amazon-web-services-4475ac,osm,way/1386016643,https://www.openstreetmap.org/way/1386016643,Amazon Web Services
+oppidan-e1cca8,osm,way/1411056682,https://www.openstreetmap.org/way/1411056682,Oppidan
+qts-nal-2-dc1-88e54f,osm,way/1425043212,https://www.openstreetmap.org/way/1425043212,QTS NAL 2 DC1
+qts-nal-2-dc2-14ede3,osm,way/1425043213,https://www.openstreetmap.org/way/1425043213,QTS NAL 2 DC2
+qts-nal1-dc2-971690,osm,way/1425043214,https://www.openstreetmap.org/way/1425043214,QTS NAL1 DC2
+qts-nal1-dc1-bd27af,osm,way/1425043215,https://www.openstreetmap.org/way/1425043215,QTS NAL1 DC1
+google-nby-7-a477e9,osm,way/1427613543,https://www.openstreetmap.org/way/1427613543,Google NBY-7
+vantage-building-1-e89d1b,osm,way/1427613544,https://www.openstreetmap.org/way/1427613544,Vantage Building 1
+vantage-building-2-f00db5,osm,way/1427613545,https://www.openstreetmap.org/way/1427613545,Vantage Building 2
+vantage-building-3-4d8991,osm,way/1427613546,https://www.openstreetmap.org/way/1427613546,Vantage Building 3
+unnamed-data-center-ac5598,osm,way/1447049070,https://www.openstreetmap.org/way/1447049070,
+unnamed-data-center-022c44,osm,way/1447049071,https://www.openstreetmap.org/way/1447049071,
+unnamed-data-center-dba5ab,osm,way/1462886682,https://www.openstreetmap.org/way/1462886682,
+google-335e37,osm,way/1501120016,https://www.openstreetmap.org/way/1501120016,Google
+citynet-columbus-2c08c6,peeringdb,267,https://www.peeringdb.com/fac/267,Citynet Columbus
+cincinnatti-bell-west-7th-street-44ce1c,peeringdb,314,https://www.peeringdb.com/fac/314,Cincinnatti Bell - West 7th Street
+level-3-cincinnati-f043e9,peeringdb,315,https://www.peeringdb.com/fac/315,Level(3) Cincinnati
+180-e-broad-st-0fe9eb,peeringdb,525,https://www.peeringdb.com/fac/525,180 E Broad St.
+datacenter-bz-worthington-columbus-46cc90,peeringdb,1328,https://www.peeringdb.com/fac/1328,DataCenter.BZ - Worthington-Columbus
+datacenter-bz-worthington-columbus-46cc90,peeringdb,1420,https://www.peeringdb.com/fac/1420,Datacenter.BZ
+fusion-cleveland-3e026e,peeringdb,1419,https://www.peeringdb.com/fac/1419,Fusion - Cleveland
+cyrusone-cincinnati-7th-st-d48a32,peeringdb,1467,https://www.peeringdb.com/fac/1467,CyrusOne Cincinnati 7th St
+wow-business-columbus-datacenter-d5360f,peeringdb,1828,https://www.peeringdb.com/fac/1828,WOW! Business (Columbus Datacenter)
+iron-mountain-data-center-ohio-ohs-1-28d77a,peeringdb,2010,https://www.peeringdb.com/fac/2010,Iron Mountain Data Center - Ohio (OHS-1)
+cologix-col1-8b1bbc,peeringdb,2377,https://www.peeringdb.com/fac/2377,Cologix COL1
+cologix-col2-d0f876,peeringdb,2378,https://www.peeringdb.com/fac/2378,Cologix COL2
+centersquare-columbus-cmh1-5a4809,peeringdb,2594,https://www.peeringdb.com/fac/2594,Centersquare Columbus (CMH1)
+zayo-cleveland-1525-rockwell-ave-4a2271,peeringdb,2943,https://www.peeringdb.com/fac/2943,Zayo Cleveland - 1525 Rockwell Ave
+amplex-dc0-995ce3,peeringdb,3088,https://www.peeringdb.com/fac/3088,Amplex DC0
+cologix-col3-0dd10a,peeringdb,3313,https://www.peeringdb.com/fac/3313,Cologix COL3
+bluebird-fiber-parma-data-center-728870,peeringdb,3394,https://www.peeringdb.com/fac/3394,Bluebird Fiber Parma Data Center
+crown-castle-columbus-101-e-town-a750a6,peeringdb,3493,https://www.peeringdb.com/fac/3493,Crown Castle Columbus (101 E Town)
+dartpoints-cincinnati-oh-cvg1-21fb35,peeringdb,3663,https://www.peeringdb.com/fac/3663,"DartPoints Cincinnati, OH - CVG1"
+bresco-broadband-data-center-e1bdfa,peeringdb,3890,https://www.peeringdb.com/fac/3890,Bresco Broadband Data Center
+continental-plaza-a830cb,peeringdb,3891,https://www.peeringdb.com/fac/3891,Continental Plaza
+tech-mahindra-cleveland-cd7c12,peeringdb,3923,https://www.peeringdb.com/fac/3923,Tech Mahindra Cleveland
+databank-cleveland-cle1-8dc0b4,peeringdb,4291,https://www.peeringdb.com/fac/4291,DataBank Cleveland (CLE1)
+h5-data-centers-cincinnati-a6b263,peeringdb,6381,https://www.peeringdb.com/fac/6381,H5 Data Centers Cincinnati
+w-connect-westerville-09ad6e,peeringdb,7142,https://www.peeringdb.com/fac/7142,WēConnect Westerville
+racksquared-data-centers-a5ec08,peeringdb,7609,https://www.peeringdb.com/fac/7609,Racksquared Data Centers
+ark-data-centers-akron-oh-be7858,peeringdb,8337,https://www.peeringdb.com/fac/8337,"ark data centers - Akron,OH"
+expedient-cleveland-151-neo-287412,peeringdb,8464,https://www.peeringdb.com/fac/8464,Expedient Cleveland - 151 NEO
+expedient-cleveland-152-neo-bfd756,peeringdb,8470,https://www.peeringdb.com/fac/8470,Expedient Cleveland - 152 NEO
+expedient-columbus-dublin-247e02,peeringdb,8471,https://www.peeringdb.com/fac/8471,Expedient Columbus - Dublin
+expedient-columbus-upper-arlington-5f6a30,peeringdb,8472,https://www.peeringdb.com/fac/8472,Expedient Columbus - Upper Arlington
+fairlawngig-service-center-5a4c3f,peeringdb,8552,https://www.peeringdb.com/fac/8552,FairlawnGig Service Center
+bluebridge-networks-downtown-cleveland-9e44b4,peeringdb,8721,https://www.peeringdb.com/fac/8721,BlueBridge Networks | Downtown Cleveland
+bluebridge-networks-mayfield-heights-data-ce-6c9db3,peeringdb,8722,https://www.peeringdb.com/fac/8722,BlueBridge Networks | Mayfield Heights Data Center
+dartpoints-dublin-oh-cmh1-8e45da,peeringdb,9390,https://www.peeringdb.com/fac/9390,"DartPoints Dublin, OH - CMH1"
+securedata-365-edb4e5,peeringdb,9699,https://www.peeringdb.com/fac/9699,SecureData 365
+t5-cleveland-e63ddf,peeringdb,9853,https://www.peeringdb.com/fac/9853,T5@Cleveland
+t5-cincinnati-fc3878,peeringdb,9854,https://www.peeringdb.com/fac/9854,T5@Cincinnati
+t5-cincinnati-fc3878,peeringdb,11523,https://www.peeringdb.com/fac/11523,H5 Data Centers Cincinnati II
+cogent-cleveland-052a7c,peeringdb,10478,https://www.peeringdb.com/fac/10478,Cogent Cleveland
+cogent-columbus-24d2cd,peeringdb,10479,https://www.peeringdb.com/fac/10479,Cogent Columbus
+centra-cmh01-columbus-ohio-180-e-broad-35bab3,peeringdb,12210,https://www.peeringdb.com/fac/12210,CENTRA CMH01 - Columbus Ohio (180 E Broad)
+ark-data-centers-cleveland-oh-95e1e4,peeringdb,12235,https://www.peeringdb.com/fac/12235,"ark data centers - Cleveland, OH"
+ark-data-centers-canton-oh-41a6ac,peeringdb,12237,https://www.peeringdb.com/fac/12237,"ark data centers - Canton,OH"
+ark-data-centers-youngstown-oh-e1177a,peeringdb,12238,https://www.peeringdb.com/fac/12238,"ark data centers - Youngstown, OH"
+microtronix-datacenter-ottoville-ddbfb9,peeringdb,13974,https://www.peeringdb.com/fac/13974,Microtronix Datacenter Ottoville
+cologix-col4-698607,peeringdb,14565,https://www.peeringdb.com/fac/14565,Cologix COL4
+encore-technologies-nor1-3e9ffc,peeringdb,14871,https://www.peeringdb.com/fac/14871,Encore Technologies NOR1
+encore-technologies-blu1-7fae4f,peeringdb,14872,https://www.peeringdb.com/fac/14872,Encore Technologies BLU1
+encore-technologies-msb1-69c4f0,peeringdb,14873,https://www.peeringdb.com/fac/14873,Encore Technologies MSB1
+lsti-401-market-36ff0f,peeringdb,15455,https://www.peeringdb.com/fac/15455,LSTI 401 Market
+lightspeed-hosting-medina-7dc8ea,peeringdb,15560,https://www.peeringdb.com/fac/15560,LightSpeed Hosting - Medina
+cogent-akron-a30de3,peeringdb,16443,https://www.peeringdb.com/fac/16443,Cogent Akron
+cogent-cleveland-2-1789f2,peeringdb,16456,https://www.peeringdb.com/fac/16456,Cogent Cleveland 2
+cogent-columbus-2-7f04b4,peeringdb,16457,https://www.peeringdb.com/fac/16457,Cogent Columbus 2
+montauk-innovations-llc-0145000570-831501,epa_nei,18958211,https://enviro.epa.gov/enviro/efsystemquery.frs_program?fac_search=facility_id&fac_value=18958211,Montauk Innovations LLC (0145000570)

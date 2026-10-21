@@ -1,0 +1,7 @@
+facility_id,source,source_id,source_url,source_name
+morgan-wireless-708637,osm,node/6793837329,https://www.openstreetmap.org/node/6793837329,Morgan Wireless
+alpha-federal-a6b49c,osm,node/13546262077,https://www.openstreetmap.org/node/13546262077,Alpha Federal
+citynet-charleston-f237c0,peeringdb,7740,https://www.peeringdb.com/fac/7740,Citynet Charleston
+citynet-bridgeport-293de9,peeringdb,7741,https://www.peeringdb.com/fac/7741,Citynet Bridgeport
+alpha-technologies-dc1-922b10,peeringdb,9918,https://www.peeringdb.com/fac/9918,Alpha Technologies DC1
+securenet-dc1-bac682,peeringdb,14499,https://www.peeringdb.com/fac/14499,SecureNet DC1

@@ -1,0 +1,219 @@
+{
+ "elements": [
+  {
+   "bounds": {
+    "maxlat": 43.1439331,
+    "maxlon": -70.9520307,
+    "minlat": 43.1433076,
+    "minlon": -70.9528635
+   },
+   "geometry": [
+    {
+     "lat": 43.1433076,
+     "lon": -70.952261
+    },
+    {
+     "lat": 43.1434187,
+     "lon": -70.9521981
+    },
+    {
+     "lat": 43.1437147,
+     "lon": -70.9520307
+    },
+    {
+     "lat": 43.1439331,
+     "lon": -70.9527559
+    },
+    {
+     "lat": 43.143854,
+     "lon": -70.9528006
+    },
+    {
+     "lat": 43.1438424,
+     "lon": -70.9527619
+    },
+    {
+     "lat": 43.1437675,
+     "lon": -70.9528042
+    },
+    {
+     "lat": 43.1437596,
+     "lon": -70.9527778
+    },
+    {
+     "lat": 43.1436362,
+     "lon": -70.9528476
+    },
+    {
+     "lat": 43.1436189,
+     "lon": -70.9527901
+    },
+    {
+     "lat": 43.1435851,
+     "lon": -70.9528092
+    },
+    {
+     "lat": 43.1434891,
+     "lon": -70.9528635
+    },
+    {
+     "lat": 43.1433076,
+     "lon": -70.952261
+    }
+   ],
+   "id": 79056848,
+   "tags": {
+    "addr:country": "US",
+    "addr:housenumber": "1",
+    "addr:postcode": "03824",
+    "addr:state": "NH",
+    "addr:street": "Leavitt Lane",
+    "building": "commercial",
+    "operator": "University of New Hampshire",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 43.0763633,
+    "maxlon": -70.807806,
+    "minlat": 43.0758942,
+    "minlon": -70.8082731
+   },
+   "geometry": [
+    {
+     "lat": 43.0762931,
+     "lon": -70.8082731
+    },
+    {
+     "lat": 43.0761006,
+     "lon": -70.8081181
+    },
+    {
+     "lat": 43.0760921,
+     "lon": -70.8081379
+    },
+    {
+     "lat": 43.076059,
+     "lon": -70.8081113
+    },
+    {
+     "lat": 43.0760442,
+     "lon": -70.8081457
+    },
+    {
+     "lat": 43.075976,
+     "lon": -70.8080908
+    },
+    {
+     "lat": 43.0759678,
+     "lon": -70.8081099
+    },
+    {
+     "lat": 43.07593,
+     "lon": -70.8080794
+    },
+    {
+     "lat": 43.0759397,
+     "lon": -70.8080567
+    },
+    {
+     "lat": 43.0758942,
+     "lon": -70.8080201
+    },
+    {
+     "lat": 43.0759862,
+     "lon": -70.807806
+    },
+    {
+     "lat": 43.0763633,
+     "lon": -70.8081096
+    },
+    {
+     "lat": 43.0762931,
+     "lon": -70.8082731
+    }
+   ],
+   "id": 87058670,
+   "tags": {
+    "addr:city": "Portsmouth",
+    "addr:country": "US",
+    "addr:housenumber": "77",
+    "addr:state": "NH",
+    "addr:street": "Aviation Avenue",
+    "building": "yes",
+    "operator": "FirstLight",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 42.9822698,
+    "maxlon": -70.9503568,
+    "minlat": 42.9819073,
+    "minlon": -70.9508326
+   },
+   "geometry": [
+    {
+     "lat": 42.9821561,
+     "lon": -70.9503568
+    },
+    {
+     "lat": 42.9819929,
+     "lon": -70.9505529
+    },
+    {
+     "lat": 42.9819073,
+     "lon": -70.9506558
+    },
+    {
+     "lat": 42.982021,
+     "lon": -70.9508326
+    },
+    {
+     "lat": 42.9822698,
+     "lon": -70.9505337
+    },
+    {
+     "lat": 42.9822546,
+     "lon": -70.95051
+    },
+    {
+     "lat": 42.9822679,
+     "lon": -70.950494
+    },
+    {
+     "lat": 42.9822325,
+     "lon": -70.950439
+    },
+    {
+     "lat": 42.9822192,
+     "lon": -70.950455
+    },
+    {
+     "lat": 42.9821561,
+     "lon": -70.9503568
+    }
+   ],
+   "id": 589070714,
+   "tags": {
+    "building": "data_center",
+    "name": "Information Technology Data Center",
+    "operator": "Phillips Exeter Academy",
+    "operator:short": "PEA",
+    "operator:wikidata": "Q1426464",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:56:34Z",
+  "timestamp_osm_base": "2026-10-21T17:14:35Z"
+ },
+ "version": 0.6
+}

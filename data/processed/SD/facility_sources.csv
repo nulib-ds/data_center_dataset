@@ -1,0 +1,10 @@
+facility_id,source,source_id,source_url,source_name
+tierpoint-sioux-falls-west-75c3cf,osm,way/239032142,https://www.openstreetmap.org/way/239032142,TierPoint Sioux Falls West Data Center
+tierpoint-sioux-falls-west-75c3cf,peeringdb,8601,https://www.peeringdb.com/fac/8601,TierPoint Sioux Falls - West
+adp-south-dakota-3961c7,osm,way/545895086,https://www.openstreetmap.org/way/545895086,ADP South Dakota
+sdn-communications-campus-sioux-falls-south--9270d3,peeringdb,2835,https://www.peeringdb.com/fac/2835,SDN Communications Campus Sioux Falls South Dakota
+sdn-communication-mark-shlanta-technology-pa-dce3fe,peeringdb,2836,https://www.peeringdb.com/fac/2836,SDN Communication Mark Shlanta Technology Park
+tierpoint-sioux-falls-east-cc926f,peeringdb,8600,https://www.peeringdb.com/fac/8600,TierPoint Sioux Falls - East
+golden-west-rapid-city-skyline-facility-9ca1fb,peeringdb,11370,https://www.peeringdb.com/fac/11370,Golden West Rapid City Skyline Facility
+midco-sioux-falls-c707dd,peeringdb,13220,https://www.peeringdb.com/fac/13220,Midco Sioux Falls
+midco-yankton-4c3f7c,peeringdb,13221,https://www.peeringdb.com/fac/13221,Midco Yankton

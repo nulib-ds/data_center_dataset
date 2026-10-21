@@ -1,0 +1,12 @@
+facility_id,source,source_id,source_url,source_name
+parsec-data-management-3b427e,osm,node/13603878193,https://www.openstreetmap.org/node/13603878193,Parsec Data Management
+unnamed-data-center-a09f8d,osm,way/758426349,https://www.openstreetmap.org/way/758426349,
+state-of-montana-data-center-a7136d,osm,way/1417637306,https://www.openstreetmap.org/way/1417637306,State of Montana Data Center
+iconnect-billings-fiber-hotel-f64fac,peeringdb,380,https://www.peeringdb.com/fac/380,iConnect Billings Fiber Hotel
+iconnect-missoula-ebdbd4,peeringdb,381,https://www.peeringdb.com/fac/381,iConnect Missoula
+yrix-81771c,peeringdb,766,https://www.peeringdb.com/fac/766,YRIX
+jsllc-bozeman-f48acb,peeringdb,809,https://www.peeringdb.com/fac/809,JSLLC Bozeman
+parsec-c6dc8a,peeringdb,1663,https://www.peeringdb.com/fac/1663,Parsec
+montana-opticom-b45c34,peeringdb,1895,https://www.peeringdb.com/fac/1895,Montana Opticom
+act-colstrip-d8d0d0,peeringdb,2539,https://www.peeringdb.com/fac/2539,ACT Colstrip
+cogent-billings-055e6a,peeringdb,16447,https://www.peeringdb.com/fac/16447,Cogent Billings

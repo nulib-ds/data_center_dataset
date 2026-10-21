@@ -1,0 +1,1580 @@
+{
+ "elements": [
+  {
+   "id": 12112382397,
+   "lat": 40.332648,
+   "lon": -111.7278754,
+   "tags": {
+    "addr:city": "Lindon",
+    "addr:housenumber": "333",
+    "addr:postcode": "84042",
+    "addr:state": "UT",
+    "addr:street": "South 520 West",
+    "addr:unit": "150",
+    "name": "Flexential Salt Lake City - Lindon",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/ut/salt-lake-city/lindon-data-center"
+   },
+   "type": "node"
+  },
+  {
+   "id": 14277390413,
+   "lat": 37.0814992,
+   "lon": -113.6071292,
+   "tags": {
+    "name": "ValorC3",
+    "operator": "ValorC3",
+    "telecom": "data_center"
+   },
+   "type": "node"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5644087,
+    "maxlon": -112.0466119,
+    "minlat": 40.5627952,
+    "minlon": -112.0489979
+   },
+   "geometry": [
+    {
+     "lat": 40.5632022,
+     "lon": -112.0478677
+    },
+    {
+     "lat": 40.5632501,
+     "lon": -112.0478567
+    },
+    {
+     "lat": 40.5632501,
+     "lon": -112.0478272
+    },
+    {
+     "lat": 40.5635797,
+     "lon": -112.0478278
+    },
+    {
+     "lat": 40.5635841,
+     "lon": -112.0485178
+    },
+    {
+     "lat": 40.5644087,
+     "lon": -112.0485081
+    },
+    {
+     "lat": 40.5643995,
+     "lon": -112.0471603
+    },
+    {
+     "lat": 40.5641756,
+     "lon": -112.047163
+    },
+    {
+     "lat": 40.5641749,
+     "lon": -112.0470624
+    },
+    {
+     "lat": 40.5639671,
+     "lon": -112.0470649
+    },
+    {
+     "lat": 40.5639657,
+     "lon": -112.0468524
+    },
+    {
+     "lat": 40.5638492,
+     "lon": -112.0468538
+    },
+    {
+     "lat": 40.5638476,
+     "lon": -112.0466119
+    },
+    {
+     "lat": 40.5635712,
+     "lon": -112.0466151
+    },
+    {
+     "lat": 40.5635763,
+     "lon": -112.0473718
+    },
+    {
+     "lat": 40.5630723,
+     "lon": -112.0473786
+    },
+    {
+     "lat": 40.5630739,
+     "lon": -112.0473169
+    },
+    {
+     "lat": 40.5629109,
+     "lon": -112.0473008
+    },
+    {
+     "lat": 40.5629129,
+     "lon": -112.0474101
+    },
+    {
+     "lat": 40.5628003,
+     "lon": -112.0474081
+    },
+    {
+     "lat": 40.5627952,
+     "lon": -112.0477588
+    },
+    {
+     "lat": 40.562916,
+     "lon": -112.0477581
+    },
+    {
+     "lat": 40.5629185,
+     "lon": -112.0479016
+    },
+    {
+     "lat": 40.5631338,
+     "lon": -112.0478679
+    },
+    {
+     "lat": 40.5631339,
+     "lon": -112.0479116
+    },
+    {
+     "lat": 40.5631133,
+     "lon": -112.0479117
+    },
+    {
+     "lat": 40.5631149,
+     "lon": -112.0489979
+    },
+    {
+     "lat": 40.5631985,
+     "lon": -112.0489977
+    },
+    {
+     "lat": 40.5631984,
+     "lon": -112.0489487
+    },
+    {
+     "lat": 40.5632229,
+     "lon": -112.0489486
+    },
+    {
+     "lat": 40.5632214,
+     "lon": -112.0479126
+    },
+    {
+     "lat": 40.5632022,
+     "lon": -112.0479127
+    },
+    {
+     "lat": 40.5632022,
+     "lon": -112.0478677
+    }
+   ],
+   "id": 240724127,
+   "tags": {
+    "building": "yes",
+    "name": "eBay",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.6206307,
+    "maxlon": -111.9857737,
+    "minlat": 40.6200731,
+    "minlon": -111.9863202
+   },
+   "geometry": [
+    {
+     "lat": 40.6206289,
+     "lon": -111.9863202
+    },
+    {
+     "lat": 40.6200731,
+     "lon": -111.986317
+    },
+    {
+     "lat": 40.6200748,
+     "lon": -111.9857737
+    },
+    {
+     "lat": 40.6206307,
+     "lon": -111.9857768
+    },
+    {
+     "lat": 40.6206289,
+     "lon": -111.9863202
+    }
+   ],
+   "id": 355926681,
+   "tags": {
+    "addr:city": "West Jordan",
+    "addr:housenumber": "7202",
+    "addr:postcode": "84084",
+    "addr:state": "UT",
+    "addr:street": "South Campus View Drive",
+    "building": "yes",
+    "name": "Flexential Salt Lake City - South Valley",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/ut/salt-lake-city/south-valley-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.4804715,
+    "maxlon": -111.9052499,
+    "minlat": 40.479116,
+    "minlon": -111.9065958
+   },
+   "geometry": [
+    {
+     "lat": 40.4804715,
+     "lon": -111.905786
+    },
+    {
+     "lat": 40.480302,
+     "lon": -111.9052499
+    },
+    {
+     "lat": 40.4792812,
+     "lon": -111.9058078
+    },
+    {
+     "lat": 40.4792887,
+     "lon": -111.9058317
+    },
+    {
+     "lat": 40.479116,
+     "lon": -111.9059262
+    },
+    {
+     "lat": 40.4791736,
+     "lon": -111.9061084
+    },
+    {
+     "lat": 40.4793514,
+     "lon": -111.9060113
+    },
+    {
+     "lat": 40.4794028,
+     "lon": -111.9061741
+    },
+    {
+     "lat": 40.4791663,
+     "lon": -111.9063033
+    },
+    {
+     "lat": 40.4792588,
+     "lon": -111.9065958
+    },
+    {
+     "lat": 40.4798878,
+     "lon": -111.906252
+    },
+    {
+     "lat": 40.4798481,
+     "lon": -111.9061266
+    },
+    {
+     "lat": 40.4804715,
+     "lon": -111.905786
+    }
+   ],
+   "id": 592488661,
+   "tags": {
+    "addr:city": "Bluffdale",
+    "addr:housenumber": "14926",
+    "addr:postcode": "84065",
+    "addr:state": "UT",
+    "addr:street": "South Pony Express Road",
+    "building": "commercial",
+    "name": "DataBank SLC3",
+    "operator": "DataBank",
+    "operator:wikidata": "Q117314439",
+    "ref": "SLC3",
+    "source": "esri/USA_NAD_Addresses",
+    "telecom": "data_center",
+    "website": "https://www.databank.com/data-centers/salt-lake-city/granite-point-campus/14926-s-pony-express-road/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.4567414,
+    "maxlon": -109.5287674,
+    "minlat": 40.4564489,
+    "minlon": -109.5292665
+   },
+   "geometry": [
+    {
+     "lat": 40.4567313,
+     "lon": -109.5292162
+    },
+    {
+     "lat": 40.4565217,
+     "lon": -109.5292104
+    },
+    {
+     "lat": 40.45652,
+     "lon": -109.5292665
+    },
+    {
+     "lat": 40.4564489,
+     "lon": -109.5292665
+    },
+    {
+     "lat": 40.4564637,
+     "lon": -109.5287674
+    },
+    {
+     "lat": 40.4567414,
+     "lon": -109.5287702
+    },
+    {
+     "lat": 40.4567313,
+     "lon": -109.5292162
+    }
+   ],
+   "id": 611308188,
+   "tags": {
+    "addr:city": "Vernal",
+    "addr:housenumber": "67",
+    "addr:postcode": "84078",
+    "addr:state": "UT",
+    "addr:street": "North Vernal Avenue",
+    "building": "yes",
+    "name": "Strata Networks",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.480344,
+    "maxlon": -111.9042978,
+    "minlat": 40.4792058,
+    "minlon": -111.9052406
+   },
+   "geometry": [
+    {
+     "lat": 40.4796852,
+     "lon": -111.9044812
+    },
+    {
+     "lat": 40.4796489,
+     "lon": -111.9045592
+    },
+    {
+     "lat": 40.479654,
+     "lon": -111.9046122
+    },
+    {
+     "lat": 40.4792058,
+     "lon": -111.9046862
+    },
+    {
+     "lat": 40.4792588,
+     "lon": -111.9052406
+    },
+    {
+     "lat": 40.4801613,
+     "lon": -111.9050915
+    },
+    {
+     "lat": 40.4801411,
+     "lon": -111.9048804
+    },
+    {
+     "lat": 40.480344,
+     "lon": -111.9048469
+    },
+    {
+     "lat": 40.4802916,
+     "lon": -111.9042978
+    },
+    {
+     "lat": 40.4797277,
+     "lon": -111.9043909
+    },
+    {
+     "lat": 40.4797355,
+     "lon": -111.9044729
+    },
+    {
+     "lat": 40.4796852,
+     "lon": -111.9044812
+    }
+   ],
+   "id": 714070441,
+   "tags": {
+    "addr:city": "Bluffdale",
+    "addr:housenumber": "14944",
+    "addr:postcode": "84065",
+    "addr:state": "UT",
+    "addr:street": "South Pony Express Road",
+    "building": "yes",
+    "name": "DataBank SLC2",
+    "operator": "DataBank",
+    "operator:wikidata": "Q117314439",
+    "ref": "SLC2",
+    "source": "esri/USA_NAD_Addresses",
+    "telecom": "data_center",
+    "website": "https://www.databank.com/data-centers/salt-lake-city/granite-point-campus/14944-s-pony-express-road/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.4817212,
+    "maxlon": -111.9046183,
+    "minlat": 40.480912,
+    "minlon": -111.9053868
+   },
+   "geometry": [
+    {
+     "lat": 40.4816266,
+     "lon": -111.9046183
+    },
+    {
+     "lat": 40.480912,
+     "lon": -111.9049656
+    },
+    {
+     "lat": 40.4810304,
+     "lon": -111.9053868
+    },
+    {
+     "lat": 40.4812412,
+     "lon": -111.9052844
+    },
+    {
+     "lat": 40.4812174,
+     "lon": -111.9051995
+    },
+    {
+     "lat": 40.4817212,
+     "lon": -111.9049548
+    },
+    {
+     "lat": 40.4816266,
+     "lon": -111.9046183
+    }
+   ],
+   "id": 714072077,
+   "tags": {
+    "addr:city": "Bluffdale",
+    "addr:housenumber": "14864",
+    "addr:postcode": "84065",
+    "addr:state": "UT",
+    "addr:street": "South Pony Express Road",
+    "building": "yes",
+    "name": "DataBank SLC4",
+    "operator": "DataBank",
+    "operator:wikidata": "Q117314439",
+    "ref": "SLC4",
+    "source": "esri/USA_NAD_Addresses",
+    "telecom": "data_center",
+    "website": "https://www.databank.com/data-centers/salt-lake-city/granite-point-campus/14860-s-pony-express-road/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7564567,
+    "maxlon": -111.9537473,
+    "minlat": 40.7561563,
+    "minlon": -111.9559277
+   },
+   "geometry": [
+    {
+     "lat": 40.7564567,
+     "lon": -111.9537501
+    },
+    {
+     "lat": 40.7564493,
+     "lon": -111.9551011
+    },
+    {
+     "lat": 40.7564479,
+     "lon": -111.9553389
+    },
+    {
+     "lat": 40.7564447,
+     "lon": -111.9559277
+    },
+    {
+     "lat": 40.7561563,
+     "lon": -111.9559249
+    },
+    {
+     "lat": 40.7561686,
+     "lon": -111.9537473
+    },
+    {
+     "lat": 40.7564567,
+     "lon": -111.9537501
+    }
+   ],
+   "id": 729696933,
+   "tags": {
+    "addr:city": "Salt Lake City",
+    "addr:housenumber": "572",
+    "addr:postcode": "84104",
+    "addr:state": "UT",
+    "addr:street": "South Delong Street",
+    "addr:unit": "100",
+    "building": "industrial",
+    "name": "Flexential Salt Lake City - Downtown",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "source": "esri/USA_NAD_Addresses",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/ut/salt-lake-city/downtown-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 37.06286,
+    "maxlon": -113.544635,
+    "minlat": 37.062738,
+    "minlon": -113.544862
+   },
+   "geometry": [
+    {
+     "lat": 37.062738,
+     "lon": -113.544836
+    },
+    {
+     "lat": 37.06278,
+     "lon": -113.544635
+    },
+    {
+     "lat": 37.06286,
+     "lon": -113.544661
+    },
+    {
+     "lat": 37.062819,
+     "lon": -113.544862
+    },
+    {
+     "lat": 37.062738,
+     "lon": -113.544836
+    }
+   ],
+   "id": 835601088,
+   "tags": {
+    "building": "house",
+    "name": "Lumen",
+    "operator": "Lumen Technologies",
+    "operator:wikidata": "Q5063092",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5649142,
+    "maxlon": -112.050135,
+    "minlat": 40.5633108,
+    "minlon": -112.051135
+   },
+   "geometry": [
+    {
+     "lat": 40.5649142,
+     "lon": -112.0510679
+    },
+    {
+     "lat": 40.5649125,
+     "lon": -112.0501944
+    },
+    {
+     "lat": 40.5638233,
+     "lon": -112.0501981
+    },
+    {
+     "lat": 40.5638232,
+     "lon": -112.050135
+    },
+    {
+     "lat": 40.5633108,
+     "lon": -112.0501367
+    },
+    {
+     "lat": 40.5633127,
+     "lon": -112.0510897
+    },
+    {
+     "lat": 40.5634962,
+     "lon": -112.0510891
+    },
+    {
+     "lat": 40.5638161,
+     "lon": -112.051135
+    },
+    {
+     "lat": 40.563812,
+     "lon": -112.0510706
+    },
+    {
+     "lat": 40.5649142,
+     "lon": -112.0510679
+    }
+   ],
+   "id": 931732650,
+   "tags": {
+    "building": "yes",
+    "name": "Ebay",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5909512,
+    "maxlon": -111.9034981,
+    "minlat": 40.5906777,
+    "minlon": -111.9040731
+   },
+   "geometry": [
+    {
+     "lat": 40.5909512,
+     "lon": -111.9040723
+    },
+    {
+     "lat": 40.5906788,
+     "lon": -111.9040731
+    },
+    {
+     "lat": 40.5906777,
+     "lon": -111.9034989
+    },
+    {
+     "lat": 40.5909502,
+     "lon": -111.9034981
+    },
+    {
+     "lat": 40.5909512,
+     "lon": -111.9040723
+    }
+   ],
+   "id": 943698949,
+   "tags": {
+    "addr:city": "Sandy City",
+    "addr:housenumber": "8851",
+    "addr:postcode": "84070",
+    "addr:state": "UT",
+    "addr:street": "South Sandy Parkway",
+    "building": "yes",
+    "name": "Verizon",
+    "source": "esri/USA_NAD_Addresses",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.4818358,
+    "maxlon": -111.9033853,
+    "minlat": 40.480439,
+    "minlon": -111.9045216
+   },
+   "geometry": [
+    {
+     "lat": 40.4818358,
+     "lon": -111.9040173
+    },
+    {
+     "lat": 40.4805428,
+     "lon": -111.9045216
+    },
+    {
+     "lat": 40.4805058,
+     "lon": -111.9043575
+    },
+    {
+     "lat": 40.4805474,
+     "lon": -111.9043413
+    },
+    {
+     "lat": 40.480439,
+     "lon": -111.9038608
+    },
+    {
+     "lat": 40.4815586,
+     "lon": -111.9034242
+    },
+    {
+     "lat": 40.4815674,
+     "lon": -111.9034592
+    },
+    {
+     "lat": 40.4817934,
+     "lon": -111.9033853
+    },
+    {
+     "lat": 40.4817913,
+     "lon": -111.9038615
+    },
+    {
+     "lat": 40.4818358,
+     "lon": -111.9040173
+    }
+   ],
+   "id": 971762036,
+   "tags": {
+    "addr:city": "Bluffdale",
+    "addr:housenumber": "14870",
+    "addr:postcode": "84065",
+    "addr:state": "UT",
+    "addr:street": "South Pony Express Road",
+    "building": "warehouse",
+    "name": "DataBank SLC5",
+    "operator": "DataBank",
+    "operator:wikidata": "Q117314439",
+    "ref": "SLC5",
+    "source": "esri/USA_NAD_Addresses",
+    "telecom": "data_center",
+    "website": "https://www.databank.com/data-centers/salt-lake-city/granite-point-campus/14870-s-pony-express-road/"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.2693654,
+    "maxlon": -112.0128903,
+    "minlat": 40.2678104,
+    "minlon": -112.0173118
+   },
+   "geometry": [
+    {
+     "lat": 40.2684284,
+     "lon": -112.0172911
+    },
+    {
+     "lat": 40.2680739,
+     "lon": -112.0172936
+    },
+    {
+     "lat": 40.268074,
+     "lon": -112.0173101
+    },
+    {
+     "lat": 40.2678285,
+     "lon": -112.0173118
+    },
+    {
+     "lat": 40.2678104,
+     "lon": -112.0128946
+    },
+    {
+     "lat": 40.268419,
+     "lon": -112.0128903
+    },
+    {
+     "lat": 40.2684231,
+     "lon": -112.0138841
+    },
+    {
+     "lat": 40.2685092,
+     "lon": -112.0138835
+    },
+    {
+     "lat": 40.2685095,
+     "lon": -112.0139718
+    },
+    {
+     "lat": 40.2684952,
+     "lon": -112.0139719
+    },
+    {
+     "lat": 40.2684955,
+     "lon": -112.0140599
+    },
+    {
+     "lat": 40.2684217,
+     "lon": -112.0140604
+    },
+    {
+     "lat": 40.2684235,
+     "lon": -112.0144869
+    },
+    {
+     "lat": 40.2684171,
+     "lon": -112.0144869
+    },
+    {
+     "lat": 40.2684186,
+     "lon": -112.0148464
+    },
+    {
+     "lat": 40.2685197,
+     "lon": -112.0148457
+    },
+    {
+     "lat": 40.2685189,
+     "lon": -112.0146556
+    },
+    {
+     "lat": 40.2693623,
+     "lon": -112.0146497
+    },
+    {
+     "lat": 40.2693654,
+     "lon": -112.0154159
+    },
+    {
+     "lat": 40.2691114,
+     "lon": -112.0154176
+    },
+    {
+     "lat": 40.2691116,
+     "lon": -112.015474
+    },
+    {
+     "lat": 40.2688326,
+     "lon": -112.015476
+    },
+    {
+     "lat": 40.2688324,
+     "lon": -112.0154195
+    },
+    {
+     "lat": 40.2684207,
+     "lon": -112.0154224
+    },
+    {
+     "lat": 40.2684284,
+     "lon": -112.0172911
+    }
+   ],
+   "id": 1024051963,
+   "tags": {
+    "building": "yes",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.2666972,
+    "maxlon": -112.0128978,
+    "minlat": 40.2644304,
+    "minlon": -112.0173616
+   },
+   "geometry": [
+    {
+     "lat": 40.2650436,
+     "lon": -112.0148906
+    },
+    {
+     "lat": 40.2651412,
+     "lon": -112.0148898
+    },
+    {
+     "lat": 40.2651404,
+     "lon": -112.0147065
+    },
+    {
+     "lat": 40.2659807,
+     "lon": -112.0147002
+    },
+    {
+     "lat": 40.2659815,
+     "lon": -112.0148863
+    },
+    {
+     "lat": 40.265992,
+     "lon": -112.0148863
+    },
+    {
+     "lat": 40.2660801,
+     "lon": -112.0148856
+    },
+    {
+     "lat": 40.2660715,
+     "lon": -112.0129023
+    },
+    {
+     "lat": 40.2665183,
+     "lon": -112.012899
+    },
+    {
+     "lat": 40.2666779,
+     "lon": -112.0128978
+    },
+    {
+     "lat": 40.2666779,
+     "lon": -112.012899
+    },
+    {
+     "lat": 40.2666972,
+     "lon": -112.017328
+    },
+    {
+     "lat": 40.2666972,
+     "lon": -112.0173442
+    },
+    {
+     "lat": 40.2664482,
+     "lon": -112.0173461
+    },
+    {
+     "lat": 40.2664483,
+     "lon": -112.0173572
+    },
+    {
+     "lat": 40.2660921,
+     "lon": -112.0173599
+    },
+    {
+     "lat": 40.2660838,
+     "lon": -112.0154609
+    },
+    {
+     "lat": 40.2657207,
+     "lon": -112.0154636
+    },
+    {
+     "lat": 40.2657209,
+     "lon": -112.0155131
+    },
+    {
+     "lat": 40.2654459,
+     "lon": -112.0155152
+    },
+    {
+     "lat": 40.2654456,
+     "lon": -112.0154652
+    },
+    {
+     "lat": 40.2650492,
+     "lon": -112.0154682
+    },
+    {
+     "lat": 40.2650575,
+     "lon": -112.017359
+    },
+    {
+     "lat": 40.264704,
+     "lon": -112.0173616
+    },
+    {
+     "lat": 40.2647039,
+     "lon": -112.0173543
+    },
+    {
+     "lat": 40.2644498,
+     "lon": -112.0173562
+    },
+    {
+     "lat": 40.2644498,
+     "lon": -112.0173446
+    },
+    {
+     "lat": 40.2644305,
+     "lon": -112.0129164
+    },
+    {
+     "lat": 40.2644304,
+     "lon": -112.0129098
+    },
+    {
+     "lat": 40.2645739,
+     "lon": -112.0129088
+    },
+    {
+     "lat": 40.265035,
+     "lon": -112.0129053
+    },
+    {
+     "lat": 40.2650436,
+     "lon": -112.0148906
+    }
+   ],
+   "id": 1024051997,
+   "tags": {
+    "building": "yes",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.2734635,
+    "maxlon": -112.0128222,
+    "minlat": 40.2711978,
+    "minlon": -112.0172935
+   },
+   "geometry": [
+    {
+     "lat": 40.2712149,
+     "lon": -112.0172913
+    },
+    {
+     "lat": 40.2711978,
+     "lon": -112.0128436
+    },
+    {
+     "lat": 40.2714468,
+     "lon": -112.0128419
+    },
+    {
+     "lat": 40.2714467,
+     "lon": -112.0128261
+    },
+    {
+     "lat": 40.2718011,
+     "lon": -112.0128238
+    },
+    {
+     "lat": 40.2718088,
+     "lon": -112.0148232
+    },
+    {
+     "lat": 40.2719093,
+     "lon": -112.0148225
+    },
+    {
+     "lat": 40.2719085,
+     "lon": -112.0146351
+    },
+    {
+     "lat": 40.2723541,
+     "lon": -112.0146321
+    },
+    {
+     "lat": 40.2723543,
+     "lon": -112.0146653
+    },
+    {
+     "lat": 40.2725674,
+     "lon": -112.0146639
+    },
+    {
+     "lat": 40.2725673,
+     "lon": -112.0146353
+    },
+    {
+     "lat": 40.2727471,
+     "lon": -112.0146341
+    },
+    {
+     "lat": 40.2727479,
+     "lon": -112.0148267
+    },
+    {
+     "lat": 40.2728434,
+     "lon": -112.0148261
+    },
+    {
+     "lat": 40.2728399,
+     "lon": -112.0139218
+    },
+    {
+     "lat": 40.2727522,
+     "lon": -112.0139224
+    },
+    {
+     "lat": 40.2727515,
+     "lon": -112.0137468
+    },
+    {
+     "lat": 40.2728391,
+     "lon": -112.0137463
+    },
+    {
+     "lat": 40.2728355,
+     "lon": -112.0128245
+    },
+    {
+     "lat": 40.2731883,
+     "lon": -112.0128222
+    },
+    {
+     "lat": 40.2731883,
+     "lon": -112.012834
+    },
+    {
+     "lat": 40.2734463,
+     "lon": -112.0128323
+    },
+    {
+     "lat": 40.2734635,
+     "lon": -112.0172894
+    },
+    {
+     "lat": 40.2728519,
+     "lon": -112.0172935
+    },
+    {
+     "lat": 40.2728446,
+     "lon": -112.0153916
+    },
+    {
+     "lat": 40.2718127,
+     "lon": -112.0153985
+    },
+    {
+     "lat": 40.27182,
+     "lon": -112.0172873
+    },
+    {
+     "lat": 40.2712149,
+     "lon": -112.0172913
+    }
+   ],
+   "id": 1035123473,
+   "tags": {
+    "building": "yes",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.6860803,
+    "maxlon": -111.8847194,
+    "minlat": 40.6850578,
+    "minlon": -111.8853817
+   },
+   "geometry": [
+    {
+     "lat": 40.6860803,
+     "lon": -111.884956
+    },
+    {
+     "lat": 40.6860801,
+     "lon": -111.8851743
+    },
+    {
+     "lat": 40.6854405,
+     "lon": -111.8851734
+    },
+    {
+     "lat": 40.6854403,
+     "lon": -111.8853817
+    },
+    {
+     "lat": 40.6852836,
+     "lon": -111.8853814
+    },
+    {
+     "lat": 40.6852837,
+     "lon": -111.8851759
+    },
+    {
+     "lat": 40.6852541,
+     "lon": -111.8851758
+    },
+    {
+     "lat": 40.6850578,
+     "lon": -111.8847527
+    },
+    {
+     "lat": 40.6850579,
+     "lon": -111.8847194
+    },
+    {
+     "lat": 40.6852846,
+     "lon": -111.8847206
+    },
+    {
+     "lat": 40.6852845,
+     "lon": -111.8847623
+    },
+    {
+     "lat": 40.6853091,
+     "lon": -111.8847624
+    },
+    {
+     "lat": 40.685309,
+     "lon": -111.8848202
+    },
+    {
+     "lat": 40.6853349,
+     "lon": -111.8848203
+    },
+    {
+     "lat": 40.6853348,
+     "lon": -111.8848772
+    },
+    {
+     "lat": 40.685356,
+     "lon": -111.8848773
+    },
+    {
+     "lat": 40.6853559,
+     "lon": -111.8849549
+    },
+    {
+     "lat": 40.6860803,
+     "lon": -111.884956
+    }
+   ],
+   "id": 1056658555,
+   "tags": {
+    "addr:city": "Salt Lake City",
+    "addr:full": "3949 South 200 East, Suite B1, Salt Lake City, UT 84107 United States",
+    "addr:housenumber": "3949",
+    "addr:postcode": "84107",
+    "addr:state": "UT",
+    "addr:street": "South 200 East",
+    "addr:unit": "B1",
+    "building": "yes",
+    "name": "Flexential Salt Lake City - Millcreek",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/ut/salt-lake-city/millcreek-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.7669238,
+    "maxlon": -111.9200259,
+    "minlat": 40.7666688,
+    "minlon": -111.9205635
+   },
+   "geometry": [
+    {
+     "lat": 40.7668962,
+     "lon": -111.9200259
+    },
+    {
+     "lat": 40.7666688,
+     "lon": -111.9200274
+    },
+    {
+     "lat": 40.7666707,
+     "lon": -111.9205635
+    },
+    {
+     "lat": 40.7668981,
+     "lon": -111.920562
+    },
+    {
+     "lat": 40.7668969,
+     "lon": -111.9202352
+    },
+    {
+     "lat": 40.7669238,
+     "lon": -111.920235
+    },
+    {
+     "lat": 40.7669235,
+     "lon": -111.9201384
+    },
+    {
+     "lat": 40.7668966,
+     "lon": -111.9201386
+    },
+    {
+     "lat": 40.7668962,
+     "lon": -111.9200259
+    }
+   ],
+   "id": 1121188409,
+   "tags": {
+    "addr:city": "Salt Lake City",
+    "addr:housenumber": "118",
+    "addr:postcode": "84104",
+    "addr:state": "UT",
+    "addr:street": "South 1000 West",
+    "building": "yes",
+    "name": "Flexential Salt Lake City - Fair Park",
+    "operator": "Flexential",
+    "operator:wikidata": "Q115417504",
+    "telecom": "data_center",
+    "website": "https://www.flexential.com/data-centers/ut/salt-lake-city/fair-park-data-center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.5116524,
+    "maxlon": -111.8881245,
+    "minlat": 40.511251,
+    "minlon": -111.8883864
+   },
+   "geometry": [
+    {
+     "lat": 40.5116507,
+     "lon": -111.8883864
+    },
+    {
+     "lat": 40.511251,
+     "lon": -111.8883819
+    },
+    {
+     "lat": 40.5112527,
+     "lon": -111.8881245
+    },
+    {
+     "lat": 40.5116524,
+     "lon": -111.8881289
+    },
+    {
+     "lat": 40.5116507,
+     "lon": -111.8883864
+    }
+   ],
+   "id": 1133047980,
+   "tags": {
+    "building": "yes",
+    "name": "FiberState Datacenter",
+    "source": "microsoft/BuildingFootprints",
+    "telecom": "data_center",
+    "website": "https://www.fiberstate.com/datacenters"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.2674181,
+    "maxlon": -112.0187666,
+    "minlat": 40.2643066,
+    "minlon": -112.0200998
+   },
+   "geometry": [
+    {
+     "lat": 40.264308,
+     "lon": -112.0188011
+    },
+    {
+     "lat": 40.2665885,
+     "lon": -112.0188337
+    },
+    {
+     "lat": 40.2665885,
+     "lon": -112.0187666
+    },
+    {
+     "lat": 40.2670406,
+     "lon": -112.0187722
+    },
+    {
+     "lat": 40.2670428,
+     "lon": -112.0189035
+    },
+    {
+     "lat": 40.2674181,
+     "lon": -112.0189063
+    },
+    {
+     "lat": 40.2674117,
+     "lon": -112.0199572
+    },
+    {
+     "lat": 40.2670406,
+     "lon": -112.0199544
+    },
+    {
+     "lat": 40.2670385,
+     "lon": -112.0200998
+    },
+    {
+     "lat": 40.26658,
+     "lon": -112.020097
+    },
+    {
+     "lat": 40.26658,
+     "lon": -112.0200299
+    },
+    {
+     "lat": 40.2643066,
+     "lon": -112.0199991
+    },
+    {
+     "lat": 40.264308,
+     "lon": -112.0188011
+    }
+   ],
+   "id": 1473440674,
+   "tags": {
+    "building": "yes",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.2711681,
+    "maxlon": -112.0188497,
+    "minlat": 40.2685501,
+    "minlon": -112.0200628
+   },
+   "geometry": [
+    {
+     "lat": 40.27116,
+     "lon": -112.0200628
+    },
+    {
+     "lat": 40.2711681,
+     "lon": -112.0188772
+    },
+    {
+     "lat": 40.2688165,
+     "lon": -112.0188497
+    },
+    {
+     "lat": 40.2688161,
+     "lon": -112.0189079
+    },
+    {
+     "lat": 40.2685572,
+     "lon": -112.0189048
+    },
+    {
+     "lat": 40.2685501,
+     "lon": -112.0199336
+    },
+    {
+     "lat": 40.2688444,
+     "lon": -112.0199371
+    },
+    {
+     "lat": 40.2688437,
+     "lon": -112.0200358
+    },
+    {
+     "lat": 40.27116,
+     "lon": -112.0200628
+    }
+   ],
+   "id": 1473440676,
+   "tags": {
+    "building": "yes",
+    "name": "Meta",
+    "operator": "Meta",
+    "operator:wikidata": "Q380",
+    "telecom": "data_center"
+   },
+   "type": "way"
+  },
+  {
+   "bounds": {
+    "maxlat": 40.4813734,
+    "maxlon": -111.9055373,
+    "minlat": 40.4798619,
+    "minlon": -111.9071848
+   },
+   "geometry": [
+    {
+     "lat": 40.4798619,
+     "lon": -111.9064911
+    },
+    {
+     "lat": 40.4800018,
+     "lon": -111.9069158
+    },
+    {
+     "lat": 40.4798686,
+     "lon": -111.9069919
+    },
+    {
+     "lat": 40.4799386,
+     "lon": -111.9071848
+    },
+    {
+     "lat": 40.4801916,
+     "lon": -111.9070556
+    },
+    {
+     "lat": 40.4801768,
+     "lon": -111.9069884
+    },
+    {
+     "lat": 40.4805685,
+     "lon": -111.9067796
+    },
+    {
+     "lat": 40.4805564,
+     "lon": -111.9067318
+    },
+    {
+     "lat": 40.4807085,
+     "lon": -111.9066203
+    },
+    {
+     "lat": 40.4807314,
+     "lon": -111.9066628
+    },
+    {
+     "lat": 40.4813734,
+     "lon": -111.9060983
+    },
+    {
+     "lat": 40.4810827,
+     "lon": -111.9055373
+    },
+    {
+     "lat": 40.4809592,
+     "lon": -111.9056492
+    },
+    {
+     "lat": 40.4810045,
+     "lon": -111.9057228
+    },
+    {
+     "lat": 40.4804779,
+     "lon": -111.9061851
+    },
+    {
+     "lat": 40.4799572,
+     "lon": -111.9064674
+    },
+    {
+     "lat": 40.4799506,
+     "lon": -111.9064417
+    },
+    {
+     "lat": 40.4798619,
+     "lon": -111.9064911
+    }
+   ],
+   "id": 1530196328,
+   "tags": {
+    "addr:city": "Bluffdale",
+    "addr:housenumber": "14870",
+    "addr:postcode": "84065",
+    "addr:state": "UT",
+    "addr:street": "South Pony Express Road",
+    "building": "yes",
+    "name": "DataBank SLC6",
+    "operator": "DataBank",
+    "operator:wikidata": "Q117314439",
+    "ref": "SLC6",
+    "telecom": "data_center",
+    "website": "https://www.databank.com/data-centers/salt-lake-city/granite-point-campus/slc6/"
+   },
+   "type": "way"
+  }
+ ],
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp_areas_base": "2026-10-21T10:16:04Z",
+  "timestamp_osm_base": "2026-10-21T17:29:43Z"
+ },
+ "version": 0.6
+}

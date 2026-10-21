@@ -1,0 +1,12 @@
+left_source,left_source_id,left_name,left_address,right_source,right_source_id,right_name,right_address,score,note,distance_m,distance,name,address,operator,codes
+osm,way/1253282101,Meta Sarpy Data center,,osm,way/1253282102,Meta Sarpy Data center,,0.706,,265.0,0.782,1.0,0.0,1.0,[]|[]
+osm,way/844394339,Meta Sarpy Data center,,osm,way/844394340,Meta Sarpy Data center,,0.686,,319.5,0.724,1.0,0.0,1.0,[]|[]
+peeringdb,2156,TierPoint Omaha - Midlands,11425 South 84th Street,epa_nei,19031011,Midlands Data Center,11425 S 84 St,0.681,,56.1,1.0,0.333,1.0,0.207,[]|[]
+peeringdb,575,1623 Farnam - Omaha,1623 Farnam St.,peeringdb,16207,1623 Farmam,1623 Farnam St,0.663,,3.0,1.0,0.25,1.0,0.214,[]|[]
+osm,way/1422101108,Google,,osm,way/1422101112,Google,,0.656,,402.7,0.635,1.0,0.0,1.0,[]|[]
+osm,way/844394357,Google,,osm,way/1312801354,Google,,0.617,,511.2,0.52,1.0,0.0,1.0,[]|[]
+osm,way/1237494981,Google,,osm,way/1312801354,Google,,0.606,,542.1,0.487,1.0,0.0,1.0,[]|[]
+osm,way/1422101112,Google,,osm,way/1422101116,Google,,0.573,,632.8,0.391,1.0,0.0,1.0,[]|[]
+osm,way/1237493975,Google,,osm,way/1312801354,Google,,0.549,,698.3,0.321,1.0,0.0,1.0,[]|[]
+osm,way/844394340,Meta Sarpy Data center,,osm,way/1253282101,Meta Sarpy Data center,,0.535,,736.3,0.281,1.0,0.0,1.0,[]|[]
+osm,way/844394357,Google,,osm,way/1237494981,Google,,0.524,,767.0,0.248,1.0,0.0,1.0,[]|[]
