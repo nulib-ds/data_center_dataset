@@ -171,11 +171,19 @@ def _write_footprints(facilities: pd.DataFrame, geo_cols: list[str], outdir: Pat
     serve different purposes: points map every facility, polygons map only the
     subset whose building outline is known. Mixing geometry types in one file
     makes both harder to style.
+
+    Only polygons that carry a measured footprint area are written. A polygon
+    with no area is a site outline rather than a building (see
+    ``normalize.geometry``), and publishing it in a file called
+    ``facility_footprints`` would misrepresent it.
     """
     if "geometry_wkt" not in facilities.columns:
         return
 
-    subset = facilities[facilities.geometry_wkt.notna()].copy()
+    mask = facilities.geometry_wkt.notna()
+    if "footprint_sqft" in facilities.columns:
+        mask &= pd.to_numeric(facilities.footprint_sqft, errors="coerce").notna()
+    subset = facilities[mask].copy()
     path = outdir / "facility_footprints.geojson"
     if subset.empty:
         log.info("no footprint polygons to write")

@@ -24,7 +24,16 @@ from ..normalize.schema import conform_source_frame
 log = logging.getLogger(__name__)
 
 SOURCE = "osm"
-OVERPASS_URL = "https://overpass-api.de/api/interpreter"
+
+#: Overpass instances, tried in order. The canonical endpoint is a volunteer
+#: resource and regularly answers 502 "at capacity, query queue is full" when
+#: a nationwide build sends it one state after another, so a mirror is tried
+#: before giving up on a state. Each mirror serves the same planet database.
+OVERPASS_ENDPOINTS = (
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass.private.coffee/api/interpreter",
+    "https://overpass.kumi.systems/api/interpreter",
+)
 
 
 def _query(state: str) -> str:
@@ -55,15 +64,34 @@ def fetch(
         return json.loads(dest.read_text())
 
     log.info("querying Overpass for %s data centers", state.upper())
-    payload = client.fetch_json(
-        OVERPASS_URL,
-        method="POST",
-        data={"data": _query(state)},
-        refresh=refresh,
-    )
+    payload = _query_overpass(client, state, refresh=refresh)
     dest.write_text(json.dumps(payload, indent=1, sort_keys=True))
     log.info("osm: %d elements -> %s", len(payload.get("elements", [])), dest.name)
     return payload
+
+
+def _query_overpass(
+    client: CachedClient, state: str, *, refresh: bool = False
+) -> dict:
+    """Run the state query against each Overpass endpoint until one answers."""
+    query = _query(state)
+    errors: list[str] = []
+
+    for endpoint in OVERPASS_ENDPOINTS:
+        try:
+            return client.fetch_json(
+                endpoint,
+                method="POST",
+                data={"data": query},
+                refresh=refresh,
+            )
+        except Exception as exc:
+            errors.append(f"{endpoint}: {exc}")
+            log.warning("overpass endpoint failed (%s): %s", endpoint, exc)
+
+    raise RuntimeError(
+        f"all Overpass endpoints failed for {state.upper()}: " + "; ".join(errors)
+    )
 
 
 def _geometry(element: dict) -> tuple[str | None, float | None, float | None, float | None]:
@@ -135,6 +163,15 @@ def parse(payload: dict) -> pd.DataFrame:
                 "year_built": _year(tags.get("start_date")),
                 "building_levels": tags.get("building:levels"),
                 "geometry_wkt": wkt,
+                # A polygon with a `building` tag is a structure. A polygon
+                # without one is the *site* that contains the structures --
+                # `landuse=industrial` around a campus, typically -- and its
+                # area includes the grounds, the parking and the undeveloped
+                # land. That is not a building footprint, and the Tier C model
+                # multiplies footprint by storeys and by a white-space
+                # fraction, so feeding it a land parcel overstates the power
+                # estimate several-fold. See normalize.geometry.
+                "is_building": bool(tags.get("building")),
                 "clli": tags.get("clli"),
                 "website": tags.get("website") or tags.get("contact:website"),
                 "raw_json": json.dumps(tags, sort_keys=True),

@@ -323,10 +323,16 @@ def _review_row(
     }
 
 
-def resolve(records: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+def resolve(
+    records: pd.DataFrame, *, crs: str = EQUAL_AREA_CRS
+) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     """Cluster source records into canonical facilities.
 
     Returns ``(facilities, crosswalk, review_queue)``.
+
+    ``crs`` is the projection the merge radius is measured in. It defaults to
+    the CONUS Albers; a state outside that projection's domain passes its own
+    so that the 1 km candidate radius means 1 km on the ground.
     """
     if records.empty:
         return records.copy(), records.copy(), records.copy()
@@ -336,7 +342,7 @@ def resolve(records: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataF
         work[["name", "operator", "address", "source"]].copy(),
         geometry=[Point(xy) for xy in zip(work.lon, work.lat)],
         crs=WGS84,
-    ).to_crs(EQUAL_AREA_CRS)
+    ).to_crs(crs)
 
     pairs = _candidate_pairs(gdf)
     log.info("dedupe: %d candidate pairs from %d records", len(pairs), len(work))
@@ -383,6 +389,7 @@ def resolve(records: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataF
             anchor = with_area.sort_values("footprint_sqm", ascending=False).iloc[0]
             lat, lon = float(anchor.lat), float(anchor.lon)
         else:
+            anchor = None
             lat, lon = float(group.lat.mean()), float(group.lon.mean())
 
         name = _pick(group, "name") or "Unnamed data center"
@@ -411,7 +418,11 @@ def resolve(records: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataF
                     if "footprint_sqft" in group.columns
                     else pd.NA
                 ),
-                "geometry_wkt": _pick(group, "geometry_wkt"),
+                "geometry_wkt": (
+                    anchor.geometry_wkt
+                    if anchor is not None and pd.notna(anchor.get("geometry_wkt"))
+                    else _pick(group, "geometry_wkt")
+                ),
                 "clli": _pick(group, "clli"),
                 "website": _pick(group, "website"),
                 "pdb_net_count": group.pdb_net_count.max(),

@@ -13,21 +13,31 @@ for data centers, on two counts:
    site scales with the critical load those generators must carry.
 
 The archive is split into ten "byregions" files (EPA Regions 1-10, plus one
-for unassigned facilities). One state maps to exactly one region file:
+for unassigned facilities). One state maps to exactly one region file, and the
+mapping was verified empirically against the archive rather than assumed from
+the EPA's own region chart:
 
 ===== ================================
 State  NEI region member
 ===== ================================
 CA     point_9.csv  (Region 9: AZ CA HI NV)
 AZ     point_9.csv
+HI     point_9.csv
+NV     point_9.csv
 TX     point_6.csv  (Region 6: AR LA NM OK TX)
+OK     point_6.csv
 GA     point_4.csv  (Region 4: AL FL GA KY MS NC SC TN)
 IL     point_5.csv  (Region 5: IL IN MI MN OH WI)
 VA     point_3.csv  (Region 3: DE DC MD PA VA WV)
 ===== ================================
 
-The mapping lives on each state's :class:`~data_center_dataset.states.StateProfile`
+The full mapping lives in ``states.EPA_REGIONS``; each state's
+:class:`~data_center_dataset.states.StateProfile` names the member it reads,
 so that adding a state means adding one entry there, not touching this module.
+
+Because the archive is organised by region, the states of a region share a
+file. Reading it once for the whole region -- rather than once per state -- is
+the difference between ten archive scans and one when every state is built.
 
 Important caveats, measured on California data and assumed to generalise
 ------------------------------------------------------------------------
@@ -56,6 +66,7 @@ import logging
 import re
 import zipfile
 from datetime import date
+from pathlib import Path
 
 import pandas as pd
 import zipfile_deflate64  # noqa: F401  -- registers Deflate64 support
@@ -121,6 +132,105 @@ def _archive_path() -> "object":
     return RAW_DIR / SOURCE / ARCHIVE_NAME
 
 
+#: Columns kept from the raw NEI extract. The archive carries far more; these
+#: are the ones the pipeline reads.
+KEEP_COLS = [
+    "eis facility id",
+    "company name",
+    "site name",
+    "primary naics code",
+    "site latitude",
+    "site longitude",
+    "address",
+    "city",
+    "zip code",
+    "eis unit id",
+    "unit type",
+    "unit description",
+    "process description",
+    "scc",
+]
+
+
+def _subset_path(state: str, snapshot: str) -> Path:
+    return (
+        raw_dir(SOURCE, snapshot, state=state)
+        / f"nei2020_{state.lower()}_datacenter_units.csv"
+    )
+
+
+def _existing_subset(state: str, snapshot: str) -> Path | None:
+    """Most recent per-state extract already on disk, if any.
+
+    The extract is a deterministic function of the (immutable) upstream
+    archive, so an extract from an earlier snapshot date is equally valid.
+    Reusing it means a rebuild on a new date does not re-scan the archive.
+    """
+    current = _subset_path(state, snapshot)
+    if current.exists():
+        return current
+    state_dir = RAW_DIR / SOURCE / state.upper()
+    if not state_dir.is_dir():
+        return None
+    candidates = sorted(state_dir.glob("*/nei2020_*_datacenter_units.csv"))
+    return candidates[-1] if candidates else None
+
+
+def _read_subset(path: Path) -> pd.DataFrame:
+    """Read a per-state extract.
+
+    ``keep_default_na=False`` matters: an empty NEI field must stay an empty
+    string, exactly as it arrived from the archive's CSV. The default turns it
+    into NaN, which is truthy, and turns ``(value or "").strip()`` into a
+    crash for the 17 states whose extracts have a blank company name.
+    """
+    return pd.read_csv(path, dtype=str, keep_default_na=False)
+
+
+def _extract_region(
+    archive: Path, region_member: str, states: tuple[str, ...], snapshot: str
+) -> dict[str, Path]:
+    """Scan one region member once and write the extract for each state.
+
+    The archive is organised by EPA region, so the states of a region share a
+    file. Reading it once for the whole region -- rather than once per state
+    -- is the difference between ten archive scans and one when every state is
+    built.
+    """
+    wanted = {s.upper() for s in states}
+    rows: dict[str, list[dict]] = {s: [] for s in wanted}
+    seen: set[tuple[str, str]] = set()
+
+    with zipfile.ZipFile(archive) as zf, zf.open(region_member) as raw:
+        stream = io.TextIOWrapper(raw, encoding="utf-8", errors="replace")
+        for record in csv.DictReader(stream):
+            state = (record.get("state") or "").strip().upper()
+            if state not in wanted:
+                continue
+            if (record.get("primary naics code") or "").strip() not in DATA_CENTER_NAICS:
+                continue
+            key = (record["eis facility id"], record["eis unit id"])
+            if key in seen:
+                continue
+            seen.add(key)
+            rows[state].append({c: (record.get(c) or "").strip() for c in KEEP_COLS})
+
+    written: dict[str, Path] = {}
+    for state, state_rows in rows.items():
+        path = _subset_path(state, snapshot)
+        subset = pd.DataFrame(state_rows, columns=KEEP_COLS)
+        subset.to_csv(path, index=False)
+        written[state] = path
+        log.info(
+            "nei: %d %s data-center units at %d facilities -> %s",
+            len(subset),
+            state,
+            subset["eis facility id"].nunique() if not subset.empty else 0,
+            path.name,
+        )
+    return written
+
+
 def fetch(
     client: CachedClient,
     state: str = "CA",
@@ -135,67 +245,34 @@ def fetch(
     ``ARCHIVE_URL``.
     """
     from ..states import get as get_state_profile
+    from ..states import region_states
 
     profile = get_state_profile(state)
     region_member = profile.nei_region_file
 
     snapshot = snapshot or date.today().isoformat()
-    subset_path = (
-        raw_dir(SOURCE, snapshot, state=state)
-        / f"nei2020_{state.lower()}_datacenter_units.csv"
-    )
 
-    if subset_path.exists() and not refresh:
-        return pd.read_csv(subset_path, dtype=str)
+    if not refresh:
+        existing = _existing_subset(state, snapshot)
+        if existing is not None:
+            return _read_subset(existing)
 
     archive = _archive_path()
     archive.parent.mkdir(parents=True, exist_ok=True)
     log.info("downloading NEI 2020 archive (~157 MB, one time, shared across states)")
     client.download(ARCHIVE_URL, archive, refresh=refresh)
 
-    keep_cols = [
-        "eis facility id",
-        "company name",
-        "site name",
-        "primary naics code",
-        "site latitude",
-        "site longitude",
-        "address",
-        "city",
-        "zip code",
-        "eis unit id",
-        "unit type",
-        "unit description",
-        "process description",
-        "scc",
-    ]
-
-    seen: set[tuple[str, str]] = set()
-    rows: list[dict] = []
-
-    with zipfile.ZipFile(archive) as zf, zf.open(region_member) as raw:
-        stream = io.TextIOWrapper(raw, encoding="utf-8", errors="replace")
-        for record in csv.DictReader(stream):
-            if record.get("state") != state.upper():
-                continue
-            if (record.get("primary naics code") or "").strip() not in DATA_CENTER_NAICS:
-                continue
-            key = (record["eis facility id"], record["eis unit id"])
-            if key in seen:
-                continue
-            seen.add(key)
-            rows.append({c: (record.get(c) or "").strip() for c in keep_cols})
-
-    subset = pd.DataFrame(rows, columns=keep_cols)
-    subset.to_csv(subset_path, index=False)
-    log.info(
-        "nei: %d %s data-center units at %d facilities -> %s",
-        len(subset),
-        state.upper(),
-        subset["eis facility id"].nunique() if not subset.empty else 0,
-        subset_path.name,
+    # Extract the whole region in one pass, so a build covering every state
+    # reads each region file once rather than once per state.
+    _extract_region(
+        archive, region_member, region_states(region_member), snapshot
     )
-    return subset
+
+    subset_path = _subset_path(state, snapshot)
+    if not subset_path.exists():
+        # The state was not present in its region file at all.
+        pd.DataFrame(columns=KEEP_COLS).to_csv(subset_path, index=False)
+    return _read_subset(subset_path)
 
 
 # --------------------------------------------------------------------------
@@ -209,6 +286,22 @@ def _is_generator(row: pd.Series) -> bool:
         return True
     text = f"{row.get('unit description') or ''} {row.get('process description') or ''}"
     return bool(re.search(r"\b(generator|gen\s?set|ic\s+engine|standby|emergency)\b", text, re.I))
+
+
+def _text(value: object) -> str:
+    """Empty-string-safe text.
+
+    ``pandas.read_csv`` turns an empty field into NaN unless told otherwise,
+    and NaN is truthy -- so the obvious ``(value or "").strip()`` returns NaN
+    and then explodes on ``.strip()``. NEI records frequently have a blank
+    company name, so this guard is load-bearing rather than defensive.
+    """
+    if value is None:
+        return ""
+    if isinstance(value, float) and pd.isna(value):
+        return ""
+    s = str(value).strip()
+    return "" if s.lower() == "nan" else s
 
 
 def parse(subset: pd.DataFrame, state: str = "CA") -> tuple[pd.DataFrame, pd.DataFrame]:
@@ -237,7 +330,7 @@ def parse(subset: pd.DataFrame, state: str = "CA") -> tuple[pd.DataFrame, pd.Dat
         if pd.isna(lat) or pd.isna(lon):
             continue
 
-        name = (first["site name"] or first["company name"] or "").strip()
+        name = _text(first["site name"]) or _text(first["company name"])
         records.append(
             {
                 "source": SOURCE,
@@ -247,13 +340,13 @@ def parse(subset: pd.DataFrame, state: str = "CA") -> tuple[pd.DataFrame, pd.Dat
                     f"?fac_search=facility_id&fac_value={eis_id}"
                 ),
                 "name": name or None,
-                "operator_raw": (first["company name"] or "").strip() or None,
+                "operator_raw": _text(first["company name"]) or None,
                 "lat": float(lat),
                 "lon": float(lon),
-                "address": (first["address"] or "").strip() or None,
-                "city": (first["city"] or "").strip() or None,
+                "address": _text(first["address"]) or None,
+                "city": _text(first["city"]) or None,
                 "state": state.upper(),
-                "postcode": (first["zip code"] or "").strip() or None,
+                "postcode": _text(first["zip code"]) or None,
                 "raw_json": json.dumps(
                     {
                         "eis_facility_id": str(eis_id),

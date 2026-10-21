@@ -49,7 +49,13 @@ def test_street_names_do_not_trigger_institution_rules():
 
 
 def test_out_of_state_coordinates_are_rejected(source_records):
-    """PeeringDB genuinely mislabels some non-California facilities as CA."""
+    """A record claiming the target state but located elsewhere is rejected.
+
+    This is the shape of the observed PeeringDB defect: a mis-scoped
+    ``state=CA`` query returned North Carolina facilities, and the bounding
+    box caught them. The gate is a general safety net, not a source-specific
+    patch.
+    """
     in_scope, excluded = classify.apply(source_records)
     assert "QTS Charlotte (CTL1)" not in set(in_scope.name)
     assert (

@@ -55,6 +55,12 @@ ACCENT = "#1F4E5F"
 GRID = "#D8DEE4"
 INK = "#22282E"
 
+#: A facility whose operator could not be established at all -- as opposed to
+#: ``UNATTRIBUTED_OPERATOR``, which means a *known* property vehicle. The
+#: published table leaves the operator null in that case, and a null index
+#: value would be dropped by ``pivot_table`` and take the whole figure with it.
+UNKNOWN_OPERATOR = "Operator not established"
+
 def _caveat(state_name: str) -> str:
     return (
         "Estimates, not meter readings. Per-facility consumption is not public "
@@ -125,6 +131,21 @@ def _load(processed_dir: Path) -> tuple[pd.DataFrame, pd.DataFrame]:
 def top_operators_by_load(fac: pd.DataFrame, outdir: Path, state_name: str, top_n: int = 16):
     """Horizontal bars, segmented by the evidence tier behind each MW."""
     df = fac[fac.best_power_mw.notna()].copy()
+    if df.empty:
+        # A state can have facilities and no estimates at all -- no OSM
+        # footprint and no EPA NEI permit, so neither Tier B nor Tier C
+        # applies. There is no load to rank, so there is no such figure.
+        log.warning(
+            "%s has no facility with a power estimate; skipping the "
+            "operator-load figure",
+            state_name,
+        )
+        return []
+
+    # A null operator would be dropped by ``pivot_table`` as an index value,
+    # leaving an empty pivot and an empty array of interval bounds. Group the
+    # unresolved facilities under an explicit label instead.
+    df["operator"] = df.operator.fillna(UNKNOWN_OPERATOR).replace("", UNKNOWN_OPERATOR)
 
     pivot = (
         df.pivot_table(
@@ -140,7 +161,13 @@ def top_operators_by_load(fac: pd.DataFrame, outdir: Path, state_name: str, top_
 
     bounds = df.groupby("operator")[["power_ci_low_mw", "power_ci_high_mw"]].sum()
     sites_estimated = df.groupby("operator").facility_id.count()
-    sites_total = fac.groupby("operator").facility_id.count()
+    # The denominator counts every site, including those with no estimate, so
+    # the same operator label has to be used on both sides of the fraction.
+    all_ops = fac.copy()
+    all_ops["operator"] = all_ops.operator.fillna(UNKNOWN_OPERATOR).replace(
+        "", UNKNOWN_OPERATOR
+    )
+    sites_total = all_ops.groupby("operator").facility_id.count()
 
     fig, ax = plt.subplots(figsize=(9.9, 7.6))
     y = np.arange(len(pivot))[::-1]
@@ -182,14 +209,15 @@ def top_operators_by_load(fac: pd.DataFrame, outdir: Path, state_name: str, top_
             tick.set_fontstyle("italic")
 
     # Place value labels clear of the whisker so they do not strike through it.
-    pad = hi.max() * 0.014
+    span = float(hi.max()) if len(hi) else 0.0
+    pad = span * 0.014 if span > 0 else 0.5
     for yi, val, high in zip(y, mid, hi):
         ax.text(high + pad, yi, f"{val:,.0f}", va="center", fontsize=9,
                 color="#40484F")
 
     ax.set_xlabel("Estimated IT load (MW), summed across sites")
     ax.set_title(f"Which companies draw the most power\n{state_name} data centers, by estimated IT load")
-    ax.set_xlim(0, hi.max() * 1.13)
+    ax.set_xlim(0, span * 1.13 if span > 0 else 1.0)
     ax.grid(axis="y", visible=False)
 
     handles = [
@@ -665,6 +693,12 @@ def build_all(
     processed_dir = processed_dir or PROCESSED_DIR
     outdir = outdir or (processed_dir / "figures")
     fac, est = _load(processed_dir)
+
+    if fac.empty:
+        # A state with no resolved facilities has nothing to plot, and every
+        # figure below divides by a facility count. Skip rather than fail.
+        log.warning("%s has no facilities; skipping figures", profile.name)
+        return []
 
     written: list[Path] = []
     written += top_operators_by_load(fac, outdir, profile.name)

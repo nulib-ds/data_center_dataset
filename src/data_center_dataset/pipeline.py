@@ -21,7 +21,7 @@ from datetime import date
 import pandas as pd
 
 from . import export as export_mod
-from .config import ensure_dirs, processed_dir
+from .config import EQUAL_AREA_CRS, ensure_dirs, processed_dir
 from .http import CachedClient
 from .normalize import classify, dedupe, geometry
 from .normalize.schema import conform_source_frame
@@ -102,16 +102,24 @@ def build(
     profile = get_state_profile(ingested.get("state", "CA"))
     records = ingested["records"]
 
+    # Areas and distances are measured in an equal-area projection. The
+    # CONUS Albers is right for the continental states; Alaska and Hawaii
+    # carry their own, because distances (unlike areas) are distorted
+    # outside the CONUS Albers domain.
+    crs = profile.equal_area_crs or EQUAL_AREA_CRS
+
     # -- footprint area must precede dedupe: the resolver prefers the record
     #    with the largest measured footprint as the cluster anchor.
     log.info("--- geometry: footprint areas")
-    records = geometry.add_footprint_area(records)
+    records = geometry.add_footprint_area(records, crs=crs)
 
     log.info("--- classify: scope filter (%s)", profile.name)
-    in_scope, excluded = classify.apply(records, bbox=profile.bbox)
+    in_scope, excluded = classify.apply(
+        records, bbox=profile.bbox, extra_bboxes=profile.extra_bboxes
+    )
 
     log.info("--- resolve: entity resolution")
-    facilities, crosswalk, review = dedupe.resolve(in_scope)
+    facilities, crosswalk, review = dedupe.resolve(in_scope, crs=crs)
 
     log.info("--- scope gate: NEI-only generator fleet threshold")
     facilities, gated = classify.post_resolution_gate(

@@ -61,7 +61,10 @@ def source_records() -> pd.DataFrame:
             "lon": -117.0709,
             "address": None,
         },
-        # Upstream error: recorded as CA but located in North Carolina.
+        # Out of scope: a record that claims to be in the target state but is
+        # geographically elsewhere. This models the observed PeeringDB defect
+        # in which a mis-scoped ``state=CA`` query returned North Carolina
+        # facilities (QTS Charlotte, AceHost Durham, Cogent Fairfax).
         {
             "source": "peeringdb",
             "source_id": "104",

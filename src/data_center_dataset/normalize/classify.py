@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import logging
 import re
+from collections.abc import Sequence
 from functools import lru_cache
 
 import pandas as pd
@@ -335,13 +336,19 @@ def classify_row(row: pd.Series) -> tuple[str, str | None, str | None, str]:
 
 
 def apply(
-    df: pd.DataFrame, bbox: tuple[float, float, float, float] = CA_BBOX
+    df: pd.DataFrame,
+    bbox: tuple[float, float, float, float] = CA_BBOX,
+    *,
+    extra_bboxes: Sequence[tuple[float, float, float, float]] = (),
 ) -> tuple[pd.DataFrame, pd.DataFrame]:
     """Split source records into (in_scope, excluded).
 
     ``bbox`` is the target state's (minx, miny, maxx, maxy), from
     :mod:`data_center_dataset.states`. Defaults to California for backward
-    compatibility when called without it.
+    compatibility when called without it. ``extra_bboxes`` carries any
+    additional disjoint boxes belonging to the same state -- needed for
+    Alaska, whose Aleutian tail crosses the antimeridian and cannot be
+    expressed as one (minx, maxx) pair.
 
     The excluded frame carries an ``exclusion_rule`` column naming the rule
     responsible, and is written to ``data/processed/<STATE>/exclusions.csv``
@@ -365,15 +372,19 @@ def apply(
     ]
     tagged = pd.concat([df.reset_index(drop=True), verdicts.reset_index(drop=True)], axis=1)
 
-    # Geographic sanity gate. PeeringDB carries genuine upstream data-entry
-    # errors: QTS Charlotte (North Carolina), AceHost Durham (North Carolina)
-    # and Cogent Fairfax are all recorded with state="CA" despite being
-    # nowhere near it. A coordinate well outside the target state's bounding
-    # box is decisive regardless of the state field.
-    minx, miny, maxx, maxy = bbox
+    # Geographic sanity gate. A coordinate well outside the target state's
+    # bounding box is decisive regardless of the state field. This is a
+    # general safety net against mislabelled records, not a PeeringDB quirk:
+    # the state field is operator-maintained and does go wrong, and the
+    # boxes are generous enough that only a decisively-outside point is
+    # rejected.
     lat = pd.to_numeric(tagged.lat, errors="coerce")
     lon = pd.to_numeric(tagged.lon, errors="coerce")
-    out_of_bounds = ~(lat.between(miny, maxy) & lon.between(minx, maxx))
+    inside = pd.Series(False, index=tagged.index)
+    for box in (bbox, *extra_bboxes):
+        minx, miny, maxx, maxy = box
+        inside |= (lat.between(miny, maxy) & lon.between(minx, maxx)).fillna(False)
+    out_of_bounds = ~inside
     tagged.loc[out_of_bounds & tagged.exclusion_rule.isna(), "exclusion_rule"] = (
         "outside_state"
     )

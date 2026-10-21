@@ -20,6 +20,12 @@ from pandera.typing import Series
 
 from ..config import CONUS_BBOX, TIER_PRECEDENCE
 
+#: Loose geographic safety net, kept for reference. The published-table
+#: contract no longer uses a box for this: a box wide enough to hold Alaska
+#: also holds London. ``FacilitySchema.within_a_known_state`` checks against
+#: the union of the per-state boxes instead.
+MINX, MINY, MAXX, MAXY = CONUS_BBOX
+
 # --------------------------------------------------------------------------
 # Common intermediate representation
 # --------------------------------------------------------------------------
@@ -41,6 +47,10 @@ SOURCE_RECORD_COLUMNS: list[str] = [
     "building_levels",
     "footprint_sqm",  # only OSM supplies geometry-derived area
     "geometry_wkt",
+    # Whether the record's geometry is a *building* rather than the site that
+    # contains it. Only OSM carries polygons, so this is meaningful there
+    # alone; every other source leaves it null.
+    "is_building",
     "clli",
     "website",
     "pdb_net_count",
@@ -73,6 +83,7 @@ def conform_source_frame(df: pd.DataFrame) -> pd.DataFrame:
     ]
     for col in numeric:
         out[col] = pd.to_numeric(out[col], errors="coerce")
+    out["is_building"] = out["is_building"].fillna(False).astype(bool)
     return out[SOURCE_RECORD_COLUMNS]
 
 
@@ -80,6 +91,10 @@ def conform_source_frame(df: pd.DataFrame) -> pd.DataFrame:
 # Published table contracts
 # --------------------------------------------------------------------------
 
+#: Loose geographic safety net, kept for reference. The published-table
+#: contract no longer uses a box for this: a box wide enough to hold Alaska
+#: also holds London. ``FacilitySchema.within_a_known_state`` checks against
+#: the union of the per-state boxes instead.
 MINX, MINY, MAXX, MAXY = CONUS_BBOX
 
 
@@ -89,8 +104,8 @@ class FacilitySchema(pa.DataFrameModel):
     facility_id: Series[str] = pa.Field(unique=True, nullable=False)
     name: Series[str] = pa.Field(nullable=False)
     operator: Series[str] = pa.Field(nullable=True)
-    lat: Series[float] = pa.Field(ge=MINY, le=MAXY, nullable=False)
-    lon: Series[float] = pa.Field(ge=MINX, le=MAXX, nullable=False)
+    lat: Series[float] = pa.Field(ge=-90.0, le=90.0, nullable=False)
+    lon: Series[float] = pa.Field(ge=-180.0, le=180.0, nullable=False)
     footprint_sqft: Series[float] = pa.Field(ge=0, nullable=True)
     est_white_space_sqft: Series[float] = pa.Field(ge=0, nullable=True)
     best_power_mw: Series[float] = pa.Field(ge=0, le=2000, nullable=True)
@@ -105,6 +120,28 @@ class FacilitySchema(pa.DataFrameModel):
     class Config:  # noqa: D106
         strict = False
         coerce = True
+
+    @pa.dataframe_check
+    def within_a_known_state(cls, df: pd.DataFrame) -> bool:
+        """Coordinates must fall inside *some* US state.
+
+        A plain bounding box cannot do this job: Alaska and Hawaii sit
+        outside the continental bounds, and a box wide enough to contain
+        Alaska also contains London and Tokyo. The check is therefore against
+        the union of the per-state boxes, which is also where the pipeline
+        itself decides what is in scope.
+        """
+        from ..states import STATES, state_bboxes
+
+        lat = pd.to_numeric(df["lat"], errors="coerce")
+        lon = pd.to_numeric(df["lon"], errors="coerce")
+        inside = pd.Series(False, index=df.index)
+        for profile in STATES.values():
+            for box in state_bboxes(profile):
+                inside |= (lat.between(box[1], box[3]) & lon.between(box[0], box[2])).fillna(
+                    False
+                )
+        return bool(inside.all())
 
     @pa.dataframe_check
     def ci_brackets_estimate(cls, df: pd.DataFrame) -> bool:

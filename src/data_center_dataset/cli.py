@@ -95,10 +95,30 @@ def build(
 def build_all(
     refresh: bool = typer.Option(False, help="Bypass caches and re-download."),
     apply_calibration: bool = typer.Option(False, help="See `build --help`."),
+    states: str = typer.Option(
+        "all",
+        "--states",
+        help="Comma-separated state codes to build, or 'all' for every supported state.",
+    ),
+    national: bool = typer.Option(
+        True,
+        "--national/--no-national",
+        help="Also assemble the combined national tables after the per-state builds.",
+    ),
     verbose: bool = typer.Option(False, "--verbose", "-v"),
 ) -> None:
     """Run the full pipeline for every supported state, one after another."""
     _setup_logging(verbose)
+
+    if states.strip().lower() == "all":
+        codes = sorted(STATES)
+    else:
+        codes = [c.strip().upper() for c in states.split(",") if c.strip()]
+        unknown = [c for c in codes if c not in STATES]
+        if unknown:
+            console.print(f"[red]Unknown state code(s): {', '.join(unknown)}[/red]")
+            raise typer.Exit(code=1)
+
     summary = Table(title="All states")
     summary.add_column("State")
     summary.add_column("Facilities", justify="right")
@@ -106,7 +126,9 @@ def build_all(
     summary.add_column("Sum IT MW", justify="right")
     summary.add_column("Within anchor?")
 
-    for code in sorted(STATES):
+    failures: list[str] = []
+
+    for code in codes:
         console.rule(f"[bold]{get_state_profile(code).name} ({code})[/bold]")
         try:
             built = pipeline.run(
@@ -115,6 +137,7 @@ def build_all(
         except Exception as exc:
             console.print(f"[red]{code} failed: {exc}[/red]")
             summary.add_row(code, "-", "-", "-", "ERROR")
+            failures.append(code)
             continue
         fac = built["facilities"]
         recon = built.get("reconciliation") or {}
@@ -128,6 +151,47 @@ def build_all(
 
     console.rule("[bold]Summary[/bold]")
     console.print(summary)
+
+    if national:
+        from . import national as national_mod
+
+        console.rule("[bold]National roll-up[/bold]")
+        try:
+            report = national_mod.build()
+            console.print(
+                f"[green]{report['states_built']} states · "
+                f"{report['facilities']:,} facilities · "
+                f"{report['bottom_up_it_load_mw']:,.0f} MW IT · "
+                f"{report['bottom_up_annual_twh']:,.1f} TWh/yr[/green]"
+            )
+            if report["states_missing"]:
+                console.print(
+                    f"[yellow]no output for: {', '.join(report['states_missing'])}[/yellow]"
+                )
+        except Exception as exc:
+            console.print(f"[red]national roll-up failed: {exc}[/red]")
+
+    if failures:
+        console.print(f"[red]{len(failures)} state(s) failed: {', '.join(failures)}[/red]")
+        raise typer.Exit(code=1)
+
+
+@app.command()
+def national(
+    outdir: str = typer.Option(None, "--outdir", "-o", help="Destination directory."),
+) -> None:
+    """Assemble the combined national tables from the per-state outputs."""
+    from pathlib import Path
+
+    from . import national as national_mod
+
+    report = national_mod.build(Path(outdir) if outdir else None)
+    console.print(
+        f"[green]{report['states_built']} states · "
+        f"{report['facilities']:,} facilities · "
+        f"{report['bottom_up_it_load_mw']:,.0f} MW IT · "
+        f"{report['bottom_up_annual_twh']:,.1f} TWh/yr[/green]"
+    )
 
 
 @app.command()

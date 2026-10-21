@@ -50,12 +50,29 @@ def to_geoframe(df: pd.DataFrame, *, prefer_polygons: bool = True) -> gpd.GeoDat
     return gpd.GeoDataFrame(df.copy(), geometry=geoms, crs=WGS84)
 
 
-def add_footprint_area(df: pd.DataFrame) -> pd.DataFrame:
+def add_footprint_area(df: pd.DataFrame, *, crs: str = EQUAL_AREA_CRS) -> pd.DataFrame:
     """Compute ``footprint_sqm`` / ``footprint_sqft`` from polygon geometry.
 
     Records whose geometry is a point get NaN rather than zero: absence of a
     footprint measurement is not a footprint of zero, and conflating the two
     would silently corrupt the Tier C power model.
+
+    A polygon that is *not* a building also gets NaN, for the same reason.
+    OpenStreetMap maps some data-centre campuses as the site that contains
+    them -- a ``landuse=industrial`` polygon drawn around the whole campus --
+    rather than as building outlines. The site polygon includes the grounds,
+    the parking and any undeveloped land, and it is routinely several times
+    the area of the buildings it contains: measured across the live data, the
+    mapped buildings inside these site polygons cover 2.5% to 68.8% of the
+    site area, with a median of 29.9%. Treating a land parcel as a building
+    footprint multiplies it by the storey count and by the white-space
+    fraction, and so overstates the power estimate by a similar factor. Such a
+    record keeps its location -- the facility is still a real site -- but
+    contributes no footprint, and therefore no Tier C estimate.
+
+    ``crs`` is the equal-area projection to measure in. It defaults to the
+    CONUS Albers; Alaska and Hawaii pass their own, because distances --
+    unlike areas -- are distorted outside that projection's domain.
     """
     out = df.copy()
     has_wkt = out.get("geometry_wkt")
@@ -64,9 +81,22 @@ def add_footprint_area(df: pd.DataFrame) -> pd.DataFrame:
         out["footprint_sqft"] = pd.NA
         return out
 
+    # A record only qualifies for a footprint if its polygon is a building.
+    # Only OSM supplies polygons, and it always sets the flag, so the gate is
+    # effectively "OSM element with a ``building`` tag". A frame that predates
+    # the flag entirely is left alone rather than silently zeroed.
+    is_building = out.get("is_building")
+    if is_building is None:
+        eligible = pd.Series(True, index=out.index)
+    else:
+        eligible = is_building.fillna(False).astype(bool)
+
     gdf = to_geoframe(out)
-    projected = gdf.to_crs(EQUAL_AREA_CRS)
-    is_poly = projected.geometry.geom_type.isin(["Polygon", "MultiPolygon"])
+    projected = gdf.to_crs(crs)
+    is_poly = (
+        projected.geometry.geom_type.isin(["Polygon", "MultiPolygon"])
+        & eligible
+    )
 
     areas = pd.Series(pd.NA, index=out.index, dtype="Float64")
     areas.loc[is_poly.values] = projected.loc[is_poly, "geometry"].area.values

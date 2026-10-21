@@ -47,6 +47,7 @@ def ingested() -> dict:
                     "year_built": 2016,
                     "building_levels": 2,
                     "geometry_wkt": _square(-121.9500, 37.4000),
+                    "is_building": True,
                 },
                 {
                     "source": "peeringdb",

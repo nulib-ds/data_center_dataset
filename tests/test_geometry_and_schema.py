@@ -38,6 +38,7 @@ def test_footprint_area_uses_an_equal_area_projection():
                     "lat": 37.38,
                     "lon": -121.98,
                     "geometry_wkt": _square_wkt(-121.98, 37.38, 0.001),
+                    "is_building": True,
                 }
             ]
         )
@@ -46,6 +47,43 @@ def test_footprint_area_uses_an_equal_area_projection():
     area = float(out.footprint_sqm.iloc[0])
     assert 8_000 < area < 12_000, f"implausible area {area}"
     assert out.footprint_sqft.iloc[0] == pytest.approx(area / 0.09290304)
+
+
+def test_site_polygon_is_not_treated_as_a_building():
+    """A polygon without a ``building`` tag is a site, not a building.
+
+    OpenStreetMap sometimes maps a data-centre campus as the
+    ``landuse=industrial`` parcel that surrounds it. That parcel is several
+    times the area of the buildings it contains, so counting it as a
+    footprint would multiply the Tier C power estimate by the same factor.
+    """
+    df = conform_source_frame(
+        pd.DataFrame(
+            [
+                {
+                    "source": "osm",
+                    "source_id": "way/1",
+                    "name": "Campus site polygon",
+                    "lat": 37.38,
+                    "lon": -121.98,
+                    "geometry_wkt": _square_wkt(-121.98, 37.38, 0.01),
+                    "is_building": False,
+                },
+                {
+                    "source": "osm",
+                    "source_id": "way/2",
+                    "name": "Actual building",
+                    "lat": 37.39,
+                    "lon": -121.99,
+                    "geometry_wkt": _square_wkt(-121.99, 37.39, 0.001),
+                    "is_building": True,
+                },
+            ]
+        )
+    )
+    out = geometry.add_footprint_area(df)
+    assert pd.isna(out.loc[out.name == "Campus site polygon", "footprint_sqm"].iloc[0])
+    assert out.loc[out.name == "Actual building", "footprint_sqm"].iloc[0] > 0
 
 
 def test_point_only_records_get_null_area_not_zero():
@@ -68,6 +106,7 @@ def test_point_only_records_get_null_area_not_zero():
                     "lat": 37.40,
                     "lon": -122.00,
                     "geometry_wkt": _square_wkt(-122.00, 37.40, 0.001),
+                    "is_building": True,
                 },
             ]
         )
@@ -90,33 +129,61 @@ def test_gross_area_multiplies_by_storeys():
     assert out.est_gross_sqft.tolist() == [30_000.0, 10_000.0, 10_000.0]
 
 
+def _row(facility_id: str, lat: float, lon: float) -> dict:
+    return {
+        "facility_id": facility_id,
+        "name": "Somewhere",
+        "operator": "X",
+        "lat": lat,
+        "lon": lon,
+        "footprint_sqft": None,
+        "est_white_space_sqft": None,
+        "best_power_mw": None,
+        "power_ci_low_mw": None,
+        "power_ci_high_mw": None,
+        "power_tier": None,
+        "est_annual_gwh": None,
+        "n_sources": 1,
+    }
+
+
 def test_facility_schema_rejects_coordinates_outside_conus():
-    """The schema now only enforces a loose CONUS safety net (see CONUS_BBOX);
-    the tight per-state boundary lives in ``classify.apply``'s ``bbox`` param.
-    North Carolina is inside CONUS, so it would no longer trip this check --
-    use a coordinate genuinely outside the continental US instead.
+    """Coordinates must land inside *some* US state.
+
+    The check is against the union of the per-state boxes rather than one
+    CONUS box, because a box wide enough to contain Alaska also contains
+    London. The tight per-state boundary lives in ``classify.apply``'s
+    ``bbox`` param.
     """
-    df = pd.DataFrame(
-        [
-            {
-                "facility_id": "bad",
-                "name": "Somewhere else",
-                "operator": "X",
-                "lat": 51.50,
-                "lon": -0.12,  # London, well outside CONUS_BBOX
-                "footprint_sqft": None,
-                "est_white_space_sqft": None,
-                "best_power_mw": None,
-                "power_ci_low_mw": None,
-                "power_ci_high_mw": None,
-                "power_tier": None,
-                "est_annual_gwh": None,
-                "n_sources": 1,
-            }
-        ]
-    )
+    df = pd.DataFrame([_row("bad", 51.50, -0.12)])  # London
     with pytest.raises(Exception):
         FacilitySchema.validate(df)
+
+
+def test_facility_schema_rejects_tokyo_and_open_ocean():
+    """Places that are not in any state are rejected, not just London."""
+    for name, lat, lon in [
+        ("tokyo", 35.68, 139.69),
+        ("mid_atlantic", 30.0, -40.0),
+        ("canada", 49.28, -123.12),
+    ]:
+        with pytest.raises(Exception):
+            FacilitySchema.validate(pd.DataFrame([_row("bad", lat, lon)]))
+
+
+def test_facility_schema_accepts_alaska_and_hawaii():
+    """The out-of-CONUS states are inside their own boxes, so they pass.
+
+    Alaska's Aleutian tail crosses the antimeridian; folding it into a
+    single (minx, maxx) pair would make the box cover the whole world.
+    """
+    for name, lat, lon in [
+        ("anchorage", 61.22, -149.90),
+        ("fairbanks", 64.84, -147.72),
+        ("honolulu", 21.31, -157.86),
+        ("attu_ak", 52.89, 172.97),
+    ]:
+        FacilitySchema.validate(pd.DataFrame([_row("ok", lat, lon)]))
 
 
 def test_facility_schema_requires_estimate_inside_its_interval():
